@@ -1,0 +1,8400 @@
+[
+ {
+  "method": "dense",
+  "question_id": "d01",
+  "question": "In Kant's second main test of a moral rule, how must we treat other people, and ourselves?",
+  "filter": null,
+  "hit_rank": 2,
+  "latency_ms": 89.1,
+  "results": [
+   {
+    "rank": 1,
+    "id": "para:phil:p0329:05",
+    "page": 329,
+    "source_id": "phil",
+    "score": 0.705691
+   },
+   {
+    "rank": 2,
+    "id": "para:phil:p0291:03",
+    "page": 291,
+    "source_id": "phil",
+    "score": 0.70287
+   },
+   {
+    "rank": 3,
+    "id": "para:phil:p0291:04",
+    "page": 291,
+    "source_id": "phil",
+    "score": 0.679367
+   },
+   {
+    "rank": 4,
+    "id": "para:phil:p0289:05",
+    "page": 289,
+    "source_id": "phil",
+    "score": 0.667652
+   },
+   {
+    "rank": 5,
+    "id": "para:phil:p0290:01",
+    "page": 290,
+    "source_id": "phil",
+    "score": 0.660084
+   },
+   {
+    "rank": 6,
+    "id": "para:phil:p0290:00",
+    "page": 290,
+    "source_id": "phil",
+    "score": 0.644734
+   },
+   {
+    "rank": 7,
+    "id": "para:phil:p0292:01",
+    "page": 292,
+    "source_id": "phil",
+    "score": 0.621234
+   },
+   {
+    "rank": 8,
+    "id": "para:phil:p0330:00",
+    "page": 330,
+    "source_id": "phil",
+    "score": 0.616152
+   },
+   {
+    "rank": 9,
+    "id": "para:phil:p0291:01",
+    "page": 291,
+    "source_id": "phil",
+    "score": 0.613594
+   },
+   {
+    "rank": 10,
+    "id": "para:phil:p0288:04",
+    "page": 288,
+    "source_id": "phil",
+    "score": 0.60717
+   }
+  ]
+ },
+ {
+  "method": "dense",
+  "question_id": "d02",
+  "question": "Which kind of euthanasia does the utilitarian philosopher Peter Singer still reject, and how is it defined?",
+  "filter": null,
+  "hit_rank": 1,
+  "latency_ms": 103.5,
+  "results": [
+   {
+    "rank": 1,
+    "id": "para:phil:p0326:03",
+    "page": 326,
+    "source_id": "phil",
+    "score": 0.830993
+   },
+   {
+    "rank": 2,
+    "id": "para:phil:p0326:02",
+    "page": 326,
+    "source_id": "phil",
+    "score": 0.642619
+   },
+   {
+    "rank": 3,
+    "id": "para:phil:p0326:04",
+    "page": 326,
+    "source_id": "phil",
+    "score": 0.63358
+   },
+   {
+    "rank": 4,
+    "id": "para:phil:p0326:05",
+    "page": 326,
+    "source_id": "phil",
+    "score": 0.625285
+   },
+   {
+    "rank": 5,
+    "id": "para:phil:p0325:03",
+    "page": 325,
+    "source_id": "phil",
+    "score": 0.605926
+   },
+   {
+    "rank": 6,
+    "id": "para:phil:p0326:01",
+    "page": 326,
+    "source_id": "phil",
+    "score": 0.604292
+   },
+   {
+    "rank": 7,
+    "id": "para:phil:p0327:00",
+    "page": 327,
+    "source_id": "phil",
+    "score": 0.601222
+   },
+   {
+    "rank": 8,
+    "id": "para:phil:p0325:02",
+    "page": 325,
+    "source_id": "phil",
+    "score": 0.593757
+   },
+   {
+    "rank": 9,
+    "id": "para:phil:p0326:00",
+    "page": 326,
+    "source_id": "phil",
+    "score": 0.591171
+   },
+   {
+    "rank": 10,
+    "id": "para:phil:p0321:03",
+    "page": 321,
+    "source_id": "phil",
+    "score": 0.570693
+   }
+  ]
+ },
+ {
+  "method": "dense",
+  "question_id": "d03",
+  "question": "Which ethical principle does informed consent protect for people who take part in a clinical trial?",
+  "filter": null,
+  "hit_rank": 1,
+  "latency_ms": 71.1,
+  "results": [
+   {
+    "rank": 1,
+    "id": "para:phil:p0328:01",
+    "page": 328,
+    "source_id": "phil",
+    "score": 0.793158
+   },
+   {
+    "rank": 2,
+    "id": "para:phil:p0330:00",
+    "page": 330,
+    "source_id": "phil",
+    "score": 0.722328
+   },
+   {
+    "rank": 3,
+    "id": "para:phil:p0327:04",
+    "page": 327,
+    "source_id": "phil",
+    "score": 0.721352
+   },
+   {
+    "rank": 4,
+    "id": "para:phil:p0328:04",
+    "page": 328,
+    "source_id": "phil",
+    "score": 0.710951
+   },
+   {
+    "rank": 5,
+    "id": "para:phil:p0328:05",
+    "page": 328,
+    "source_id": "phil",
+    "score": 0.708618
+   },
+   {
+    "rank": 6,
+    "id": "para:phil:p0328:03",
+    "page": 328,
+    "source_id": "phil",
+    "score": 0.698929
+   },
+   {
+    "rank": 7,
+    "id": "para:phil:p0327:01",
+    "page": 327,
+    "source_id": "phil",
+    "score": 0.696663
+   },
+   {
+    "rank": 8,
+    "id": "para:phil:p0329:04",
+    "page": 329,
+    "source_id": "phil",
+    "score": 0.692771
+   },
+   {
+    "rank": 9,
+    "id": "para:phil:p0329:05",
+    "page": 329,
+    "source_id": "phil",
+    "score": 0.692522
+   },
+   {
+    "rank": 10,
+    "id": "para:phil:p0329:02",
+    "page": 329,
+    "source_id": "phil",
+    "score": 0.692453
+   }
+  ]
+ },
+ {
+  "method": "dense",
+  "question_id": "d04",
+  "question": "Who introduced the term deep ecology, and what does this view assume about living things?",
+  "filter": null,
+  "hit_rank": 1,
+  "latency_ms": 73.1,
+  "results": [
+   {
+    "rank": 1,
+    "id": "para:phil:p0337:02",
+    "page": 337,
+    "source_id": "phil",
+    "score": 0.742203
+   },
+   {
+    "rank": 2,
+    "id": "para:phil:p0337:03",
+    "page": 337,
+    "source_id": "phil",
+    "score": 0.700557
+   },
+   {
+    "rank": 3,
+    "id": "para:phil:p0337:04",
+    "page": 337,
+    "source_id": "phil",
+    "score": 0.658701
+   },
+   {
+    "rank": 4,
+    "id": "para:phil:p0337:05",
+    "page": 337,
+    "source_id": "phil",
+    "score": 0.600087
+   },
+   {
+    "rank": 5,
+    "id": "para:phil:p0336:02",
+    "page": 336,
+    "source_id": "phil",
+    "score": 0.572247
+   },
+   {
+    "rank": 6,
+    "id": "para:phil:p0336:03",
+    "page": 336,
+    "source_id": "phil",
+    "score": 0.552226
+   },
+   {
+    "rank": 7,
+    "id": "para:phil:p0333:03",
+    "page": 333,
+    "source_id": "phil",
+    "score": 0.548709
+   },
+   {
+    "rank": 8,
+    "id": "para:phil:p0336:01",
+    "page": 336,
+    "source_id": "phil",
+    "score": 0.532419
+   },
+   {
+    "rank": 9,
+    "id": "para:phil:p0336:05",
+    "page": 336,
+    "source_id": "phil",
+    "score": 0.526316
+   },
+   {
+    "rank": 10,
+    "id": "para:phil:p0320:04",
+    "page": 320,
+    "source_id": "phil",
+    "score": 0.517866
+   }
+  ]
+ },
+ {
+  "method": "dense",
+  "question_id": "d05",
+  "question": "What protection do workers have against employer punishment if they complain to the workplace safety agency about hazards?",
+  "filter": null,
+  "hit_rank": 1,
+  "latency_ms": 72.0,
+  "results": [
+   {
+    "rank": 1,
+    "id": "para:bizethics:p0158:01",
+    "page": 158,
+    "source_id": "bizethics",
+    "score": 0.669066
+   },
+   {
+    "rank": 2,
+    "id": "para:bizlaw:p0098:01",
+    "page": 98,
+    "source_id": "bizlaw",
+    "score": 0.630811
+   },
+   {
+    "rank": 3,
+    "id": "para:bizethics:p0211:06",
+    "page": 211,
+    "source_id": "bizethics",
+    "score": 0.619209
+   },
+   {
+    "rank": 4,
+    "id": "para:bizlaw:p0099:00",
+    "page": 99,
+    "source_id": "bizlaw",
+    "score": 0.618297
+   },
+   {
+    "rank": 5,
+    "id": "para:bizethics:p0159:01",
+    "page": 159,
+    "source_id": "bizethics",
+    "score": 0.617605
+   },
+   {
+    "rank": 6,
+    "id": "para:bizethics:p0157:04",
+    "page": 157,
+    "source_id": "bizethics",
+    "score": 0.615955
+   },
+   {
+    "rank": 7,
+    "id": "para:bizlaw:p0098:03",
+    "page": 98,
+    "source_id": "bizlaw",
+    "score": 0.605512
+   },
+   {
+    "rank": 8,
+    "id": "para:phil:p0341:01",
+    "page": 341,
+    "source_id": "phil",
+    "score": 0.598625
+   },
+   {
+    "rank": 9,
+    "id": "para:bizlaw:p0098:02",
+    "page": 98,
+    "source_id": "bizlaw",
+    "score": 0.59648
+   },
+   {
+    "rank": 10,
+    "id": "para:bizlaw:p0099:01",
+    "page": 99,
+    "source_id": "bizlaw",
+    "score": 0.587593
+   }
+  ]
+ },
+ {
+  "method": "dense",
+  "question_id": "d06",
+  "question": "When a coworker rather than a supervisor harasses someone, at what point does the company become liable?",
+  "filter": null,
+  "hit_rank": 1,
+  "latency_ms": 75.3,
+  "results": [
+   {
+    "rank": 1,
+    "id": "para:bizethics:p0159:04",
+    "page": 159,
+    "source_id": "bizethics",
+    "score": 0.754227
+   },
+   {
+    "rank": 2,
+    "id": "para:bizethics:p0159:05",
+    "page": 159,
+    "source_id": "bizethics",
+    "score": 0.672351
+   },
+   {
+    "rank": 3,
+    "id": "para:bizethics:p0204:01",
+    "page": 204,
+    "source_id": "bizethics",
+    "score": 0.635366
+   },
+   {
+    "rank": 4,
+    "id": "para:bizethics:p0199:04",
+    "page": 199,
+    "source_id": "bizethics",
+    "score": 0.632665
+   },
+   {
+    "rank": 5,
+    "id": "para:bizethics:p0211:04",
+    "page": 211,
+    "source_id": "bizethics",
+    "score": 0.621628
+   },
+   {
+    "rank": 6,
+    "id": "para:bizethics:p0202:03",
+    "page": 202,
+    "source_id": "bizethics",
+    "score": 0.619786
+   },
+   {
+    "rank": 7,
+    "id": "para:bizethics:p0160:02",
+    "page": 160,
+    "source_id": "bizethics",
+    "score": 0.616061
+   },
+   {
+    "rank": 8,
+    "id": "para:bizethics:p0202:02",
+    "page": 202,
+    "source_id": "bizethics",
+    "score": 0.615781
+   },
+   {
+    "rank": 9,
+    "id": "para:bizethics:p0189:03",
+    "page": 189,
+    "source_id": "bizethics",
+    "score": 0.611977
+   },
+   {
+    "rank": 10,
+    "id": "para:bizethics:p0212:03",
+    "page": 212,
+    "source_id": "bizethics",
+    "score": 0.611644
+   }
+  ]
+ },
+ {
+  "method": "dense",
+  "question_id": "d07",
+  "question": "Before an employee takes suspected wrongdoing by the employer to a government agency, which step should they usually try first?",
+  "filter": null,
+  "hit_rank": 1,
+  "latency_ms": 75.0,
+  "results": [
+   {
+    "rank": 1,
+    "id": "para:bizethics:p0211:05",
+    "page": 211,
+    "source_id": "bizethics",
+    "score": 0.707666
+   },
+   {
+    "rank": 2,
+    "id": "para:bizethics:p0206:04",
+    "page": 206,
+    "source_id": "bizethics",
+    "score": 0.633202
+   },
+   {
+    "rank": 3,
+    "id": "para:bizethics:p0182:01",
+    "page": 182,
+    "source_id": "bizethics",
+    "score": 0.625497
+   },
+   {
+    "rank": 4,
+    "id": "para:bizethics:p0211:03",
+    "page": 211,
+    "source_id": "bizethics",
+    "score": 0.605109
+   },
+   {
+    "rank": 5,
+    "id": "para:bizethics:p0181:05",
+    "page": 181,
+    "source_id": "bizethics",
+    "score": 0.600018
+   },
+   {
+    "rank": 6,
+    "id": "para:bizethics:p0208:02",
+    "page": 208,
+    "source_id": "bizethics",
+    "score": 0.598901
+   },
+   {
+    "rank": 7,
+    "id": "para:bizlaw:p0099:00",
+    "page": 99,
+    "source_id": "bizlaw",
+    "score": 0.593795
+   },
+   {
+    "rank": 8,
+    "id": "para:bizethics:p0211:04",
+    "page": 211,
+    "source_id": "bizethics",
+    "score": 0.592918
+   },
+   {
+    "rank": 9,
+    "id": "para:bizethics:p0190:05",
+    "page": 190,
+    "source_id": "bizethics",
+    "score": 0.592421
+   },
+   {
+    "rank": 10,
+    "id": "para:bizethics:p0206:02",
+    "page": 206,
+    "source_id": "bizethics",
+    "score": 0.588153
+   }
+  ]
+ },
+ {
+  "method": "dense",
+  "question_id": "d08",
+  "question": "In California, can an employer enforce an agreement that stops a former employee from working elsewhere after leaving?",
+  "filter": null,
+  "hit_rank": 1,
+  "latency_ms": 84.8,
+  "results": [
+   {
+    "rank": 1,
+    "id": "para:bizethics:p0195:00",
+    "page": 195,
+    "source_id": "bizethics",
+    "score": 0.7485
+   },
+   {
+    "rank": 2,
+    "id": "para:bizethics:p0195:04",
+    "page": 195,
+    "source_id": "bizethics",
+    "score": 0.664822
+   },
+   {
+    "rank": 3,
+    "id": "para:bizethics:p0195:01",
+    "page": 195,
+    "source_id": "bizethics",
+    "score": 0.654012
+   },
+   {
+    "rank": 4,
+    "id": "para:bizethics:p0196:00",
+    "page": 196,
+    "source_id": "bizethics",
+    "score": 0.641511
+   },
+   {
+    "rank": 5,
+    "id": "para:bizethics:p0195:02",
+    "page": 195,
+    "source_id": "bizethics",
+    "score": 0.622794
+   },
+   {
+    "rank": 6,
+    "id": "para:bizethics:p0209:03",
+    "page": 209,
+    "source_id": "bizethics",
+    "score": 0.618734
+   },
+   {
+    "rank": 7,
+    "id": "para:bizethics:p0195:03",
+    "page": 195,
+    "source_id": "bizethics",
+    "score": 0.611845
+   },
+   {
+    "rank": 8,
+    "id": "para:bizlaw:p0097:03",
+    "page": 97,
+    "source_id": "bizlaw",
+    "score": 0.610956
+   },
+   {
+    "rank": 9,
+    "id": "para:bizethics:p0194:03",
+    "page": 194,
+    "source_id": "bizethics",
+    "score": 0.597487
+   },
+   {
+    "rank": 10,
+    "id": "para:bizlaw:p0102:01",
+    "page": 102,
+    "source_id": "bizlaw",
+    "score": 0.596581
+   }
+  ]
+ },
+ {
+  "method": "dense",
+  "question_id": "d09",
+  "question": "What kind of damages are normally awarded when someone relied on a broken promise that lacked consideration, and which kind is usually unavailable?",
+  "filter": null,
+  "hit_rank": 1,
+  "latency_ms": 89.3,
+  "results": [
+   {
+    "rank": 1,
+    "id": "para:bizlaw:p0081:01",
+    "page": 81,
+    "source_id": "bizlaw",
+    "score": 0.687495
+   },
+   {
+    "rank": 2,
+    "id": "para:bizlaw:p0081:03",
+    "page": 81,
+    "source_id": "bizlaw",
+    "score": 0.640423
+   },
+   {
+    "rank": 3,
+    "id": "para:bizlaw:p0081:00",
+    "page": 81,
+    "source_id": "bizlaw",
+    "score": 0.633703
+   },
+   {
+    "rank": 4,
+    "id": "para:bizlaw:p0084:00",
+    "page": 84,
+    "source_id": "bizlaw",
+    "score": 0.612859
+   },
+   {
+    "rank": 5,
+    "id": "para:bizlaw:p0070:01",
+    "page": 70,
+    "source_id": "bizlaw",
+    "score": 0.598599
+   },
+   {
+    "rank": 6,
+    "id": "para:bizlaw:p0083:02",
+    "page": 83,
+    "source_id": "bizlaw",
+    "score": 0.594052
+   },
+   {
+    "rank": 7,
+    "id": "para:bizlaw:p0074:03",
+    "page": 74,
+    "source_id": "bizlaw",
+    "score": 0.591573
+   },
+   {
+    "rank": 8,
+    "id": "para:bizlaw:p0084:01",
+    "page": 84,
+    "source_id": "bizlaw",
+    "score": 0.584571
+   },
+   {
+    "rank": 9,
+    "id": "para:bizlaw:p0070:03",
+    "page": 70,
+    "source_id": "bizlaw",
+    "score": 0.58389
+   },
+   {
+    "rank": 10,
+    "id": "para:bizlaw:p0083:05",
+    "page": 83,
+    "source_id": "bizlaw",
+    "score": 0.5813
+   }
+  ]
+ },
+ {
+  "method": "dense",
+  "question_id": "d10",
+  "question": "Can someone under 18 who signed a contract cancel it, and are there contracts they cannot cancel?",
+  "filter": null,
+  "hit_rank": 1,
+  "latency_ms": 75.2,
+  "results": [
+   {
+    "rank": 1,
+    "id": "para:bizlaw:p0082:00",
+    "page": 82,
+    "source_id": "bizlaw",
+    "score": 0.756005
+   },
+   {
+    "rank": 2,
+    "id": "para:bizlaw:p0081:04",
+    "page": 81,
+    "source_id": "bizlaw",
+    "score": 0.636439
+   },
+   {
+    "rank": 3,
+    "id": "para:bizlaw:p0080:01",
+    "page": 80,
+    "source_id": "bizlaw",
+    "score": 0.626664
+   },
+   {
+    "rank": 4,
+    "id": "para:bizlaw:p0082:03",
+    "page": 82,
+    "source_id": "bizlaw",
+    "score": 0.559272
+   },
+   {
+    "rank": 5,
+    "id": "para:bizlaw:p0083:00",
+    "page": 83,
+    "source_id": "bizlaw",
+    "score": 0.546303
+   },
+   {
+    "rank": 6,
+    "id": "para:bizlaw:p0083:01",
+    "page": 83,
+    "source_id": "bizlaw",
+    "score": 0.546184
+   },
+   {
+    "rank": 7,
+    "id": "para:bizlaw:p0082:01",
+    "page": 82,
+    "source_id": "bizlaw",
+    "score": 0.543732
+   },
+   {
+    "rank": 8,
+    "id": "para:bizethics:p0195:00",
+    "page": 195,
+    "source_id": "bizethics",
+    "score": 0.541381
+   },
+   {
+    "rank": 9,
+    "id": "para:bizlaw:p0080:00",
+    "page": 80,
+    "source_id": "bizlaw",
+    "score": 0.540594
+   },
+   {
+    "rank": 10,
+    "id": "para:bizlaw:p0079:03",
+    "page": 79,
+    "source_id": "bizlaw",
+    "score": 0.535665
+   }
+  ]
+ },
+ {
+  "method": "dense",
+  "question_id": "d11",
+  "question": "How much unpaid leave may eligible workers take for family or medical emergencies, and which employers does that law cover?",
+  "filter": null,
+  "hit_rank": 1,
+  "latency_ms": 92.9,
+  "results": [
+   {
+    "rank": 1,
+    "id": "para:bizlaw:p0100:01",
+    "page": 100,
+    "source_id": "bizlaw",
+    "score": 0.772587
+   },
+   {
+    "rank": 2,
+    "id": "para:bizlaw:p0100:02",
+    "page": 100,
+    "source_id": "bizlaw",
+    "score": 0.607573
+   },
+   {
+    "rank": 3,
+    "id": "para:bizlaw:p0100:04",
+    "page": 100,
+    "source_id": "bizlaw",
+    "score": 0.595181
+   },
+   {
+    "rank": 4,
+    "id": "para:bizlaw:p0100:03",
+    "page": 100,
+    "source_id": "bizlaw",
+    "score": 0.586629
+   },
+   {
+    "rank": 5,
+    "id": "para:bizethics:p0180:00",
+    "page": 180,
+    "source_id": "bizethics",
+    "score": 0.578721
+   },
+   {
+    "rank": 6,
+    "id": "para:bizlaw:p0101:00",
+    "page": 101,
+    "source_id": "bizlaw",
+    "score": 0.575155
+   },
+   {
+    "rank": 7,
+    "id": "para:bizlaw:p0097:03",
+    "page": 97,
+    "source_id": "bizlaw",
+    "score": 0.573828
+   },
+   {
+    "rank": 8,
+    "id": "para:bizlaw:p0103:03",
+    "page": 103,
+    "source_id": "bizlaw",
+    "score": 0.573124
+   },
+   {
+    "rank": 9,
+    "id": "para:bizlaw:p0100:05",
+    "page": 100,
+    "source_id": "bizlaw",
+    "score": 0.57158
+   },
+   {
+    "rank": 10,
+    "id": "para:bizlaw:p0099:00",
+    "page": 99,
+    "source_id": "bizlaw",
+    "score": 0.567157
+   }
+  ]
+ },
+ {
+  "method": "dense",
+  "question_id": "d12",
+  "question": "Which workers fall outside the federal workplace safety law's protection?",
+  "filter": null,
+  "hit_rank": 5,
+  "latency_ms": 69.1,
+  "results": [
+   {
+    "rank": 1,
+    "id": "para:bizethics:p0157:04",
+    "page": 157,
+    "source_id": "bizethics",
+    "score": 0.627194
+   },
+   {
+    "rank": 2,
+    "id": "para:bizethics:p0211:06",
+    "page": 211,
+    "source_id": "bizethics",
+    "score": 0.604846
+   },
+   {
+    "rank": 3,
+    "id": "para:bizethics:p0159:00",
+    "page": 159,
+    "source_id": "bizethics",
+    "score": 0.597674
+   },
+   {
+    "rank": 4,
+    "id": "para:bizethics:p0158:00",
+    "page": 158,
+    "source_id": "bizethics",
+    "score": 0.591168
+   },
+   {
+    "rank": 5,
+    "id": "para:bizlaw:p0098:01",
+    "page": 98,
+    "source_id": "bizlaw",
+    "score": 0.582474
+   },
+   {
+    "rank": 6,
+    "id": "para:phil:p0341:00",
+    "page": 341,
+    "source_id": "phil",
+    "score": 0.578593
+   },
+   {
+    "rank": 7,
+    "id": "para:phil:p0340:03",
+    "page": 340,
+    "source_id": "phil",
+    "score": 0.574826
+   },
+   {
+    "rank": 8,
+    "id": "para:bizethics:p0158:02",
+    "page": 158,
+    "source_id": "bizethics",
+    "score": 0.573254
+   },
+   {
+    "rank": 9,
+    "id": "para:bizethics:p0209:03",
+    "page": 209,
+    "source_id": "bizethics",
+    "score": 0.568563
+   },
+   {
+    "rank": 10,
+    "id": "para:bizethics:p0212:00",
+    "page": 212,
+    "source_id": "bizethics",
+    "score": 0.565216
+   }
+  ]
+ },
+ {
+  "method": "dense",
+  "question_id": "d13",
+  "question": "How many employees must a business have before the main federal law against workplace discrimination based on race, sex, religion, color or national origin applies to it?",
+  "filter": null,
+  "hit_rank": 1,
+  "latency_ms": 77.2,
+  "results": [
+   {
+    "rank": 1,
+    "id": "para:bizlaw:p0104:03",
+    "page": 104,
+    "source_id": "bizlaw",
+    "score": 0.670767
+   },
+   {
+    "rank": 2,
+    "id": "para:bizlaw:p0106:00",
+    "page": 106,
+    "source_id": "bizlaw",
+    "score": 0.670238
+   },
+   {
+    "rank": 3,
+    "id": "para:bizlaw:p0104:02",
+    "page": 104,
+    "source_id": "bizlaw",
+    "score": 0.655401
+   },
+   {
+    "rank": 4,
+    "id": "para:bizethics:p0159:02",
+    "page": 159,
+    "source_id": "bizethics",
+    "score": 0.654641
+   },
+   {
+    "rank": 5,
+    "id": "para:bizlaw:p0104:04",
+    "page": 104,
+    "source_id": "bizlaw",
+    "score": 0.648762
+   },
+   {
+    "rank": 6,
+    "id": "para:bizlaw:p0106:02",
+    "page": 106,
+    "source_id": "bizlaw",
+    "score": 0.62739
+   },
+   {
+    "rank": 7,
+    "id": "para:bizlaw:p0108:01",
+    "page": 108,
+    "source_id": "bizlaw",
+    "score": 0.626794
+   },
+   {
+    "rank": 8,
+    "id": "para:bizlaw:p0107:03",
+    "page": 107,
+    "source_id": "bizlaw",
+    "score": 0.621099
+   },
+   {
+    "rank": 9,
+    "id": "para:bizethics:p0211:00",
+    "page": 211,
+    "source_id": "bizethics",
+    "score": 0.615107
+   },
+   {
+    "rank": 10,
+    "id": "para:bizlaw:p0107:00",
+    "page": 107,
+    "source_id": "bizlaw",
+    "score": 0.611551
+   }
+  ]
+ },
+ {
+  "method": "dense",
+  "question_id": "d14",
+  "question": "Even after an injured employee receives workplace-injury compensation, in what situation can they still take the employer to court?",
+  "filter": null,
+  "hit_rank": 1,
+  "latency_ms": 80.6,
+  "results": [
+   {
+    "rank": 1,
+    "id": "para:bizlaw:p0099:01",
+    "page": 99,
+    "source_id": "bizlaw",
+    "score": 0.711805
+   },
+   {
+    "rank": 2,
+    "id": "para:bizlaw:p0099:00",
+    "page": 99,
+    "source_id": "bizlaw",
+    "score": 0.637581
+   },
+   {
+    "rank": 3,
+    "id": "para:bizethics:p0199:04",
+    "page": 199,
+    "source_id": "bizethics",
+    "score": 0.609241
+   },
+   {
+    "rank": 4,
+    "id": "para:bizlaw:p0105:00",
+    "page": 105,
+    "source_id": "bizlaw",
+    "score": 0.608617
+   },
+   {
+    "rank": 5,
+    "id": "para:bizlaw:p0097:03",
+    "page": 97,
+    "source_id": "bizlaw",
+    "score": 0.603873
+   },
+   {
+    "rank": 6,
+    "id": "para:bizethics:p0195:00",
+    "page": 195,
+    "source_id": "bizethics",
+    "score": 0.603709
+   },
+   {
+    "rank": 7,
+    "id": "para:bizlaw:p0068:02",
+    "page": 68,
+    "source_id": "bizlaw",
+    "score": 0.60317
+   },
+   {
+    "rank": 8,
+    "id": "para:bizlaw:p0099:02",
+    "page": 99,
+    "source_id": "bizlaw",
+    "score": 0.599672
+   },
+   {
+    "rank": 9,
+    "id": "para:bizlaw:p0107:04",
+    "page": 107,
+    "source_id": "bizlaw",
+    "score": 0.593199
+   },
+   {
+    "rank": 10,
+    "id": "para:bizethics:p0159:01",
+    "page": 159,
+    "source_id": "bizethics",
+    "score": 0.591881
+   }
+  ]
+ },
+ {
+  "method": "dense",
+  "question_id": "d15",
+  "question": "What development in 2012 made most policies forbidding employees from discussing their salaries unenforceable?",
+  "filter": null,
+  "hit_rank": 3,
+  "latency_ms": 73.9,
+  "results": [
+   {
+    "rank": 1,
+    "id": "para:bizethics:p0209:04",
+    "page": 209,
+    "source_id": "bizethics",
+    "score": 0.686455
+   },
+   {
+    "rank": 2,
+    "id": "para:bizethics:p0209:02",
+    "page": 209,
+    "source_id": "bizethics",
+    "score": 0.660273
+   },
+   {
+    "rank": 3,
+    "id": "para:bizethics:p0209:03",
+    "page": 209,
+    "source_id": "bizethics",
+    "score": 0.64276
+   },
+   {
+    "rank": 4,
+    "id": "para:bizethics:p0170:03",
+    "page": 170,
+    "source_id": "bizethics",
+    "score": 0.574567
+   },
+   {
+    "rank": 5,
+    "id": "para:bizethics:p0169:04",
+    "page": 169,
+    "source_id": "bizethics",
+    "score": 0.562107
+   },
+   {
+    "rank": 6,
+    "id": "para:bizethics:p0211:02",
+    "page": 211,
+    "source_id": "bizethics",
+    "score": 0.557313
+   },
+   {
+    "rank": 7,
+    "id": "para:bizethics:p0170:02",
+    "page": 170,
+    "source_id": "bizethics",
+    "score": 0.555238
+   },
+   {
+    "rank": 8,
+    "id": "para:bizethics:p0209:05",
+    "page": 209,
+    "source_id": "bizethics",
+    "score": 0.548609
+   },
+   {
+    "rank": 9,
+    "id": "para:bizethics:p0168:04",
+    "page": 168,
+    "source_id": "bizethics",
+    "score": 0.54729
+   },
+   {
+    "rank": 10,
+    "id": "para:bizethics:p0210:02",
+    "page": 210,
+    "source_id": "bizethics",
+    "score": 0.545353
+   }
+  ]
+ },
+ {
+  "method": "dense",
+  "question_id": "d16",
+  "question": "Which two exceptions weaken the federal law that appears to bar employers from monitoring employees' communications?",
+  "filter": null,
+  "hit_rank": 1,
+  "latency_ms": 60.8,
+  "results": [
+   {
+    "rank": 1,
+    "id": "para:bizethics:p0179:02",
+    "page": 179,
+    "source_id": "bizethics",
+    "score": 0.730272
+   },
+   {
+    "rank": 2,
+    "id": "para:bizethics:p0180:00",
+    "page": 180,
+    "source_id": "bizethics",
+    "score": 0.685526
+   },
+   {
+    "rank": 3,
+    "id": "para:bizethics:p0179:01",
+    "page": 179,
+    "source_id": "bizethics",
+    "score": 0.675765
+   },
+   {
+    "rank": 4,
+    "id": "para:bizethics:p0180:02",
+    "page": 180,
+    "source_id": "bizethics",
+    "score": 0.663554
+   },
+   {
+    "rank": 5,
+    "id": "para:bizethics:p0211:02",
+    "page": 211,
+    "source_id": "bizethics",
+    "score": 0.643633
+   },
+   {
+    "rank": 6,
+    "id": "para:bizethics:p0181:01",
+    "page": 181,
+    "source_id": "bizethics",
+    "score": 0.639333
+   },
+   {
+    "rank": 7,
+    "id": "para:bizethics:p0179:05",
+    "page": 179,
+    "source_id": "bizethics",
+    "score": 0.638138
+   },
+   {
+    "rank": 8,
+    "id": "para:bizethics:p0211:06",
+    "page": 211,
+    "source_id": "bizethics",
+    "score": 0.622899
+   },
+   {
+    "rank": 9,
+    "id": "para:bizethics:p0180:01",
+    "page": 180,
+    "source_id": "bizethics",
+    "score": 0.620133
+   },
+   {
+    "rank": 10,
+    "id": "para:bizethics:p0209:03",
+    "page": 209,
+    "source_id": "bizethics",
+    "score": 0.615902
+   }
+  ]
+ },
+ {
+  "method": "dense",
+  "question_id": "d17",
+  "question": "If a person injured by a defective product is found partly responsible but may still collect damages, how is the amount they can recover determined?",
+  "filter": null,
+  "hit_rank": 10,
+  "latency_ms": 67.9,
+  "results": [
+   {
+    "rank": 1,
+    "id": "para:bizlaw:p0074:03",
+    "page": 74,
+    "source_id": "bizlaw",
+    "score": 0.734274
+   },
+   {
+    "rank": 2,
+    "id": "para:bizlaw:p0074:00",
+    "page": 74,
+    "source_id": "bizlaw",
+    "score": 0.720273
+   },
+   {
+    "rank": 3,
+    "id": "para:bizlaw:p0072:03",
+    "page": 72,
+    "source_id": "bizlaw",
+    "score": 0.695218
+   },
+   {
+    "rank": 4,
+    "id": "para:bizlaw:p0073:01",
+    "page": 73,
+    "source_id": "bizlaw",
+    "score": 0.687118
+   },
+   {
+    "rank": 5,
+    "id": "para:bizlaw:p0071:01",
+    "page": 71,
+    "source_id": "bizlaw",
+    "score": 0.677329
+   },
+   {
+    "rank": 6,
+    "id": "para:bizlaw:p0070:03",
+    "page": 70,
+    "source_id": "bizlaw",
+    "score": 0.6673
+   },
+   {
+    "rank": 7,
+    "id": "para:bizlaw:p0075:00",
+    "page": 75,
+    "source_id": "bizlaw",
+    "score": 0.662436
+   },
+   {
+    "rank": 8,
+    "id": "para:bizlaw:p0073:02",
+    "page": 73,
+    "source_id": "bizlaw",
+    "score": 0.649996
+   },
+   {
+    "rank": 9,
+    "id": "para:bizlaw:p0068:02",
+    "page": 68,
+    "source_id": "bizlaw",
+    "score": 0.649369
+   },
+   {
+    "rank": 10,
+    "id": "para:bizlaw:p0074:02",
+    "page": 74,
+    "source_id": "bizlaw",
+    "score": 0.648965
+   }
+  ]
+ },
+ {
+  "method": "dense",
+  "question_id": "d18",
+  "question": "How much advance notice must employers give before closing a plant or laying off workers, and how large must the employer be?",
+  "filter": null,
+  "hit_rank": 8,
+  "latency_ms": 84.4,
+  "results": [
+   {
+    "rank": 1,
+    "id": "para:bizethics:p0157:02",
+    "page": 157,
+    "source_id": "bizethics",
+    "score": 0.63326
+   },
+   {
+    "rank": 2,
+    "id": "para:bizethics:p0157:01",
+    "page": 157,
+    "source_id": "bizethics",
+    "score": 0.619138
+   },
+   {
+    "rank": 3,
+    "id": "para:bizlaw:p0098:02",
+    "page": 98,
+    "source_id": "bizlaw",
+    "score": 0.597501
+   },
+   {
+    "rank": 4,
+    "id": "para:bizethics:p0157:00",
+    "page": 157,
+    "source_id": "bizethics",
+    "score": 0.596864
+   },
+   {
+    "rank": 5,
+    "id": "para:bizlaw:p0103:03",
+    "page": 103,
+    "source_id": "bizlaw",
+    "score": 0.563586
+   },
+   {
+    "rank": 6,
+    "id": "para:bizethics:p0195:04",
+    "page": 195,
+    "source_id": "bizethics",
+    "score": 0.559708
+   },
+   {
+    "rank": 7,
+    "id": "para:bizlaw:p0100:03",
+    "page": 100,
+    "source_id": "bizlaw",
+    "score": 0.555175
+   },
+   {
+    "rank": 8,
+    "id": "para:bizlaw:p0102:00",
+    "page": 102,
+    "source_id": "bizlaw",
+    "score": 0.555051
+   },
+   {
+    "rank": 9,
+    "id": "para:bizlaw:p0097:03",
+    "page": 97,
+    "source_id": "bizlaw",
+    "score": 0.54936
+   },
+   {
+    "rank": 10,
+    "id": "para:bizethics:p0193:04",
+    "page": 193,
+    "source_id": "bizethics",
+    "score": 0.547548
+   }
+  ]
+ },
+ {
+  "method": "dense",
+  "question_id": "d19",
+  "question": "In the virtue-ethics account of character, how does a person's upbringing shape their tendencies relative to the ideal middle state?",
+  "filter": null,
+  "hit_rank": 2,
+  "latency_ms": 69.4,
+  "results": [
+   {
+    "rank": 1,
+    "id": "para:phil:p0298:05",
+    "page": 298,
+    "source_id": "phil",
+    "score": 0.742661
+   },
+   {
+    "rank": 2,
+    "id": "para:phil:p0299:02",
+    "page": 299,
+    "source_id": "phil",
+    "score": 0.694569
+   },
+   {
+    "rank": 3,
+    "id": "para:phil:p0294:00",
+    "page": 294,
+    "source_id": "phil",
+    "score": 0.684821
+   },
+   {
+    "rank": 4,
+    "id": "para:phil:p0298:06",
+    "page": 298,
+    "source_id": "phil",
+    "score": 0.669998
+   },
+   {
+    "rank": 5,
+    "id": "para:phil:p0299:00",
+    "page": 299,
+    "source_id": "phil",
+    "score": 0.661626
+   },
+   {
+    "rank": 6,
+    "id": "para:phil:p0295:01",
+    "page": 295,
+    "source_id": "phil",
+    "score": 0.638858
+   },
+   {
+    "rank": 7,
+    "id": "para:phil:p0298:04",
+    "page": 298,
+    "source_id": "phil",
+    "score": 0.634887
+   },
+   {
+    "rank": 8,
+    "id": "para:phil:p0294:01",
+    "page": 294,
+    "source_id": "phil",
+    "score": 0.634812
+   },
+   {
+    "rank": 9,
+    "id": "para:phil:p0300:00",
+    "page": 300,
+    "source_id": "phil",
+    "score": 0.632466
+   },
+   {
+    "rank": 10,
+    "id": "para:phil:p0299:03",
+    "page": 299,
+    "source_id": "phil",
+    "score": 0.631742
+   }
+  ]
+ },
+ {
+  "method": "dense",
+  "question_id": "d20",
+  "question": "Under what circumstances do some ethicists regard altering human genes as morally acceptable, and when do they regard it as unacceptable?",
+  "filter": null,
+  "hit_rank": 1,
+  "latency_ms": 71.2,
+  "results": [
+   {
+    "rank": 1,
+    "id": "para:phil:p0332:01",
+    "page": 332,
+    "source_id": "phil",
+    "score": 0.710444
+   },
+   {
+    "rank": 2,
+    "id": "para:phil:p0332:06",
+    "page": 332,
+    "source_id": "phil",
+    "score": 0.703173
+   },
+   {
+    "rank": 3,
+    "id": "para:phil:p0331:02",
+    "page": 331,
+    "source_id": "phil",
+    "score": 0.696647
+   },
+   {
+    "rank": 4,
+    "id": "para:phil:p0331:05",
+    "page": 331,
+    "source_id": "phil",
+    "score": 0.685914
+   },
+   {
+    "rank": 5,
+    "id": "para:phil:p0332:00",
+    "page": 332,
+    "source_id": "phil",
+    "score": 0.678715
+   },
+   {
+    "rank": 6,
+    "id": "para:phil:p0331:04",
+    "page": 331,
+    "source_id": "phil",
+    "score": 0.666909
+   },
+   {
+    "rank": 7,
+    "id": "para:phil:p0331:01",
+    "page": 331,
+    "source_id": "phil",
+    "score": 0.666873
+   },
+   {
+    "rank": 8,
+    "id": "para:phil:p0331:00",
+    "page": 331,
+    "source_id": "phil",
+    "score": 0.65439
+   },
+   {
+    "rank": 9,
+    "id": "para:phil:p0333:01",
+    "page": 333,
+    "source_id": "phil",
+    "score": 0.652523
+   },
+   {
+    "rank": 10,
+    "id": "para:phil:p0331:06",
+    "page": 331,
+    "source_id": "phil",
+    "score": 0.644935
+   }
+  ]
+ },
+ {
+  "method": "dense",
+  "question_id": "d21",
+  "question": "Which year is given for the federal statute that obliges employers to warn workers beforehand about large-scale layoffs and facility shutdowns?",
+  "filter": null,
+  "hit_rank": 1,
+  "latency_ms": 71.9,
+  "results": [
+   {
+    "rank": 1,
+    "id": "para:bizethics:p0157:01",
+    "page": 157,
+    "source_id": "bizethics",
+    "score": 0.68893
+   },
+   {
+    "rank": 2,
+    "id": "para:bizlaw:p0102:00",
+    "page": 102,
+    "source_id": "bizlaw",
+    "score": 0.629057
+   },
+   {
+    "rank": 3,
+    "id": "para:bizethics:p0157:04",
+    "page": 157,
+    "source_id": "bizethics",
+    "score": 0.612651
+   },
+   {
+    "rank": 4,
+    "id": "para:bizethics:p0211:06",
+    "page": 211,
+    "source_id": "bizethics",
+    "score": 0.584596
+   },
+   {
+    "rank": 5,
+    "id": "para:bizethics:p0180:00",
+    "page": 180,
+    "source_id": "bizethics",
+    "score": 0.577534
+   },
+   {
+    "rank": 6,
+    "id": "para:bizlaw:p0098:01",
+    "page": 98,
+    "source_id": "bizlaw",
+    "score": 0.577011
+   },
+   {
+    "rank": 7,
+    "id": "para:bizethics:p0180:02",
+    "page": 180,
+    "source_id": "bizethics",
+    "score": 0.569466
+   },
+   {
+    "rank": 8,
+    "id": "para:bizlaw:p0097:03",
+    "page": 97,
+    "source_id": "bizlaw",
+    "score": 0.568845
+   },
+   {
+    "rank": 9,
+    "id": "para:phil:p0340:03",
+    "page": 340,
+    "source_id": "phil",
+    "score": 0.568734
+   },
+   {
+    "rank": 10,
+    "id": "para:bizlaw:p0106:00",
+    "page": 106,
+    "source_id": "bizlaw",
+    "score": 0.565175
+   }
+  ]
+ },
+ {
+  "method": "bm25",
+  "question_id": "d01",
+  "question": "In Kant's second main test of a moral rule, how must we treat other people, and ourselves?",
+  "filter": null,
+  "hit_rank": 5,
+  "latency_ms": 1.7,
+  "results": [
+   {
+    "rank": 1,
+    "id": "para:phil:p0329:05",
+    "page": 329,
+    "source_id": "phil",
+    "score": 24.244099
+   },
+   {
+    "rank": 2,
+    "id": "para:phil:p0292:01",
+    "page": 292,
+    "source_id": "phil",
+    "score": 18.458973
+   },
+   {
+    "rank": 3,
+    "id": "para:phil:p0290:03",
+    "page": 290,
+    "source_id": "phil",
+    "score": 15.743745
+   },
+   {
+    "rank": 4,
+    "id": "para:phil:p0288:04",
+    "page": 288,
+    "source_id": "phil",
+    "score": 15.344071
+   },
+   {
+    "rank": 5,
+    "id": "para:phil:p0291:03",
+    "page": 291,
+    "source_id": "phil",
+    "score": 15.192578
+   },
+   {
+    "rank": 6,
+    "id": "para:phil:p0291:01",
+    "page": 291,
+    "source_id": "phil",
+    "score": 14.302874
+   },
+   {
+    "rank": 7,
+    "id": "para:phil:p0291:04",
+    "page": 291,
+    "source_id": "phil",
+    "score": 14.144861
+   },
+   {
+    "rank": 8,
+    "id": "para:phil:p0341:05",
+    "page": 341,
+    "source_id": "phil",
+    "score": 13.529957
+   },
+   {
+    "rank": 9,
+    "id": "para:bizethics:p0190:03",
+    "page": 190,
+    "source_id": "bizethics",
+    "score": 11.972567
+   },
+   {
+    "rank": 10,
+    "id": "para:phil:p0322:01",
+    "page": 322,
+    "source_id": "phil",
+    "score": 11.202541
+   }
+  ]
+ },
+ {
+  "method": "bm25",
+  "question_id": "d02",
+  "question": "Which kind of euthanasia does the utilitarian philosopher Peter Singer still reject, and how is it defined?",
+  "filter": null,
+  "hit_rank": 1,
+  "latency_ms": 0.2,
+  "results": [
+   {
+    "rank": 1,
+    "id": "para:phil:p0326:03",
+    "page": 326,
+    "source_id": "phil",
+    "score": 35.611877
+   },
+   {
+    "rank": 2,
+    "id": "para:phil:p0325:01",
+    "page": 325,
+    "source_id": "phil",
+    "score": 10.468468
+   },
+   {
+    "rank": 3,
+    "id": "para:phil:p0325:04",
+    "page": 325,
+    "source_id": "phil",
+    "score": 10.218759
+   },
+   {
+    "rank": 4,
+    "id": "para:phil:p0307:01",
+    "page": 307,
+    "source_id": "phil",
+    "score": 9.759461
+   },
+   {
+    "rank": 5,
+    "id": "para:phil:p0285:04",
+    "page": 285,
+    "source_id": "phil",
+    "score": 9.515012
+   },
+   {
+    "rank": 6,
+    "id": "para:phil:p0326:02",
+    "page": 326,
+    "source_id": "phil",
+    "score": 9.222249
+   },
+   {
+    "rank": 7,
+    "id": "para:phil:p0326:04",
+    "page": 326,
+    "source_id": "phil",
+    "score": 8.285709
+   },
+   {
+    "rank": 8,
+    "id": "para:phil:p0326:05",
+    "page": 326,
+    "source_id": "phil",
+    "score": 8.007114
+   },
+   {
+    "rank": 9,
+    "id": "para:phil:p0325:03",
+    "page": 325,
+    "source_id": "phil",
+    "score": 7.800036
+   },
+   {
+    "rank": 10,
+    "id": "para:phil:p0327:00",
+    "page": 327,
+    "source_id": "phil",
+    "score": 7.121148
+   }
+  ]
+ },
+ {
+  "method": "bm25",
+  "question_id": "d03",
+  "question": "Which ethical principle does informed consent protect for people who take part in a clinical trial?",
+  "filter": null,
+  "hit_rank": 1,
+  "latency_ms": 0.4,
+  "results": [
+   {
+    "rank": 1,
+    "id": "para:phil:p0328:01",
+    "page": 328,
+    "source_id": "phil",
+    "score": 32.05111
+   },
+   {
+    "rank": 2,
+    "id": "para:phil:p0327:04",
+    "page": 327,
+    "source_id": "phil",
+    "score": 20.956116
+   },
+   {
+    "rank": 3,
+    "id": "para:phil:p0328:05",
+    "page": 328,
+    "source_id": "phil",
+    "score": 16.503022
+   },
+   {
+    "rank": 4,
+    "id": "para:phil:p0328:04",
+    "page": 328,
+    "source_id": "phil",
+    "score": 15.788045
+   },
+   {
+    "rank": 5,
+    "id": "para:phil:p0328:06",
+    "page": 328,
+    "source_id": "phil",
+    "score": 15.573924
+   },
+   {
+    "rank": 6,
+    "id": "para:phil:p0327:02",
+    "page": 327,
+    "source_id": "phil",
+    "score": 15.435019
+   },
+   {
+    "rank": 7,
+    "id": "para:phil:p0330:00",
+    "page": 330,
+    "source_id": "phil",
+    "score": 15.029927
+   },
+   {
+    "rank": 8,
+    "id": "para:phil:p0329:01",
+    "page": 329,
+    "source_id": "phil",
+    "score": 13.896388
+   },
+   {
+    "rank": 9,
+    "id": "para:phil:p0319:00",
+    "page": 319,
+    "source_id": "phil",
+    "score": 10.437779
+   },
+   {
+    "rank": 10,
+    "id": "para:phil:p0332:00",
+    "page": 332,
+    "source_id": "phil",
+    "score": 10.138824
+   }
+  ]
+ },
+ {
+  "method": "bm25",
+  "question_id": "d04",
+  "question": "Who introduced the term deep ecology, and what does this view assume about living things?",
+  "filter": null,
+  "hit_rank": 1,
+  "latency_ms": 0.4,
+  "results": [
+   {
+    "rank": 1,
+    "id": "para:phil:p0337:02",
+    "page": 337,
+    "source_id": "phil",
+    "score": 27.983931
+   },
+   {
+    "rank": 2,
+    "id": "para:phil:p0337:03",
+    "page": 337,
+    "source_id": "phil",
+    "score": 25.425343
+   },
+   {
+    "rank": 3,
+    "id": "para:phil:p0337:04",
+    "page": 337,
+    "source_id": "phil",
+    "score": 14.020429
+   },
+   {
+    "rank": 4,
+    "id": "para:phil:p0303:01",
+    "page": 303,
+    "source_id": "phil",
+    "score": 11.656039
+   },
+   {
+    "rank": 5,
+    "id": "para:phil:p0304:02",
+    "page": 304,
+    "source_id": "phil",
+    "score": 11.252206
+   },
+   {
+    "rank": 6,
+    "id": "para:phil:p0304:04",
+    "page": 304,
+    "source_id": "phil",
+    "score": 10.764791
+   },
+   {
+    "rank": 7,
+    "id": "para:phil:p0290:00",
+    "page": 290,
+    "source_id": "phil",
+    "score": 9.454629
+   },
+   {
+    "rank": 8,
+    "id": "para:phil:p0322:00",
+    "page": 322,
+    "source_id": "phil",
+    "score": 8.887294
+   },
+   {
+    "rank": 9,
+    "id": "para:phil:p0321:04",
+    "page": 321,
+    "source_id": "phil",
+    "score": 8.584585
+   },
+   {
+    "rank": 10,
+    "id": "para:phil:p0302:01",
+    "page": 302,
+    "source_id": "phil",
+    "score": 8.294543
+   }
+  ]
+ },
+ {
+  "method": "bm25",
+  "question_id": "d05",
+  "question": "What protection do workers have against employer punishment if they complain to the workplace safety agency about hazards?",
+  "filter": null,
+  "hit_rank": 1,
+  "latency_ms": 0.6,
+  "results": [
+   {
+    "rank": 1,
+    "id": "para:bizethics:p0158:01",
+    "page": 158,
+    "source_id": "bizethics",
+    "score": 26.298122
+   },
+   {
+    "rank": 2,
+    "id": "para:bizethics:p0157:04",
+    "page": 157,
+    "source_id": "bizethics",
+    "score": 18.693293
+   },
+   {
+    "rank": 3,
+    "id": "para:bizlaw:p0098:01",
+    "page": 98,
+    "source_id": "bizlaw",
+    "score": 18.121319
+   },
+   {
+    "rank": 4,
+    "id": "para:bizethics:p0211:06",
+    "page": 211,
+    "source_id": "bizethics",
+    "score": 16.208512
+   },
+   {
+    "rank": 5,
+    "id": "para:bizethics:p0159:00",
+    "page": 159,
+    "source_id": "bizethics",
+    "score": 16.095533
+   },
+   {
+    "rank": 6,
+    "id": "para:bizlaw:p0099:00",
+    "page": 99,
+    "source_id": "bizlaw",
+    "score": 14.693515
+   },
+   {
+    "rank": 7,
+    "id": "para:bizlaw:p0098:03",
+    "page": 98,
+    "source_id": "bizlaw",
+    "score": 13.576544
+   },
+   {
+    "rank": 8,
+    "id": "para:phil:p0341:01",
+    "page": 341,
+    "source_id": "phil",
+    "score": 13.534149
+   },
+   {
+    "rank": 9,
+    "id": "para:phil:p0340:03",
+    "page": 340,
+    "source_id": "phil",
+    "score": 13.107075
+   },
+   {
+    "rank": 10,
+    "id": "para:bizethics:p0156:00",
+    "page": 156,
+    "source_id": "bizethics",
+    "score": 12.268476
+   }
+  ]
+ },
+ {
+  "method": "bm25",
+  "question_id": "d06",
+  "question": "When a coworker rather than a supervisor harasses someone, at what point does the company become liable?",
+  "filter": null,
+  "hit_rank": 1,
+  "latency_ms": 0.4,
+  "results": [
+   {
+    "rank": 1,
+    "id": "para:bizethics:p0159:04",
+    "page": 159,
+    "source_id": "bizethics",
+    "score": 17.2805
+   },
+   {
+    "rank": 2,
+    "id": "para:bizethics:p0204:01",
+    "page": 204,
+    "source_id": "bizethics",
+    "score": 9.958753
+   },
+   {
+    "rank": 3,
+    "id": "para:bizethics:p0210:02",
+    "page": 210,
+    "source_id": "bizethics",
+    "score": 9.372295
+   },
+   {
+    "rank": 4,
+    "id": "para:bizethics:p0200:03",
+    "page": 200,
+    "source_id": "bizethics",
+    "score": 8.867608
+   },
+   {
+    "rank": 5,
+    "id": "para:phil:p0293:01",
+    "page": 293,
+    "source_id": "phil",
+    "score": 8.604384
+   },
+   {
+    "rank": 6,
+    "id": "para:phil:p0325:00",
+    "page": 325,
+    "source_id": "phil",
+    "score": 8.419582
+   },
+   {
+    "rank": 7,
+    "id": "para:bizethics:p0204:04",
+    "page": 204,
+    "source_id": "bizethics",
+    "score": 8.106792
+   },
+   {
+    "rank": 8,
+    "id": "para:phil:p0304:01",
+    "page": 304,
+    "source_id": "phil",
+    "score": 8.007224
+   },
+   {
+    "rank": 9,
+    "id": "para:bizethics:p0205:04",
+    "page": 205,
+    "source_id": "bizethics",
+    "score": 6.868601
+   },
+   {
+    "rank": 10,
+    "id": "para:bizethics:p0193:01",
+    "page": 193,
+    "source_id": "bizethics",
+    "score": 6.761868
+   }
+  ]
+ },
+ {
+  "method": "bm25",
+  "question_id": "d07",
+  "question": "Before an employee takes suspected wrongdoing by the employer to a government agency, which step should they usually try first?",
+  "filter": null,
+  "hit_rank": 1,
+  "latency_ms": 0.6,
+  "results": [
+   {
+    "rank": 1,
+    "id": "para:bizethics:p0211:05",
+    "page": 211,
+    "source_id": "bizethics",
+    "score": 31.708227
+   },
+   {
+    "rank": 2,
+    "id": "para:bizlaw:p0103:02",
+    "page": 103,
+    "source_id": "bizlaw",
+    "score": 14.574694
+   },
+   {
+    "rank": 3,
+    "id": "para:bizethics:p0211:04",
+    "page": 211,
+    "source_id": "bizethics",
+    "score": 12.881881
+   },
+   {
+    "rank": 4,
+    "id": "para:bizethics:p0190:03",
+    "page": 190,
+    "source_id": "bizethics",
+    "score": 12.318591
+   },
+   {
+    "rank": 5,
+    "id": "para:bizethics:p0214:00",
+    "page": 214,
+    "source_id": "bizethics",
+    "score": 11.982557
+   },
+   {
+    "rank": 6,
+    "id": "para:bizethics:p0210:00",
+    "page": 210,
+    "source_id": "bizethics",
+    "score": 10.927689
+   },
+   {
+    "rank": 7,
+    "id": "para:bizlaw:p0099:00",
+    "page": 99,
+    "source_id": "bizlaw",
+    "score": 10.162925
+   },
+   {
+    "rank": 8,
+    "id": "para:bizethics:p0191:00",
+    "page": 191,
+    "source_id": "bizethics",
+    "score": 10.134921
+   },
+   {
+    "rank": 9,
+    "id": "para:bizethics:p0159:04",
+    "page": 159,
+    "source_id": "bizethics",
+    "score": 9.949169
+   },
+   {
+    "rank": 10,
+    "id": "para:bizethics:p0211:03",
+    "page": 211,
+    "source_id": "bizethics",
+    "score": 9.242219
+   }
+  ]
+ },
+ {
+  "method": "bm25",
+  "question_id": "d08",
+  "question": "In California, can an employer enforce an agreement that stops a former employee from working elsewhere after leaving?",
+  "filter": null,
+  "hit_rank": 1,
+  "latency_ms": 0.4,
+  "results": [
+   {
+    "rank": 1,
+    "id": "para:bizethics:p0195:00",
+    "page": 195,
+    "source_id": "bizethics",
+    "score": 18.331829
+   },
+   {
+    "rank": 2,
+    "id": "para:bizethics:p0195:01",
+    "page": 195,
+    "source_id": "bizethics",
+    "score": 15.132294
+   },
+   {
+    "rank": 3,
+    "id": "para:bizethics:p0196:00",
+    "page": 196,
+    "source_id": "bizethics",
+    "score": 12.090365
+   },
+   {
+    "rank": 4,
+    "id": "para:bizlaw:p0103:02",
+    "page": 103,
+    "source_id": "bizlaw",
+    "score": 11.93217
+   },
+   {
+    "rank": 5,
+    "id": "para:bizethics:p0195:02",
+    "page": 195,
+    "source_id": "bizethics",
+    "score": 10.733071
+   },
+   {
+    "rank": 6,
+    "id": "para:bizethics:p0194:03",
+    "page": 194,
+    "source_id": "bizethics",
+    "score": 10.432314
+   },
+   {
+    "rank": 7,
+    "id": "para:bizethics:p0189:03",
+    "page": 189,
+    "source_id": "bizethics",
+    "score": 10.361824
+   },
+   {
+    "rank": 8,
+    "id": "para:bizethics:p0192:02",
+    "page": 192,
+    "source_id": "bizethics",
+    "score": 9.840031
+   },
+   {
+    "rank": 9,
+    "id": "para:bizlaw:p0098:01",
+    "page": 98,
+    "source_id": "bizlaw",
+    "score": 9.796736
+   },
+   {
+    "rank": 10,
+    "id": "para:bizethics:p0195:03",
+    "page": 195,
+    "source_id": "bizethics",
+    "score": 9.508977
+   }
+  ]
+ },
+ {
+  "method": "bm25",
+  "question_id": "d09",
+  "question": "What kind of damages are normally awarded when someone relied on a broken promise that lacked consideration, and which kind is usually unavailable?",
+  "filter": null,
+  "hit_rank": 1,
+  "latency_ms": 0.2,
+  "results": [
+   {
+    "rank": 1,
+    "id": "para:bizlaw:p0081:01",
+    "page": 81,
+    "source_id": "bizlaw",
+    "score": 28.154476
+   },
+   {
+    "rank": 2,
+    "id": "para:bizlaw:p0081:03",
+    "page": 81,
+    "source_id": "bizlaw",
+    "score": 27.562661
+   },
+   {
+    "rank": 3,
+    "id": "para:bizlaw:p0081:00",
+    "page": 81,
+    "source_id": "bizlaw",
+    "score": 26.717729
+   },
+   {
+    "rank": 4,
+    "id": "para:bizlaw:p0080:03",
+    "page": 80,
+    "source_id": "bizlaw",
+    "score": 13.973859
+   },
+   {
+    "rank": 5,
+    "id": "para:bizlaw:p0105:00",
+    "page": 105,
+    "source_id": "bizlaw",
+    "score": 13.695212
+   },
+   {
+    "rank": 6,
+    "id": "para:phil:p0293:01",
+    "page": 293,
+    "source_id": "phil",
+    "score": 8.304428
+   },
+   {
+    "rank": 7,
+    "id": "para:bizethics:p0200:03",
+    "page": 200,
+    "source_id": "bizethics",
+    "score": 8.17342
+   },
+   {
+    "rank": 8,
+    "id": "para:bizethics:p0211:05",
+    "page": 211,
+    "source_id": "bizethics",
+    "score": 7.799575
+   },
+   {
+    "rank": 9,
+    "id": "para:bizlaw:p0080:02",
+    "page": 80,
+    "source_id": "bizlaw",
+    "score": 7.676433
+   },
+   {
+    "rank": 10,
+    "id": "para:bizethics:p0182:04",
+    "page": 182,
+    "source_id": "bizethics",
+    "score": 7.662152
+   }
+  ]
+ },
+ {
+  "method": "bm25",
+  "question_id": "d10",
+  "question": "Can someone under 18 who signed a contract cancel it, and are there contracts they cannot cancel?",
+  "filter": null,
+  "hit_rank": 1,
+  "latency_ms": 0.3,
+  "results": [
+   {
+    "rank": 1,
+    "id": "para:bizlaw:p0082:00",
+    "page": 82,
+    "source_id": "bizlaw",
+    "score": 13.31567
+   },
+   {
+    "rank": 2,
+    "id": "para:bizlaw:p0084:01",
+    "page": 84,
+    "source_id": "bizlaw",
+    "score": 11.87455
+   },
+   {
+    "rank": 3,
+    "id": "para:bizlaw:p0083:01",
+    "page": 83,
+    "source_id": "bizlaw",
+    "score": 10.739187
+   },
+   {
+    "rank": 4,
+    "id": "para:bizlaw:p0082:05",
+    "page": 82,
+    "source_id": "bizlaw",
+    "score": 9.662593
+   },
+   {
+    "rank": 5,
+    "id": "para:bizethics:p0196:00",
+    "page": 196,
+    "source_id": "bizethics",
+    "score": 9.581691
+   },
+   {
+    "rank": 6,
+    "id": "para:bizlaw:p0080:01",
+    "page": 80,
+    "source_id": "bizlaw",
+    "score": 9.085515
+   },
+   {
+    "rank": 7,
+    "id": "para:bizlaw:p0099:05",
+    "page": 99,
+    "source_id": "bizlaw",
+    "score": 9.070397
+   },
+   {
+    "rank": 8,
+    "id": "para:bizlaw:p0097:03",
+    "page": 97,
+    "source_id": "bizlaw",
+    "score": 8.505836
+   },
+   {
+    "rank": 9,
+    "id": "para:phil:p0321:01",
+    "page": 321,
+    "source_id": "phil",
+    "score": 8.184868
+   },
+   {
+    "rank": 10,
+    "id": "para:bizlaw:p0082:02",
+    "page": 82,
+    "source_id": "bizlaw",
+    "score": 7.736632
+   }
+  ]
+ },
+ {
+  "method": "bm25",
+  "question_id": "d11",
+  "question": "How much unpaid leave may eligible workers take for family or medical emergencies, and which employers does that law cover?",
+  "filter": null,
+  "hit_rank": 1,
+  "latency_ms": 0.7,
+  "results": [
+   {
+    "rank": 1,
+    "id": "para:bizlaw:p0100:01",
+    "page": 100,
+    "source_id": "bizlaw",
+    "score": 39.392949
+   },
+   {
+    "rank": 2,
+    "id": "para:bizlaw:p0100:02",
+    "page": 100,
+    "source_id": "bizlaw",
+    "score": 14.663144
+   },
+   {
+    "rank": 3,
+    "id": "para:bizethics:p0161:00",
+    "page": 161,
+    "source_id": "bizethics",
+    "score": 12.222612
+   },
+   {
+    "rank": 4,
+    "id": "para:bizlaw:p0100:05",
+    "page": 100,
+    "source_id": "bizlaw",
+    "score": 12.151903
+   },
+   {
+    "rank": 5,
+    "id": "para:bizethics:p0162:01",
+    "page": 162,
+    "source_id": "bizethics",
+    "score": 11.794763
+   },
+   {
+    "rank": 6,
+    "id": "para:bizethics:p0210:02",
+    "page": 210,
+    "source_id": "bizethics",
+    "score": 10.604983
+   },
+   {
+    "rank": 7,
+    "id": "para:bizethics:p0155:03",
+    "page": 155,
+    "source_id": "bizethics",
+    "score": 10.595325
+   },
+   {
+    "rank": 8,
+    "id": "para:bizethics:p0161:06",
+    "page": 161,
+    "source_id": "bizethics",
+    "score": 10.364192
+   },
+   {
+    "rank": 9,
+    "id": "para:bizlaw:p0102:00",
+    "page": 102,
+    "source_id": "bizlaw",
+    "score": 9.971892
+   },
+   {
+    "rank": 10,
+    "id": "para:bizethics:p0157:01",
+    "page": 157,
+    "source_id": "bizethics",
+    "score": 9.676882
+   }
+  ]
+ },
+ {
+  "method": "bm25",
+  "question_id": "d12",
+  "question": "Which workers fall outside the federal workplace safety law's protection?",
+  "filter": null,
+  "hit_rank": 1,
+  "latency_ms": 0.7,
+  "results": [
+   {
+    "rank": 1,
+    "id": "para:bizlaw:p0098:01",
+    "page": 98,
+    "source_id": "bizlaw",
+    "score": 16.935107
+   },
+   {
+    "rank": 2,
+    "id": "para:bizethics:p0211:06",
+    "page": 211,
+    "source_id": "bizethics",
+    "score": 16.433696
+   },
+   {
+    "rank": 3,
+    "id": "para:bizethics:p0157:04",
+    "page": 157,
+    "source_id": "bizethics",
+    "score": 15.1408
+   },
+   {
+    "rank": 4,
+    "id": "para:bizethics:p0180:02",
+    "page": 180,
+    "source_id": "bizethics",
+    "score": 13.73644
+   },
+   {
+    "rank": 5,
+    "id": "para:bizlaw:p0104:02",
+    "page": 104,
+    "source_id": "bizlaw",
+    "score": 13.71447
+   },
+   {
+    "rank": 6,
+    "id": "para:bizethics:p0181:05",
+    "page": 181,
+    "source_id": "bizethics",
+    "score": 12.304232
+   },
+   {
+    "rank": 7,
+    "id": "para:bizethics:p0158:01",
+    "page": 158,
+    "source_id": "bizethics",
+    "score": 11.904165
+   },
+   {
+    "rank": 8,
+    "id": "para:bizethics:p0179:01",
+    "page": 179,
+    "source_id": "bizethics",
+    "score": 11.324451
+   },
+   {
+    "rank": 9,
+    "id": "para:bizethics:p0159:00",
+    "page": 159,
+    "source_id": "bizethics",
+    "score": 10.754563
+   },
+   {
+    "rank": 10,
+    "id": "para:bizethics:p0173:01",
+    "page": 173,
+    "source_id": "bizethics",
+    "score": 10.286604
+   }
+  ]
+ },
+ {
+  "method": "bm25",
+  "question_id": "d13",
+  "question": "How many employees must a business have before the main federal law against workplace discrimination based on race, sex, religion, color or national origin applies to it?",
+  "filter": null,
+  "hit_rank": 2,
+  "latency_ms": 1.0,
+  "results": [
+   {
+    "rank": 1,
+    "id": "para:bizethics:p0159:03",
+    "page": 159,
+    "source_id": "bizethics",
+    "score": 35.490449
+   },
+   {
+    "rank": 2,
+    "id": "para:bizlaw:p0104:03",
+    "page": 104,
+    "source_id": "bizlaw",
+    "score": 32.188831
+   },
+   {
+    "rank": 3,
+    "id": "para:bizethics:p0159:02",
+    "page": 159,
+    "source_id": "bizethics",
+    "score": 30.304151
+   },
+   {
+    "rank": 4,
+    "id": "para:bizlaw:p0106:01",
+    "page": 106,
+    "source_id": "bizlaw",
+    "score": 20.798756
+   },
+   {
+    "rank": 5,
+    "id": "para:bizethics:p0180:02",
+    "page": 180,
+    "source_id": "bizethics",
+    "score": 18.943295
+   },
+   {
+    "rank": 6,
+    "id": "para:bizlaw:p0108:01",
+    "page": 108,
+    "source_id": "bizlaw",
+    "score": 16.256866
+   },
+   {
+    "rank": 7,
+    "id": "para:bizlaw:p0106:02",
+    "page": 106,
+    "source_id": "bizlaw",
+    "score": 15.794593
+   },
+   {
+    "rank": 8,
+    "id": "para:bizethics:p0159:04",
+    "page": 159,
+    "source_id": "bizethics",
+    "score": 15.655679
+   },
+   {
+    "rank": 9,
+    "id": "para:bizethics:p0181:05",
+    "page": 181,
+    "source_id": "bizethics",
+    "score": 14.917556
+   },
+   {
+    "rank": 10,
+    "id": "para:bizlaw:p0107:00",
+    "page": 107,
+    "source_id": "bizlaw",
+    "score": 14.416347
+   }
+  ]
+ },
+ {
+  "method": "bm25",
+  "question_id": "d14",
+  "question": "Even after an injured employee receives workplace-injury compensation, in what situation can they still take the employer to court?",
+  "filter": null,
+  "hit_rank": 1,
+  "latency_ms": 0.7,
+  "results": [
+   {
+    "rank": 1,
+    "id": "para:bizlaw:p0099:01",
+    "page": 99,
+    "source_id": "bizlaw",
+    "score": 17.108022
+   },
+   {
+    "rank": 2,
+    "id": "para:bizethics:p0195:00",
+    "page": 195,
+    "source_id": "bizethics",
+    "score": 14.284421
+   },
+   {
+    "rank": 3,
+    "id": "para:bizlaw:p0074:00",
+    "page": 74,
+    "source_id": "bizlaw",
+    "score": 13.047021
+   },
+   {
+    "rank": 4,
+    "id": "para:bizethics:p0181:01",
+    "page": 181,
+    "source_id": "bizethics",
+    "score": 12.698187
+   },
+   {
+    "rank": 5,
+    "id": "para:bizethics:p0182:01",
+    "page": 182,
+    "source_id": "bizethics",
+    "score": 12.101728
+   },
+   {
+    "rank": 6,
+    "id": "para:bizethics:p0168:01",
+    "page": 168,
+    "source_id": "bizethics",
+    "score": 11.631205
+   },
+   {
+    "rank": 7,
+    "id": "para:bizlaw:p0099:02",
+    "page": 99,
+    "source_id": "bizlaw",
+    "score": 11.301512
+   },
+   {
+    "rank": 8,
+    "id": "para:bizethics:p0199:03",
+    "page": 199,
+    "source_id": "bizethics",
+    "score": 10.480403
+   },
+   {
+    "rank": 9,
+    "id": "para:bizlaw:p0103:02",
+    "page": 103,
+    "source_id": "bizlaw",
+    "score": 10.467525
+   },
+   {
+    "rank": 10,
+    "id": "para:bizlaw:p0099:00",
+    "page": 99,
+    "source_id": "bizlaw",
+    "score": 10.434663
+   }
+  ]
+ },
+ {
+  "method": "bm25",
+  "question_id": "d15",
+  "question": "What development in 2012 made most policies forbidding employees from discussing their salaries unenforceable?",
+  "filter": null,
+  "hit_rank": 1,
+  "latency_ms": 0.5,
+  "results": [
+   {
+    "rank": 1,
+    "id": "para:bizethics:p0209:03",
+    "page": 209,
+    "source_id": "bizethics",
+    "score": 20.877391
+   },
+   {
+    "rank": 2,
+    "id": "para:bizethics:p0209:02",
+    "page": 209,
+    "source_id": "bizethics",
+    "score": 15.12608
+   },
+   {
+    "rank": 3,
+    "id": "para:bizethics:p0170:04",
+    "page": 170,
+    "source_id": "bizethics",
+    "score": 13.684289
+   },
+   {
+    "rank": 4,
+    "id": "para:bizethics:p0209:00",
+    "page": 209,
+    "source_id": "bizethics",
+    "score": 9.8654
+   },
+   {
+    "rank": 5,
+    "id": "para:bizethics:p0195:00",
+    "page": 195,
+    "source_id": "bizethics",
+    "score": 9.53162
+   },
+   {
+    "rank": 6,
+    "id": "para:bizethics:p0212:04",
+    "page": 212,
+    "source_id": "bizethics",
+    "score": 7.582032
+   },
+   {
+    "rank": 7,
+    "id": "para:bizethics:p0171:01",
+    "page": 171,
+    "source_id": "bizethics",
+    "score": 7.575004
+   },
+   {
+    "rank": 8,
+    "id": "para:bizethics:p0170:02",
+    "page": 170,
+    "source_id": "bizethics",
+    "score": 7.455012
+   },
+   {
+    "rank": 9,
+    "id": "para:bizethics:p0214:01",
+    "page": 214,
+    "source_id": "bizethics",
+    "score": 7.055774
+   },
+   {
+    "rank": 10,
+    "id": "para:bizethics:p0202:05",
+    "page": 202,
+    "source_id": "bizethics",
+    "score": 6.952042
+   }
+  ]
+ },
+ {
+  "method": "bm25",
+  "question_id": "d16",
+  "question": "Which two exceptions weaken the federal law that appears to bar employers from monitoring employees' communications?",
+  "filter": null,
+  "hit_rank": 1,
+  "latency_ms": 0.5,
+  "results": [
+   {
+    "rank": 1,
+    "id": "para:bizethics:p0179:02",
+    "page": 179,
+    "source_id": "bizethics",
+    "score": 30.099239
+   },
+   {
+    "rank": 2,
+    "id": "para:bizethics:p0179:01",
+    "page": 179,
+    "source_id": "bizethics",
+    "score": 23.979891
+   },
+   {
+    "rank": 3,
+    "id": "para:bizethics:p0180:04",
+    "page": 180,
+    "source_id": "bizethics",
+    "score": 15.543236
+   },
+   {
+    "rank": 4,
+    "id": "para:bizethics:p0181:05",
+    "page": 181,
+    "source_id": "bizethics",
+    "score": 14.268965
+   },
+   {
+    "rank": 5,
+    "id": "para:bizethics:p0179:05",
+    "page": 179,
+    "source_id": "bizethics",
+    "score": 13.874311
+   },
+   {
+    "rank": 6,
+    "id": "para:bizethics:p0180:02",
+    "page": 180,
+    "source_id": "bizethics",
+    "score": 13.129111
+   },
+   {
+    "rank": 7,
+    "id": "para:bizethics:p0180:00",
+    "page": 180,
+    "source_id": "bizethics",
+    "score": 12.136585
+   },
+   {
+    "rank": 8,
+    "id": "para:bizethics:p0180:03",
+    "page": 180,
+    "source_id": "bizethics",
+    "score": 11.707847
+   },
+   {
+    "rank": 9,
+    "id": "para:bizethics:p0178:04",
+    "page": 178,
+    "source_id": "bizethics",
+    "score": 11.324477
+   },
+   {
+    "rank": 10,
+    "id": "para:bizethics:p0180:05",
+    "page": 180,
+    "source_id": "bizethics",
+    "score": 11.157934
+   }
+  ]
+ },
+ {
+  "method": "bm25",
+  "question_id": "d17",
+  "question": "If a person injured by a defective product is found partly responsible but may still collect damages, how is the amount they can recover determined?",
+  "filter": null,
+  "hit_rank": 1,
+  "latency_ms": 0.4,
+  "results": [
+   {
+    "rank": 1,
+    "id": "para:bizlaw:p0074:02",
+    "page": 74,
+    "source_id": "bizlaw",
+    "score": 24.842417
+   },
+   {
+    "rank": 2,
+    "id": "para:bizlaw:p0074:00",
+    "page": 74,
+    "source_id": "bizlaw",
+    "score": 19.930639
+   },
+   {
+    "rank": 3,
+    "id": "para:bizlaw:p0067:03",
+    "page": 67,
+    "source_id": "bizlaw",
+    "score": 13.729385
+   },
+   {
+    "rank": 4,
+    "id": "para:bizlaw:p0084:00",
+    "page": 84,
+    "source_id": "bizlaw",
+    "score": 12.698442
+   },
+   {
+    "rank": 5,
+    "id": "para:bizethics:p0212:02",
+    "page": 212,
+    "source_id": "bizethics",
+    "score": 11.873615
+   },
+   {
+    "rank": 6,
+    "id": "para:bizlaw:p0099:01",
+    "page": 99,
+    "source_id": "bizlaw",
+    "score": 11.394203
+   },
+   {
+    "rank": 7,
+    "id": "para:bizlaw:p0069:02",
+    "page": 69,
+    "source_id": "bizlaw",
+    "score": 10.79631
+   },
+   {
+    "rank": 8,
+    "id": "para:bizlaw:p0081:01",
+    "page": 81,
+    "source_id": "bizlaw",
+    "score": 10.707628
+   },
+   {
+    "rank": 9,
+    "id": "para:bizlaw:p0083:05",
+    "page": 83,
+    "source_id": "bizlaw",
+    "score": 10.291296
+   },
+   {
+    "rank": 10,
+    "id": "para:bizlaw:p0073:01",
+    "page": 73,
+    "source_id": "bizlaw",
+    "score": 10.025749
+   }
+  ]
+ },
+ {
+  "method": "bm25",
+  "question_id": "d18",
+  "question": "How much advance notice must employers give before closing a plant or laying off workers, and how large must the employer be?",
+  "filter": null,
+  "hit_rank": 2,
+  "latency_ms": 0.5,
+  "results": [
+   {
+    "rank": 1,
+    "id": "para:bizethics:p0157:02",
+    "page": 157,
+    "source_id": "bizethics",
+    "score": 23.423475
+   },
+   {
+    "rank": 2,
+    "id": "para:bizlaw:p0102:00",
+    "page": 102,
+    "source_id": "bizlaw",
+    "score": 20.317204
+   },
+   {
+    "rank": 3,
+    "id": "para:bizethics:p0157:01",
+    "page": 157,
+    "source_id": "bizethics",
+    "score": 19.378064
+   },
+   {
+    "rank": 4,
+    "id": "para:bizethics:p0180:00",
+    "page": 180,
+    "source_id": "bizethics",
+    "score": 16.55018
+   },
+   {
+    "rank": 5,
+    "id": "para:bizethics:p0157:00",
+    "page": 157,
+    "source_id": "bizethics",
+    "score": 15.742957
+   },
+   {
+    "rank": 6,
+    "id": "para:bizethics:p0182:00",
+    "page": 182,
+    "source_id": "bizethics",
+    "score": 12.511218
+   },
+   {
+    "rank": 7,
+    "id": "para:bizethics:p0180:04",
+    "page": 180,
+    "source_id": "bizethics",
+    "score": 12.506511
+   },
+   {
+    "rank": 8,
+    "id": "para:bizlaw:p0102:01",
+    "page": 102,
+    "source_id": "bizlaw",
+    "score": 12.207045
+   },
+   {
+    "rank": 9,
+    "id": "para:bizethics:p0190:03",
+    "page": 190,
+    "source_id": "bizethics",
+    "score": 12.054543
+   },
+   {
+    "rank": 10,
+    "id": "para:bizethics:p0180:02",
+    "page": 180,
+    "source_id": "bizethics",
+    "score": 10.752974
+   }
+  ]
+ },
+ {
+  "method": "bm25",
+  "question_id": "d19",
+  "question": "In the virtue-ethics account of character, how does a person's upbringing shape their tendencies relative to the ideal middle state?",
+  "filter": null,
+  "hit_rank": 1,
+  "latency_ms": 0.6,
+  "results": [
+   {
+    "rank": 1,
+    "id": "para:phil:p0299:02",
+    "page": 299,
+    "source_id": "phil",
+    "score": 28.806363
+   },
+   {
+    "rank": 2,
+    "id": "para:phil:p0298:05",
+    "page": 298,
+    "source_id": "phil",
+    "score": 18.689514
+   },
+   {
+    "rank": 3,
+    "id": "para:phil:p0298:06",
+    "page": 298,
+    "source_id": "phil",
+    "score": 18.276595
+   },
+   {
+    "rank": 4,
+    "id": "para:phil:p0294:00",
+    "page": 294,
+    "source_id": "phil",
+    "score": 17.26359
+   },
+   {
+    "rank": 5,
+    "id": "para:phil:p0296:02",
+    "page": 296,
+    "source_id": "phil",
+    "score": 15.41719
+   },
+   {
+    "rank": 6,
+    "id": "para:phil:p0299:00",
+    "page": 299,
+    "source_id": "phil",
+    "score": 15.163755
+   },
+   {
+    "rank": 7,
+    "id": "para:phil:p0296:03",
+    "page": 296,
+    "source_id": "phil",
+    "score": 13.654585
+   },
+   {
+    "rank": 8,
+    "id": "para:phil:p0282:05",
+    "page": 282,
+    "source_id": "phil",
+    "score": 12.683347
+   },
+   {
+    "rank": 9,
+    "id": "para:phil:p0295:01",
+    "page": 295,
+    "source_id": "phil",
+    "score": 11.811807
+   },
+   {
+    "rank": 10,
+    "id": "para:phil:p0296:00",
+    "page": 296,
+    "source_id": "phil",
+    "score": 10.940469
+   }
+  ]
+ },
+ {
+  "method": "bm25",
+  "question_id": "d20",
+  "question": "Under what circumstances do some ethicists regard altering human genes as morally acceptable, and when do they regard it as unacceptable?",
+  "filter": null,
+  "hit_rank": 1,
+  "latency_ms": 0.4,
+  "results": [
+   {
+    "rank": 1,
+    "id": "para:phil:p0332:01",
+    "page": 332,
+    "source_id": "phil",
+    "score": 11.302547
+   },
+   {
+    "rank": 2,
+    "id": "para:phil:p0307:01",
+    "page": 307,
+    "source_id": "phil",
+    "score": 10.070082
+   },
+   {
+    "rank": 3,
+    "id": "para:bizethics:p0206:03",
+    "page": 206,
+    "source_id": "bizethics",
+    "score": 8.980837
+   },
+   {
+    "rank": 4,
+    "id": "para:phil:p0332:05",
+    "page": 332,
+    "source_id": "phil",
+    "score": 8.621769
+   },
+   {
+    "rank": 5,
+    "id": "para:phil:p0332:06",
+    "page": 332,
+    "source_id": "phil",
+    "score": 8.565296
+   },
+   {
+    "rank": 6,
+    "id": "para:phil:p0319:00",
+    "page": 319,
+    "source_id": "phil",
+    "score": 8.363313
+   },
+   {
+    "rank": 7,
+    "id": "para:phil:p0331:06",
+    "page": 331,
+    "source_id": "phil",
+    "score": 8.329433
+   },
+   {
+    "rank": 8,
+    "id": "para:phil:p0322:00",
+    "page": 322,
+    "source_id": "phil",
+    "score": 7.964126
+   },
+   {
+    "rank": 9,
+    "id": "para:phil:p0332:03",
+    "page": 332,
+    "source_id": "phil",
+    "score": 7.909106
+   },
+   {
+    "rank": 10,
+    "id": "para:phil:p0331:02",
+    "page": 331,
+    "source_id": "phil",
+    "score": 7.873822
+   }
+  ]
+ },
+ {
+  "method": "bm25",
+  "question_id": "d21",
+  "question": "Which year is given for the federal statute that obliges employers to warn workers beforehand about large-scale layoffs and facility shutdowns?",
+  "filter": null,
+  "hit_rank": 1,
+  "latency_ms": 0.4,
+  "results": [
+   {
+    "rank": 1,
+    "id": "para:bizethics:p0157:01",
+    "page": 157,
+    "source_id": "bizethics",
+    "score": 17.128711
+   },
+   {
+    "rank": 2,
+    "id": "para:bizlaw:p0102:00",
+    "page": 102,
+    "source_id": "bizlaw",
+    "score": 14.697614
+   },
+   {
+    "rank": 3,
+    "id": "para:bizethics:p0179:01",
+    "page": 179,
+    "source_id": "bizethics",
+    "score": 12.018667
+   },
+   {
+    "rank": 4,
+    "id": "para:bizethics:p0157:02",
+    "page": 157,
+    "source_id": "bizethics",
+    "score": 10.730113
+   },
+   {
+    "rank": 5,
+    "id": "para:bizethics:p0181:05",
+    "page": 181,
+    "source_id": "bizethics",
+    "score": 10.472812
+   },
+   {
+    "rank": 6,
+    "id": "para:bizethics:p0157:00",
+    "page": 157,
+    "source_id": "bizethics",
+    "score": 10.153119
+   },
+   {
+    "rank": 7,
+    "id": "para:bizethics:p0206:05",
+    "page": 206,
+    "source_id": "bizethics",
+    "score": 10.03782
+   },
+   {
+    "rank": 8,
+    "id": "para:bizethics:p0211:02",
+    "page": 211,
+    "source_id": "bizethics",
+    "score": 9.92692
+   },
+   {
+    "rank": 9,
+    "id": "para:bizlaw:p0102:02",
+    "page": 102,
+    "source_id": "bizlaw",
+    "score": 9.88794
+   },
+   {
+    "rank": 10,
+    "id": "para:phil:p0342:01",
+    "page": 342,
+    "source_id": "phil",
+    "score": 9.703852
+   }
+  ]
+ },
+ {
+  "method": "hybrid",
+  "question_id": "d01",
+  "question": "In Kant's second main test of a moral rule, how must we treat other people, and ourselves?",
+  "filter": null,
+  "hit_rank": 2,
+  "latency_ms": 62.8,
+  "results": [
+   {
+    "rank": 1,
+    "id": "para:phil:p0329:05",
+    "page": 329,
+    "source_id": "phil",
+    "score": 0.032787,
+    "components": {
+     "dense": 1,
+     "bm25": 1
+    }
+   },
+   {
+    "rank": 2,
+    "id": "para:phil:p0291:03",
+    "page": 291,
+    "source_id": "phil",
+    "score": 0.031514,
+    "components": {
+     "dense": 2,
+     "bm25": 5
+    }
+   },
+   {
+    "rank": 3,
+    "id": "para:phil:p0292:01",
+    "page": 292,
+    "source_id": "phil",
+    "score": 0.031054,
+    "components": {
+     "dense": 7,
+     "bm25": 2
+    }
+   },
+   {
+    "rank": 4,
+    "id": "para:phil:p0291:04",
+    "page": 291,
+    "source_id": "phil",
+    "score": 0.030798,
+    "components": {
+     "dense": 3,
+     "bm25": 7
+    }
+   },
+   {
+    "rank": 5,
+    "id": "para:phil:p0288:04",
+    "page": 288,
+    "source_id": "phil",
+    "score": 0.029911,
+    "components": {
+     "dense": 10,
+     "bm25": 4
+    }
+   },
+   {
+    "rank": 6,
+    "id": "para:phil:p0291:01",
+    "page": 291,
+    "source_id": "phil",
+    "score": 0.029644,
+    "components": {
+     "dense": 9,
+     "bm25": 6
+    }
+   },
+   {
+    "rank": 7,
+    "id": "para:phil:p0290:01",
+    "page": 290,
+    "source_id": "phil",
+    "score": 0.029469,
+    "components": {
+     "dense": 5,
+     "bm25": 11
+    }
+   },
+   {
+    "rank": 8,
+    "id": "para:phil:p0289:05",
+    "page": 289,
+    "source_id": "phil",
+    "score": 0.029324,
+    "components": {
+     "dense": 4,
+     "bm25": 13
+    }
+   },
+   {
+    "rank": 9,
+    "id": "para:phil:p0290:03",
+    "page": 290,
+    "source_id": "phil",
+    "score": 0.028531,
+    "components": {
+     "dense": 19,
+     "bm25": 3
+    }
+   },
+   {
+    "rank": 10,
+    "id": "para:phil:p0322:01",
+    "page": 322,
+    "source_id": "phil",
+    "score": 0.028175,
+    "components": {
+     "dense": 12,
+     "bm25": 10
+    }
+   }
+  ]
+ },
+ {
+  "method": "hybrid",
+  "question_id": "d02",
+  "question": "Which kind of euthanasia does the utilitarian philosopher Peter Singer still reject, and how is it defined?",
+  "filter": null,
+  "hit_rank": 1,
+  "latency_ms": 65.4,
+  "results": [
+   {
+    "rank": 1,
+    "id": "para:phil:p0326:03",
+    "page": 326,
+    "source_id": "phil",
+    "score": 0.032787,
+    "components": {
+     "dense": 1,
+     "bm25": 1
+    }
+   },
+   {
+    "rank": 2,
+    "id": "para:phil:p0326:02",
+    "page": 326,
+    "source_id": "phil",
+    "score": 0.031281,
+    "components": {
+     "dense": 2,
+     "bm25": 6
+    }
+   },
+   {
+    "rank": 3,
+    "id": "para:phil:p0326:04",
+    "page": 326,
+    "source_id": "phil",
+    "score": 0.030798,
+    "components": {
+     "dense": 3,
+     "bm25": 7
+    }
+   },
+   {
+    "rank": 4,
+    "id": "para:phil:p0326:05",
+    "page": 326,
+    "source_id": "phil",
+    "score": 0.030331,
+    "components": {
+     "dense": 4,
+     "bm25": 8
+    }
+   },
+   {
+    "rank": 5,
+    "id": "para:phil:p0325:03",
+    "page": 325,
+    "source_id": "phil",
+    "score": 0.029877,
+    "components": {
+     "dense": 5,
+     "bm25": 9
+    }
+   },
+   {
+    "rank": 6,
+    "id": "para:phil:p0325:04",
+    "page": 325,
+    "source_id": "phil",
+    "score": 0.029387,
+    "components": {
+     "dense": 14,
+     "bm25": 3
+    }
+   },
+   {
+    "rank": 7,
+    "id": "para:phil:p0327:00",
+    "page": 327,
+    "source_id": "phil",
+    "score": 0.029211,
+    "components": {
+     "dense": 7,
+     "bm25": 10
+    }
+   },
+   {
+    "rank": 8,
+    "id": "para:phil:p0325:01",
+    "page": 325,
+    "source_id": "phil",
+    "score": 0.028629,
+    "components": {
+     "dense": 20,
+     "bm25": 2
+    }
+   },
+   {
+    "rank": 9,
+    "id": "para:phil:p0325:02",
+    "page": 325,
+    "source_id": "phil",
+    "score": 0.028595,
+    "components": {
+     "dense": 8,
+     "bm25": 12
+    }
+   },
+   {
+    "rank": 10,
+    "id": "para:phil:p0326:01",
+    "page": 326,
+    "source_id": "phil",
+    "score": 0.028309,
+    "components": {
+     "dense": 6,
+     "bm25": 16
+    }
+   }
+  ]
+ },
+ {
+  "method": "hybrid",
+  "question_id": "d03",
+  "question": "Which ethical principle does informed consent protect for people who take part in a clinical trial?",
+  "filter": null,
+  "hit_rank": 1,
+  "latency_ms": 60.4,
+  "results": [
+   {
+    "rank": 1,
+    "id": "para:phil:p0328:01",
+    "page": 328,
+    "source_id": "phil",
+    "score": 0.032787,
+    "components": {
+     "dense": 1,
+     "bm25": 1
+    }
+   },
+   {
+    "rank": 2,
+    "id": "para:phil:p0327:04",
+    "page": 327,
+    "source_id": "phil",
+    "score": 0.032002,
+    "components": {
+     "dense": 3,
+     "bm25": 2
+    }
+   },
+   {
+    "rank": 3,
+    "id": "para:phil:p0328:05",
+    "page": 328,
+    "source_id": "phil",
+    "score": 0.031258,
+    "components": {
+     "dense": 5,
+     "bm25": 3
+    }
+   },
+   {
+    "rank": 4,
+    "id": "para:phil:p0328:04",
+    "page": 328,
+    "source_id": "phil",
+    "score": 0.03125,
+    "components": {
+     "dense": 4,
+     "bm25": 4
+    }
+   },
+   {
+    "rank": 5,
+    "id": "para:phil:p0330:00",
+    "page": 330,
+    "source_id": "phil",
+    "score": 0.031054,
+    "components": {
+     "dense": 2,
+     "bm25": 7
+    }
+   },
+   {
+    "rank": 6,
+    "id": "para:phil:p0327:02",
+    "page": 327,
+    "source_id": "phil",
+    "score": 0.02904,
+    "components": {
+     "dense": 12,
+     "bm25": 6
+    }
+   },
+   {
+    "rank": 7,
+    "id": "para:phil:p0328:03",
+    "page": 328,
+    "source_id": "phil",
+    "score": 0.02904,
+    "components": {
+     "dense": 6,
+     "bm25": 12
+    }
+   },
+   {
+    "rank": 8,
+    "id": "para:phil:p0328:06",
+    "page": 328,
+    "source_id": "phil",
+    "score": 0.028718,
+    "components": {
+     "dense": 15,
+     "bm25": 5
+    }
+   },
+   {
+    "rank": 9,
+    "id": "para:phil:p0327:01",
+    "page": 327,
+    "source_id": "phil",
+    "score": 0.028439,
+    "components": {
+     "dense": 7,
+     "bm25": 14
+    }
+   },
+   {
+    "rank": 10,
+    "id": "para:phil:p0329:01",
+    "page": 329,
+    "source_id": "phil",
+    "score": 0.028219,
+    "components": {
+     "dense": 14,
+     "bm25": 8
+    }
+   }
+  ]
+ },
+ {
+  "method": "hybrid",
+  "question_id": "d04",
+  "question": "Who introduced the term deep ecology, and what does this view assume about living things?",
+  "filter": null,
+  "hit_rank": 1,
+  "latency_ms": 63.7,
+  "results": [
+   {
+    "rank": 1,
+    "id": "para:phil:p0337:02",
+    "page": 337,
+    "source_id": "phil",
+    "score": 0.032787,
+    "components": {
+     "dense": 1,
+     "bm25": 1
+    }
+   },
+   {
+    "rank": 2,
+    "id": "para:phil:p0337:03",
+    "page": 337,
+    "source_id": "phil",
+    "score": 0.032258,
+    "components": {
+     "dense": 2,
+     "bm25": 2
+    }
+   },
+   {
+    "rank": 3,
+    "id": "para:phil:p0337:04",
+    "page": 337,
+    "source_id": "phil",
+    "score": 0.031746,
+    "components": {
+     "dense": 3,
+     "bm25": 3
+    }
+   },
+   {
+    "rank": 4,
+    "id": "para:phil:p0337:05",
+    "page": 337,
+    "source_id": "phil",
+    "score": 0.029514,
+    "components": {
+     "dense": 4,
+     "bm25": 12
+    }
+   },
+   {
+    "rank": 5,
+    "id": "para:phil:p0304:04",
+    "page": 304,
+    "source_id": "phil",
+    "score": 0.028309,
+    "components": {
+     "dense": 16,
+     "bm25": 6
+    }
+   },
+   {
+    "rank": 6,
+    "id": "para:phil:p0304:02",
+    "page": 304,
+    "source_id": "phil",
+    "score": 0.026879,
+    "components": {
+     "dense": 27,
+     "bm25": 5
+    }
+   },
+   {
+    "rank": 7,
+    "id": "para:phil:p0323:03",
+    "page": 323,
+    "source_id": "phil",
+    "score": 0.026686,
+    "components": {
+     "dense": 17,
+     "bm25": 13
+    }
+   },
+   {
+    "rank": 8,
+    "id": "para:phil:p0303:01",
+    "page": 303,
+    "source_id": "phil",
+    "score": 0.025726,
+    "components": {
+     "dense": 39,
+     "bm25": 4
+    }
+   },
+   {
+    "rank": 9,
+    "id": "para:phil:p0302:03",
+    "page": 302,
+    "source_id": "phil",
+    "score": 0.025418,
+    "components": {
+     "dense": 24,
+     "bm25": 14
+    }
+   },
+   {
+    "rank": 10,
+    "id": "para:phil:p0338:00",
+    "page": 338,
+    "source_id": "phil",
+    "score": 0.024569,
+    "components": {
+     "dense": 15,
+     "bm25": 29
+    }
+   }
+  ]
+ },
+ {
+  "method": "hybrid",
+  "question_id": "d05",
+  "question": "What protection do workers have against employer punishment if they complain to the workplace safety agency about hazards?",
+  "filter": null,
+  "hit_rank": 1,
+  "latency_ms": 63.4,
+  "results": [
+   {
+    "rank": 1,
+    "id": "para:bizethics:p0158:01",
+    "page": 158,
+    "source_id": "bizethics",
+    "score": 0.032787,
+    "components": {
+     "dense": 1,
+     "bm25": 1
+    }
+   },
+   {
+    "rank": 2,
+    "id": "para:bizlaw:p0098:01",
+    "page": 98,
+    "source_id": "bizlaw",
+    "score": 0.032002,
+    "components": {
+     "dense": 2,
+     "bm25": 3
+    }
+   },
+   {
+    "rank": 3,
+    "id": "para:bizethics:p0211:06",
+    "page": 211,
+    "source_id": "bizethics",
+    "score": 0.031498,
+    "components": {
+     "dense": 3,
+     "bm25": 4
+    }
+   },
+   {
+    "rank": 4,
+    "id": "para:bizethics:p0157:04",
+    "page": 157,
+    "source_id": "bizethics",
+    "score": 0.031281,
+    "components": {
+     "dense": 6,
+     "bm25": 2
+    }
+   },
+   {
+    "rank": 5,
+    "id": "para:bizlaw:p0099:00",
+    "page": 99,
+    "source_id": "bizlaw",
+    "score": 0.030777,
+    "components": {
+     "dense": 4,
+     "bm25": 6
+    }
+   },
+   {
+    "rank": 6,
+    "id": "para:bizlaw:p0098:03",
+    "page": 98,
+    "source_id": "bizlaw",
+    "score": 0.029851,
+    "components": {
+     "dense": 7,
+     "bm25": 7
+    }
+   },
+   {
+    "rank": 7,
+    "id": "para:phil:p0341:01",
+    "page": 341,
+    "source_id": "phil",
+    "score": 0.029412,
+    "components": {
+     "dense": 8,
+     "bm25": 8
+    }
+   },
+   {
+    "rank": 8,
+    "id": "para:bizethics:p0159:01",
+    "page": 159,
+    "source_id": "bizethics",
+    "score": 0.029274,
+    "components": {
+     "dense": 5,
+     "bm25": 12
+    }
+   },
+   {
+    "rank": 9,
+    "id": "para:bizethics:p0159:00",
+    "page": 159,
+    "source_id": "bizethics",
+    "score": 0.029083,
+    "components": {
+     "dense": 13,
+     "bm25": 5
+    }
+   },
+   {
+    "rank": 10,
+    "id": "para:bizlaw:p0099:01",
+    "page": 99,
+    "source_id": "bizlaw",
+    "score": 0.027984,
+    "components": {
+     "dense": 10,
+     "bm25": 13
+    }
+   }
+  ]
+ },
+ {
+  "method": "hybrid",
+  "question_id": "d06",
+  "question": "When a coworker rather than a supervisor harasses someone, at what point does the company become liable?",
+  "filter": null,
+  "hit_rank": 1,
+  "latency_ms": 86.4,
+  "results": [
+   {
+    "rank": 1,
+    "id": "para:bizethics:p0159:04",
+    "page": 159,
+    "source_id": "bizethics",
+    "score": 0.032787,
+    "components": {
+     "dense": 1,
+     "bm25": 1
+    }
+   },
+   {
+    "rank": 2,
+    "id": "para:bizethics:p0204:01",
+    "page": 204,
+    "source_id": "bizethics",
+    "score": 0.032002,
+    "components": {
+     "dense": 3,
+     "bm25": 2
+    }
+   },
+   {
+    "rank": 3,
+    "id": "para:bizethics:p0210:01",
+    "page": 210,
+    "source_id": "bizethics",
+    "score": 0.026519,
+    "components": {
+     "dense": 13,
+     "bm25": 18
+    }
+   },
+   {
+    "rank": 4,
+    "id": "para:bizethics:p0159:05",
+    "page": 159,
+    "source_id": "bizethics",
+    "score": 0.026129,
+    "components": {
+     "dense": 2,
+     "bm25": 40
+    }
+   },
+   {
+    "rank": 5,
+    "id": "para:phil:p0341:01",
+    "page": 341,
+    "source_id": "phil",
+    "score": 0.025679,
+    "components": {
+     "dense": 15,
+     "bm25": 21
+    }
+   },
+   {
+    "rank": 6,
+    "id": "para:bizethics:p0210:02",
+    "page": 210,
+    "source_id": "bizethics",
+    "score": 0.025488,
+    "components": {
+     "dense": 44,
+     "bm25": 3
+    }
+   },
+   {
+    "rank": 7,
+    "id": "para:bizlaw:p0106:02",
+    "page": 106,
+    "source_id": "bizlaw",
+    "score": 0.022888,
+    "components": {
+     "dense": 41,
+     "bm25": 17
+    }
+   },
+   {
+    "rank": 8,
+    "id": "para:bizethics:p0211:02",
+    "page": 211,
+    "source_id": "bizethics",
+    "score": 0.022483,
+    "components": {
+     "dense": 31,
+     "bm25": 27
+    }
+   },
+   {
+    "rank": 9,
+    "id": "para:bizethics:p0189:02",
+    "page": 189,
+    "source_id": "bizethics",
+    "score": 0.022403,
+    "components": {
+     "dense": 25,
+     "bm25": 34
+    }
+   },
+   {
+    "rank": 10,
+    "id": "para:bizethics:p0199:04",
+    "page": 199,
+    "source_id": "bizethics",
+    "score": 0.015625,
+    "components": {
+     "dense": 4
+    }
+   }
+  ]
+ },
+ {
+  "method": "hybrid",
+  "question_id": "d07",
+  "question": "Before an employee takes suspected wrongdoing by the employer to a government agency, which step should they usually try first?",
+  "filter": null,
+  "hit_rank": 1,
+  "latency_ms": 70.3,
+  "results": [
+   {
+    "rank": 1,
+    "id": "para:bizethics:p0211:05",
+    "page": 211,
+    "source_id": "bizethics",
+    "score": 0.032787,
+    "components": {
+     "dense": 1,
+     "bm25": 1
+    }
+   },
+   {
+    "rank": 2,
+    "id": "para:bizethics:p0211:04",
+    "page": 211,
+    "source_id": "bizethics",
+    "score": 0.030579,
+    "components": {
+     "dense": 8,
+     "bm25": 3
+    }
+   },
+   {
+    "rank": 3,
+    "id": "para:bizethics:p0211:03",
+    "page": 211,
+    "source_id": "bizethics",
+    "score": 0.029911,
+    "components": {
+     "dense": 4,
+     "bm25": 10
+    }
+   },
+   {
+    "rank": 4,
+    "id": "para:bizlaw:p0099:00",
+    "page": 99,
+    "source_id": "bizlaw",
+    "score": 0.029851,
+    "components": {
+     "dense": 7,
+     "bm25": 7
+    }
+   },
+   {
+    "rank": 5,
+    "id": "para:bizethics:p0199:04",
+    "page": 199,
+    "source_id": "bizethics",
+    "score": 0.026389,
+    "components": {
+     "dense": 20,
+     "bm25": 12
+    }
+   },
+   {
+    "rank": 6,
+    "id": "para:bizethics:p0214:00",
+    "page": 214,
+    "source_id": "bizethics",
+    "score": 0.026023,
+    "components": {
+     "dense": 34,
+     "bm25": 5
+    }
+   },
+   {
+    "rank": 7,
+    "id": "para:bizethics:p0191:00",
+    "page": 191,
+    "source_id": "bizethics",
+    "score": 0.025123,
+    "components": {
+     "dense": 36,
+     "bm25": 8
+    }
+   },
+   {
+    "rank": 8,
+    "id": "para:bizethics:p0182:01",
+    "page": 182,
+    "source_id": "bizethics",
+    "score": 0.024964,
+    "components": {
+     "dense": 3,
+     "bm25": 50
+    }
+   },
+   {
+    "rank": 9,
+    "id": "para:bizethics:p0190:05",
+    "page": 190,
+    "source_id": "bizethics",
+    "score": 0.024108,
+    "components": {
+     "dense": 9,
+     "bm25": 44
+    }
+   },
+   {
+    "rank": 10,
+    "id": "para:bizethics:p0156:03",
+    "page": 156,
+    "source_id": "bizethics",
+    "score": 0.023864,
+    "components": {
+     "dense": 28,
+     "bm25": 20
+    }
+   }
+  ]
+ },
+ {
+  "method": "hybrid",
+  "question_id": "d08",
+  "question": "In California, can an employer enforce an agreement that stops a former employee from working elsewhere after leaving?",
+  "filter": null,
+  "hit_rank": 1,
+  "latency_ms": 62.9,
+  "results": [
+   {
+    "rank": 1,
+    "id": "para:bizethics:p0195:00",
+    "page": 195,
+    "source_id": "bizethics",
+    "score": 0.032787,
+    "components": {
+     "dense": 1,
+     "bm25": 1
+    }
+   },
+   {
+    "rank": 2,
+    "id": "para:bizethics:p0195:01",
+    "page": 195,
+    "source_id": "bizethics",
+    "score": 0.032002,
+    "components": {
+     "dense": 3,
+     "bm25": 2
+    }
+   },
+   {
+    "rank": 3,
+    "id": "para:bizethics:p0196:00",
+    "page": 196,
+    "source_id": "bizethics",
+    "score": 0.031498,
+    "components": {
+     "dense": 4,
+     "bm25": 3
+    }
+   },
+   {
+    "rank": 4,
+    "id": "para:bizethics:p0195:02",
+    "page": 195,
+    "source_id": "bizethics",
+    "score": 0.030769,
+    "components": {
+     "dense": 5,
+     "bm25": 5
+    }
+   },
+   {
+    "rank": 5,
+    "id": "para:bizethics:p0195:04",
+    "page": 195,
+    "source_id": "bizethics",
+    "score": 0.030214,
+    "components": {
+     "dense": 2,
+     "bm25": 11
+    }
+   },
+   {
+    "rank": 6,
+    "id": "para:bizethics:p0194:03",
+    "page": 194,
+    "source_id": "bizethics",
+    "score": 0.029644,
+    "components": {
+     "dense": 9,
+     "bm25": 6
+    }
+   },
+   {
+    "rank": 7,
+    "id": "para:bizethics:p0195:03",
+    "page": 195,
+    "source_id": "bizethics",
+    "score": 0.029211,
+    "components": {
+     "dense": 7,
+     "bm25": 10
+    }
+   },
+   {
+    "rank": 8,
+    "id": "para:bizethics:p0193:04",
+    "page": 193,
+    "source_id": "bizethics",
+    "score": 0.027402,
+    "components": {
+     "dense": 14,
+     "bm25": 12
+    }
+   },
+   {
+    "rank": 9,
+    "id": "para:bizlaw:p0103:02",
+    "page": 103,
+    "source_id": "bizlaw",
+    "score": 0.027119,
+    "components": {
+     "dense": 27,
+     "bm25": 4
+    }
+   },
+   {
+    "rank": 10,
+    "id": "para:bizlaw:p0102:01",
+    "page": 102,
+    "source_id": "bizlaw",
+    "score": 0.026631,
+    "components": {
+     "dense": 10,
+     "bm25": 21
+    }
+   }
+  ]
+ },
+ {
+  "method": "hybrid",
+  "question_id": "d09",
+  "question": "What kind of damages are normally awarded when someone relied on a broken promise that lacked consideration, and which kind is usually unavailable?",
+  "filter": null,
+  "hit_rank": 1,
+  "latency_ms": 66.3,
+  "results": [
+   {
+    "rank": 1,
+    "id": "para:bizlaw:p0081:01",
+    "page": 81,
+    "source_id": "bizlaw",
+    "score": 0.032787,
+    "components": {
+     "dense": 1,
+     "bm25": 1
+    }
+   },
+   {
+    "rank": 2,
+    "id": "para:bizlaw:p0081:03",
+    "page": 81,
+    "source_id": "bizlaw",
+    "score": 0.032258,
+    "components": {
+     "dense": 2,
+     "bm25": 2
+    }
+   },
+   {
+    "rank": 3,
+    "id": "para:bizlaw:p0081:00",
+    "page": 81,
+    "source_id": "bizlaw",
+    "score": 0.031746,
+    "components": {
+     "dense": 3,
+     "bm25": 3
+    }
+   },
+   {
+    "rank": 4,
+    "id": "para:bizlaw:p0080:03",
+    "page": 80,
+    "source_id": "bizlaw",
+    "score": 0.028958,
+    "components": {
+     "dense": 15,
+     "bm25": 4
+    }
+   },
+   {
+    "rank": 5,
+    "id": "para:bizlaw:p0084:00",
+    "page": 84,
+    "source_id": "bizlaw",
+    "score": 0.027119,
+    "components": {
+     "dense": 4,
+     "bm25": 27
+    }
+   },
+   {
+    "rank": 6,
+    "id": "para:phil:p0293:01",
+    "page": 293,
+    "source_id": "phil",
+    "score": 0.026263,
+    "components": {
+     "dense": 30,
+     "bm25": 6
+    }
+   },
+   {
+    "rank": 7,
+    "id": "para:bizlaw:p0069:01",
+    "page": 69,
+    "source_id": "bizlaw",
+    "score": 0.025645,
+    "components": {
+     "dense": 19,
+     "bm25": 17
+    }
+   },
+   {
+    "rank": 8,
+    "id": "para:bizlaw:p0082:02",
+    "page": 82,
+    "source_id": "bizlaw",
+    "score": 0.025196,
+    "components": {
+     "dense": 11,
+     "bm25": 30
+    }
+   },
+   {
+    "rank": 9,
+    "id": "para:bizlaw:p0070:03",
+    "page": 70,
+    "source_id": "bizlaw",
+    "score": 0.024594,
+    "components": {
+     "dense": 9,
+     "bm25": 39
+    }
+   },
+   {
+    "rank": 10,
+    "id": "para:bizlaw:p0105:00",
+    "page": 105,
+    "source_id": "bizlaw",
+    "score": 0.024559,
+    "components": {
+     "dense": 49,
+     "bm25": 5
+    }
+   }
+  ]
+ },
+ {
+  "method": "hybrid",
+  "question_id": "d10",
+  "question": "Can someone under 18 who signed a contract cancel it, and are there contracts they cannot cancel?",
+  "filter": null,
+  "hit_rank": 1,
+  "latency_ms": 69.1,
+  "results": [
+   {
+    "rank": 1,
+    "id": "para:bizlaw:p0082:00",
+    "page": 82,
+    "source_id": "bizlaw",
+    "score": 0.032787,
+    "components": {
+     "dense": 1,
+     "bm25": 1
+    }
+   },
+   {
+    "rank": 2,
+    "id": "para:bizlaw:p0080:01",
+    "page": 80,
+    "source_id": "bizlaw",
+    "score": 0.031025,
+    "components": {
+     "dense": 3,
+     "bm25": 6
+    }
+   },
+   {
+    "rank": 3,
+    "id": "para:bizlaw:p0083:01",
+    "page": 83,
+    "source_id": "bizlaw",
+    "score": 0.031025,
+    "components": {
+     "dense": 6,
+     "bm25": 3
+    }
+   },
+   {
+    "rank": 4,
+    "id": "para:bizlaw:p0084:01",
+    "page": 84,
+    "source_id": "bizlaw",
+    "score": 0.029462,
+    "components": {
+     "dense": 15,
+     "bm25": 2
+    }
+   },
+   {
+    "rank": 5,
+    "id": "para:bizlaw:p0081:04",
+    "page": 81,
+    "source_id": "bizlaw",
+    "score": 0.028324,
+    "components": {
+     "dense": 2,
+     "bm25": 22
+    }
+   },
+   {
+    "rank": 6,
+    "id": "para:bizlaw:p0080:00",
+    "page": 80,
+    "source_id": "bizlaw",
+    "score": 0.028191,
+    "components": {
+     "dense": 9,
+     "bm25": 13
+    }
+   },
+   {
+    "rank": 7,
+    "id": "para:bizlaw:p0083:05",
+    "page": 83,
+    "source_id": "bizlaw",
+    "score": 0.027973,
+    "components": {
+     "dense": 11,
+     "bm25": 12
+    }
+   },
+   {
+    "rank": 8,
+    "id": "para:bizlaw:p0083:00",
+    "page": 83,
+    "source_id": "bizlaw",
+    "score": 0.02773,
+    "components": {
+     "dense": 5,
+     "bm25": 21
+    }
+   },
+   {
+    "rank": 9,
+    "id": "para:bizlaw:p0082:05",
+    "page": 82,
+    "source_id": "bizlaw",
+    "score": 0.027673,
+    "components": {
+     "dense": 23,
+     "bm25": 4
+    }
+   },
+   {
+    "rank": 10,
+    "id": "para:bizethics:p0196:00",
+    "page": 196,
+    "source_id": "bizethics",
+    "score": 0.027013,
+    "components": {
+     "dense": 26,
+     "bm25": 5
+    }
+   }
+  ]
+ },
+ {
+  "method": "hybrid",
+  "question_id": "d11",
+  "question": "How much unpaid leave may eligible workers take for family or medical emergencies, and which employers does that law cover?",
+  "filter": null,
+  "hit_rank": 1,
+  "latency_ms": 63.1,
+  "results": [
+   {
+    "rank": 1,
+    "id": "para:bizlaw:p0100:01",
+    "page": 100,
+    "source_id": "bizlaw",
+    "score": 0.032787,
+    "components": {
+     "dense": 1,
+     "bm25": 1
+    }
+   },
+   {
+    "rank": 2,
+    "id": "para:bizlaw:p0100:02",
+    "page": 100,
+    "source_id": "bizlaw",
+    "score": 0.032258,
+    "components": {
+     "dense": 2,
+     "bm25": 2
+    }
+   },
+   {
+    "rank": 3,
+    "id": "para:bizlaw:p0100:05",
+    "page": 100,
+    "source_id": "bizlaw",
+    "score": 0.030118,
+    "components": {
+     "dense": 9,
+     "bm25": 4
+    }
+   },
+   {
+    "rank": 4,
+    "id": "para:bizlaw:p0100:03",
+    "page": 100,
+    "source_id": "bizlaw",
+    "score": 0.02971,
+    "components": {
+     "dense": 4,
+     "bm25": 11
+    }
+   },
+   {
+    "rank": 5,
+    "id": "para:bizlaw:p0101:00",
+    "page": 101,
+    "source_id": "bizlaw",
+    "score": 0.02904,
+    "components": {
+     "dense": 6,
+     "bm25": 12
+    }
+   },
+   {
+    "rank": 6,
+    "id": "para:bizethics:p0157:01",
+    "page": 157,
+    "source_id": "bizethics",
+    "score": 0.027984,
+    "components": {
+     "dense": 13,
+     "bm25": 10
+    }
+   },
+   {
+    "rank": 7,
+    "id": "para:bizlaw:p0102:00",
+    "page": 102,
+    "source_id": "bizlaw",
+    "score": 0.027651,
+    "components": {
+     "dense": 16,
+     "bm25": 9
+    }
+   },
+   {
+    "rank": 8,
+    "id": "para:bizethics:p0209:03",
+    "page": 209,
+    "source_id": "bizethics",
+    "score": 0.026671,
+    "components": {
+     "dense": 14,
+     "bm25": 16
+    }
+   },
+   {
+    "rank": 9,
+    "id": "para:bizlaw:p0097:03",
+    "page": 97,
+    "source_id": "bizlaw",
+    "score": 0.024449,
+    "components": {
+     "dense": 7,
+     "bm25": 45
+    }
+   },
+   {
+    "rank": 10,
+    "id": "para:bizethics:p0190:02",
+    "page": 190,
+    "source_id": "bizethics",
+    "score": 0.024086,
+    "components": {
+     "dense": 33,
+     "bm25": 15
+    }
+   }
+  ]
+ },
+ {
+  "method": "hybrid",
+  "question_id": "d12",
+  "question": "Which workers fall outside the federal workplace safety law's protection?",
+  "filter": null,
+  "hit_rank": 3,
+  "latency_ms": 59.5,
+  "results": [
+   {
+    "rank": 1,
+    "id": "para:bizethics:p0157:04",
+    "page": 157,
+    "source_id": "bizethics",
+    "score": 0.032266,
+    "components": {
+     "dense": 1,
+     "bm25": 3
+    }
+   },
+   {
+    "rank": 2,
+    "id": "para:bizethics:p0211:06",
+    "page": 211,
+    "source_id": "bizethics",
+    "score": 0.032258,
+    "components": {
+     "dense": 2,
+     "bm25": 2
+    }
+   },
+   {
+    "rank": 3,
+    "id": "para:bizlaw:p0098:01",
+    "page": 98,
+    "source_id": "bizlaw",
+    "score": 0.031778,
+    "components": {
+     "dense": 5,
+     "bm25": 1
+    }
+   },
+   {
+    "rank": 4,
+    "id": "para:bizethics:p0159:00",
+    "page": 159,
+    "source_id": "bizethics",
+    "score": 0.030366,
+    "components": {
+     "dense": 3,
+     "bm25": 9
+    }
+   },
+   {
+    "rank": 5,
+    "id": "para:bizethics:p0158:00",
+    "page": 158,
+    "source_id": "bizethics",
+    "score": 0.02971,
+    "components": {
+     "dense": 4,
+     "bm25": 11
+    }
+   },
+   {
+    "rank": 6,
+    "id": "para:bizlaw:p0104:02",
+    "page": 104,
+    "source_id": "bizlaw",
+    "score": 0.029083,
+    "components": {
+     "dense": 13,
+     "bm25": 5
+    }
+   },
+   {
+    "rank": 7,
+    "id": "para:bizethics:p0180:02",
+    "page": 180,
+    "source_id": "bizethics",
+    "score": 0.028612,
+    "components": {
+     "dense": 17,
+     "bm25": 4
+    }
+   },
+   {
+    "rank": 8,
+    "id": "para:bizethics:p0158:02",
+    "page": 158,
+    "source_id": "bizethics",
+    "score": 0.028039,
+    "components": {
+     "dense": 8,
+     "bm25": 15
+    }
+   },
+   {
+    "rank": 9,
+    "id": "para:phil:p0340:03",
+    "page": 340,
+    "source_id": "phil",
+    "score": 0.027746,
+    "components": {
+     "dense": 7,
+     "bm25": 18
+    }
+   },
+   {
+    "rank": 10,
+    "id": "para:phil:p0341:00",
+    "page": 341,
+    "source_id": "phil",
+    "score": 0.027056,
+    "components": {
+     "dense": 6,
+     "bm25": 24
+    }
+   }
+  ]
+ },
+ {
+  "method": "hybrid",
+  "question_id": "d13",
+  "question": "How many employees must a business have before the main federal law against workplace discrimination based on race, sex, religion, color or national origin applies to it?",
+  "filter": null,
+  "hit_rank": 1,
+  "latency_ms": 77.4,
+  "results": [
+   {
+    "rank": 1,
+    "id": "para:bizlaw:p0104:03",
+    "page": 104,
+    "source_id": "bizlaw",
+    "score": 0.032522,
+    "components": {
+     "dense": 1,
+     "bm25": 2
+    }
+   },
+   {
+    "rank": 2,
+    "id": "para:bizethics:p0159:02",
+    "page": 159,
+    "source_id": "bizethics",
+    "score": 0.031498,
+    "components": {
+     "dense": 4,
+     "bm25": 3
+    }
+   },
+   {
+    "rank": 3,
+    "id": "para:bizethics:p0159:03",
+    "page": 159,
+    "source_id": "bizethics",
+    "score": 0.030478,
+    "components": {
+     "dense": 11,
+     "bm25": 1
+    }
+   },
+   {
+    "rank": 4,
+    "id": "para:bizlaw:p0106:02",
+    "page": 106,
+    "source_id": "bizlaw",
+    "score": 0.030077,
+    "components": {
+     "dense": 6,
+     "bm25": 7
+    }
+   },
+   {
+    "rank": 5,
+    "id": "para:bizlaw:p0108:01",
+    "page": 108,
+    "source_id": "bizlaw",
+    "score": 0.030077,
+    "components": {
+     "dense": 7,
+     "bm25": 6
+    }
+   },
+   {
+    "rank": 6,
+    "id": "para:bizlaw:p0106:00",
+    "page": 106,
+    "source_id": "bizlaw",
+    "score": 0.029828,
+    "components": {
+     "dense": 2,
+     "bm25": 13
+    }
+   },
+   {
+    "rank": 7,
+    "id": "para:bizethics:p0180:02",
+    "page": 180,
+    "source_id": "bizethics",
+    "score": 0.029083,
+    "components": {
+     "dense": 13,
+     "bm25": 5
+    }
+   },
+   {
+    "rank": 8,
+    "id": "para:bizlaw:p0107:03",
+    "page": 107,
+    "source_id": "bizlaw",
+    "score": 0.02879,
+    "components": {
+     "dense": 8,
+     "bm25": 11
+    }
+   },
+   {
+    "rank": 9,
+    "id": "para:bizlaw:p0107:00",
+    "page": 107,
+    "source_id": "bizlaw",
+    "score": 0.028571,
+    "components": {
+     "dense": 10,
+     "bm25": 10
+    }
+   },
+   {
+    "rank": 10,
+    "id": "para:bizlaw:p0106:01",
+    "page": 106,
+    "source_id": "bizlaw",
+    "score": 0.027971,
+    "components": {
+     "dense": 21,
+     "bm25": 4
+    }
+   }
+  ]
+ },
+ {
+  "method": "hybrid",
+  "question_id": "d14",
+  "question": "Even after an injured employee receives workplace-injury compensation, in what situation can they still take the employer to court?",
+  "filter": null,
+  "hit_rank": 1,
+  "latency_ms": 71.7,
+  "results": [
+   {
+    "rank": 1,
+    "id": "para:bizlaw:p0099:01",
+    "page": 99,
+    "source_id": "bizlaw",
+    "score": 0.032787,
+    "components": {
+     "dense": 1,
+     "bm25": 1
+    }
+   },
+   {
+    "rank": 2,
+    "id": "para:bizethics:p0195:00",
+    "page": 195,
+    "source_id": "bizethics",
+    "score": 0.031281,
+    "components": {
+     "dense": 6,
+     "bm25": 2
+    }
+   },
+   {
+    "rank": 3,
+    "id": "para:bizlaw:p0099:00",
+    "page": 99,
+    "source_id": "bizlaw",
+    "score": 0.030415,
+    "components": {
+     "dense": 2,
+     "bm25": 10
+    }
+   },
+   {
+    "rank": 4,
+    "id": "para:bizlaw:p0099:02",
+    "page": 99,
+    "source_id": "bizlaw",
+    "score": 0.029631,
+    "components": {
+     "dense": 8,
+     "bm25": 7
+    }
+   },
+   {
+    "rank": 5,
+    "id": "para:bizethics:p0182:01",
+    "page": 182,
+    "source_id": "bizethics",
+    "score": 0.029274,
+    "components": {
+     "dense": 12,
+     "bm25": 5
+    }
+   },
+   {
+    "rank": 6,
+    "id": "para:bizlaw:p0105:00",
+    "page": 105,
+    "source_id": "bizlaw",
+    "score": 0.028612,
+    "components": {
+     "dense": 4,
+     "bm25": 17
+    }
+   },
+   {
+    "rank": 7,
+    "id": "para:bizethics:p0199:03",
+    "page": 199,
+    "source_id": "bizethics",
+    "score": 0.028219,
+    "components": {
+     "dense": 14,
+     "bm25": 8
+    }
+   },
+   {
+    "rank": 8,
+    "id": "para:bizethics:p0181:01",
+    "page": 181,
+    "source_id": "bizethics",
+    "score": 0.026989,
+    "components": {
+     "dense": 28,
+     "bm25": 4
+    }
+   },
+   {
+    "rank": 9,
+    "id": "para:bizlaw:p0074:00",
+    "page": 74,
+    "source_id": "bizlaw",
+    "score": 0.026984,
+    "components": {
+     "dense": 30,
+     "bm25": 3
+    }
+   },
+   {
+    "rank": 10,
+    "id": "para:bizlaw:p0068:02",
+    "page": 68,
+    "source_id": "bizlaw",
+    "score": 0.02683,
+    "components": {
+     "dense": 7,
+     "bm25": 24
+    }
+   }
+  ]
+ },
+ {
+  "method": "hybrid",
+  "question_id": "d15",
+  "question": "What development in 2012 made most policies forbidding employees from discussing their salaries unenforceable?",
+  "filter": null,
+  "hit_rank": 1,
+  "latency_ms": 70.2,
+  "results": [
+   {
+    "rank": 1,
+    "id": "para:bizethics:p0209:03",
+    "page": 209,
+    "source_id": "bizethics",
+    "score": 0.032266,
+    "components": {
+     "dense": 3,
+     "bm25": 1
+    }
+   },
+   {
+    "rank": 2,
+    "id": "para:bizethics:p0209:02",
+    "page": 209,
+    "source_id": "bizethics",
+    "score": 0.032258,
+    "components": {
+     "dense": 2,
+     "bm25": 2
+    }
+   },
+   {
+    "rank": 3,
+    "id": "para:bizethics:p0170:02",
+    "page": 170,
+    "source_id": "bizethics",
+    "score": 0.029631,
+    "components": {
+     "dense": 7,
+     "bm25": 8
+    }
+   },
+   {
+    "rank": 4,
+    "id": "para:bizethics:p0195:00",
+    "page": 195,
+    "source_id": "bizethics",
+    "score": 0.029274,
+    "components": {
+     "dense": 12,
+     "bm25": 5
+    }
+   },
+   {
+    "rank": 5,
+    "id": "para:bizethics:p0210:02",
+    "page": 210,
+    "source_id": "bizethics",
+    "score": 0.026944,
+    "components": {
+     "dense": 10,
+     "bm25": 19
+    }
+   },
+   {
+    "rank": 6,
+    "id": "para:bizethics:p0169:04",
+    "page": 169,
+    "source_id": "bizethics",
+    "score": 0.025801,
+    "components": {
+     "dense": 5,
+     "bm25": 36
+    }
+   },
+   {
+    "rank": 7,
+    "id": "para:bizethics:p0211:00",
+    "page": 211,
+    "source_id": "bizethics",
+    "score": 0.024828,
+    "components": {
+     "dense": 15,
+     "bm25": 27
+    }
+   },
+   {
+    "rank": 8,
+    "id": "para:bizethics:p0206:03",
+    "page": 206,
+    "source_id": "bizethics",
+    "score": 0.024448,
+    "components": {
+     "dense": 18,
+     "bm25": 26
+    }
+   },
+   {
+    "rank": 9,
+    "id": "para:bizlaw:p0103:03",
+    "page": 103,
+    "source_id": "bizlaw",
+    "score": 0.019463,
+    "components": {
+     "dense": 38,
+     "bm25": 48
+    }
+   },
+   {
+    "rank": 10,
+    "id": "para:bizethics:p0209:04",
+    "page": 209,
+    "source_id": "bizethics",
+    "score": 0.016393,
+    "components": {
+     "dense": 1
+    }
+   }
+  ]
+ },
+ {
+  "method": "hybrid",
+  "question_id": "d16",
+  "question": "Which two exceptions weaken the federal law that appears to bar employers from monitoring employees' communications?",
+  "filter": null,
+  "hit_rank": 1,
+  "latency_ms": 71.1,
+  "results": [
+   {
+    "rank": 1,
+    "id": "para:bizethics:p0179:02",
+    "page": 179,
+    "source_id": "bizethics",
+    "score": 0.032787,
+    "components": {
+     "dense": 1,
+     "bm25": 1
+    }
+   },
+   {
+    "rank": 2,
+    "id": "para:bizethics:p0179:01",
+    "page": 179,
+    "source_id": "bizethics",
+    "score": 0.032002,
+    "components": {
+     "dense": 3,
+     "bm25": 2
+    }
+   },
+   {
+    "rank": 3,
+    "id": "para:bizethics:p0180:00",
+    "page": 180,
+    "source_id": "bizethics",
+    "score": 0.031054,
+    "components": {
+     "dense": 2,
+     "bm25": 7
+    }
+   },
+   {
+    "rank": 4,
+    "id": "para:bizethics:p0180:02",
+    "page": 180,
+    "source_id": "bizethics",
+    "score": 0.030777,
+    "components": {
+     "dense": 4,
+     "bm25": 6
+    }
+   },
+   {
+    "rank": 5,
+    "id": "para:bizethics:p0179:05",
+    "page": 179,
+    "source_id": "bizethics",
+    "score": 0.03031,
+    "components": {
+     "dense": 7,
+     "bm25": 5
+    }
+   },
+   {
+    "rank": 6,
+    "id": "para:bizethics:p0180:04",
+    "page": 180,
+    "source_id": "bizethics",
+    "score": 0.029762,
+    "components": {
+     "dense": 12,
+     "bm25": 3
+    }
+   },
+   {
+    "rank": 7,
+    "id": "para:bizethics:p0181:01",
+    "page": 181,
+    "source_id": "bizethics",
+    "score": 0.02885,
+    "components": {
+     "dense": 6,
+     "bm25": 13
+    }
+   },
+   {
+    "rank": 8,
+    "id": "para:bizethics:p0180:01",
+    "page": 180,
+    "source_id": "bizethics",
+    "score": 0.028577,
+    "components": {
+     "dense": 9,
+     "bm25": 11
+    }
+   },
+   {
+    "rank": 9,
+    "id": "para:bizethics:p0209:03",
+    "page": 209,
+    "source_id": "bizethics",
+    "score": 0.027619,
+    "components": {
+     "dense": 10,
+     "bm25": 15
+    }
+   },
+   {
+    "rank": 10,
+    "id": "para:bizethics:p0180:05",
+    "page": 180,
+    "source_id": "bizethics",
+    "score": 0.027106,
+    "components": {
+     "dense": 18,
+     "bm25": 10
+    }
+   }
+  ]
+ },
+ {
+  "method": "hybrid",
+  "question_id": "d17",
+  "question": "If a person injured by a defective product is found partly responsible but may still collect damages, how is the amount they can recover determined?",
+  "filter": null,
+  "hit_rank": 2,
+  "latency_ms": 80.9,
+  "results": [
+   {
+    "rank": 1,
+    "id": "para:bizlaw:p0074:00",
+    "page": 74,
+    "source_id": "bizlaw",
+    "score": 0.032258,
+    "components": {
+     "dense": 2,
+     "bm25": 2
+    }
+   },
+   {
+    "rank": 2,
+    "id": "para:bizlaw:p0074:02",
+    "page": 74,
+    "source_id": "bizlaw",
+    "score": 0.030679,
+    "components": {
+     "dense": 10,
+     "bm25": 1
+    }
+   },
+   {
+    "rank": 3,
+    "id": "para:bizlaw:p0074:03",
+    "page": 74,
+    "source_id": "bizlaw",
+    "score": 0.030092,
+    "components": {
+     "dense": 1,
+     "bm25": 13
+    }
+   },
+   {
+    "rank": 4,
+    "id": "para:bizlaw:p0072:03",
+    "page": 72,
+    "source_id": "bizlaw",
+    "score": 0.029958,
+    "components": {
+     "dense": 3,
+     "bm25": 11
+    }
+   },
+   {
+    "rank": 5,
+    "id": "para:bizlaw:p0073:01",
+    "page": 73,
+    "source_id": "bizlaw",
+    "score": 0.029911,
+    "components": {
+     "dense": 4,
+     "bm25": 10
+    }
+   },
+   {
+    "rank": 6,
+    "id": "para:bizlaw:p0084:00",
+    "page": 84,
+    "source_id": "bizlaw",
+    "score": 0.028958,
+    "components": {
+     "dense": 15,
+     "bm25": 4
+    }
+   },
+   {
+    "rank": 7,
+    "id": "para:bizlaw:p0067:03",
+    "page": 67,
+    "source_id": "bizlaw",
+    "score": 0.028531,
+    "components": {
+     "dense": 19,
+     "bm25": 3
+    }
+   },
+   {
+    "rank": 8,
+    "id": "para:bizlaw:p0099:01",
+    "page": 99,
+    "source_id": "bizlaw",
+    "score": 0.028309,
+    "components": {
+     "dense": 16,
+     "bm25": 6
+    }
+   },
+   {
+    "rank": 9,
+    "id": "para:bizlaw:p0071:01",
+    "page": 71,
+    "source_id": "bizlaw",
+    "score": 0.028205,
+    "components": {
+     "dense": 5,
+     "bm25": 18
+    }
+   },
+   {
+    "rank": 10,
+    "id": "para:bizlaw:p0074:01",
+    "page": 74,
+    "source_id": "bizlaw",
+    "score": 0.027588,
+    "components": {
+     "dense": 13,
+     "bm25": 12
+    }
+   }
+  ]
+ },
+ {
+  "method": "hybrid",
+  "question_id": "d18",
+  "question": "How much advance notice must employers give before closing a plant or laying off workers, and how large must the employer be?",
+  "filter": null,
+  "hit_rank": 4,
+  "latency_ms": 98.3,
+  "results": [
+   {
+    "rank": 1,
+    "id": "para:bizethics:p0157:02",
+    "page": 157,
+    "source_id": "bizethics",
+    "score": 0.032787,
+    "components": {
+     "dense": 1,
+     "bm25": 1
+    }
+   },
+   {
+    "rank": 2,
+    "id": "para:bizethics:p0157:01",
+    "page": 157,
+    "source_id": "bizethics",
+    "score": 0.032002,
+    "components": {
+     "dense": 2,
+     "bm25": 3
+    }
+   },
+   {
+    "rank": 3,
+    "id": "para:bizethics:p0157:00",
+    "page": 157,
+    "source_id": "bizethics",
+    "score": 0.03101,
+    "components": {
+     "dense": 4,
+     "bm25": 5
+    }
+   },
+   {
+    "rank": 4,
+    "id": "para:bizlaw:p0102:00",
+    "page": 102,
+    "source_id": "bizlaw",
+    "score": 0.030835,
+    "components": {
+     "dense": 8,
+     "bm25": 2
+    }
+   },
+   {
+    "rank": 5,
+    "id": "para:bizlaw:p0103:03",
+    "page": 103,
+    "source_id": "bizlaw",
+    "score": 0.029274,
+    "components": {
+     "dense": 5,
+     "bm25": 12
+    }
+   },
+   {
+    "rank": 6,
+    "id": "para:bizethics:p0180:00",
+    "page": 180,
+    "source_id": "bizethics",
+    "score": 0.028125,
+    "components": {
+     "dense": 20,
+     "bm25": 4
+    }
+   },
+   {
+    "rank": 7,
+    "id": "para:bizlaw:p0102:01",
+    "page": 102,
+    "source_id": "bizlaw",
+    "score": 0.027526,
+    "components": {
+     "dense": 18,
+     "bm25": 8
+    }
+   },
+   {
+    "rank": 8,
+    "id": "para:bizlaw:p0100:04",
+    "page": 100,
+    "source_id": "bizlaw",
+    "score": 0.027027,
+    "components": {
+     "dense": 14,
+     "bm25": 14
+    }
+   },
+   {
+    "rank": 9,
+    "id": "para:bizethics:p0195:03",
+    "page": 195,
+    "source_id": "bizethics",
+    "score": 0.026044,
+    "components": {
+     "dense": 21,
+     "bm25": 13
+    }
+   },
+   {
+    "rank": 10,
+    "id": "para:bizethics:p0180:04",
+    "page": 180,
+    "source_id": "bizethics",
+    "score": 0.026036,
+    "components": {
+     "dense": 30,
+     "bm25": 7
+    }
+   }
+  ]
+ },
+ {
+  "method": "hybrid",
+  "question_id": "d19",
+  "question": "In the virtue-ethics account of character, how does a person's upbringing shape their tendencies relative to the ideal middle state?",
+  "filter": null,
+  "hit_rank": 2,
+  "latency_ms": 99.7,
+  "results": [
+   {
+    "rank": 1,
+    "id": "para:phil:p0298:05",
+    "page": 298,
+    "source_id": "phil",
+    "score": 0.032522,
+    "components": {
+     "dense": 1,
+     "bm25": 2
+    }
+   },
+   {
+    "rank": 2,
+    "id": "para:phil:p0299:02",
+    "page": 299,
+    "source_id": "phil",
+    "score": 0.032522,
+    "components": {
+     "dense": 2,
+     "bm25": 1
+    }
+   },
+   {
+    "rank": 3,
+    "id": "para:phil:p0294:00",
+    "page": 294,
+    "source_id": "phil",
+    "score": 0.031498,
+    "components": {
+     "dense": 3,
+     "bm25": 4
+    }
+   },
+   {
+    "rank": 4,
+    "id": "para:phil:p0298:06",
+    "page": 298,
+    "source_id": "phil",
+    "score": 0.031498,
+    "components": {
+     "dense": 4,
+     "bm25": 3
+    }
+   },
+   {
+    "rank": 5,
+    "id": "para:phil:p0299:00",
+    "page": 299,
+    "source_id": "phil",
+    "score": 0.030536,
+    "components": {
+     "dense": 5,
+     "bm25": 6
+    }
+   },
+   {
+    "rank": 6,
+    "id": "para:phil:p0295:01",
+    "page": 295,
+    "source_id": "phil",
+    "score": 0.029644,
+    "components": {
+     "dense": 6,
+     "bm25": 9
+    }
+   },
+   {
+    "rank": 7,
+    "id": "para:phil:p0296:02",
+    "page": 296,
+    "source_id": "phil",
+    "score": 0.029469,
+    "components": {
+     "dense": 11,
+     "bm25": 5
+    }
+   },
+   {
+    "rank": 8,
+    "id": "para:phil:p0296:03",
+    "page": 296,
+    "source_id": "phil",
+    "score": 0.028624,
+    "components": {
+     "dense": 13,
+     "bm25": 7
+    }
+   },
+   {
+    "rank": 9,
+    "id": "para:phil:p0298:04",
+    "page": 298,
+    "source_id": "phil",
+    "score": 0.028259,
+    "components": {
+     "dense": 7,
+     "bm25": 15
+    }
+   },
+   {
+    "rank": 10,
+    "id": "para:phil:p0294:01",
+    "page": 294,
+    "source_id": "phil",
+    "score": 0.027693,
+    "components": {
+     "dense": 8,
+     "bm25": 17
+    }
+   }
+  ]
+ },
+ {
+  "method": "hybrid",
+  "question_id": "d20",
+  "question": "Under what circumstances do some ethicists regard altering human genes as morally acceptable, and when do they regard it as unacceptable?",
+  "filter": null,
+  "hit_rank": 1,
+  "latency_ms": 82.5,
+  "results": [
+   {
+    "rank": 1,
+    "id": "para:phil:p0332:01",
+    "page": 332,
+    "source_id": "phil",
+    "score": 0.032787,
+    "components": {
+     "dense": 1,
+     "bm25": 1
+    }
+   },
+   {
+    "rank": 2,
+    "id": "para:phil:p0332:06",
+    "page": 332,
+    "source_id": "phil",
+    "score": 0.031514,
+    "components": {
+     "dense": 2,
+     "bm25": 5
+    }
+   },
+   {
+    "rank": 3,
+    "id": "para:phil:p0331:02",
+    "page": 331,
+    "source_id": "phil",
+    "score": 0.030159,
+    "components": {
+     "dense": 3,
+     "bm25": 10
+    }
+   },
+   {
+    "rank": 4,
+    "id": "para:phil:p0332:05",
+    "page": 332,
+    "source_id": "phil",
+    "score": 0.02971,
+    "components": {
+     "dense": 11,
+     "bm25": 4
+    }
+   },
+   {
+    "rank": 5,
+    "id": "para:phil:p0332:00",
+    "page": 332,
+    "source_id": "phil",
+    "score": 0.029469,
+    "components": {
+     "dense": 5,
+     "bm25": 11
+    }
+   },
+   {
+    "rank": 6,
+    "id": "para:phil:p0331:06",
+    "page": 331,
+    "source_id": "phil",
+    "score": 0.029211,
+    "components": {
+     "dense": 10,
+     "bm25": 7
+    }
+   },
+   {
+    "rank": 7,
+    "id": "para:phil:p0319:00",
+    "page": 319,
+    "source_id": "phil",
+    "score": 0.027056,
+    "components": {
+     "dense": 24,
+     "bm25": 6
+    }
+   },
+   {
+    "rank": 8,
+    "id": "para:phil:p0329:03",
+    "page": 329,
+    "source_id": "phil",
+    "score": 0.026667,
+    "components": {
+     "dense": 15,
+     "bm25": 15
+    }
+   },
+   {
+    "rank": 9,
+    "id": "para:phil:p0331:04",
+    "page": 331,
+    "source_id": "phil",
+    "score": 0.026515,
+    "components": {
+     "dense": 6,
+     "bm25": 28
+    }
+   },
+   {
+    "rank": 10,
+    "id": "para:phil:p0331:00",
+    "page": 331,
+    "source_id": "phil",
+    "score": 0.025942,
+    "components": {
+     "dense": 8,
+     "bm25": 29
+    }
+   }
+  ]
+ },
+ {
+  "method": "hybrid",
+  "question_id": "d21",
+  "question": "Which year is given for the federal statute that obliges employers to warn workers beforehand about large-scale layoffs and facility shutdowns?",
+  "filter": null,
+  "hit_rank": 1,
+  "latency_ms": 111.5,
+  "results": [
+   {
+    "rank": 1,
+    "id": "para:bizethics:p0157:01",
+    "page": 157,
+    "source_id": "bizethics",
+    "score": 0.032787,
+    "components": {
+     "dense": 1,
+     "bm25": 1
+    }
+   },
+   {
+    "rank": 2,
+    "id": "para:bizlaw:p0102:00",
+    "page": 102,
+    "source_id": "bizlaw",
+    "score": 0.032258,
+    "components": {
+     "dense": 2,
+     "bm25": 2
+    }
+   },
+   {
+    "rank": 3,
+    "id": "para:bizethics:p0179:01",
+    "page": 179,
+    "source_id": "bizethics",
+    "score": 0.029762,
+    "components": {
+     "dense": 12,
+     "bm25": 3
+    }
+   },
+   {
+    "rank": 4,
+    "id": "para:bizethics:p0157:02",
+    "page": 157,
+    "source_id": "bizethics",
+    "score": 0.029324,
+    "components": {
+     "dense": 13,
+     "bm25": 4
+    }
+   },
+   {
+    "rank": 5,
+    "id": "para:bizlaw:p0098:01",
+    "page": 98,
+    "source_id": "bizlaw",
+    "score": 0.02885,
+    "components": {
+     "dense": 6,
+     "bm25": 13
+    }
+   },
+   {
+    "rank": 6,
+    "id": "para:bizethics:p0180:00",
+    "page": 180,
+    "source_id": "bizethics",
+    "score": 0.02773,
+    "components": {
+     "dense": 5,
+     "bm25": 21
+    }
+   },
+   {
+    "rank": 7,
+    "id": "para:bizlaw:p0101:04",
+    "page": 101,
+    "source_id": "bizlaw",
+    "score": 0.027242,
+    "components": {
+     "dense": 16,
+     "bm25": 11
+    }
+   },
+   {
+    "rank": 8,
+    "id": "para:bizethics:p0157:03",
+    "page": 157,
+    "source_id": "bizethics",
+    "score": 0.026709,
+    "components": {
+     "dense": 18,
+     "bm25": 12
+    }
+   },
+   {
+    "rank": 9,
+    "id": "para:bizethics:p0180:02",
+    "page": 180,
+    "source_id": "bizethics",
+    "score": 0.02669,
+    "components": {
+     "dense": 7,
+     "bm25": 25
+    }
+   },
+   {
+    "rank": 10,
+    "id": "para:bizethics:p0158:02",
+    "page": 158,
+    "source_id": "bizethics",
+    "score": 0.026491,
+    "components": {
+     "dense": 15,
+     "bm25": 16
+    }
+   }
+  ]
+ },
+ {
+  "method": "rerank",
+  "question_id": "d01",
+  "question": "In Kant's second main test of a moral rule, how must we treat other people, and ourselves?",
+  "filter": null,
+  "hit_rank": 3,
+  "latency_ms": 6810.2,
+  "results": [
+   {
+    "rank": 1,
+    "id": "para:phil:p0291:04",
+    "page": 291,
+    "source_id": "phil",
+    "score": 0.913227,
+    "components": {
+     "hybrid_rank": 4,
+     "hybrid_score": 0.030798
+    }
+   },
+   {
+    "rank": 2,
+    "id": "para:phil:p0329:05",
+    "page": 329,
+    "source_id": "phil",
+    "score": 0.908751,
+    "components": {
+     "hybrid_rank": 1,
+     "hybrid_score": 0.032787
+    }
+   },
+   {
+    "rank": 3,
+    "id": "para:phil:p0291:03",
+    "page": 291,
+    "source_id": "phil",
+    "score": 0.856333,
+    "components": {
+     "hybrid_rank": 2,
+     "hybrid_score": 0.031514
+    }
+   },
+   {
+    "rank": 4,
+    "id": "para:phil:p0341:05",
+    "page": 341,
+    "source_id": "phil",
+    "score": 0.593976,
+    "components": {
+     "hybrid_rank": 15,
+     "hybrid_score": 0.025575
+    }
+   },
+   {
+    "rank": 5,
+    "id": "para:phil:p0290:01",
+    "page": 290,
+    "source_id": "phil",
+    "score": 0.29835,
+    "components": {
+     "hybrid_rank": 7,
+     "hybrid_score": 0.029469
+    }
+   },
+   {
+    "rank": 6,
+    "id": "para:phil:p0290:00",
+    "page": 290,
+    "source_id": "phil",
+    "score": 0.248474,
+    "components": {
+     "hybrid_rank": 11,
+     "hybrid_score": 0.028139
+    }
+   },
+   {
+    "rank": 7,
+    "id": "para:phil:p0289:05",
+    "page": 289,
+    "source_id": "phil",
+    "score": 0.16498,
+    "components": {
+     "hybrid_rank": 8,
+     "hybrid_score": 0.029324
+    }
+   },
+   {
+    "rank": 8,
+    "id": "para:phil:p0322:01",
+    "page": 322,
+    "source_id": "phil",
+    "score": 0.127525,
+    "components": {
+     "hybrid_rank": 10,
+     "hybrid_score": 0.028175
+    }
+   },
+   {
+    "rank": 9,
+    "id": "para:phil:p0292:02",
+    "page": 292,
+    "source_id": "phil",
+    "score": 0.110996,
+    "components": {
+     "hybrid_rank": 21,
+     "hybrid_score": 0.021111
+    }
+   },
+   {
+    "rank": 10,
+    "id": "para:phil:p0292:01",
+    "page": 292,
+    "source_id": "phil",
+    "score": 0.095109,
+    "components": {
+     "hybrid_rank": 3,
+     "hybrid_score": 0.031054
+    }
+   }
+  ]
+ },
+ {
+  "method": "rerank",
+  "question_id": "d02",
+  "question": "Which kind of euthanasia does the utilitarian philosopher Peter Singer still reject, and how is it defined?",
+  "filter": null,
+  "hit_rank": 1,
+  "latency_ms": 8116.0,
+  "results": [
+   {
+    "rank": 1,
+    "id": "para:phil:p0326:03",
+    "page": 326,
+    "source_id": "phil",
+    "score": 0.927628,
+    "components": {
+     "hybrid_rank": 1,
+     "hybrid_score": 0.032787
+    }
+   },
+   {
+    "rank": 2,
+    "id": "para:phil:p0326:00",
+    "page": 326,
+    "source_id": "phil",
+    "score": 0.043563,
+    "components": {
+     "hybrid_rank": 11,
+     "hybrid_score": 0.028006
+    }
+   },
+   {
+    "rank": 3,
+    "id": "para:phil:p0326:02",
+    "page": 326,
+    "source_id": "phil",
+    "score": 0.034259,
+    "components": {
+     "hybrid_rank": 2,
+     "hybrid_score": 0.031281
+    }
+   },
+   {
+    "rank": 4,
+    "id": "para:phil:p0325:03",
+    "page": 325,
+    "source_id": "phil",
+    "score": 0.030313,
+    "components": {
+     "hybrid_rank": 5,
+     "hybrid_score": 0.029877
+    }
+   },
+   {
+    "rank": 5,
+    "id": "para:phil:p0325:04",
+    "page": 325,
+    "source_id": "phil",
+    "score": 0.013484,
+    "components": {
+     "hybrid_rank": 6,
+     "hybrid_score": 0.029387
+    }
+   },
+   {
+    "rank": 6,
+    "id": "para:phil:p0325:02",
+    "page": 325,
+    "source_id": "phil",
+    "score": 0.009187,
+    "components": {
+     "hybrid_rank": 9,
+     "hybrid_score": 0.028595
+    }
+   },
+   {
+    "rank": 7,
+    "id": "para:phil:p0326:01",
+    "page": 326,
+    "source_id": "phil",
+    "score": 0.006605,
+    "components": {
+     "hybrid_rank": 10,
+     "hybrid_score": 0.028309
+    }
+   },
+   {
+    "rank": 8,
+    "id": "para:phil:p0326:04",
+    "page": 326,
+    "source_id": "phil",
+    "score": 0.00436,
+    "components": {
+     "hybrid_rank": 3,
+     "hybrid_score": 0.030798
+    }
+   },
+   {
+    "rank": 9,
+    "id": "para:phil:p0326:05",
+    "page": 326,
+    "source_id": "phil",
+    "score": 0.003128,
+    "components": {
+     "hybrid_rank": 4,
+     "hybrid_score": 0.030331
+    }
+   },
+   {
+    "rank": 10,
+    "id": "para:phil:p0325:01",
+    "page": 325,
+    "source_id": "phil",
+    "score": 0.002764,
+    "components": {
+     "hybrid_rank": 8,
+     "hybrid_score": 0.028629
+    }
+   }
+  ]
+ },
+ {
+  "method": "rerank",
+  "question_id": "d03",
+  "question": "Which ethical principle does informed consent protect for people who take part in a clinical trial?",
+  "filter": null,
+  "hit_rank": 1,
+  "latency_ms": 6803.7,
+  "results": [
+   {
+    "rank": 1,
+    "id": "para:phil:p0328:01",
+    "page": 328,
+    "source_id": "phil",
+    "score": 0.999298,
+    "components": {
+     "hybrid_rank": 1,
+     "hybrid_score": 0.032787
+    }
+   },
+   {
+    "rank": 2,
+    "id": "para:phil:p0327:02",
+    "page": 327,
+    "source_id": "phil",
+    "score": 0.840687,
+    "components": {
+     "hybrid_rank": 6,
+     "hybrid_score": 0.02904
+    }
+   },
+   {
+    "rank": 3,
+    "id": "para:phil:p0330:00",
+    "page": 330,
+    "source_id": "phil",
+    "score": 0.771543,
+    "components": {
+     "hybrid_rank": 5,
+     "hybrid_score": 0.031054
+    }
+   },
+   {
+    "rank": 4,
+    "id": "para:phil:p0328:05",
+    "page": 328,
+    "source_id": "phil",
+    "score": 0.764747,
+    "components": {
+     "hybrid_rank": 3,
+     "hybrid_score": 0.031258
+    }
+   },
+   {
+    "rank": 5,
+    "id": "para:phil:p0319:00",
+    "page": 319,
+    "source_id": "phil",
+    "score": 0.205673,
+    "components": {
+     "hybrid_rank": 14,
+     "hybrid_score": 0.026838
+    }
+   },
+   {
+    "rank": 6,
+    "id": "para:phil:p0328:04",
+    "page": 328,
+    "source_id": "phil",
+    "score": 0.14951,
+    "components": {
+     "hybrid_rank": 4,
+     "hybrid_score": 0.03125
+    }
+   },
+   {
+    "rank": 7,
+    "id": "para:phil:p0327:04",
+    "page": 327,
+    "source_id": "phil",
+    "score": 0.142277,
+    "components": {
+     "hybrid_rank": 2,
+     "hybrid_score": 0.032002
+    }
+   },
+   {
+    "rank": 8,
+    "id": "para:phil:p0327:01",
+    "page": 327,
+    "source_id": "phil",
+    "score": 0.125019,
+    "components": {
+     "hybrid_rank": 9,
+     "hybrid_score": 0.028439
+    }
+   },
+   {
+    "rank": 9,
+    "id": "para:phil:p0329:05",
+    "page": 329,
+    "source_id": "phil",
+    "score": 0.10875,
+    "components": {
+     "hybrid_rank": 13,
+     "hybrid_score": 0.027151
+    }
+   },
+   {
+    "rank": 10,
+    "id": "para:phil:p0328:06",
+    "page": 328,
+    "source_id": "phil",
+    "score": 0.096407,
+    "components": {
+     "hybrid_rank": 8,
+     "hybrid_score": 0.028718
+    }
+   }
+  ]
+ },
+ {
+  "method": "rerank",
+  "question_id": "d04",
+  "question": "Who introduced the term deep ecology, and what does this view assume about living things?",
+  "filter": null,
+  "hit_rank": 1,
+  "latency_ms": 6581.1,
+  "results": [
+   {
+    "rank": 1,
+    "id": "para:phil:p0337:02",
+    "page": 337,
+    "source_id": "phil",
+    "score": 0.999361,
+    "components": {
+     "hybrid_rank": 1,
+     "hybrid_score": 0.032787
+    }
+   },
+   {
+    "rank": 2,
+    "id": "para:phil:p0337:03",
+    "page": 337,
+    "source_id": "phil",
+    "score": 0.743849,
+    "components": {
+     "hybrid_rank": 2,
+     "hybrid_score": 0.032258
+    }
+   },
+   {
+    "rank": 3,
+    "id": "para:phil:p0337:04",
+    "page": 337,
+    "source_id": "phil",
+    "score": 0.053609,
+    "components": {
+     "hybrid_rank": 3,
+     "hybrid_score": 0.031746
+    }
+   },
+   {
+    "rank": 4,
+    "id": "para:phil:p0290:00",
+    "page": 290,
+    "source_id": "phil",
+    "score": 0.022989,
+    "components": {
+     "hybrid_rank": 19,
+     "hybrid_score": 0.014925
+    }
+   },
+   {
+    "rank": 5,
+    "id": "para:phil:p0323:04",
+    "page": 323,
+    "source_id": "phil",
+    "score": 0.01048,
+    "components": {
+     "hybrid_rank": 15,
+     "hybrid_score": 0.020578
+    }
+   },
+   {
+    "rank": 6,
+    "id": "para:phil:p0323:03",
+    "page": 323,
+    "source_id": "phil",
+    "score": 0.006218,
+    "components": {
+     "hybrid_rank": 7,
+     "hybrid_score": 0.026686
+    }
+   },
+   {
+    "rank": 7,
+    "id": "para:phil:p0320:04",
+    "page": 320,
+    "source_id": "phil",
+    "score": 0.004457,
+    "components": {
+     "hybrid_rank": 26,
+     "hybrid_score": 0.014286
+    }
+   },
+   {
+    "rank": 8,
+    "id": "para:phil:p0302:01",
+    "page": 302,
+    "source_id": "phil",
+    "score": 0.00315,
+    "components": {
+     "hybrid_rank": 25,
+     "hybrid_score": 0.014286
+    }
+   },
+   {
+    "rank": 9,
+    "id": "para:phil:p0321:04",
+    "page": 321,
+    "source_id": "phil",
+    "score": 0.002908,
+    "components": {
+     "hybrid_rank": 23,
+     "hybrid_score": 0.014493
+    }
+   },
+   {
+    "rank": 10,
+    "id": "para:phil:p0322:04",
+    "page": 322,
+    "source_id": "phil",
+    "score": 0.002361,
+    "components": {
+     "hybrid_rank": 30,
+     "hybrid_score": 0.013699
+    }
+   }
+  ]
+ },
+ {
+  "method": "rerank",
+  "question_id": "d05",
+  "question": "What protection do workers have against employer punishment if they complain to the workplace safety agency about hazards?",
+  "filter": null,
+  "hit_rank": 1,
+  "latency_ms": 9055.6,
+  "results": [
+   {
+    "rank": 1,
+    "id": "para:bizethics:p0158:01",
+    "page": 158,
+    "source_id": "bizethics",
+    "score": 0.930726,
+    "components": {
+     "hybrid_rank": 1,
+     "hybrid_score": 0.032787
+    }
+   },
+   {
+    "rank": 2,
+    "id": "para:phil:p0341:01",
+    "page": 341,
+    "source_id": "phil",
+    "score": 0.876176,
+    "components": {
+     "hybrid_rank": 7,
+     "hybrid_score": 0.029412
+    }
+   },
+   {
+    "rank": 3,
+    "id": "para:bizethics:p0211:02",
+    "page": 211,
+    "source_id": "bizethics",
+    "score": 0.364593,
+    "components": {
+     "hybrid_rank": 14,
+     "hybrid_score": 0.025654
+    }
+   },
+   {
+    "rank": 4,
+    "id": "para:bizlaw:p0098:03",
+    "page": 98,
+    "source_id": "bizlaw",
+    "score": 0.248177,
+    "components": {
+     "hybrid_rank": 6,
+     "hybrid_score": 0.029851
+    }
+   },
+   {
+    "rank": 5,
+    "id": "para:bizlaw:p0098:01",
+    "page": 98,
+    "source_id": "bizlaw",
+    "score": 0.188078,
+    "components": {
+     "hybrid_rank": 2,
+     "hybrid_score": 0.032002
+    }
+   },
+   {
+    "rank": 6,
+    "id": "para:bizethics:p0211:06",
+    "page": 211,
+    "source_id": "bizethics",
+    "score": 0.163556,
+    "components": {
+     "hybrid_rank": 3,
+     "hybrid_score": 0.031498
+    }
+   },
+   {
+    "rank": 7,
+    "id": "para:bizlaw:p0099:01",
+    "page": 99,
+    "source_id": "bizlaw",
+    "score": 0.124838,
+    "components": {
+     "hybrid_rank": 10,
+     "hybrid_score": 0.027984
+    }
+   },
+   {
+    "rank": 8,
+    "id": "para:bizethics:p0156:00",
+    "page": 156,
+    "source_id": "bizethics",
+    "score": 0.072114,
+    "components": {
+     "hybrid_rank": 11,
+     "hybrid_score": 0.027799
+    }
+   },
+   {
+    "rank": 9,
+    "id": "para:bizethics:p0159:00",
+    "page": 159,
+    "source_id": "bizethics",
+    "score": 0.061267,
+    "components": {
+     "hybrid_rank": 9,
+     "hybrid_score": 0.029083
+    }
+   },
+   {
+    "rank": 10,
+    "id": "para:bizethics:p0157:04",
+    "page": 157,
+    "source_id": "bizethics",
+    "score": 0.053669,
+    "components": {
+     "hybrid_rank": 4,
+     "hybrid_score": 0.031281
+    }
+   }
+  ]
+ },
+ {
+  "method": "rerank",
+  "question_id": "d06",
+  "question": "When a coworker rather than a supervisor harasses someone, at what point does the company become liable?",
+  "filter": null,
+  "hit_rank": 1,
+  "latency_ms": 7044.9,
+  "results": [
+   {
+    "rank": 1,
+    "id": "para:bizethics:p0159:04",
+    "page": 159,
+    "source_id": "bizethics",
+    "score": 0.960682,
+    "components": {
+     "hybrid_rank": 1,
+     "hybrid_score": 0.032787
+    }
+   },
+   {
+    "rank": 2,
+    "id": "para:bizethics:p0159:05",
+    "page": 159,
+    "source_id": "bizethics",
+    "score": 0.373653,
+    "components": {
+     "hybrid_rank": 4,
+     "hybrid_score": 0.026129
+    }
+   },
+   {
+    "rank": 3,
+    "id": "para:bizlaw:p0106:02",
+    "page": 106,
+    "source_id": "bizlaw",
+    "score": 0.214998,
+    "components": {
+     "hybrid_rank": 7,
+     "hybrid_score": 0.022888
+    }
+   },
+   {
+    "rank": 4,
+    "id": "para:bizethics:p0204:01",
+    "page": 204,
+    "source_id": "bizethics",
+    "score": 0.189629,
+    "components": {
+     "hybrid_rank": 2,
+     "hybrid_score": 0.032002
+    }
+   },
+   {
+    "rank": 5,
+    "id": "para:bizethics:p0189:03",
+    "page": 189,
+    "source_id": "bizethics",
+    "score": 0.051997,
+    "components": {
+     "hybrid_rank": 20,
+     "hybrid_score": 0.014493
+    }
+   },
+   {
+    "rank": 6,
+    "id": "para:bizethics:p0205:04",
+    "page": 205,
+    "source_id": "bizethics",
+    "score": 0.023609,
+    "components": {
+     "hybrid_rank": 21,
+     "hybrid_score": 0.014493
+    }
+   },
+   {
+    "rank": 7,
+    "id": "para:bizethics:p0202:03",
+    "page": 202,
+    "source_id": "bizethics",
+    "score": 0.016416,
+    "components": {
+     "hybrid_rank": 14,
+     "hybrid_score": 0.015152
+    }
+   },
+   {
+    "rank": 8,
+    "id": "para:bizethics:p0204:04",
+    "page": 204,
+    "source_id": "bizethics",
+    "score": 0.01627,
+    "components": {
+     "hybrid_rank": 17,
+     "hybrid_score": 0.014925
+    }
+   },
+   {
+    "rank": 9,
+    "id": "para:bizethics:p0200:03",
+    "page": 200,
+    "source_id": "bizethics",
+    "score": 0.015328,
+    "components": {
+     "hybrid_rank": 11,
+     "hybrid_score": 0.015625
+    }
+   },
+   {
+    "rank": 10,
+    "id": "para:bizethics:p0189:02",
+    "page": 189,
+    "source_id": "bizethics",
+    "score": 0.008377,
+    "components": {
+     "hybrid_rank": 9,
+     "hybrid_score": 0.022403
+    }
+   }
+  ]
+ },
+ {
+  "method": "rerank",
+  "question_id": "d07",
+  "question": "Before an employee takes suspected wrongdoing by the employer to a government agency, which step should they usually try first?",
+  "filter": null,
+  "hit_rank": 1,
+  "latency_ms": 7214.1,
+  "results": [
+   {
+    "rank": 1,
+    "id": "para:bizethics:p0211:05",
+    "page": 211,
+    "source_id": "bizethics",
+    "score": 0.997747,
+    "components": {
+     "hybrid_rank": 1,
+     "hybrid_score": 0.032787
+    }
+   },
+   {
+    "rank": 2,
+    "id": "para:bizethics:p0214:00",
+    "page": 214,
+    "source_id": "bizethics",
+    "score": 0.095104,
+    "components": {
+     "hybrid_rank": 6,
+     "hybrid_score": 0.026023
+    }
+   },
+   {
+    "rank": 3,
+    "id": "para:bizethics:p0211:03",
+    "page": 211,
+    "source_id": "bizethics",
+    "score": 0.041025,
+    "components": {
+     "hybrid_rank": 3,
+     "hybrid_score": 0.029911
+    }
+   },
+   {
+    "rank": 4,
+    "id": "para:bizethics:p0211:04",
+    "page": 211,
+    "source_id": "bizethics",
+    "score": 0.009468,
+    "components": {
+     "hybrid_rank": 2,
+     "hybrid_score": 0.030579
+    }
+   },
+   {
+    "rank": 5,
+    "id": "para:bizlaw:p0103:02",
+    "page": 103,
+    "source_id": "bizlaw",
+    "score": 0.009227,
+    "components": {
+     "hybrid_rank": 20,
+     "hybrid_score": 0.016129
+    }
+   },
+   {
+    "rank": 6,
+    "id": "para:bizlaw:p0098:01",
+    "page": 98,
+    "source_id": "bizlaw",
+    "score": 0.005968,
+    "components": {
+     "hybrid_rank": 16,
+     "hybrid_score": 0.021627
+    }
+   },
+   {
+    "rank": 7,
+    "id": "para:bizethics:p0159:04",
+    "page": 159,
+    "source_id": "bizethics",
+    "score": 0.003913,
+    "components": {
+     "hybrid_rank": 25,
+     "hybrid_score": 0.014493
+    }
+   },
+   {
+    "rank": 8,
+    "id": "para:bizethics:p0208:02",
+    "page": 208,
+    "source_id": "bizethics",
+    "score": 0.002698,
+    "components": {
+     "hybrid_rank": 23,
+     "hybrid_score": 0.015152
+    }
+   },
+   {
+    "rank": 9,
+    "id": "para:phil:p0341:01",
+    "page": 341,
+    "source_id": "phil",
+    "score": 0.002491,
+    "components": {
+     "hybrid_rank": 15,
+     "hybrid_score": 0.022357
+    }
+   },
+   {
+    "rank": 10,
+    "id": "para:bizlaw:p0103:03",
+    "page": 103,
+    "source_id": "bizlaw",
+    "score": 0.001644,
+    "components": {
+     "hybrid_rank": 30,
+     "hybrid_score": 0.013699
+    }
+   }
+  ]
+ },
+ {
+  "method": "rerank",
+  "question_id": "d08",
+  "question": "In California, can an employer enforce an agreement that stops a former employee from working elsewhere after leaving?",
+  "filter": null,
+  "hit_rank": 1,
+  "latency_ms": 7286.4,
+  "results": [
+   {
+    "rank": 1,
+    "id": "para:bizethics:p0195:00",
+    "page": 195,
+    "source_id": "bizethics",
+    "score": 0.991924,
+    "components": {
+     "hybrid_rank": 1,
+     "hybrid_score": 0.032787
+    }
+   },
+   {
+    "rank": 2,
+    "id": "para:bizethics:p0194:03",
+    "page": 194,
+    "source_id": "bizethics",
+    "score": 0.228586,
+    "components": {
+     "hybrid_rank": 6,
+     "hybrid_score": 0.029644
+    }
+   },
+   {
+    "rank": 3,
+    "id": "para:bizethics:p0195:01",
+    "page": 195,
+    "source_id": "bizethics",
+    "score": 0.184525,
+    "components": {
+     "hybrid_rank": 2,
+     "hybrid_score": 0.032002
+    }
+   },
+   {
+    "rank": 4,
+    "id": "para:bizethics:p0195:02",
+    "page": 195,
+    "source_id": "bizethics",
+    "score": 0.091114,
+    "components": {
+     "hybrid_rank": 4,
+     "hybrid_score": 0.030769
+    }
+   },
+   {
+    "rank": 5,
+    "id": "para:bizethics:p0195:04",
+    "page": 195,
+    "source_id": "bizethics",
+    "score": 0.036062,
+    "components": {
+     "hybrid_rank": 5,
+     "hybrid_score": 0.030214
+    }
+   },
+   {
+    "rank": 6,
+    "id": "para:bizethics:p0209:03",
+    "page": 209,
+    "source_id": "bizethics",
+    "score": 0.028258,
+    "components": {
+     "hybrid_rank": 24,
+     "hybrid_score": 0.015152
+    }
+   },
+   {
+    "rank": 7,
+    "id": "para:bizlaw:p0102:01",
+    "page": 102,
+    "source_id": "bizlaw",
+    "score": 0.009179,
+    "components": {
+     "hybrid_rank": 10,
+     "hybrid_score": 0.026631
+    }
+   },
+   {
+    "rank": 8,
+    "id": "para:bizlaw:p0097:03",
+    "page": 97,
+    "source_id": "bizlaw",
+    "score": 0.007755,
+    "components": {
+     "hybrid_rank": 27,
+     "hybrid_score": 0.014706
+    }
+   },
+   {
+    "rank": 9,
+    "id": "para:bizethics:p0196:00",
+    "page": 196,
+    "source_id": "bizethics",
+    "score": 0.005915,
+    "components": {
+     "hybrid_rank": 3,
+     "hybrid_score": 0.031498
+    }
+   },
+   {
+    "rank": 10,
+    "id": "para:bizethics:p0194:02",
+    "page": 194,
+    "source_id": "bizethics",
+    "score": 0.005423,
+    "components": {
+     "hybrid_rank": 30,
+     "hybrid_score": 0.013699
+    }
+   }
+  ]
+ },
+ {
+  "method": "rerank",
+  "question_id": "d09",
+  "question": "What kind of damages are normally awarded when someone relied on a broken promise that lacked consideration, and which kind is usually unavailable?",
+  "filter": null,
+  "hit_rank": 1,
+  "latency_ms": 6879.3,
+  "results": [
+   {
+    "rank": 1,
+    "id": "para:bizlaw:p0081:01",
+    "page": 81,
+    "source_id": "bizlaw",
+    "score": 0.672711,
+    "components": {
+     "hybrid_rank": 1,
+     "hybrid_score": 0.032787
+    }
+   },
+   {
+    "rank": 2,
+    "id": "para:bizlaw:p0081:00",
+    "page": 81,
+    "source_id": "bizlaw",
+    "score": 0.498809,
+    "components": {
+     "hybrid_rank": 3,
+     "hybrid_score": 0.031746
+    }
+   },
+   {
+    "rank": 3,
+    "id": "para:bizlaw:p0081:03",
+    "page": 81,
+    "source_id": "bizlaw",
+    "score": 0.312163,
+    "components": {
+     "hybrid_rank": 2,
+     "hybrid_score": 0.032258
+    }
+   },
+   {
+    "rank": 4,
+    "id": "para:bizlaw:p0084:00",
+    "page": 84,
+    "source_id": "bizlaw",
+    "score": 0.020952,
+    "components": {
+     "hybrid_rank": 5,
+     "hybrid_score": 0.027119
+    }
+   },
+   {
+    "rank": 5,
+    "id": "para:bizlaw:p0105:00",
+    "page": 105,
+    "source_id": "bizlaw",
+    "score": 0.013037,
+    "components": {
+     "hybrid_rank": 10,
+     "hybrid_score": 0.024559
+    }
+   },
+   {
+    "rank": 6,
+    "id": "para:bizlaw:p0074:00",
+    "page": 74,
+    "source_id": "bizlaw",
+    "score": 0.005886,
+    "components": {
+     "hybrid_rank": 15,
+     "hybrid_score": 0.022612
+    }
+   },
+   {
+    "rank": 7,
+    "id": "para:bizlaw:p0069:00",
+    "page": 69,
+    "source_id": "bizlaw",
+    "score": 0.004878,
+    "components": {
+     "hybrid_rank": 30,
+     "hybrid_score": 0.013699
+    }
+   },
+   {
+    "rank": 8,
+    "id": "para:bizethics:p0182:04",
+    "page": 182,
+    "source_id": "bizethics",
+    "score": 0.004478,
+    "components": {
+     "hybrid_rank": 26,
+     "hybrid_score": 0.014286
+    }
+   },
+   {
+    "rank": 9,
+    "id": "para:bizlaw:p0070:03",
+    "page": 70,
+    "source_id": "bizlaw",
+    "score": 0.003525,
+    "components": {
+     "hybrid_rank": 9,
+     "hybrid_score": 0.024594
+    }
+   },
+   {
+    "rank": 10,
+    "id": "para:bizlaw:p0083:02",
+    "page": 83,
+    "source_id": "bizlaw",
+    "score": 0.002467,
+    "components": {
+     "hybrid_rank": 20,
+     "hybrid_score": 0.015152
+    }
+   }
+  ]
+ },
+ {
+  "method": "rerank",
+  "question_id": "d10",
+  "question": "Can someone under 18 who signed a contract cancel it, and are there contracts they cannot cancel?",
+  "filter": null,
+  "hit_rank": 1,
+  "latency_ms": 7272.1,
+  "results": [
+   {
+    "rank": 1,
+    "id": "para:bizlaw:p0082:00",
+    "page": 82,
+    "source_id": "bizlaw",
+    "score": 0.674105,
+    "components": {
+     "hybrid_rank": 1,
+     "hybrid_score": 0.032787
+    }
+   },
+   {
+    "rank": 2,
+    "id": "para:bizethics:p0196:00",
+    "page": 196,
+    "source_id": "bizethics",
+    "score": 0.012922,
+    "components": {
+     "hybrid_rank": 10,
+     "hybrid_score": 0.027013
+    }
+   },
+   {
+    "rank": 3,
+    "id": "para:bizlaw:p0099:04",
+    "page": 99,
+    "source_id": "bizlaw",
+    "score": 0.011798,
+    "components": {
+     "hybrid_rank": 18,
+     "hybrid_score": 0.024725
+    }
+   },
+   {
+    "rank": 4,
+    "id": "para:bizlaw:p0084:01",
+    "page": 84,
+    "source_id": "bizlaw",
+    "score": 0.011265,
+    "components": {
+     "hybrid_rank": 4,
+     "hybrid_score": 0.029462
+    }
+   },
+   {
+    "rank": 5,
+    "id": "para:bizlaw:p0082:02",
+    "page": 82,
+    "source_id": "bizlaw",
+    "score": 0.009776,
+    "components": {
+     "hybrid_rank": 11,
+     "hybrid_score": 0.026786
+    }
+   },
+   {
+    "rank": 6,
+    "id": "para:bizlaw:p0097:03",
+    "page": 97,
+    "source_id": "bizlaw",
+    "score": 0.00719,
+    "components": {
+     "hybrid_rank": 26,
+     "hybrid_score": 0.014706
+    }
+   },
+   {
+    "rank": 7,
+    "id": "para:bizlaw:p0082:01",
+    "page": 82,
+    "source_id": "bizlaw",
+    "score": 0.006237,
+    "components": {
+     "hybrid_rank": 13,
+     "hybrid_score": 0.025678
+    }
+   },
+   {
+    "rank": 8,
+    "id": "para:bizlaw:p0082:05",
+    "page": 82,
+    "source_id": "bizlaw",
+    "score": 0.005919,
+    "components": {
+     "hybrid_rank": 9,
+     "hybrid_score": 0.027673
+    }
+   },
+   {
+    "rank": 9,
+    "id": "para:bizlaw:p0081:04",
+    "page": 81,
+    "source_id": "bizlaw",
+    "score": 0.005537,
+    "components": {
+     "hybrid_rank": 5,
+     "hybrid_score": 0.028324
+    }
+   },
+   {
+    "rank": 10,
+    "id": "para:bizethics:p0195:01",
+    "page": 195,
+    "source_id": "bizethics",
+    "score": 0.005261,
+    "components": {
+     "hybrid_rank": 20,
+     "hybrid_score": 0.022504
+    }
+   }
+  ]
+ },
+ {
+  "method": "rerank",
+  "question_id": "d11",
+  "question": "How much unpaid leave may eligible workers take for family or medical emergencies, and which employers does that law cover?",
+  "filter": null,
+  "hit_rank": 1,
+  "latency_ms": 7543.9,
+  "results": [
+   {
+    "rank": 1,
+    "id": "para:bizlaw:p0100:01",
+    "page": 100,
+    "source_id": "bizlaw",
+    "score": 0.997886,
+    "components": {
+     "hybrid_rank": 1,
+     "hybrid_score": 0.032787
+    }
+   },
+   {
+    "rank": 2,
+    "id": "para:bizlaw:p0100:02",
+    "page": 100,
+    "source_id": "bizlaw",
+    "score": 0.011594,
+    "components": {
+     "hybrid_rank": 2,
+     "hybrid_score": 0.032258
+    }
+   },
+   {
+    "rank": 3,
+    "id": "para:bizlaw:p0100:04",
+    "page": 100,
+    "source_id": "bizlaw",
+    "score": 0.006804,
+    "components": {
+     "hybrid_rank": 20,
+     "hybrid_score": 0.015873
+    }
+   },
+   {
+    "rank": 4,
+    "id": "para:bizlaw:p0100:03",
+    "page": 100,
+    "source_id": "bizlaw",
+    "score": 0.005248,
+    "components": {
+     "hybrid_rank": 4,
+     "hybrid_score": 0.02971
+    }
+   },
+   {
+    "rank": 5,
+    "id": "para:bizlaw:p0100:05",
+    "page": 100,
+    "source_id": "bizlaw",
+    "score": 0.005196,
+    "components": {
+     "hybrid_rank": 3,
+     "hybrid_score": 0.030118
+    }
+   },
+   {
+    "rank": 6,
+    "id": "para:bizlaw:p0101:00",
+    "page": 101,
+    "source_id": "bizlaw",
+    "score": 0.00477,
+    "components": {
+     "hybrid_rank": 5,
+     "hybrid_score": 0.02904
+    }
+   },
+   {
+    "rank": 7,
+    "id": "para:bizlaw:p0101:05",
+    "page": 101,
+    "source_id": "bizlaw",
+    "score": 0.004744,
+    "components": {
+     "hybrid_rank": 17,
+     "hybrid_score": 0.020442
+    }
+   },
+   {
+    "rank": 8,
+    "id": "para:bizethics:p0209:03",
+    "page": 209,
+    "source_id": "bizethics",
+    "score": 0.004615,
+    "components": {
+     "hybrid_rank": 8,
+     "hybrid_score": 0.026671
+    }
+   },
+   {
+    "rank": 9,
+    "id": "para:bizethics:p0157:04",
+    "page": 157,
+    "source_id": "bizethics",
+    "score": 0.00342,
+    "components": {
+     "hybrid_rank": 28,
+     "hybrid_score": 0.014085
+    }
+   },
+   {
+    "rank": 10,
+    "id": "para:bizlaw:p0098:03",
+    "page": 98,
+    "source_id": "bizlaw",
+    "score": 0.003282,
+    "components": {
+     "hybrid_rank": 14,
+     "hybrid_score": 0.022872
+    }
+   }
+  ]
+ },
+ {
+  "method": "rerank",
+  "question_id": "d12",
+  "question": "Which workers fall outside the federal workplace safety law's protection?",
+  "filter": null,
+  "hit_rank": 6,
+  "latency_ms": 8252.9,
+  "results": [
+   {
+    "rank": 1,
+    "id": "para:bizethics:p0158:00",
+    "page": 158,
+    "source_id": "bizethics",
+    "score": 0.169136,
+    "components": {
+     "hybrid_rank": 5,
+     "hybrid_score": 0.02971
+    }
+   },
+   {
+    "rank": 2,
+    "id": "para:bizlaw:p0100:00",
+    "page": 100,
+    "source_id": "bizlaw",
+    "score": 0.06472,
+    "components": {
+     "hybrid_rank": 23,
+     "hybrid_score": 0.022624
+    }
+   },
+   {
+    "rank": 3,
+    "id": "para:bizethics:p0173:01",
+    "page": 173,
+    "source_id": "bizethics",
+    "score": 0.064166,
+    "components": {
+     "hybrid_rank": 30,
+     "hybrid_score": 0.014286
+    }
+   },
+   {
+    "rank": 4,
+    "id": "para:bizlaw:p0104:02",
+    "page": 104,
+    "source_id": "bizlaw",
+    "score": 0.057669,
+    "components": {
+     "hybrid_rank": 6,
+     "hybrid_score": 0.029083
+    }
+   },
+   {
+    "rank": 5,
+    "id": "para:bizethics:p0157:04",
+    "page": 157,
+    "source_id": "bizethics",
+    "score": 0.046696,
+    "components": {
+     "hybrid_rank": 1,
+     "hybrid_score": 0.032266
+    }
+   },
+   {
+    "rank": 6,
+    "id": "para:bizlaw:p0098:01",
+    "page": 98,
+    "source_id": "bizlaw",
+    "score": 0.03174,
+    "components": {
+     "hybrid_rank": 3,
+     "hybrid_score": 0.031778
+    }
+   },
+   {
+    "rank": 7,
+    "id": "para:bizethics:p0211:06",
+    "page": 211,
+    "source_id": "bizethics",
+    "score": 0.019498,
+    "components": {
+     "hybrid_rank": 2,
+     "hybrid_score": 0.032258
+    }
+   },
+   {
+    "rank": 8,
+    "id": "para:bizethics:p0180:00",
+    "page": 180,
+    "source_id": "bizethics",
+    "score": 0.018228,
+    "components": {
+     "hybrid_rank": 19,
+     "hybrid_score": 0.024563
+    }
+   },
+   {
+    "rank": 9,
+    "id": "para:phil:p0340:03",
+    "page": 340,
+    "source_id": "phil",
+    "score": 0.01685,
+    "components": {
+     "hybrid_rank": 9,
+     "hybrid_score": 0.027746
+    }
+   },
+   {
+    "rank": 10,
+    "id": "para:bizethics:p0158:01",
+    "page": 158,
+    "source_id": "bizethics",
+    "score": 0.014054,
+    "components": {
+     "hybrid_rank": 16,
+     "hybrid_score": 0.025342
+    }
+   }
+  ]
+ },
+ {
+  "method": "rerank",
+  "question_id": "d13",
+  "question": "How many employees must a business have before the main federal law against workplace discrimination based on race, sex, religion, color or national origin applies to it?",
+  "filter": null,
+  "hit_rank": 1,
+  "latency_ms": 8485.8,
+  "results": [
+   {
+    "rank": 1,
+    "id": "para:bizlaw:p0104:03",
+    "page": 104,
+    "source_id": "bizlaw",
+    "score": 0.96633,
+    "components": {
+     "hybrid_rank": 1,
+     "hybrid_score": 0.032522
+    }
+   },
+   {
+    "rank": 2,
+    "id": "para:bizethics:p0159:03",
+    "page": 159,
+    "source_id": "bizethics",
+    "score": 0.712141,
+    "components": {
+     "hybrid_rank": 3,
+     "hybrid_score": 0.030478
+    }
+   },
+   {
+    "rank": 3,
+    "id": "para:bizethics:p0159:02",
+    "page": 159,
+    "source_id": "bizethics",
+    "score": 0.673241,
+    "components": {
+     "hybrid_rank": 2,
+     "hybrid_score": 0.031498
+    }
+   },
+   {
+    "rank": 4,
+    "id": "para:bizlaw:p0108:01",
+    "page": 108,
+    "source_id": "bizlaw",
+    "score": 0.52393,
+    "components": {
+     "hybrid_rank": 5,
+     "hybrid_score": 0.030077
+    }
+   },
+   {
+    "rank": 5,
+    "id": "para:bizlaw:p0106:01",
+    "page": 106,
+    "source_id": "bizlaw",
+    "score": 0.013923,
+    "components": {
+     "hybrid_rank": 10,
+     "hybrid_score": 0.027971
+    }
+   },
+   {
+    "rank": 6,
+    "id": "para:bizlaw:p0106:00",
+    "page": 106,
+    "source_id": "bizlaw",
+    "score": 0.010234,
+    "components": {
+     "hybrid_rank": 6,
+     "hybrid_score": 0.029828
+    }
+   },
+   {
+    "rank": 7,
+    "id": "para:bizlaw:p0107:01",
+    "page": 107,
+    "source_id": "bizlaw",
+    "score": 0.009746,
+    "components": {
+     "hybrid_rank": 20,
+     "hybrid_score": 0.02255
+    }
+   },
+   {
+    "rank": 8,
+    "id": "para:bizlaw:p0107:03",
+    "page": 107,
+    "source_id": "bizlaw",
+    "score": 0.006865,
+    "components": {
+     "hybrid_rank": 8,
+     "hybrid_score": 0.02879
+    }
+   },
+   {
+    "rank": 9,
+    "id": "para:bizethics:p0159:04",
+    "page": 159,
+    "source_id": "bizethics",
+    "score": 0.005702,
+    "components": {
+     "hybrid_rank": 28,
+     "hybrid_score": 0.014706
+    }
+   },
+   {
+    "rank": 10,
+    "id": "para:bizethics:p0157:04",
+    "page": 157,
+    "source_id": "bizethics",
+    "score": 0.005625,
+    "components": {
+     "hybrid_rank": 16,
+     "hybrid_score": 0.025035
+    }
+   }
+  ]
+ },
+ {
+  "method": "rerank",
+  "question_id": "d14",
+  "question": "Even after an injured employee receives workplace-injury compensation, in what situation can they still take the employer to court?",
+  "filter": null,
+  "hit_rank": 1,
+  "latency_ms": 9021.0,
+  "results": [
+   {
+    "rank": 1,
+    "id": "para:bizlaw:p0099:01",
+    "page": 99,
+    "source_id": "bizlaw",
+    "score": 0.613284,
+    "components": {
+     "hybrid_rank": 1,
+     "hybrid_score": 0.032787
+    }
+   },
+   {
+    "rank": 2,
+    "id": "para:bizlaw:p0099:00",
+    "page": 99,
+    "source_id": "bizlaw",
+    "score": 0.068073,
+    "components": {
+     "hybrid_rank": 3,
+     "hybrid_score": 0.030415
+    }
+   },
+   {
+    "rank": 3,
+    "id": "para:bizethics:p0181:01",
+    "page": 181,
+    "source_id": "bizethics",
+    "score": 0.019115,
+    "components": {
+     "hybrid_rank": 8,
+     "hybrid_score": 0.026989
+    }
+   },
+   {
+    "rank": 4,
+    "id": "para:bizethics:p0158:01",
+    "page": 158,
+    "source_id": "bizethics",
+    "score": 0.012579,
+    "components": {
+     "hybrid_rank": 15,
+     "hybrid_score": 0.023284
+    }
+   },
+   {
+    "rank": 5,
+    "id": "para:bizlaw:p0067:03",
+    "page": 67,
+    "source_id": "bizlaw",
+    "score": 0.011041,
+    "components": {
+     "hybrid_rank": 16,
+     "hybrid_score": 0.020887
+    }
+   },
+   {
+    "rank": 6,
+    "id": "para:bizlaw:p0074:00",
+    "page": 74,
+    "source_id": "bizlaw",
+    "score": 0.010782,
+    "components": {
+     "hybrid_rank": 9,
+     "hybrid_score": 0.026984
+    }
+   },
+   {
+    "rank": 7,
+    "id": "para:bizlaw:p0105:00",
+    "page": 105,
+    "source_id": "bizlaw",
+    "score": 0.008231,
+    "components": {
+     "hybrid_rank": 6,
+     "hybrid_score": 0.028612
+    }
+   },
+   {
+    "rank": 8,
+    "id": "para:bizlaw:p0097:03",
+    "page": 97,
+    "source_id": "bizlaw",
+    "score": 0.006279,
+    "components": {
+     "hybrid_rank": 19,
+     "hybrid_score": 0.015385
+    }
+   },
+   {
+    "rank": 9,
+    "id": "para:bizlaw:p0069:04",
+    "page": 69,
+    "source_id": "bizlaw",
+    "score": 0.004829,
+    "components": {
+     "hybrid_rank": 30,
+     "hybrid_score": 0.013158
+    }
+   },
+   {
+    "rank": 10,
+    "id": "para:bizethics:p0159:01",
+    "page": 159,
+    "source_id": "bizethics",
+    "score": 0.003422,
+    "components": {
+     "hybrid_rank": 14,
+     "hybrid_score": 0.023377
+    }
+   }
+  ]
+ },
+ {
+  "method": "rerank",
+  "question_id": "d15",
+  "question": "What development in 2012 made most policies forbidding employees from discussing their salaries unenforceable?",
+  "filter": null,
+  "hit_rank": 1,
+  "latency_ms": 6443.9,
+  "results": [
+   {
+    "rank": 1,
+    "id": "para:bizethics:p0209:03",
+    "page": 209,
+    "source_id": "bizethics",
+    "score": 0.981704,
+    "components": {
+     "hybrid_rank": 1,
+     "hybrid_score": 0.032266
+    }
+   },
+   {
+    "rank": 2,
+    "id": "para:bizethics:p0209:02",
+    "page": 209,
+    "source_id": "bizethics",
+    "score": 0.942263,
+    "components": {
+     "hybrid_rank": 2,
+     "hybrid_score": 0.032258
+    }
+   },
+   {
+    "rank": 3,
+    "id": "para:bizethics:p0210:02",
+    "page": 210,
+    "source_id": "bizethics",
+    "score": 0.080522,
+    "components": {
+     "hybrid_rank": 5,
+     "hybrid_score": 0.026944
+    }
+   },
+   {
+    "rank": 4,
+    "id": "para:bizethics:p0209:04",
+    "page": 209,
+    "source_id": "bizethics",
+    "score": 0.061714,
+    "components": {
+     "hybrid_rank": 10,
+     "hybrid_score": 0.016393
+    }
+   },
+   {
+    "rank": 5,
+    "id": "para:bizethics:p0195:00",
+    "page": 195,
+    "source_id": "bizethics",
+    "score": 0.040176,
+    "components": {
+     "hybrid_rank": 4,
+     "hybrid_score": 0.029274
+    }
+   },
+   {
+    "rank": 6,
+    "id": "para:bizethics:p0212:04",
+    "page": 212,
+    "source_id": "bizethics",
+    "score": 0.012402,
+    "components": {
+     "hybrid_rank": 15,
+     "hybrid_score": 0.015152
+    }
+   },
+   {
+    "rank": 7,
+    "id": "para:bizethics:p0170:03",
+    "page": 170,
+    "source_id": "bizethics",
+    "score": 0.004755,
+    "components": {
+     "hybrid_rank": 12,
+     "hybrid_score": 0.015625
+    }
+   },
+   {
+    "rank": 8,
+    "id": "para:bizethics:p0170:01",
+    "page": 170,
+    "source_id": "bizethics",
+    "score": 0.003018,
+    "components": {
+     "hybrid_rank": 23,
+     "hybrid_score": 0.013889
+    }
+   },
+   {
+    "rank": 9,
+    "id": "para:bizethics:p0169:04",
+    "page": 169,
+    "source_id": "bizethics",
+    "score": 0.002451,
+    "components": {
+     "hybrid_rank": 6,
+     "hybrid_score": 0.025801
+    }
+   },
+   {
+    "rank": 10,
+    "id": "para:bizethics:p0159:05",
+    "page": 159,
+    "source_id": "bizethics",
+    "score": 0.002099,
+    "components": {
+     "hybrid_rank": 22,
+     "hybrid_score": 0.014085
+    }
+   }
+  ]
+ },
+ {
+  "method": "rerank",
+  "question_id": "d16",
+  "question": "Which two exceptions weaken the federal law that appears to bar employers from monitoring employees' communications?",
+  "filter": null,
+  "hit_rank": 1,
+  "latency_ms": 6416.8,
+  "results": [
+   {
+    "rank": 1,
+    "id": "para:bizethics:p0179:02",
+    "page": 179,
+    "source_id": "bizethics",
+    "score": 0.999428,
+    "components": {
+     "hybrid_rank": 1,
+     "hybrid_score": 0.032787
+    }
+   },
+   {
+    "rank": 2,
+    "id": "para:bizethics:p0179:05",
+    "page": 179,
+    "source_id": "bizethics",
+    "score": 0.328531,
+    "components": {
+     "hybrid_rank": 5,
+     "hybrid_score": 0.03031
+    }
+   },
+   {
+    "rank": 3,
+    "id": "para:bizethics:p0179:01",
+    "page": 179,
+    "source_id": "bizethics",
+    "score": 0.178816,
+    "components": {
+     "hybrid_rank": 2,
+     "hybrid_score": 0.032002
+    }
+   },
+   {
+    "rank": 4,
+    "id": "para:bizethics:p0180:00",
+    "page": 180,
+    "source_id": "bizethics",
+    "score": 0.149158,
+    "components": {
+     "hybrid_rank": 3,
+     "hybrid_score": 0.031054
+    }
+   },
+   {
+    "rank": 5,
+    "id": "para:bizethics:p0180:01",
+    "page": 180,
+    "source_id": "bizethics",
+    "score": 0.14719,
+    "components": {
+     "hybrid_rank": 8,
+     "hybrid_score": 0.028577
+    }
+   },
+   {
+    "rank": 6,
+    "id": "para:bizethics:p0181:05",
+    "page": 181,
+    "source_id": "bizethics",
+    "score": 0.060125,
+    "components": {
+     "hybrid_rank": 12,
+     "hybrid_score": 0.026989
+    }
+   },
+   {
+    "rank": 7,
+    "id": "para:bizethics:p0180:04",
+    "page": 180,
+    "source_id": "bizethics",
+    "score": 0.040753,
+    "components": {
+     "hybrid_rank": 6,
+     "hybrid_score": 0.029762
+    }
+   },
+   {
+    "rank": 8,
+    "id": "para:bizethics:p0209:03",
+    "page": 209,
+    "source_id": "bizethics",
+    "score": 0.022365,
+    "components": {
+     "hybrid_rank": 9,
+     "hybrid_score": 0.027619
+    }
+   },
+   {
+    "rank": 9,
+    "id": "para:bizethics:p0179:04",
+    "page": 179,
+    "source_id": "bizethics",
+    "score": 0.017624,
+    "components": {
+     "hybrid_rank": 20,
+     "hybrid_score": 0.023065
+    }
+   },
+   {
+    "rank": 10,
+    "id": "para:bizethics:p0180:05",
+    "page": 180,
+    "source_id": "bizethics",
+    "score": 0.016573,
+    "components": {
+     "hybrid_rank": 10,
+     "hybrid_score": 0.027106
+    }
+   }
+  ]
+ },
+ {
+  "method": "rerank",
+  "question_id": "d17",
+  "question": "If a person injured by a defective product is found partly responsible but may still collect damages, how is the amount they can recover determined?",
+  "filter": null,
+  "hit_rank": 1,
+  "latency_ms": 6721.3,
+  "results": [
+   {
+    "rank": 1,
+    "id": "para:bizlaw:p0074:02",
+    "page": 74,
+    "source_id": "bizlaw",
+    "score": 0.749576,
+    "components": {
+     "hybrid_rank": 2,
+     "hybrid_score": 0.030679
+    }
+   },
+   {
+    "rank": 2,
+    "id": "para:bizlaw:p0074:00",
+    "page": 74,
+    "source_id": "bizlaw",
+    "score": 0.228102,
+    "components": {
+     "hybrid_rank": 1,
+     "hybrid_score": 0.032258
+    }
+   },
+   {
+    "rank": 3,
+    "id": "para:bizlaw:p0074:03",
+    "page": 74,
+    "source_id": "bizlaw",
+    "score": 0.12598,
+    "components": {
+     "hybrid_rank": 3,
+     "hybrid_score": 0.030092
+    }
+   },
+   {
+    "rank": 4,
+    "id": "para:bizlaw:p0073:01",
+    "page": 73,
+    "source_id": "bizlaw",
+    "score": 0.079145,
+    "components": {
+     "hybrid_rank": 5,
+     "hybrid_score": 0.029911
+    }
+   },
+   {
+    "rank": 5,
+    "id": "para:bizlaw:p0075:00",
+    "page": 75,
+    "source_id": "bizlaw",
+    "score": 0.068448,
+    "components": {
+     "hybrid_rank": 17,
+     "hybrid_score": 0.025026
+    }
+   },
+   {
+    "rank": 6,
+    "id": "para:bizlaw:p0084:00",
+    "page": 84,
+    "source_id": "bizlaw",
+    "score": 0.029984,
+    "components": {
+     "hybrid_rank": 6,
+     "hybrid_score": 0.028958
+    }
+   },
+   {
+    "rank": 7,
+    "id": "para:bizlaw:p0072:03",
+    "page": 72,
+    "source_id": "bizlaw",
+    "score": 0.019462,
+    "components": {
+     "hybrid_rank": 4,
+     "hybrid_score": 0.029958
+    }
+   },
+   {
+    "rank": 8,
+    "id": "para:bizlaw:p0069:01",
+    "page": 69,
+    "source_id": "bizlaw",
+    "score": 0.016674,
+    "components": {
+     "hybrid_rank": 21,
+     "hybrid_score": 0.023514
+    }
+   },
+   {
+    "rank": 9,
+    "id": "para:bizlaw:p0067:03",
+    "page": 67,
+    "source_id": "bizlaw",
+    "score": 0.01435,
+    "components": {
+     "hybrid_rank": 7,
+     "hybrid_score": 0.028531
+    }
+   },
+   {
+    "rank": 10,
+    "id": "para:bizlaw:p0071:02",
+    "page": 71,
+    "source_id": "bizlaw",
+    "score": 0.013625,
+    "components": {
+     "hybrid_rank": 22,
+     "hybrid_score": 0.023268
+    }
+   }
+  ]
+ },
+ {
+  "method": "rerank",
+  "question_id": "d18",
+  "question": "How much advance notice must employers give before closing a plant or laying off workers, and how large must the employer be?",
+  "filter": null,
+  "hit_rank": 1,
+  "latency_ms": 6107.3,
+  "results": [
+   {
+    "rank": 1,
+    "id": "para:bizlaw:p0102:00",
+    "page": 102,
+    "source_id": "bizlaw",
+    "score": 0.997426,
+    "components": {
+     "hybrid_rank": 4,
+     "hybrid_score": 0.030835
+    }
+   },
+   {
+    "rank": 2,
+    "id": "para:bizethics:p0157:01",
+    "page": 157,
+    "source_id": "bizethics",
+    "score": 0.997135,
+    "components": {
+     "hybrid_rank": 2,
+     "hybrid_score": 0.032002
+    }
+   },
+   {
+    "rank": 3,
+    "id": "para:bizethics:p0157:02",
+    "page": 157,
+    "source_id": "bizethics",
+    "score": 0.952264,
+    "components": {
+     "hybrid_rank": 1,
+     "hybrid_score": 0.032787
+    }
+   },
+   {
+    "rank": 4,
+    "id": "para:bizethics:p0180:00",
+    "page": 180,
+    "source_id": "bizethics",
+    "score": 0.122826,
+    "components": {
+     "hybrid_rank": 6,
+     "hybrid_score": 0.028125
+    }
+   },
+   {
+    "rank": 5,
+    "id": "para:bizethics:p0157:00",
+    "page": 157,
+    "source_id": "bizethics",
+    "score": 0.059172,
+    "components": {
+     "hybrid_rank": 3,
+     "hybrid_score": 0.03101
+    }
+   },
+   {
+    "rank": 6,
+    "id": "para:bizethics:p0156:05",
+    "page": 156,
+    "source_id": "bizethics",
+    "score": 0.050513,
+    "components": {
+     "hybrid_rank": 15,
+     "hybrid_score": 0.023689
+    }
+   },
+   {
+    "rank": 7,
+    "id": "para:bizlaw:p0098:02",
+    "page": 98,
+    "source_id": "bizlaw",
+    "score": 0.032777,
+    "components": {
+     "hybrid_rank": 21,
+     "hybrid_score": 0.015873
+    }
+   },
+   {
+    "rank": 8,
+    "id": "para:bizlaw:p0100:01",
+    "page": 100,
+    "source_id": "bizlaw",
+    "score": 0.013361,
+    "components": {
+     "hybrid_rank": 17,
+     "hybrid_score": 0.021666
+    }
+   },
+   {
+    "rank": 9,
+    "id": "para:bizethics:p0180:04",
+    "page": 180,
+    "source_id": "bizethics",
+    "score": 0.009964,
+    "components": {
+     "hybrid_rank": 10,
+     "hybrid_score": 0.026036
+    }
+   },
+   {
+    "rank": 10,
+    "id": "para:bizethics:p0190:03",
+    "page": 190,
+    "source_id": "bizethics",
+    "score": 0.008031,
+    "components": {
+     "hybrid_rank": 25,
+     "hybrid_score": 0.014493
+    }
+   }
+  ]
+ },
+ {
+  "method": "rerank",
+  "question_id": "d19",
+  "question": "In the virtue-ethics account of character, how does a person's upbringing shape their tendencies relative to the ideal middle state?",
+  "filter": null,
+  "hit_rank": 1,
+  "latency_ms": 7102.2,
+  "results": [
+   {
+    "rank": 1,
+    "id": "para:phil:p0299:02",
+    "page": 299,
+    "source_id": "phil",
+    "score": 0.841724,
+    "components": {
+     "hybrid_rank": 2,
+     "hybrid_score": 0.032522
+    }
+   },
+   {
+    "rank": 2,
+    "id": "para:phil:p0298:05",
+    "page": 298,
+    "source_id": "phil",
+    "score": 0.373334,
+    "components": {
+     "hybrid_rank": 1,
+     "hybrid_score": 0.032522
+    }
+   },
+   {
+    "rank": 3,
+    "id": "para:phil:p0294:00",
+    "page": 294,
+    "source_id": "phil",
+    "score": 0.142265,
+    "components": {
+     "hybrid_rank": 3,
+     "hybrid_score": 0.031498
+    }
+   },
+   {
+    "rank": 4,
+    "id": "para:phil:p0298:06",
+    "page": 298,
+    "source_id": "phil",
+    "score": 0.072924,
+    "components": {
+     "hybrid_rank": 4,
+     "hybrid_score": 0.031498
+    }
+   },
+   {
+    "rank": 5,
+    "id": "para:phil:p0294:01",
+    "page": 294,
+    "source_id": "phil",
+    "score": 0.070204,
+    "components": {
+     "hybrid_rank": 10,
+     "hybrid_score": 0.027693
+    }
+   },
+   {
+    "rank": 6,
+    "id": "para:phil:p0298:04",
+    "page": 298,
+    "source_id": "phil",
+    "score": 0.050038,
+    "components": {
+     "hybrid_rank": 9,
+     "hybrid_score": 0.028259
+    }
+   },
+   {
+    "rank": 7,
+    "id": "para:phil:p0299:00",
+    "page": 299,
+    "source_id": "phil",
+    "score": 0.044244,
+    "components": {
+     "hybrid_rank": 5,
+     "hybrid_score": 0.030536
+    }
+   },
+   {
+    "rank": 8,
+    "id": "para:phil:p0295:03",
+    "page": 295,
+    "source_id": "phil",
+    "score": 0.023716,
+    "components": {
+     "hybrid_rank": 15,
+     "hybrid_score": 0.025253
+    }
+   },
+   {
+    "rank": 9,
+    "id": "para:phil:p0300:00",
+    "page": 300,
+    "source_id": "phil",
+    "score": 0.021967,
+    "components": {
+     "hybrid_rank": 12,
+     "hybrid_score": 0.026993
+    }
+   },
+   {
+    "rank": 10,
+    "id": "para:phil:p0298:03",
+    "page": 298,
+    "source_id": "phil",
+    "score": 0.016333,
+    "components": {
+     "hybrid_rank": 16,
+     "hybrid_score": 0.025238
+    }
+   }
+  ]
+ },
+ {
+  "method": "rerank",
+  "question_id": "d20",
+  "question": "Under what circumstances do some ethicists regard altering human genes as morally acceptable, and when do they regard it as unacceptable?",
+  "filter": null,
+  "hit_rank": 1,
+  "latency_ms": 6336.5,
+  "results": [
+   {
+    "rank": 1,
+    "id": "para:phil:p0332:01",
+    "page": 332,
+    "source_id": "phil",
+    "score": 0.416412,
+    "components": {
+     "hybrid_rank": 1,
+     "hybrid_score": 0.032787
+    }
+   },
+   {
+    "rank": 2,
+    "id": "para:phil:p0331:06",
+    "page": 331,
+    "source_id": "phil",
+    "score": 0.113425,
+    "components": {
+     "hybrid_rank": 6,
+     "hybrid_score": 0.029211
+    }
+   },
+   {
+    "rank": 3,
+    "id": "para:phil:p0332:05",
+    "page": 332,
+    "source_id": "phil",
+    "score": 0.080839,
+    "components": {
+     "hybrid_rank": 4,
+     "hybrid_score": 0.02971
+    }
+   },
+   {
+    "rank": 4,
+    "id": "para:phil:p0332:06",
+    "page": 332,
+    "source_id": "phil",
+    "score": 0.080625,
+    "components": {
+     "hybrid_rank": 2,
+     "hybrid_score": 0.031514
+    }
+   },
+   {
+    "rank": 5,
+    "id": "para:phil:p0331:04",
+    "page": 331,
+    "source_id": "phil",
+    "score": 0.045298,
+    "components": {
+     "hybrid_rank": 9,
+     "hybrid_score": 0.026515
+    }
+   },
+   {
+    "rank": 6,
+    "id": "para:phil:p0331:02",
+    "page": 331,
+    "source_id": "phil",
+    "score": 0.040157,
+    "components": {
+     "hybrid_rank": 3,
+     "hybrid_score": 0.030159
+    }
+   },
+   {
+    "rank": 7,
+    "id": "para:phil:p0322:00",
+    "page": 322,
+    "source_id": "phil",
+    "score": 0.034571,
+    "components": {
+     "hybrid_rank": 13,
+     "hybrid_score": 0.024807
+    }
+   },
+   {
+    "rank": 8,
+    "id": "para:phil:p0331:01",
+    "page": 331,
+    "source_id": "phil",
+    "score": 0.02936,
+    "components": {
+     "hybrid_rank": 26,
+     "hybrid_score": 0.014925
+    }
+   },
+   {
+    "rank": 9,
+    "id": "para:phil:p0319:01",
+    "page": 319,
+    "source_id": "phil",
+    "score": 0.022054,
+    "components": {
+     "hybrid_rank": 18,
+     "hybrid_score": 0.021396
+    }
+   },
+   {
+    "rank": 10,
+    "id": "para:phil:p0332:00",
+    "page": 332,
+    "source_id": "phil",
+    "score": 0.017055,
+    "components": {
+     "hybrid_rank": 5,
+     "hybrid_score": 0.029469
+    }
+   }
+  ]
+ },
+ {
+  "method": "rerank",
+  "question_id": "d21",
+  "question": "Which year is given for the federal statute that obliges employers to warn workers beforehand about large-scale layoffs and facility shutdowns?",
+  "filter": null,
+  "hit_rank": 1,
+  "latency_ms": 6918.4,
+  "results": [
+   {
+    "rank": 1,
+    "id": "para:bizethics:p0157:01",
+    "page": 157,
+    "source_id": "bizethics",
+    "score": 0.87829,
+    "components": {
+     "hybrid_rank": 1,
+     "hybrid_score": 0.032787
+    }
+   },
+   {
+    "rank": 2,
+    "id": "para:bizlaw:p0102:00",
+    "page": 102,
+    "source_id": "bizlaw",
+    "score": 0.819038,
+    "components": {
+     "hybrid_rank": 2,
+     "hybrid_score": 0.032258
+    }
+   },
+   {
+    "rank": 3,
+    "id": "para:bizlaw:p0100:01",
+    "page": 100,
+    "source_id": "bizlaw",
+    "score": 0.08602,
+    "components": {
+     "hybrid_rank": 15,
+     "hybrid_score": 0.024853
+    }
+   },
+   {
+    "rank": 4,
+    "id": "para:bizethics:p0157:02",
+    "page": 157,
+    "source_id": "bizethics",
+    "score": 0.070049,
+    "components": {
+     "hybrid_rank": 4,
+     "hybrid_score": 0.029324
+    }
+   },
+   {
+    "rank": 5,
+    "id": "para:bizethics:p0157:04",
+    "page": 157,
+    "source_id": "bizethics",
+    "score": 0.048945,
+    "components": {
+     "hybrid_rank": 23,
+     "hybrid_score": 0.015873
+    }
+   },
+   {
+    "rank": 6,
+    "id": "para:bizlaw:p0106:00",
+    "page": 106,
+    "source_id": "bizlaw",
+    "score": 0.043684,
+    "components": {
+     "hybrid_rank": 13,
+     "hybrid_score": 0.02578
+    }
+   },
+   {
+    "rank": 7,
+    "id": "para:bizlaw:p0098:01",
+    "page": 98,
+    "source_id": "bizlaw",
+    "score": 0.039869,
+    "components": {
+     "hybrid_rank": 5,
+     "hybrid_score": 0.02885
+    }
+   },
+   {
+    "rank": 8,
+    "id": "para:bizethics:p0179:01",
+    "page": 179,
+    "source_id": "bizethics",
+    "score": 0.019212,
+    "components": {
+     "hybrid_rank": 3,
+     "hybrid_score": 0.029762
+    }
+   },
+   {
+    "rank": 9,
+    "id": "para:bizethics:p0211:06",
+    "page": 211,
+    "source_id": "bizethics",
+    "score": 0.014531,
+    "components": {
+     "hybrid_rank": 11,
+     "hybrid_score": 0.025934
+    }
+   },
+   {
+    "rank": 10,
+    "id": "para:bizlaw:p0097:03",
+    "page": 97,
+    "source_id": "bizlaw",
+    "score": 0.007352,
+    "components": {
+     "hybrid_rank": 17,
+     "hybrid_score": 0.024052
+    }
+   }
+  ]
+ }
+]

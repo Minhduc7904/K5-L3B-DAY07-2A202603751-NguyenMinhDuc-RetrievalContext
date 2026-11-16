@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "split": "dev",
+    "filters": "none",
+    "depth": 10,
+    "setup_seconds": 23.07,
+    "n_chunks": 662,
+    "bm25": {
+      "k1": 1.5,
+      "b": 0.75
+    },
+    "rrf": {
+      "k": 60,
+      "candidates": 50
+    },
+    "embedding_model": "BAAI/bge-base-en-v1.5",
+    "rerank": {
+      "cross_encoder": "BAAI/bge-reranker-base",
+      "pool": 30
+    }
+  },
+  "methods": {
+    "dense": {
+      "n": 21,
+      "hit@1": "15/21",
+      "hit@3": "18/21",
+      "hit@5": "19/21",
+      "hit@10": "21/21",
+      "mrr@10": 0.798,
+      "median_ms": 75.0,
+      "cost_usd": 0.0,
+      "misses_top3": [
+        "d12",
+        "d17",
+        "d18"
+      ]
+    },
+    "bm25": {
+      "n": 21,
+      "hit@1": "18/21",
+      "hit@3": "20/21",
+      "hit@5": "21/21",
+      "hit@10": "21/21",
+      "mrr@10": 0.914,
+      "median_ms": 0.5,
+      "cost_usd": 0.0,
+      "misses_top3": [
+        "d01"
+      ]
+    },
+    "hybrid": {
+      "n": 21,
+      "hit@1": "16/21",
+      "hit@3": "20/21",
+      "hit@5": "21/21",
+      "hit@10": "21/21",
+      "mrr@10": 0.861,
+      "median_ms": 70.2,
+      "cost_usd": 0.0,
+      "misses_top3": [
+        "d18"
+      ]
+    },
+    "rerank": {
+      "n": 21,
+      "hit@1": "19/21",
+      "hit@3": "20/21",
+      "hit@5": "20/21",
+      "hit@10": "21/21",
+      "mrr@10": 0.929,
+      "median_ms": 7044.9,
+      "cost_usd": 0.0,
+      "misses_top3": [
+        "d12"
+      ]
+    }
+  }
+}

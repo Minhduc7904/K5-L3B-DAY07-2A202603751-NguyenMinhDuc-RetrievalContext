@@ -1,0 +1,184 @@
+{
+ "d01": {
+  "context_grade_reason": "p0291:03 has the Kant humanity formulation; p0329:05 repeats the rule.",
+  "answer_grade_reason": "Ends in themselves, never merely as means, others and ourselves; supported across the cited chunks.",
+  "citation_reasons": [
+   "p0329:05 states 'treat all persons as ends in themselves, never as means only' and inherent worth.",
+   "p0291:03 states 'whether oneself or others' and 'same inherent value ... because we are all rational beings'.",
+   "p0291:04 supports 'inherent value we all possess as rational beings' and 'never merely as a means ... treat each other as ends-in-themselves' (reading 'mere tools' as 'merely a means')."
+  ],
+  "invalid_or_attempted_ids_note": "attempted=['para:phil:p0329:05', 'para:phil:p0291:03', 'para:phil:p0291:04'] accepted=['para:phil:p0329:05', 'para:phil:p0291:03', 'para:phil:p0291:04'] invalid=[] repaired=none"
+ },
+ "d02": {
+  "context_grade_reason": "p0326:03 has the Singer involuntary-euthanasia definition.",
+  "answer_grade_reason": "Involuntary euthanasia, defined as decision without patient input and against interests; both parts.",
+  "citation_reasons": [
+   "p0326:03 states 'only form of euthanasia Singer opposes is involuntary ... without patient input and against their interests'."
+  ],
+  "invalid_or_attempted_ids_note": "attempted=['para:phil:p0326:03'] accepted=['para:phil:p0326:03'] invalid=[] repaired=none"
+ },
+ "d03": {
+  "context_grade_reason": "p0328:01 states participant autonomy is protected by informed consent.",
+  "answer_grade_reason": "Autonomy/self-determination; all detail is in p0328:01.",
+  "citation_reasons": [
+   "p0328:01 states the principle of autonomy, self-determination and informed consent supplying all relevant information."
+  ],
+  "invalid_or_attempted_ids_note": "attempted=['para:phil:p0328:01'] accepted=['para:phil:p0328:01'] invalid=[] repaired=none"
+ },
+ "d04": {
+  "context_grade_reason": "p0337:02 names Arne Naess and the 'valuable in their own right' assumption.",
+  "answer_grade_reason": "Arne Naess; all living things valuable in their own right; 'deserving of respect' is in the chunk.",
+  "citation_reasons": [
+   "p0337:02 states Naess coined deep ecology, all living things valuable in their own right, 'all life is deserving of respect'."
+  ],
+  "invalid_or_attempted_ids_note": "attempted=['para:phil:p0337:02'] accepted=['para:phil:p0337:02'] invalid=[] repaired=none"
+ },
+ "d05": {
+  "context_grade_reason": "p0158:01 states protection against any employer sanctions for complaining to OSHA.",
+  "answer_grade_reason": "Protection against employer sanctions for OSHA complaints; inspection, anonymous report and findings reported to employer and employee are all in the chunk.",
+  "citation_reasons": [
+   "p0158:01 supports confidential complaint, 'protection against any employer sanctions' (paraphrased as retaliation), anonymous report, investigation and report to employer and employee."
+  ],
+  "invalid_or_attempted_ids_note": "attempted=['para:bizethics:p0158:01'] accepted=['para:bizethics:p0158:01'] invalid=[] repaired=none"
+ },
+ "d06": {
+  "context_grade_reason": "p0159:04 states both coworker and supervisor liability rules.",
+  "answer_grade_reason": "Coworker case: after the second occurrence given notice of the first ('typically' hedges 'usually'); supervisor contrast omitted but not asked.",
+  "citation_reasons": [
+   "p0159:04 states the coworker rule 'usually creates liability after the second time ... assuming the company had notice of the first'."
+  ],
+  "invalid_or_attempted_ids_note": "attempted=['para:bizethics:p0159:04'] accepted=['para:bizethics:p0159:04'] invalid=[] repaired=none"
+ },
+ "d07": {
+  "context_grade_reason": "p0211:05: 'should usually try internal reporting channels first, to disclose the problem to management before going public'.",
+  "answer_grade_reason": "Internal reporting channels/management first; extra sentence about investigation is in the chunk.",
+  "citation_reasons": [
+   "p0211:05 states internal channels first and 'gives management a chance to start an investigation and attempt to rectify'."
+  ],
+  "invalid_or_attempted_ids_note": "attempted=['para:bizethics:p0211:05'] accepted=['para:bizethics:p0211:05'] invalid=[] repaired=none"
+ },
+ "d08": {
+  "context_grade_reason": "p0195:00 states California non-compete unenforceable; the 2017 law is in p0194:03 (in context).",
+  "answer_grade_reason": "Core answer correct. The 2017-law claim is accurate per p0194:03 but cited to p0195:04.",
+  "citation_reasons": [
+   "p0195:00 supports 'unenforceable in California'.",
+   "p0195:04 is about nonsolicitation clauses; the 2017 California law is in p0194:03, not the cited chunk -> false."
+  ],
+  "invalid_or_attempted_ids_note": "attempted=['para:bizethics:p0195:00', 'para:bizethics:p0195:04'] accepted=['para:bizethics:p0195:00', 'para:bizethics:p0195:04'] invalid=[] repaired=none | Wrong chunk id for the 2017 claim; no repaired/invalid ids."
+ },
+ "d09": {
+  "context_grade_reason": "p0081:01 names reliance damages; p0081:03 describes the reimbursement example.",
+  "answer_grade_reason": "Reliance damages with costs (moving, lease penalty) and expectation damages unavailable; both parts correct and in context.",
+  "citation_reasons": [
+   "p0081:03 supports reimbursement of costs and return to prior position but never names 'reliance damages' (that label is in uncited-for-this-claim p0081:01) -> false under strict rule.",
+   "p0081:01 states 'Expectation damages are not usually available' -> supports."
+  ],
+  "invalid_or_attempted_ids_note": "attempted=['para:bizlaw:p0081:03', 'para:bizlaw:p0081:01'] accepted=['para:bizlaw:p0081:03', 'para:bizlaw:p0081:01'] invalid=[] repaired=none"
+ },
+ "d10": {
+  "context_grade_reason": "p0082:00 has minor rule, necessities exception, age-18 rule.",
+  "answer_grade_reason": "Can void ('in most states'); necessities cannot be voided; no longer voidable after 18; all parts.",
+  "citation_reasons": [
+   "p0082:00 supports all three statements."
+  ],
+  "invalid_or_attempted_ids_note": "attempted=['para:bizlaw:p0082:00'] accepted=['para:bizlaw:p0082:00'] invalid=[] repaired=none"
+ },
+ "d11": {
+  "context_grade_reason": "p0100:01 has 12 weeks/12-month period, public and private employers with 50+ employees.",
+  "answer_grade_reason": "12 weeks in any 12-month period; employers with 50+ employees; both parts.",
+  "citation_reasons": [
+   "p0100:01 states all of it."
+  ],
+  "invalid_or_attempted_ids_note": "attempted=['para:bizlaw:p0100:01'] accepted=['para:bizlaw:p0100:01'] invalid=[] repaired=[{'from': 'bizlaw:p0100:01', 'to': 'para:bizlaw:p0100:01'}] | Harness repaired citation id 'bizlaw:p0100:01' -> 'para:bizlaw:p0100:01' (missing 'para:' prefix); graded the repaired chunk."
+ },
+ "d12": {
+  "context_grade_reason": "p0098:01 states the exclusion.",
+  "answer_grade_reason": "Self-employed and state/local government workers in most states.",
+  "citation_reasons": [
+   "p0098:01 states the exclusion."
+  ],
+  "invalid_or_attempted_ids_note": "attempted=['para:bizlaw:p0098:01'] accepted=['para:bizlaw:p0098:01'] invalid=[] repaired=[{'from': 'bizlaw:p0098:01', 'to': 'para:bizlaw:p0098:01'}] | Harness repaired citation id 'bizlaw:p0098:01' -> 'para:bizlaw:p0098:01' (missing 'para:' prefix); graded the repaired chunk."
+ },
+ "d13": {
+  "context_grade_reason": "p0104:03 states 15+ employees for 20 consecutive weeks, commercial activity, Title VII.",
+  "answer_grade_reason": "15 or more employees for 20 consecutive weeks, commercial activity; Title VII/1964 are in the chunk heading.",
+  "citation_reasons": [
+   "p0104:03 states the coverage threshold and heading names Civil Rights Act of 1964 Title VII."
+  ],
+  "invalid_or_attempted_ids_note": "attempted=['para:bizlaw:p0104:03'] accepted=['para:bizlaw:p0104:03'] invalid=[] repaired=none"
+ },
+ "d14": {
+  "context_grade_reason": "p0099:01 states the intentional-injury exception.",
+  "answer_grade_reason": "Intentional injury; exclusive remedy explained correctly.",
+  "citation_reasons": [
+   "p0099:01 supports the exception and the exclusive-remedy rule."
+  ],
+  "invalid_or_attempted_ids_note": "attempted=['para:bizlaw:p0099:01'] accepted=['para:bizlaw:p0099:01'] invalid=[] repaired=none"
+ },
+ "d15": {
+  "context_grade_reason": "p0209:03: 'The real game changer came in 2012, when multiple decisions by the NLRB and various federal courts made it clear that most pay secrecy policies are unenforceable'.",
+  "answer_grade_reason": "2012 NLRB and court decisions: most pay secrecy policies unenforceable; NLRA union/non-union detail is in the chunk.",
+  "citation_reasons": [
+   "p0209:03 supports every sentence including NLRA applying to union and non-union employees."
+  ],
+  "invalid_or_attempted_ids_note": "attempted=['para:bizethics:p0209:03'] accepted=['para:bizethics:p0209:03'] invalid=[] repaired=none"
+ },
+ "d16": {
+  "context_grade_reason": "p0179:02 states both ECPA exceptions.",
+  "answer_grade_reason": "Business purpose and consent exceptions; ECPA named in chunk.",
+  "citation_reasons": [
+   "p0179:02 supports ECPA, both exceptions and their meaning."
+  ],
+  "invalid_or_attempted_ids_note": "attempted=['para:bizethics:p0179:02'] accepted=['para:bizethics:p0179:02'] invalid=[] repaired=none | Harness repaired citation id 'bizethics:p0179:02' -> 'para:bizethics:p0179:02'; graded the repaired chunk."
+ },
+ "d17": {
+  "context_grade_reason": "p0074:02 states comparative negligence and the 30/70 example.",
+  "answer_grade_reason": "Comparative negligence compared fault, 30/70 example gives 70%.",
+  "citation_reasons": [
+   "p0074:02 supports every sentence."
+  ],
+  "invalid_or_attempted_ids_note": "attempted=['para:bizlaw:p0074:02'] accepted=['para:bizlaw:p0074:02'] invalid=[] repaired=none"
+ },
+ "d18": {
+  "context_grade_reason": "p0102:00 states >100 employees and 60 days notice; p0157:01 has WARN Act of 1989.",
+  "answer_grade_reason": "Correct 60 days / more than 100 (WARN); year 1989 peripheral, supported by uncited p0157:01 while cited p0102:00 says 1988.",
+  "citation_reasons": [
+   "p0102:00 supports 60 days / >100 employees but says '1988', not 'Act of 1989' (1989 is in uncited p0157:01) -> false under strict rule."
+  ],
+  "invalid_or_attempted_ids_note": "attempted=['para:bizlaw:p0102:00'] accepted=['para:bizlaw:p0102:00'] invalid=[] repaired=none | Year inconsistency between cited chunk (1988) and p0157:01 (1989)."
+ },
+ "d19": {
+  "context_grade_reason": "p0299:02 states good vs bad upbringing relative to the mean state.",
+  "answer_grade_reason": "Both halves of the expected answer correct; extra Aristotle-habit sentence is peripheral and partly sourced elsewhere.",
+  "citation_reasons": [
+   "p0299:02 supports the upbringing statements.",
+   "p0298:05 supports 'virtuous state is the mean between deficiency and excess' and aligning character with the mean, but NOT 'moral virtues arise from habit' (that is in p0299:02) -> false under strict rule."
+  ],
+  "invalid_or_attempted_ids_note": "attempted=['para:phil:p0299:02', 'para:phil:p0298:05'] accepted=['para:phil:p0299:02', 'para:phil:p0298:05'] invalid=[] repaired=none"
+ },
+ "d20": {
+  "context_grade_reason": "p0332:01 states therapy permissible, enhancement impermissible.",
+  "answer_grade_reason": "Therapy permissible / enhancement impermissible, correct definitions; extra utilitarian sentence supported by p0331:02.",
+  "citation_reasons": [
+   "p0332:01 supports therapy/enhancement and the gene-pool risk.",
+   "p0331:02 supports welfare, eliminating disease and disability, and 'extremely costly ... only the very wealthy'."
+  ],
+  "invalid_or_attempted_ids_note": "attempted=['para:phil:p0332:01', 'para:phil:p0331:02'] accepted=['para:phil:p0332:01', 'para:phil:p0331:02'] invalid=[] repaired=none"
+ },
+ "d21": {
+  "context_grade_reason": "p0157:01 states 'WARN Act of 1989'.",
+  "answer_grade_reason": "1989, WARN Act.",
+  "citation_reasons": [
+   "p0157:01 states WARN Act of 1989 and its purpose."
+  ],
+  "invalid_or_attempted_ids_note": "attempted=['para:bizethics:p0157:01'] accepted=['para:bizethics:p0157:01'] invalid=[] repaired=none"
+ },
+ "x01": {
+  "abstention_reason": "Agent wrote INSUFFICIENT_EVIDENCE saying passages do not specify the years; no claim, no citation. Context has negligence (p0069-0074) but no filing deadline.",
+  "invalid_or_attempted_ids_note": "attempted=[] accepted=[] invalid=[] repaired=none"
+ },
+ "x02": {
+  "abstention_reason": "Agent wrote INSUFFICIENT_EVIDENCE: no cloning objections; no claim, no citation (did not answer with genetic-modification objections).",
+  "invalid_or_attempted_ids_note": "attempted=[] accepted=[] invalid=[] repaired=none"
+ }
+}

@@ -1,0 +1,67 @@
+[
+ {
+  "query_id": "t06",
+  "question": "How did John Stuart Mill revise Bentham's view of pleasure?",
+  "status": "answered",
+  "context_grade": 2,
+  "answer_grade": 2,
+  "citation_support": [
+   true
+  ]
+ },
+ {
+  "query_id": "t07",
+  "question": "On what basis do act utilitarians decide whether an action is right?",
+  "status": "answered",
+  "context_grade": 2,
+  "answer_grade": 2,
+  "citation_support": [
+   true,
+   true
+  ]
+ },
+ {
+  "query_id": "t08",
+  "question": "Which employment doctrine makes workplace drug testing legally possible, and roughly what share of private-sector employees does it cover?",
+  "status": "answered",
+  "context_grade": 2,
+  "answer_grade": 2,
+  "citation_support": [
+   false
+  ]
+ },
+ {
+  "query_id": "t09",
+  "question": "Between 1973 and 2013, how did growth in U.S. hourly compensation compare with growth in productivity?",
+  "status": "answered",
+  "context_grade": 2,
+  "answer_grade": 2,
+  "citation_support": [
+   true
+  ]
+ },
+ {
+  "query_id": "t10",
+  "question": "Under the Equal Pay Act, on what grounds may an employer legally pay one sex more than the other?",
+  "status": "answered",
+  "context_grade": 2,
+  "answer_grade": 2,
+  "citation_support": [
+   true
+  ]
+ },
+ {
+  "query_id": "x03",
+  "question": "What is the maximum number of years a non-compete agreement can last and still be enforceable?",
+  "status": "abstain",
+  "abstention_correct": true,
+  "citation_support": []
+ },
+ {
+  "query_id": "x04",
+  "question": "At what age does federal employment law require workers to retire?",
+  "status": "abstain",
+  "abstention_correct": true,
+  "citation_support": []
+ }
+]

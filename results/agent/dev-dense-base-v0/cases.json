@@ -1,0 +1,140 @@
+[
+ {
+  "id": "d01",
+  "split": "dev",
+  "answerable": true,
+  "question": "In Kant's second main test of a moral rule, how must we treat other people, and ourselves?"
+ },
+ {
+  "id": "d02",
+  "split": "dev",
+  "answerable": true,
+  "question": "Which kind of euthanasia does the utilitarian philosopher Peter Singer still reject, and how is it defined?"
+ },
+ {
+  "id": "d03",
+  "split": "dev",
+  "answerable": true,
+  "question": "Which ethical principle does informed consent protect for people who take part in a clinical trial?"
+ },
+ {
+  "id": "d04",
+  "split": "dev",
+  "answerable": true,
+  "question": "Who introduced the term deep ecology, and what does this view assume about living things?"
+ },
+ {
+  "id": "d05",
+  "split": "dev",
+  "answerable": true,
+  "question": "What protection do workers have against employer punishment if they complain to the workplace safety agency about hazards?"
+ },
+ {
+  "id": "d06",
+  "split": "dev",
+  "answerable": true,
+  "question": "When a coworker rather than a supervisor harasses someone, at what point does the company become liable?"
+ },
+ {
+  "id": "d07",
+  "split": "dev",
+  "answerable": true,
+  "question": "Before an employee takes suspected wrongdoing by the employer to a government agency, which step should they usually try first?"
+ },
+ {
+  "id": "d08",
+  "split": "dev",
+  "answerable": true,
+  "question": "In California, can an employer enforce an agreement that stops a former employee from working elsewhere after leaving?"
+ },
+ {
+  "id": "d09",
+  "split": "dev",
+  "answerable": true,
+  "question": "What kind of damages are normally awarded when someone relied on a broken promise that lacked consideration, and which kind is usually unavailable?"
+ },
+ {
+  "id": "d10",
+  "split": "dev",
+  "answerable": true,
+  "question": "Can someone under 18 who signed a contract cancel it, and are there contracts they cannot cancel?"
+ },
+ {
+  "id": "d11",
+  "split": "dev",
+  "answerable": true,
+  "question": "How much unpaid leave may eligible workers take for family or medical emergencies, and which employers does that law cover?"
+ },
+ {
+  "id": "d12",
+  "split": "dev",
+  "answerable": true,
+  "question": "Which workers fall outside the federal workplace safety law's protection?"
+ },
+ {
+  "id": "d13",
+  "split": "dev",
+  "answerable": true,
+  "question": "How many employees must a business have before the main federal law against workplace discrimination based on race, sex, religion, color or national origin applies to it?"
+ },
+ {
+  "id": "d14",
+  "split": "dev",
+  "answerable": true,
+  "question": "Even after an injured employee receives workplace-injury compensation, in what situation can they still take the employer to court?"
+ },
+ {
+  "id": "d15",
+  "split": "dev",
+  "answerable": true,
+  "question": "What development in 2012 made most policies forbidding employees from discussing their salaries unenforceable?"
+ },
+ {
+  "id": "d16",
+  "split": "dev",
+  "answerable": true,
+  "question": "Which two exceptions weaken the federal law that appears to bar employers from monitoring employees' communications?"
+ },
+ {
+  "id": "d17",
+  "split": "dev",
+  "answerable": true,
+  "question": "If a person injured by a defective product is found partly responsible but may still collect damages, how is the amount they can recover determined?"
+ },
+ {
+  "id": "d18",
+  "split": "dev",
+  "answerable": true,
+  "question": "How much advance notice must employers give before closing a plant or laying off workers, and how large must the employer be?"
+ },
+ {
+  "id": "d19",
+  "split": "dev",
+  "answerable": true,
+  "question": "In the virtue-ethics account of character, how does a person's upbringing shape their tendencies relative to the ideal middle state?"
+ },
+ {
+  "id": "d20",
+  "split": "dev",
+  "answerable": true,
+  "question": "Under what circumstances do some ethicists regard altering human genes as morally acceptable, and when do they regard it as unacceptable?"
+ },
+ {
+  "id": "d21",
+  "split": "dev",
+  "answerable": true,
+  "question": "Which year is given for the federal statute that obliges employers to warn workers beforehand about large-scale layoffs and facility shutdowns?"
+ },
+ {
+  "id": "x01",
+  "split": "dev",
+  "answerable": false,
+  "question": "Under the statute of limitations, how many years does a plaintiff have to file a negligence lawsuit?"
+ },
+ {
+  "id": "x02",
+  "split": "dev",
+  "answerable": false,
+  "question": "What ethical objections to human reproductive cloning does the philosophy textbook discuss?"
+ }
+]

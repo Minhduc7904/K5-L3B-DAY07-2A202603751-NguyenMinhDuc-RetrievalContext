@@ -1,0 +1,15 @@
+{
+ "graded_by": "Nguyen Minh Duc (student, manual review)",
+ "graded_on": "2026-11-16",
+ "run_folder": "test-hybrid-base",
+ "method": "hybrid",
+ "split": "test",
+ "student_confirmed": false,
+ "student_confirmation_note": "Set to true only after the student has read the labels and spot-checked them",
+ "uncertain": [
+  "t07",
+  "t08",
+  "x03"
+ ],
+ "rubric": "BENCHMARK.md section 2-3, strict"
+}

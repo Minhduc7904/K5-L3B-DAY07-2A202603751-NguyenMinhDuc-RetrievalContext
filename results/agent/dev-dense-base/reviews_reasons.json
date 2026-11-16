@@ -1,0 +1,180 @@
+{
+ "d01": {
+  "context_grade_reason": "p0291:03 contains Kant's quote 'always at the same time as an end, never merely as a means' (phil p.291).",
+  "answer_grade_reason": "Answer: ends in themselves, never merely as means, for others and oneself; matches expected; extra gloss (rational beings, reason) is in the chunk.",
+  "citation_reasons": [
+   "p0291:03 states the humanity formulation quote and 'others and ourselves as ends'."
+  ],
+  "invalid_or_attempted_ids_note": "none: attempted == accepted, invalid list empty"
+ },
+ "d02": {
+  "context_grade_reason": "p0326:03 has the full Singer sentence on involuntary euthanasia and its definition.",
+  "answer_grade_reason": "Names involuntary euthanasia and the definition 'without patient input and against their interests'; both parts present.",
+  "citation_reasons": [
+   "p0326:03: 'The only form of euthanasia Signer opposes is involuntary euthanasia... without patient input and against their interests'."
+  ],
+  "invalid_or_attempted_ids_note": "none: attempted == accepted, invalid list empty"
+ },
+ "d03": {
+  "context_grade_reason": "p0328:01 states 'participant autonomy is protected when ... informed consent'.",
+  "answer_grade_reason": "Autonomy/self-determination plus informed-consent explanation, all in chunk.",
+  "citation_reasons": [
+   "p0328:01 states autonomy principle and informed consent definition."
+  ],
+  "invalid_or_attempted_ids_note": "none: attempted == accepted, invalid list empty"
+ },
+ "d04": {
+  "context_grade_reason": "p0337:02 has 'first coined by Norwegian philosopher Arne Naess... all living things are valuable in their own right'.",
+  "answer_grade_reason": "Both parts (Naess; all living things valuable in own right) present; extra 'intrinsic value -> respect' is in chunk.",
+  "citation_reasons": [
+   "p0337:02 states the claim. (Agent wrote the full header '[id | path | page]' inside the brackets; harness resolved the id.)"
+  ],
+  "invalid_or_attempted_ids_note": "none: attempted == accepted, invalid list empty"
+ },
+ "d05": {
+  "context_grade_reason": "p0158:01 has 'protection against any employer sanctions as a consequence of complaining to OSHA' and p0211:06 the anti-retaliation sentence.",
+  "answer_grade_reason": "Core answer (no employer sanctions/retaliation for reporting) correct and supported by both chunks. Slightly loose wording 'OSHA will investigate any reasonable grounds' (chunk: OSHA establishes whether reasonable grounds exist, then inspects) judged immaterial.",
+  "citation_reasons": [
+   "p0211:06: 'employer cannot retaliate by firing, demoting...'; OSH Act 1970 named as early whistleblower law (minor over-attribution of the prohibition to the Act).",
+   "p0158:01: confidential complaint right and 'protection against any employer sanctions'; OSHA reasonable-grounds sentence."
+  ],
+  "invalid_or_attempted_ids_note": "none: attempted == accepted, invalid list empty"
+ },
+ "d06": {
+  "context_grade_reason": "p0159:04 has supervisor (first time) vs peer coworker (usually after second time, with notice).",
+  "answer_grade_reason": "Both the coworker (after second, notice) and supervisor (first) conditions stated correctly.",
+  "citation_reasons": [
+   "p0159:04 states both conditions verbatim."
+  ],
+  "invalid_or_attempted_ids_note": "none: attempted == accepted, invalid list empty"
+ },
+ "d07": {
+  "context_grade_reason": "p0211:05: 'should usually try internal reporting channels first, to disclose the problem to management'.",
+  "answer_grade_reason": "Internal reporting to management first; extra 'chance to investigate and rectify' is in chunk.",
+  "citation_reasons": [
+   "p0211:05 supports every clause."
+  ],
+  "invalid_or_attempted_ids_note": "none: attempted == accepted, invalid list empty"
+ },
+ "d08": {
+  "context_grade_reason": "p0195:00: 'In California ... non-compete ... is now unenforceable'.",
+  "answer_grade_reason": "No / unenforceable in California; correct and supported.",
+  "citation_reasons": [
+   "p0195:00 states the California rule."
+  ],
+  "invalid_or_attempted_ids_note": "none: attempted == accepted, invalid list empty"
+ },
+ "d09": {
+  "context_grade_reason": "p0081:01 has reliance damages and 'Expectation damages are not usually available'.",
+  "answer_grade_reason": "Both reliance (restore prior position) and expectation-not-available present.",
+  "citation_reasons": [
+   "p0081:01 supports both clauses (promissory estoppel context)."
+  ],
+  "invalid_or_attempted_ids_note": "none: attempted == accepted, invalid list empty"
+ },
+ "d10": {
+  "context_grade_reason": "p0082:00 lists capacity, honor-or-void, necessities exception and the age-18 rule.",
+  "answer_grade_reason": "All three parts (may void; necessities cannot be voided; cannot void after 18) with 'in most states' hedge on first.",
+  "citation_reasons": [
+   "p0082:00 states all three."
+  ],
+  "invalid_or_attempted_ids_note": "none: attempted == accepted, invalid list empty"
+ },
+ "d11": {
+  "context_grade_reason": "p0100:01 gives 12 weeks, 12-month period, 50+ employees.",
+  "answer_grade_reason": "12 weeks/12 months and 50+ public and private employers present; extra eligibility conditions are in chunk.",
+  "citation_reasons": [
+   "p0100:01 supports all."
+  ],
+  "invalid_or_attempted_ids_note": "none: attempted == accepted, invalid list empty"
+ },
+ "d12": {
+  "context_grade_reason": "p0098:01: self-employed and state/local government workers in most states not covered.",
+  "answer_grade_reason": "Both groups with 'in most states' hedge present.",
+  "citation_reasons": [
+   "p0098:01 states it verbatim."
+  ],
+  "invalid_or_attempted_ids_note": "none: attempted == accepted, invalid list empty"
+ },
+ "d13": {
+  "context_grade_reason": "p0104:03: 15 or more employees for 20 consecutive weeks, Title VII.",
+  "answer_grade_reason": "15+ employees for 20 consecutive weeks; Title VII named in chunk heading.",
+  "citation_reasons": [
+   "p0104:03 supports."
+  ],
+  "invalid_or_attempted_ids_note": "none: attempted == accepted, invalid list empty"
+ },
+ "d14": {
+  "context_grade_reason": "p0099:01: exclusive remedy exception when employer intentionally injures the worker.",
+  "answer_grade_reason": "Intentional injury exception, correct.",
+  "citation_reasons": [
+   "p0099:01 supports."
+  ],
+  "invalid_or_attempted_ids_note": "none: attempted == accepted, invalid list empty"
+ },
+ "d15": {
+  "context_grade_reason": "p0209:03: 2012 NLRB and federal court decisions, pay secrecy unenforceable.",
+  "answer_grade_reason": "Matches expected; NLRA/collective activity extras are in chunk.",
+  "citation_reasons": [
+   "p0209:03 supports all."
+  ],
+  "invalid_or_attempted_ids_note": "none: attempted == accepted, invalid list empty"
+ },
+ "d16": {
+  "context_grade_reason": "p0179:02 lists business purpose and consent exceptions (ECPA).",
+  "answer_grade_reason": "Both exceptions with definitions.",
+  "citation_reasons": [
+   "p0179:02 supports."
+  ],
+  "invalid_or_attempted_ids_note": "none: attempted == accepted, invalid list empty"
+ },
+ "d17": {
+  "context_grade_reason": "p0074:02 states comparative negligence and the 30%/70% example.",
+  "answer_grade_reason": "Comparative negligence comparison, 70% example, correct.",
+  "citation_reasons": [
+   "p0074:02 supports."
+  ],
+  "invalid_or_attempted_ids_note": "none: attempted == accepted, invalid list empty"
+ },
+ "d18": {
+  "context_grade_reason": "p0102:00 timeline: WARN, more than 100 employees, at least 60 days notice.",
+  "answer_grade_reason": "Both numbers and WARN named; correct.",
+  "citation_reasons": [
+   "p0102:00 supports (chunk dates WARN 1988, not asserted in answer)."
+  ],
+  "invalid_or_attempted_ids_note": "none: attempted == accepted, invalid list empty"
+ },
+ "d19": {
+  "context_grade_reason": "p0299:02 has the upbringing/mean-state sentences.",
+  "answer_grade_reason": "Both good and bad upbringing parts present.",
+  "citation_reasons": [
+   "p0299:02 supports. (Agent wrote the full header inside brackets; harness resolved the id.)"
+  ],
+  "invalid_or_attempted_ids_note": "none: attempted == accepted, invalid list empty"
+ },
+ "d20": {
+  "context_grade_reason": "p0332:01 states permissible for therapy, impermissible for enhancement; gold fully in context.",
+  "answer_grade_reason": "Therapy/enhancement part correct. Cap at 1: extra utilitarian sentence says utilitarians may oppose if gene editing is 'excessively costly', but p0331:04 never mentions cost (it names inequality, benefiting few, discrimination); also off-question.",
+  "citation_reasons": [
+   "p0332:01 supports therapy/enhancement and the gene-pool risk.",
+   "p0331:04 supports utilitarian support/oppose in general but not 'excessively costly' -> false under strict rule."
+  ],
+  "invalid_or_attempted_ids_note": "none: attempted == accepted, invalid list empty"
+ },
+ "d21": {
+  "context_grade_reason": "p0157:01: 'WARN Act of 1989 ... sixty days' advance notice'.",
+  "answer_grade_reason": "1989 as expected; 60 days extra is in chunk.",
+  "citation_reasons": [
+   "p0157:01 supports."
+  ],
+  "invalid_or_attempted_ids_note": "none: attempted == accepted, invalid list empty"
+ },
+ "x01": {
+  "abstention_reason": "Status abstain; answer says passages do not specify the number of years; no number or citation given. Book has no limitation period (grader_reference).",
+  "invalid_or_attempted_ids_note": "none: no citations attempted"
+ },
+ "x02": {
+  "abstention_reason": "Status abstain; answer says passages give no ethical objections to human reproductive cloning; did not substitute genetic-modification objections from p.331-332 that are in its context.",
+  "invalid_or_attempted_ids_note": "none: no citations attempted"
+ }
+}

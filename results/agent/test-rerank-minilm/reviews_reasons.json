@@ -1,0 +1,52 @@
+{
+ "t06": {
+  "context_grade_reason": "p0287:01 states 'He realized that pleasures differ both quantitatively and qualitatively' and 'higher and lower pleasures ... greater significance ... higher-quality pleasures (e.g., mental pleasures)'. Gold evidence and source (page 287) present.",
+  "answer_grade_reason": "Both parts (quality as well as quantity; higher/lower pleasures) are in p0287:01; no extra claim.",
+  "citation_reasons": [
+   "p0287:01 states every clause of the answer (quantitative+qualitative, higher/lower, mental pleasures)."
+  ],
+  "invalid_or_attempted_ids_note": "attempted=['para:phil:p0287:01'] accepted=['para:phil:p0287:01'] invalid=[] repaired=none"
+ },
+ "t07": {
+  "context_grade_reason": "p0288:02 states 'apply the greatest happiness principle on a case-by-case basis' (gold, page 288); p0288:00 states the principle itself.",
+  "answer_grade_reason": "Case-by-case greatest happiness principle (p0288:02) plus 'right action ... produces the greatest happiness for the greatest number ... not just the agent's own happiness' (p0288:00). 'Based on its consequences' is supported by p0288:00 ('consequences produced') and p0329:03/p0289:00 in context.",
+  "citation_reasons": [
+   "p0288:02 states case-by-case application of the greatest happiness principle.",
+   "p0288:00 states 'actions are right that produce the greatest happiness for the greatest number' and 'not simply the agent's own happiness but that of all individuals involved or affected'."
+  ],
+  "invalid_or_attempted_ids_note": "attempted=['para:phil:p0288:02', 'para:phil:p0288:00'] accepted=['para:phil:p0288:02', 'para:phil:p0288:00'] invalid=[] repaired=none"
+ },
+ "t08": {
+  "context_grade_reason": "p0182:02 states 'the key concept that makes drug testing possible is employment at will, which covers approximately 85 percent of the employees in the private sector'. Gold present.",
+  "answer_grade_reason": "Doctrine (employment at will) and ~85 percent both present and correct. Gloss 'terminate at any time without cause unless a contract stipulates otherwise' is stated in p0182:01 (in context, uncited), accurate, does not change meaning, so grade 2.",
+  "citation_reasons": [
+   "p0182:02 supports 'employment at will' + 'approximately 85 percent' + 'unionized workers and top executives have contracts and thus are not at will', but NOT the sentence 'allows either party to terminate at any time without cause' (that is p0182:01). Strict: false; a lenient grader would say true."
+  ],
+  "invalid_or_attempted_ids_note": "attempted=['para:bizethics:p0182:02'] accepted=['para:bizethics:p0182:02'] invalid=[] repaired=none",
+  "note": "Borderline: citation marked false because the definitional sentence ('terminate at any time without cause') is not in the cited chunk p0182:02 (it is in uncited p0182:01)."
+ },
+ "t09": {
+  "context_grade_reason": "p0176:01 states 9 percent vs 74 percent for 1973-2013 (gold, page 176).",
+  "answer_grade_reason": "Both numbers correct. 'highlighting a significant disparity' is a mild paraphrase of 'wages have not kept up with productivity'.",
+  "citation_reasons": [
+   "p0176:01 states 9 percent vs 74 percent and 'wages ... have not kept up with productivity'; 'significant disparity' is a fair paraphrase."
+  ],
+  "invalid_or_attempted_ids_note": "attempted=['para:bizethics:p0176:01'] accepted=['para:bizethics:p0176:01'] invalid=[] repaired=none"
+ },
+ "t10": {
+  "context_grade_reason": "p0107:03 lists the four defenses (gold, page 107).",
+  "answer_grade_reason": "All four defenses listed; 'four affirmative defenses' and the 'factor other than sex' debate / critics' claim are all in p0107:03.",
+  "citation_reasons": [
+   "p0107:03 states four affirmative defenses, the 'factor other than sex' debate and the critics' claim."
+  ],
+  "invalid_or_attempted_ids_note": "attempted=['para:bizlaw:p0107:03'] accepted=['para:bizlaw:p0107:03'] invalid=[] repaired=none"
+ },
+ "x03": {
+  "abstention_reason": "Raw answer says 'usually limited by time ... a certain number of months or years' (supported by p0194:02), 'the maximum duration for enforceability is not specified in the retrieved passages', 'I cannot provide a definitive answer', then 'INSUFFICIENT_EVIDENCE: The passages do not specify the maximum number of years'. No figure, no 'two years' (the Jimmy John's decoy p0195:01 was in context but not used), no citation. Matches grader_note (book gives no maximum, only 'limited by time and distance'). mixed_marker only means prose preceded the marker; on substance it is a real abstention with no unsupported claim. Note: the `answer` field in trace/template is the harness placeholder 'Not enough evidence...', the real text is in raw_answer/model_text.",
+  "invalid_or_attempted_ids_note": "attempted=[] accepted=[] invalid=[] repaired=none"
+ },
+ "x04": {
+  "abstention_reason": "Agent wrote 'INSUFFICIENT_EVIDENCE: The passages do not provide information on a mandatory retirement age under federal employment law.' No age asserted, no 'no law requires retirement' claim, no citation. Context had p0108:01 (ADEA protects 'age 40 or older'), which is not a retirement age and was not misused.",
+  "invalid_or_attempted_ids_note": "attempted=[] accepted=[] invalid=[] repaired=none"
+ }
+}

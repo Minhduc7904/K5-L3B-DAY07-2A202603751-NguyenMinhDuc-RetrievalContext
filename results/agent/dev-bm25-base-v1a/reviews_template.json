@@ -1,0 +1,728 @@
+[
+ {
+  "query_id": "d01",
+  "question": "In Kant's second main test of a moral rule, how must we treat other people, and ourselves?",
+  "status": "answered",
+  "abstain_reason": "ok",
+  "answerable": true,
+  "answer": "In Kant's second main test of a moral rule, we must treat other people and ourselves as ends in themselves, never merely as means to an end. This means recognizing the inherent value and worth of every rational being, including ourselves, and ensuring our actions respect this value [para:phil:p0291:03].",
+  "model_text": "In Kant's second main test of a moral rule, we must treat other people and ourselves as ends in themselves, never merely as means to an end. This means recognizing the inherent value and worth of every rational being, including ourselves, and ensuring our actions respect this value [para:phil:p0291:03].",
+  "citations": [
+   "para:phil:p0291:03"
+  ],
+  "attempted_citations": [
+   "para:phil:p0291:03"
+  ],
+  "invalid_citations": [],
+  "context_grade": null,
+  "citation_support": [
+   null
+  ],
+  "_how_to": "MANUAL grading, not filled by any script. context_grade (BENCHMARK.md section 2): 0 no evidence, 1 evidence but a condition or source missing, 2 enough evidence and source in the final context ('context' in traces.json). citation_support: true/false per accepted citation (does that passage support the claim it is attached to?). answer_grade: 0 wrong/missing evidence/abstained, 1 partly right, 2 right and complete (BENCHMARK.md section 3).",
+  "answer_grade": null,
+  "grader_reference": {
+   "expected_answer": "Always as an end in themselves and never merely as a means.",
+   "gold": [
+    {
+     "source_id": "phil",
+     "page": 291,
+     "evidence": "So act that you use humanity, in your own person as well as in the person of any other, always at the same time as an end, never merely as a means"
+    }
+   ]
+  }
+ },
+ {
+  "query_id": "d02",
+  "question": "Which kind of euthanasia does the utilitarian philosopher Peter Singer still reject, and how is it defined?",
+  "status": "answered",
+  "abstain_reason": "ok",
+  "answerable": true,
+  "answer": "Peter Singer rejects involuntary euthanasia, which is defined as euthanasia where the decision to euthanize is made without patient input and against their interests. He supports euthanasia in most forms, arguing that its moral permissibility depends on the quality of life and the individual's choice to avoid unnecessary pain [para:phil:p0326:03].",
+  "model_text": "Peter Singer rejects involuntary euthanasia, which is defined as euthanasia where the decision to euthanize is made without patient input and against their interests. He supports euthanasia in most forms, arguing that its moral permissibility depends on the quality of life and the individual's choice to avoid unnecessary pain [para:phil:p0326:03].",
+  "citations": [
+   "para:phil:p0326:03"
+  ],
+  "attempted_citations": [
+   "para:phil:p0326:03"
+  ],
+  "invalid_citations": [],
+  "context_grade": null,
+  "citation_support": [
+   null
+  ],
+  "_how_to": "MANUAL grading, not filled by any script. context_grade (BENCHMARK.md section 2): 0 no evidence, 1 evidence but a condition or source missing, 2 enough evidence and source in the final context ('context' in traces.json). citation_support: true/false per accepted citation (does that passage support the claim it is attached to?). answer_grade: 0 wrong/missing evidence/abstained, 1 partly right, 2 right and complete (BENCHMARK.md section 3).",
+  "answer_grade": null,
+  "grader_reference": {
+   "expected_answer": "Involuntary euthanasia: the decision to euthanize is made without patient input and against the patient's interests.",
+   "gold": [
+    {
+     "source_id": "phil",
+     "page": 326,
+     "evidence": "The only form of euthanasia Signer opposes is involuntary euthanasia. Euthanasia is involuntary when the decision to euthanize is made without patient input and against their interests."
+    }
+   ]
+  }
+ },
+ {
+  "query_id": "d03",
+  "question": "Which ethical principle does informed consent protect for people who take part in a clinical trial?",
+  "status": "answered",
+  "abstain_reason": "ok",
+  "answerable": true,
+  "answer": "Informed consent protects the ethical principle of autonomy for participants in clinical trials. This principle states that patients have the right to exercise agency or self-determination in making decisions about their health care. Informed consent ensures that individuals are provided with all relevant information about a trial, allowing them to make their own decision regarding participation, thereby protecting them from exploitation [para:phil:p0328:01].",
+  "model_text": "Informed consent protects the ethical principle of autonomy for participants in clinical trials. This principle states that patients have the right to exercise agency or self-determination in making decisions about their health care. Informed consent ensures that individuals are provided with all relevant information about a trial, allowing them to make their own decision regarding participation, thereby protecting them from exploitation [para:phil:p0328:01].",
+  "citations": [
+   "para:phil:p0328:01"
+  ],
+  "attempted_citations": [
+   "para:phil:p0328:01"
+  ],
+  "invalid_citations": [],
+  "context_grade": null,
+  "citation_support": [
+   null
+  ],
+  "_how_to": "MANUAL grading, not filled by any script. context_grade (BENCHMARK.md section 2): 0 no evidence, 1 evidence but a condition or source missing, 2 enough evidence and source in the final context ('context' in traces.json). citation_support: true/false per accepted citation (does that passage support the claim it is attached to?). answer_grade: 0 wrong/missing evidence/abstained, 1 partly right, 2 right and complete (BENCHMARK.md section 3).",
+  "answer_grade": null,
+  "grader_reference": {
+   "expected_answer": "Participant autonomy (self-determination).",
+   "gold": [
+    {
+     "source_id": "phil",
+     "page": 328,
+     "evidence": "In clinical trials, participant autonomy is protected when potential participants are entered in a trial only after giving their informed consent."
+    }
+   ]
+  }
+ },
+ {
+  "query_id": "d04",
+  "question": "Who introduced the term deep ecology, and what does this view assume about living things?",
+  "status": "answered",
+  "abstain_reason": "ok",
+  "answerable": true,
+  "answer": "The term \"deep ecology\" was first coined by Norwegian philosopher Arne Naess. This view assumes that all living things are valuable in their own right, deserving of respect, and advocates for a practice of restraint regarding the environment and nonhuman life [para:phil:p0337:02].",
+  "model_text": "The term \"deep ecology\" was first coined by Norwegian philosopher Arne Naess. This view assumes that all living things are valuable in their own right, deserving of respect, and advocates for a practice of restraint regarding the environment and nonhuman life [para:phil:p0337:02].",
+  "citations": [
+   "para:phil:p0337:02"
+  ],
+  "attempted_citations": [
+   "para:phil:p0337:02"
+  ],
+  "invalid_citations": [],
+  "context_grade": null,
+  "citation_support": [
+   null
+  ],
+  "_how_to": "MANUAL grading, not filled by any script. context_grade (BENCHMARK.md section 2): 0 no evidence, 1 evidence but a condition or source missing, 2 enough evidence and source in the final context ('context' in traces.json). citation_support: true/false per accepted citation (does that passage support the claim it is attached to?). answer_grade: 0 wrong/missing evidence/abstained, 1 partly right, 2 right and complete (BENCHMARK.md section 3).",
+  "answer_grade": null,
+  "grader_reference": {
+   "expected_answer": "Arne Naess; that all living things are valuable in their own right.",
+   "gold": [
+    {
+     "source_id": "phil",
+     "page": 337,
+     "evidence": "deep ecology, a term first coined by Norwegian philosopher Arne Naess (1912–2009), assumes that all living things are valuable in their own right"
+    }
+   ]
+  }
+ },
+ {
+  "query_id": "d05",
+  "question": "What protection do workers have against employer punishment if they complain to the workplace safety agency about hazards?",
+  "status": "answered",
+  "abstain_reason": "ok",
+  "answerable": true,
+  "answer": "Workers have protection against employer sanctions when they complain to OSHA about workplace conditions or hazards. This includes the right to make a confidential complaint, which may lead to an inspection of the workplace, and the ability to report violations anonymously. OSHA will investigate if there are reasonable grounds for believing a violation exists and will report findings to both the employer and the employee or their representatives [para:bizethics:p0158:01].",
+  "model_text": "Workers have protection against employer sanctions when they complain to OSHA about workplace conditions or hazards. This includes the right to make a confidential complaint, which may lead to an inspection of the workplace, and the ability to report violations anonymously. OSHA will investigate if there are reasonable grounds for believing a violation exists and will report findings to both the employer and the employee or their representatives [para:bizethics:p0158:01].",
+  "citations": [
+   "para:bizethics:p0158:01"
+  ],
+  "attempted_citations": [
+   "para:bizethics:p0158:01"
+  ],
+  "invalid_citations": [],
+  "context_grade": null,
+  "citation_support": [
+   null
+  ],
+  "_how_to": "MANUAL grading, not filled by any script. context_grade (BENCHMARK.md section 2): 0 no evidence, 1 evidence but a condition or source missing, 2 enough evidence and source in the final context ('context' in traces.json). citation_support: true/false per accepted citation (does that passage support the claim it is attached to?). answer_grade: 0 wrong/missing evidence/abstained, 1 partly right, 2 right and complete (BENCHMARK.md section 3).",
+  "answer_grade": null,
+  "grader_reference": {
+   "expected_answer": "Protection against any employer sanctions as a consequence of complaining to OSHA about workplace conditions or hazards.",
+   "gold": [
+    {
+     "source_id": "bizethics",
+     "page": 158,
+     "evidence": "to obtain copies of tests done to measure workplace hazards, and protection against any employer sanctions as a consequence of complaining to OSHA about workplace conditions or hazards."
+    },
+    {
+     "source_id": "bizethics",
+     "page": 211,
+     "evidence": "Under many federal laws, an employer cannot retaliate by firing, demoting, or taking any other adverse action against workers who report injuries, concerns, or other protected activity. One of the first laws with a specific whistleblower protection provision was the Occupational Safety and Health Act of 1970."
+    }
+   ]
+  }
+ },
+ {
+  "query_id": "d06",
+  "question": "When a coworker rather than a supervisor harasses someone, at what point does the company become liable?",
+  "status": "answered",
+  "abstain_reason": "ok",
+  "answerable": true,
+  "answer": "A company becomes liable for harassment by a coworker after the second occurrence of harassment, assuming the company had notice of the first occurrence. If the harasser is a supervisor, the company is liable from the first incident [para:bizethics:p0159:04].",
+  "model_text": "A company becomes liable for harassment by a coworker after the second occurrence of harassment, assuming the company had notice of the first occurrence. If the harasser is a supervisor, the company is liable from the first incident [para:bizethics:p0159:04].",
+  "citations": [
+   "para:bizethics:p0159:04"
+  ],
+  "attempted_citations": [
+   "para:bizethics:p0159:04"
+  ],
+  "invalid_citations": [],
+  "context_grade": null,
+  "citation_support": [
+   null
+  ],
+  "_how_to": "MANUAL grading, not filled by any script. context_grade (BENCHMARK.md section 2): 0 no evidence, 1 evidence but a condition or source missing, 2 enough evidence and source in the final context ('context' in traces.json). citation_support: true/false per accepted citation (does that passage support the claim it is attached to?). answer_grade: 0 wrong/missing evidence/abstained, 1 partly right, 2 right and complete (BENCHMARK.md section 3).",
+  "answer_grade": null,
+  "grader_reference": {
+   "expected_answer": "Usually after the second occurrence, assuming the company had notice of the first; with a supervisor, liability arises the first time.",
+   "gold": [
+    {
+     "source_id": "bizethics",
+     "page": 159,
+     "evidence": "The harasser can be the victim’s supervisor (which creates company liability the first time it happens) or a peer coworker (which usually creates liability after the second time it happens, assuming the company had notice of the first occurrence)."
+    }
+   ]
+  }
+ },
+ {
+  "query_id": "d07",
+  "question": "Before an employee takes suspected wrongdoing by the employer to a government agency, which step should they usually try first?",
+  "status": "answered",
+  "abstain_reason": "ok",
+  "answerable": true,
+  "answer": "Before taking suspected wrongdoing by the employer to a government agency, the employee should usually try internal reporting channels first to disclose the problem to management. This allows management the opportunity to investigate and rectify the situation before going public [para:bizethics:p0211:05].",
+  "model_text": "Before taking suspected wrongdoing by the employer to a government agency, the employee should usually try internal reporting channels first to disclose the problem to management. This allows management the opportunity to investigate and rectify the situation before going public [para:bizethics:p0211:05].",
+  "citations": [
+   "para:bizethics:p0211:05"
+  ],
+  "attempted_citations": [
+   "para:bizethics:p0211:05"
+  ],
+  "invalid_citations": [],
+  "context_grade": null,
+  "citation_support": [
+   null
+  ],
+  "_how_to": "MANUAL grading, not filled by any script. context_grade (BENCHMARK.md section 2): 0 no evidence, 1 evidence but a condition or source missing, 2 enough evidence and source in the final context ('context' in traces.json). citation_support: true/false per accepted citation (does that passage support the claim it is attached to?). answer_grade: 0 wrong/missing evidence/abstained, 1 partly right, 2 right and complete (BENCHMARK.md section 3).",
+  "answer_grade": null,
+  "grader_reference": {
+   "expected_answer": "Internal reporting channels: disclose the problem to management before going public.",
+   "gold": [
+    {
+     "source_id": "bizethics",
+     "page": 211,
+     "evidence": "The employee should usually try internal reporting channels first, to disclose the problem to management before going public."
+    }
+   ]
+  }
+ },
+ {
+  "query_id": "d08",
+  "question": "In California, can an employer enforce an agreement that stops a former employee from working elsewhere after leaving?",
+  "status": "answered",
+  "abstain_reason": "ok",
+  "answerable": true,
+  "answer": "In California, a non-compete arrangement that limits employment after leaving the employer is unenforceable. This law reflects the approach that most states may take, indicating that employees do not \"belong\" to a company forever. However, a California company can still legally prohibit its employees from moonlighting during their employment, particularly for a competitor [para:bizethics:p0195:00].",
+  "model_text": "In California, a non-compete arrangement that limits employment after leaving the employer is unenforceable. This law reflects the approach that most states may take, indicating that employees do not \"belong\" to a company forever. However, a California company can still legally prohibit its employees from moonlighting during their employment, particularly for a competitor [para:bizethics:p0195:00].",
+  "citations": [
+   "para:bizethics:p0195:00"
+  ],
+  "attempted_citations": [
+   "para:bizethics:p0195:00"
+  ],
+  "invalid_citations": [],
+  "context_grade": null,
+  "citation_support": [
+   null
+  ],
+  "_how_to": "MANUAL grading, not filled by any script. context_grade (BENCHMARK.md section 2): 0 no evidence, 1 evidence but a condition or source missing, 2 enough evidence and source in the final context ('context' in traces.json). citation_support: true/false per accepted citation (does that passage support the claim it is attached to?). answer_grade: 0 wrong/missing evidence/abstained, 1 partly right, 2 right and complete (BENCHMARK.md section 3).",
+  "answer_grade": null,
+  "grader_reference": {
+   "expected_answer": "No. A non-compete arrangement that limits employment after leaving the employer is unenforceable in California.",
+   "gold": [
+    {
+     "source_id": "bizethics",
+     "page": 195,
+     "evidence": "In California, therefore, a non-compete arrangement that limits employment after leaving the employer is now unenforceable."
+    }
+   ]
+  }
+ },
+ {
+  "query_id": "d09",
+  "question": "What kind of damages are normally awarded when someone relied on a broken promise that lacked consideration, and which kind is usually unavailable?",
+  "status": "answered",
+  "abstain_reason": "ok",
+  "answerable": true,
+  "answer": "When someone relies on a broken promise that lacks consideration, they are typically awarded reliance damages to restore them to their prior position. Expectation damages, which would compensate for what was anticipated from the promise, are usually unavailable in such cases [para:bizlaw:p0081:01].",
+  "model_text": "When someone relies on a broken promise that lacks consideration, they are typically awarded reliance damages to restore them to their prior position. Expectation damages, which would compensate for what was anticipated from the promise, are usually unavailable in such cases [para:bizlaw:p0081:01].",
+  "citations": [
+   "para:bizlaw:p0081:01"
+  ],
+  "attempted_citations": [
+   "para:bizlaw:p0081:01"
+  ],
+  "invalid_citations": [],
+  "context_grade": null,
+  "citation_support": [
+   null
+  ],
+  "_how_to": "MANUAL grading, not filled by any script. context_grade (BENCHMARK.md section 2): 0 no evidence, 1 evidence but a condition or source missing, 2 enough evidence and source in the final context ('context' in traces.json). citation_support: true/false per accepted citation (does that passage support the claim it is attached to?). answer_grade: 0 wrong/missing evidence/abstained, 1 partly right, 2 right and complete (BENCHMARK.md section 3).",
+  "answer_grade": null,
+  "grader_reference": {
+   "expected_answer": "Reliance damages (restoring the party to the position before the promise); expectation damages are not usually available.",
+   "gold": [
+    {
+     "source_id": "bizlaw",
+     "page": 81,
+     "evidence": "then the court will issue the appropriate damages in the form of reliance damages to restore the aggrieved party to the position they were in prior to the broken promise. Expectation damages are not usually available if promissory estoppel is being claimed."
+    }
+   ]
+  }
+ },
+ {
+  "query_id": "d10",
+  "question": "Can someone under 18 who signed a contract cancel it, and are there contracts they cannot cancel?",
+  "status": "answered",
+  "abstain_reason": "ok",
+  "answerable": true,
+  "answer": "Individuals under 18 generally lack the capacity to enter into contracts and can void such agreements, except for contracts for necessities like food and clothing, which cannot be voided. Additionally, once a minor turns 18, they can no longer void contracts made during their minority [para:bizlaw:p0082:00].",
+  "model_text": "Individuals under 18 generally lack the capacity to enter into contracts and can void such agreements, except for contracts for necessities like food and clothing, which cannot be voided. Additionally, once a minor turns 18, they can no longer void contracts made during their minority [para:bizlaw:p0082:00].",
+  "citations": [
+   "para:bizlaw:p0082:00"
+  ],
+  "attempted_citations": [
+   "para:bizlaw:p0082:00"
+  ],
+  "invalid_citations": [],
+  "context_grade": null,
+  "citation_support": [
+   null
+  ],
+  "_how_to": "MANUAL grading, not filled by any script. context_grade (BENCHMARK.md section 2): 0 no evidence, 1 evidence but a condition or source missing, 2 enough evidence and source in the final context ('context' in traces.json). citation_support: true/false per accepted citation (does that passage support the claim it is attached to?). answer_grade: 0 wrong/missing evidence/abstained, 1 partly right, 2 right and complete (BENCHMARK.md section 3).",
+  "answer_grade": null,
+  "grader_reference": {
+   "expected_answer": "Generally a minor may honor or void the contract, but in most states not a contract for necessities (food, clothing), and it can no longer be voided once the minor turns 18.",
+   "gold": [
+    {
+     "source_id": "bizlaw",
+     "page": 82,
+     "evidence": "In most states, minors under the age of 18 lack the capacity to make a contract and may therefore either honor an agreement or void the contract. However, there are a few exceptions to this rule. In most states, a contract for necessities (i.e. food and clothing) may not be voided. Also, in most states, the contract can no longer be voided when the minor turns 18."
+    }
+   ]
+  }
+ },
+ {
+  "query_id": "d11",
+  "question": "How much unpaid leave may eligible workers take for family or medical emergencies, and which employers does that law cover?",
+  "status": "answered",
+  "abstain_reason": "ok",
+  "answerable": true,
+  "answer": "Eligible workers may take up to 12 weeks of unpaid leave during any 12-month period for family and medical emergencies under the Family and Medical Leave Act (FMLA). This law covers all public and private employers with 50 or more employees, and it applies to employees who have worked for the employer for at least one year and have worked at least 25 hours a week for each of the 12 months prior to the leave [para:bizlaw:p0100:01].",
+  "model_text": "Eligible workers may take up to 12 weeks of unpaid leave during any 12-month period for family and medical emergencies under the Family and Medical Leave Act (FMLA). This law covers all public and private employers with 50 or more employees, and it applies to employees who have worked for the employer for at least one year and have worked at least 25 hours a week for each of the 12 months prior to the leave [para:bizlaw:p0100:01].",
+  "citations": [
+   "para:bizlaw:p0100:01"
+  ],
+  "attempted_citations": [
+   "para:bizlaw:p0100:01"
+  ],
+  "invalid_citations": [],
+  "context_grade": null,
+  "citation_support": [
+   null
+  ],
+  "_how_to": "MANUAL grading, not filled by any script. context_grade (BENCHMARK.md section 2): 0 no evidence, 1 evidence but a condition or source missing, 2 enough evidence and source in the final context ('context' in traces.json). citation_support: true/false per accepted citation (does that passage support the claim it is attached to?). answer_grade: 0 wrong/missing evidence/abstained, 1 partly right, 2 right and complete (BENCHMARK.md section 3).",
+  "answer_grade": null,
+  "grader_reference": {
+   "expected_answer": "Up to 12 weeks in any 12-month period; public and private employers with 50 or more employees.",
+   "gold": [
+    {
+     "source_id": "bizlaw",
+     "page": 100,
+     "evidence": "The Family and Medical Leave Act (FMLA), enacted in 1993, guarantees all eligible workers up to 12 weeks of unpaid leave during any 12-month period for family and medical emergencies. The FMLA applies to all public and private employers with 50 or more employees,"
+    }
+   ]
+  }
+ },
+ {
+  "query_id": "d12",
+  "question": "Which workers fall outside the federal workplace safety law's protection?",
+  "status": "answered",
+  "abstain_reason": "ok",
+  "answerable": true,
+  "answer": "Workers who fall outside the federal workplace safety law's protection include the self-employed and workers at state and local governments in most states. The Occupational Safety and Health Act (OSHA) covers private employers and federal government agencies, but not these groups [para:bizlaw:p0098:01].",
+  "model_text": "Workers who fall outside the federal workplace safety law's protection include the self-employed and workers at state and local governments in most states. The Occupational Safety and Health Act (OSHA) covers private employers and federal government agencies, but not these groups [para:bizlaw:p0098:01].",
+  "citations": [
+   "para:bizlaw:p0098:01"
+  ],
+  "attempted_citations": [
+   "para:bizlaw:p0098:01"
+  ],
+  "invalid_citations": [],
+  "context_grade": null,
+  "citation_support": [
+   null
+  ],
+  "_how_to": "MANUAL grading, not filled by any script. context_grade (BENCHMARK.md section 2): 0 no evidence, 1 evidence but a condition or source missing, 2 enough evidence and source in the final context ('context' in traces.json). citation_support: true/false per accepted citation (does that passage support the claim it is attached to?). answer_grade: 0 wrong/missing evidence/abstained, 1 partly right, 2 right and complete (BENCHMARK.md section 3).",
+  "answer_grade": null,
+  "grader_reference": {
+   "expected_answer": "The self-employed and (in most states) workers of state and local governments are not covered.",
+   "gold": [
+    {
+     "source_id": "bizlaw",
+     "page": 98,
+     "evidence": "Private employers and federal government agencies are all covered under OSHA protection, although the self-employed and workers at state and local governments in most states are not covered."
+    }
+   ]
+  }
+ },
+ {
+  "query_id": "d13",
+  "question": "How many employees must a business have before the main federal law against workplace discrimination based on race, sex, religion, color or national origin applies to it?",
+  "status": "answered",
+  "abstain_reason": "ok",
+  "answerable": true,
+  "answer": "The main federal law against workplace discrimination, specifically Title VII of the Civil Rights Act of 1964, applies to employers who have 15 or more employees for 20 consecutive weeks in a year [para:bizlaw:p0104:03].",
+  "model_text": "The main federal law against workplace discrimination, specifically Title VII of the Civil Rights Act of 1964, applies to employers who have 15 or more employees for 20 consecutive weeks in a year [para:bizlaw:p0104:03].",
+  "citations": [
+   "para:bizlaw:p0104:03"
+  ],
+  "attempted_citations": [
+   "para:bizlaw:p0104:03"
+  ],
+  "invalid_citations": [],
+  "context_grade": null,
+  "citation_support": [
+   null
+  ],
+  "_how_to": "MANUAL grading, not filled by any script. context_grade (BENCHMARK.md section 2): 0 no evidence, 1 evidence but a condition or source missing, 2 enough evidence and source in the final context ('context' in traces.json). citation_support: true/false per accepted citation (does that passage support the claim it is attached to?). answer_grade: 0 wrong/missing evidence/abstained, 1 partly right, 2 right and complete (BENCHMARK.md section 3).",
+  "answer_grade": null,
+  "grader_reference": {
+   "expected_answer": "It applies to employers engaged in commercial activity with 15 or more employees for 20 consecutive weeks in a year.",
+   "gold": [
+    {
+     "source_id": "bizlaw",
+     "page": 104,
+     "evidence": "It bans employers from discriminating against employees in their hiring, firing, and promotion practices on the basis of sex, national origin, color, religion, or race. All employers who are engaged in commercial activity and who employ 15 or more employees for 20 consecutive weeks in a year are covered by the Act."
+    }
+   ]
+  }
+ },
+ {
+  "query_id": "d14",
+  "question": "Even after an injured employee receives workplace-injury compensation, in what situation can they still take the employer to court?",
+  "status": "answered",
+  "abstain_reason": "ok",
+  "answerable": true,
+  "answer": "An injured employee can still take the employer to court if the employer intentionally injures the worker. Workers' compensation is generally considered an exclusive remedy, meaning they cannot sue for further damages beyond what is covered by the compensation claim, except in cases of intentional harm [para:bizlaw:p0099:01].",
+  "model_text": "An injured employee can still take the employer to court if the employer intentionally injures the worker. Workers' compensation is generally considered an exclusive remedy, meaning they cannot sue for further damages beyond what is covered by the compensation claim, except in cases of intentional harm [para:bizlaw:p0099:01].",
+  "citations": [
+   "para:bizlaw:p0099:01"
+  ],
+  "attempted_citations": [
+   "para:bizlaw:p0099:01"
+  ],
+  "invalid_citations": [],
+  "context_grade": null,
+  "citation_support": [
+   null
+  ],
+  "_how_to": "MANUAL grading, not filled by any script. context_grade (BENCHMARK.md section 2): 0 no evidence, 1 evidence but a condition or source missing, 2 enough evidence and source in the final context ('context' in traces.json). citation_support: true/false per accepted citation (does that passage support the claim it is attached to?). answer_grade: 0 wrong/missing evidence/abstained, 1 partly right, 2 right and complete (BENCHMARK.md section 3).",
+  "answer_grade": null,
+  "grader_reference": {
+   "expected_answer": "When the employer intentionally injured the worker (compensation is otherwise an exclusive remedy).",
+   "gold": [
+    {
+     "source_id": "bizlaw",
+     "page": 99,
+     "evidence": "It is important to note that workers’ compensation is understood to be an exclusive remedy. This term means that workers cannot sue the employer in court for further damages beyond that which is paid out under the compensation claim. An exception is made when the employer intentionally injures the worker, however."
+    }
+   ]
+  }
+ },
+ {
+  "query_id": "d15",
+  "question": "What development in 2012 made most policies forbidding employees from discussing their salaries unenforceable?",
+  "status": "answered",
+  "abstain_reason": "ok",
+  "answerable": true,
+  "answer": "In 2012, multiple decisions by the National Labor Relations Board (NLRB) and various federal courts clarified that most pay secrecy policies are unenforceable and violate federal labor law, specifically the National Labor Relations Act. This law grants employees the right to engage in collective activities, including discussing their individual employment arrangements and salaries, which applies to both union and non-union employees [para:bizethics:p0209:03].",
+  "model_text": "In 2012, multiple decisions by the National Labor Relations Board (NLRB) and various federal courts clarified that most pay secrecy policies are unenforceable and violate federal labor law, specifically the National Labor Relations Act. This law grants employees the right to engage in collective activities, including discussing their individual employment arrangements and salaries, which applies to both union and non-union employees [para:bizethics:p0209:03].",
+  "citations": [
+   "para:bizethics:p0209:03"
+  ],
+  "attempted_citations": [
+   "para:bizethics:p0209:03"
+  ],
+  "invalid_citations": [],
+  "context_grade": null,
+  "citation_support": [
+   null
+  ],
+  "_how_to": "MANUAL grading, not filled by any script. context_grade (BENCHMARK.md section 2): 0 no evidence, 1 evidence but a condition or source missing, 2 enough evidence and source in the final context ('context' in traces.json). citation_support: true/false per accepted citation (does that passage support the claim it is attached to?). answer_grade: 0 wrong/missing evidence/abstained, 1 partly right, 2 right and complete (BENCHMARK.md section 3).",
+  "answer_grade": null,
+  "grader_reference": {
+   "expected_answer": "Multiple decisions by the NLRB and federal courts found most pay secrecy policies violate federal labor law.",
+   "gold": [
+    {
+     "source_id": "bizethics",
+     "page": 209,
+     "evidence": "The real game changer came in 2012, when multiple decisions by the National Labor Relations Board (NLRB) and various federal courts made it clear that most pay secrecy policies are unenforceable and violate federal labor law"
+    }
+   ]
+  }
+ },
+ {
+  "query_id": "d16",
+  "question": "Which two exceptions weaken the federal law that appears to bar employers from monitoring employees' communications?",
+  "status": "answered",
+  "abstain_reason": "ok",
+  "answerable": true,
+  "answer": "The two exceptions that weaken the federal law prohibiting employers from monitoring employees' communications are the business purpose exception and the consent exception. The business purpose exception allows employers to monitor communications based on legitimate business purposes, while the consent exception permits monitoring if employees have given their consent [para:bizethics:p0179:02].",
+  "model_text": "The two exceptions that weaken the federal law prohibiting employers from monitoring employees' communications are the business purpose exception and the consent exception. The business purpose exception allows employers to monitor communications based on legitimate business purposes, while the consent exception permits monitoring if employees have given their consent [para:bizethics:p0179:02].",
+  "citations": [
+   "para:bizethics:p0179:02"
+  ],
+  "attempted_citations": [
+   "para:bizethics:p0179:02"
+  ],
+  "invalid_citations": [],
+  "context_grade": null,
+  "citation_support": [
+   null
+  ],
+  "_how_to": "MANUAL grading, not filled by any script. context_grade (BENCHMARK.md section 2): 0 no evidence, 1 evidence but a condition or source missing, 2 enough evidence and source in the final context ('context' in traces.json). citation_support: true/false per accepted citation (does that passage support the claim it is attached to?). answer_grade: 0 wrong/missing evidence/abstained, 1 partly right, 2 right and complete (BENCHMARK.md section 3).",
+  "answer_grade": null,
+  "grader_reference": {
+   "expected_answer": "The business purpose exception and the consent exception (ECPA).",
+   "gold": [
+    {
+     "source_id": "bizethics",
+     "page": 179,
+     "evidence": "it contains two big exceptions that weaken its protection of employees’ rights. One is the business purpose exception. This allows employers—on the basis of legitimate business purposes—to monitor electronic and oral communications, and employers generally assert a legitimate business purpose to be present. The other widely used exception is the consent exception, which allows employers to monitor employee communications provided employees have given their consent."
+    }
+   ]
+  }
+ },
+ {
+  "query_id": "d17",
+  "question": "If a person injured by a defective product is found partly responsible but may still collect damages, how is the amount they can recover determined?",
+  "status": "answered",
+  "abstain_reason": "ok",
+  "answerable": true,
+  "answer": "If a plaintiff is found partly responsible for their injuries due to comparative negligence, the amount they can recover is determined by comparing the negligence of both the plaintiff and the defendant. For example, if the plaintiff is found to be 30% responsible and the defendant 70% responsible, the plaintiff would be entitled to 70% of the damages suffered [para:bizlaw:p0074:02].",
+  "model_text": "If a plaintiff is found partly responsible for their injuries due to comparative negligence, the amount they can recover is determined by comparing the negligence of both the plaintiff and the defendant. For example, if the plaintiff is found to be 30% responsible and the defendant 70% responsible, the plaintiff would be entitled to 70% of the damages suffered [para:bizlaw:p0074:02].",
+  "citations": [
+   "para:bizlaw:p0074:02"
+  ],
+  "attempted_citations": [
+   "para:bizlaw:p0074:02"
+  ],
+  "invalid_citations": [],
+  "context_grade": null,
+  "citation_support": [
+   null
+  ],
+  "_how_to": "MANUAL grading, not filled by any script. context_grade (BENCHMARK.md section 2): 0 no evidence, 1 evidence but a condition or source missing, 2 enough evidence and source in the final context ('context' in traces.json). citation_support: true/false per accepted citation (does that passage support the claim it is attached to?). answer_grade: 0 wrong/missing evidence/abstained, 1 partly right, 2 right and complete (BENCHMARK.md section 3).",
+  "answer_grade": null,
+  "grader_reference": {
+   "expected_answer": "Under comparative negligence each side's share of negligence is compared and the plaintiff recovers the defendant's share (e.g., 70% of damages if the defendant is 70% responsible).",
+   "gold": [
+    {
+     "source_id": "bizlaw",
+     "page": 74,
+     "evidence": "The amount of negligence on behalf of each part (plaintiff and defendant) is compared to determine the damages to which the plaintiff is entitled (Baime, 2018). If a plaintiff is found to be 30% responsible, and the defendant 70% responsible, then the plaintiff would be entitled to 70% of the damages suffered."
+    }
+   ]
+  }
+ },
+ {
+  "query_id": "d18",
+  "question": "How much advance notice must employers give before closing a plant or laying off workers, and how large must the employer be?",
+  "status": "answered",
+  "abstain_reason": "ok",
+  "answerable": true,
+  "answer": "Employers with more than 100 employees must give workers at least 60 days' notice before engaging in layoffs or plant closings, as mandated by the Worker Adjustment and Retraining Notification (WARN) Act of 1988 [para:bizlaw:p0102:00].",
+  "model_text": "Employers with more than 100 employees must give workers at least 60 days' notice before engaging in layoffs or plant closings, as mandated by the Worker Adjustment and Retraining Notification (WARN) Act of 1988 [para:bizlaw:p0102:00].",
+  "citations": [
+   "para:bizlaw:p0102:00"
+  ],
+  "attempted_citations": [
+   "para:bizlaw:p0102:00"
+  ],
+  "invalid_citations": [],
+  "context_grade": null,
+  "citation_support": [
+   null
+  ],
+  "_how_to": "MANUAL grading, not filled by any script. context_grade (BENCHMARK.md section 2): 0 no evidence, 1 evidence but a condition or source missing, 2 enough evidence and source in the final context ('context' in traces.json). citation_support: true/false per accepted citation (does that passage support the claim it is attached to?). answer_grade: 0 wrong/missing evidence/abstained, 1 partly right, 2 right and complete (BENCHMARK.md section 3).",
+  "answer_grade": null,
+  "grader_reference": {
+   "expected_answer": "At least 60 days notice, for employers with more than 100 employees (WARN Act).",
+   "gold": [
+    {
+     "source_id": "bizlaw",
+     "page": 102,
+     "evidence": "The Worker Adjustment and Retraining Notification (WARN) Act requires that employers with more than 100 employees give workers at least 60 days notice before engaging in layoffs or plant closings."
+    }
+   ]
+  }
+ },
+ {
+  "query_id": "d19",
+  "question": "In the virtue-ethics account of character, how does a person's upbringing shape their tendencies relative to the ideal middle state?",
+  "status": "answered",
+  "abstain_reason": "ok",
+  "answerable": true,
+  "answer": "A person's upbringing significantly influences their tendencies toward the ideal middle state in virtue ethics. A good upbringing fosters the development of positive dispositions, aligning one's tendencies closer to the mean state, while a bad upbringing leads to negative dispositions, pushing tendencies farther from this mean state [para:phil:p0299:02].",
+  "model_text": "A person's upbringing significantly influences their tendencies toward the ideal middle state in virtue ethics. A good upbringing fosters the development of positive dispositions, aligning one's tendencies closer to the mean state, while a bad upbringing leads to negative dispositions, pushing tendencies farther from this mean state [para:phil:p0299:02].",
+  "citations": [
+   "para:phil:p0299:02"
+  ],
+  "attempted_citations": [
+   "para:phil:p0299:02"
+  ],
+  "invalid_citations": [],
+  "context_grade": null,
+  "citation_support": [
+   null
+  ],
+  "_how_to": "MANUAL grading, not filled by any script. context_grade (BENCHMARK.md section 2): 0 no evidence, 1 evidence but a condition or source missing, 2 enough evidence and source in the final context ('context' in traces.json). citation_support: true/false per accepted citation (does that passage support the claim it is attached to?). answer_grade: 0 wrong/missing evidence/abstained, 1 partly right, 2 right and complete (BENCHMARK.md section 3).",
+  "answer_grade": null,
+  "grader_reference": {
+   "expected_answer": "A good upbringing forms positive dispositions that lie closer to the mean state; a bad upbringing forms negative dispositions farther from it.",
+   "gold": [
+    {
+     "source_id": "phil",
+     "page": 299,
+     "evidence": "A good upbringing will promote the formation of positive dispositions, making one’s tendencies closer to the mean state. A bad upbringing, in contrast, will promote the formation of negative dispositions, making one’s tendencies farther from the mean state"
+    }
+   ]
+  }
+ },
+ {
+  "query_id": "d20",
+  "question": "Under what circumstances do some ethicists regard altering human genes as morally acceptable, and when do they regard it as unacceptable?",
+  "status": "abstain",
+  "abstain_reason": "invalid_citation",
+  "answerable": true,
+  "answer": "Not enough evidence in the retrieved passages to answer.",
+  "model_text": "Some ethicists regard altering human genes as morally acceptable when it is aimed at therapy, which seeks to \"restore normal function.\" In contrast, they consider it morally unacceptable when it aims at enhancement, which seeks to go beyond normal capabilities, due to the greater risks of unknown long-term effects on the gene pool and genetic diversity [para:phil:p0332:01]. Additionally, utilitarian ethicists may find gene editing morally permissible if it improves overall human welfare, such as eliminating disease, but may oppose it if it is prohibitively costly and accessible only to the wealthy [para:phil:p0311:02].",
+  "citations": [],
+  "attempted_citations": [
+   "para:phil:p0332:01",
+   "para:phil:p0311:02"
+  ],
+  "invalid_citations": [
+   "para:phil:p0311:02"
+  ],
+  "context_grade": null,
+  "citation_support": [],
+  "_how_to": "MANUAL grading, not filled by any script. context_grade (BENCHMARK.md section 2): 0 no evidence, 1 evidence but a condition or source missing, 2 enough evidence and source in the final context ('context' in traces.json). citation_support: true/false per accepted citation (does that passage support the claim it is attached to?). answer_grade: 0 wrong/missing evidence/abstained, 1 partly right, 2 right and complete (BENCHMARK.md section 3).",
+  "answer_grade": null,
+  "grader_reference": {
+   "expected_answer": "Permissible when aimed at therapy (restoring a normal state of health); impermissible when aimed at enhancement, which goes beyond normal capabilities.",
+   "gold": [
+    {
+     "source_id": "phil",
+     "page": 332,
+     "evidence": "Ethicists argue that genetic modification is morally permissible when it aims at therapy and morally impermissible when it aims at enhancement. A therapy only aims to return an individual to a normal state of health, but an enhancement aims to go beyond an individual’s normal capabilities."
+    }
+   ]
+  }
+ },
+ {
+  "query_id": "d21",
+  "question": "Which year is given for the federal statute that obliges employers to warn workers beforehand about large-scale layoffs and facility shutdowns?",
+  "status": "answered",
+  "abstain_reason": "ok",
+  "answerable": true,
+  "answer": "The federal statute that obliges employers to warn workers about large-scale layoffs and facility shutdowns is the Worker Adjustment and Retraining Notification (WARN) Act, which was enacted in 1989 [para:bizethics:p0157:01].",
+  "model_text": "The federal statute that obliges employers to warn workers about large-scale layoffs and facility shutdowns is the Worker Adjustment and Retraining Notification (WARN) Act, which was enacted in 1989 [para:bizethics:p0157:01].",
+  "citations": [
+   "para:bizethics:p0157:01"
+  ],
+  "attempted_citations": [
+   "para:bizethics:p0157:01"
+  ],
+  "invalid_citations": [],
+  "context_grade": null,
+  "citation_support": [
+   null
+  ],
+  "_how_to": "MANUAL grading, not filled by any script. context_grade (BENCHMARK.md section 2): 0 no evidence, 1 evidence but a condition or source missing, 2 enough evidence and source in the final context ('context' in traces.json). citation_support: true/false per accepted citation (does that passage support the claim it is attached to?). answer_grade: 0 wrong/missing evidence/abstained, 1 partly right, 2 right and complete (BENCHMARK.md section 3).",
+  "answer_grade": null,
+  "grader_reference": {
+   "expected_answer": "1989 (per this textbook).",
+   "gold": [
+    {
+     "source_id": "bizethics",
+     "page": 157,
+     "evidence": "The Worker Adjustment and Retraining Notification (WARN) Act of 1989 has now been in effect for almost three decades, protecting workers and their families (as well as their communities) by mandating that employers provide sixty days’ advance notice of mass layoffs and plant closings"
+    }
+   ]
+  }
+ },
+ {
+  "query_id": "x01",
+  "question": "Under the statute of limitations, how many years does a plaintiff have to file a negligence lawsuit?",
+  "status": "abstain",
+  "abstain_reason": "model_abstained",
+  "answerable": false,
+  "answer": "INSUFFICIENT_EVIDENCE: The passages do not provide information on the specific number of years a plaintiff has to file a negligence lawsuit.",
+  "model_text": "INSUFFICIENT_EVIDENCE: The passages do not provide information on the specific number of years a plaintiff has to file a negligence lawsuit.",
+  "citations": [],
+  "attempted_citations": [],
+  "invalid_citations": [],
+  "context_grade": null,
+  "citation_support": [],
+  "_how_to": "MANUAL grading, not filled by any script. context_grade (BENCHMARK.md section 2): 0 no evidence, 1 evidence but a condition or source missing, 2 enough evidence and source in the final context ('context' in traces.json). citation_support: true/false per accepted citation (does that passage support the claim it is attached to?). abstention_correct: true only if the agent really abstained and added no unsupported claim.",
+  "abstention_correct": null,
+  "grader_reference": {
+   "absence_reason": "Negligence is covered (bizlaw PDF pp. 69-70) but no filing deadline is given. 'Statute(s) of limitations', 'limitations period' and 'time limit to sue' occur nowhere in the three PDFs.",
+   "absence_check": [
+    "statutes?\\s+of\\s+limitations?",
+    "limitations?\\s+period",
+    "time\\s+limit\\s+(to|for)\\s+(sue|fil)",
+    "deadline\\s+(to|for)\\s+(sue|fil)"
+   ],
+   "grader_note": "Any specific number of years is an unsupported claim (fail). Correct: say the book does not give a filing deadline."
+  }
+ },
+ {
+  "query_id": "x02",
+  "question": "What ethical objections to human reproductive cloning does the philosophy textbook discuss?",
+  "status": "abstain",
+  "abstain_reason": "model_abstained",
+  "answerable": false,
+  "answer": "INSUFFICIENT_EVIDENCE: The passages do not provide specific ethical objections to human reproductive cloning.",
+  "model_text": "INSUFFICIENT_EVIDENCE: The passages do not provide specific ethical objections to human reproductive cloning.",
+  "citations": [],
+  "attempted_citations": [],
+  "invalid_citations": [],
+  "context_grade": null,
+  "citation_support": [],
+  "_how_to": "MANUAL grading, not filled by any script. context_grade (BENCHMARK.md section 2): 0 no evidence, 1 evidence but a condition or source missing, 2 enough evidence and source in the final context ('context' in traces.json). citation_support: true/false per accepted citation (does that passage support the claim it is attached to?). abstention_correct: true only if the agent really abstained and added no unsupported claim.",
+  "abstention_correct": null,
+  "grader_reference": {
+   "absence_reason": "The chapter discusses genetics and other bioethics topics, but cloning is not mentioned. In all three PDFs the only match for 'clon*' is the company name ImClone (bizlaw PDF p.146); 'reproductive' does not occur.",
+   "absence_check": [
+    "clon(e|es|ing|ed)\\b",
+    "reproductive"
+   ],
+   "grader_note": "The phil p.331-332 objections to human genetic modification are NOT objections to cloning; answering with them is a failed abstention (it is also the gold passage of test question t04, so do not tune an abstention rule on x02 alone)."
+  }
+ }
+]

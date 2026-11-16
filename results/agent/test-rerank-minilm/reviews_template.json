@@ -1,0 +1,234 @@
+[
+ {
+  "query_id": "t06",
+  "question": "How did John Stuart Mill revise Bentham's view of pleasure?",
+  "status": "answered",
+  "abstain_reason": "ok",
+  "answerable": true,
+  "answer": "John Stuart Mill revised Bentham's view of pleasure by recognizing that pleasures differ both quantitatively and qualitatively. He introduced the distinction between higher and lower pleasures, assigning greater significance to higher-quality pleasures, such as mental pleasures, in his refined account of utilitarianism [para:phil:p0287:01].",
+  "model_text": "John Stuart Mill revised Bentham's view of pleasure by recognizing that pleasures differ both quantitatively and qualitatively. He introduced the distinction between higher and lower pleasures, assigning greater significance to higher-quality pleasures, such as mental pleasures, in his refined account of utilitarianism [para:phil:p0287:01].",
+  "citations": [
+   "para:phil:p0287:01"
+  ],
+  "attempted_citations": [
+   "para:phil:p0287:01"
+  ],
+  "attempted_citations_raw": [
+   "para:phil:p0287:01"
+  ],
+  "invalid_citations": [],
+  "context_grade": null,
+  "citation_support": [
+   null
+  ],
+  "_how_to": "MANUAL grading, not filled by any script. context_grade (BENCHMARK.md section 2): 0 no evidence, 1 evidence but a condition or source missing, 2 enough evidence and source in the final context ('context' in traces.json). citation_support: true/false per accepted citation (does that passage support the claim it is attached to?). answer_grade: 0 wrong/missing evidence/abstained, 1 partly right, 2 right and complete (BENCHMARK.md section 3).",
+  "answer_grade": null,
+  "grader_reference": {
+   "expected_answer": "He realized that pleasures differ in quality as well as quantity, distinguishing higher and lower pleasures.",
+   "gold": [
+    {
+     "source_id": "phil",
+     "page": 287,
+     "evidence": "He realized that pleasures differ both quantitatively and qualitatively."
+    }
+   ]
+  }
+ },
+ {
+  "query_id": "t07",
+  "question": "On what basis do act utilitarians decide whether an action is right?",
+  "status": "answered",
+  "abstain_reason": "ok",
+  "answerable": true,
+  "answer": "Act utilitarians decide whether an action is right based on its consequences, specifically by applying the greatest happiness principle on a case-by-case basis. They believe that the right action is the one that produces the greatest happiness for the greatest number of people, considering the happiness of all individuals affected by the action, not just the agent's own happiness [para:phil:p0288:02][para:phil:p0288:00].",
+  "model_text": "Act utilitarians decide whether an action is right based on its consequences, specifically by applying the greatest happiness principle on a case-by-case basis. They believe that the right action is the one that produces the greatest happiness for the greatest number of people, considering the happiness of all individuals affected by the action, not just the agent's own happiness [para:phil:p0288:02][para:phil:p0288:00].",
+  "citations": [
+   "para:phil:p0288:02",
+   "para:phil:p0288:00"
+  ],
+  "attempted_citations": [
+   "para:phil:p0288:02",
+   "para:phil:p0288:00"
+  ],
+  "attempted_citations_raw": [
+   "para:phil:p0288:02",
+   "para:phil:p0288:00"
+  ],
+  "invalid_citations": [],
+  "context_grade": null,
+  "citation_support": [
+   null,
+   null
+  ],
+  "_how_to": "MANUAL grading, not filled by any script. context_grade (BENCHMARK.md section 2): 0 no evidence, 1 evidence but a condition or source missing, 2 enough evidence and source in the final context ('context' in traces.json). citation_support: true/false per accepted citation (does that passage support the claim it is attached to?). answer_grade: 0 wrong/missing evidence/abstained, 1 partly right, 2 right and complete (BENCHMARK.md section 3).",
+  "answer_grade": null,
+  "grader_reference": {
+   "expected_answer": "They apply the greatest happiness principle case by case, to each situation.",
+   "gold": [
+    {
+     "source_id": "phil",
+     "page": 288,
+     "evidence": "Act utilitarians argue that we should apply the greatest happiness principle on a case-by-case basis."
+    }
+   ]
+  }
+ },
+ {
+  "query_id": "t08",
+  "question": "Which employment doctrine makes workplace drug testing legally possible, and roughly what share of private-sector employees does it cover?",
+  "status": "answered",
+  "abstain_reason": "ok",
+  "answerable": true,
+  "answer": "The employment doctrine that makes workplace drug testing legally possible is \"employment at will,\" which covers approximately 85 percent of private-sector employees. This doctrine allows either the employee or employer to terminate the employment arrangement at any time without cause, unless a contract stipulates otherwise [para:bizethics:p0182:02].",
+  "model_text": "The employment doctrine that makes workplace drug testing legally possible is \"employment at will,\" which covers approximately 85 percent of private-sector employees. This doctrine allows either the employee or employer to terminate the employment arrangement at any time without cause, unless a contract stipulates otherwise [para:bizethics:p0182:02].",
+  "citations": [
+   "para:bizethics:p0182:02"
+  ],
+  "attempted_citations": [
+   "para:bizethics:p0182:02"
+  ],
+  "attempted_citations_raw": [
+   "para:bizethics:p0182:02"
+  ],
+  "invalid_citations": [],
+  "context_grade": null,
+  "citation_support": [
+   null
+  ],
+  "_how_to": "MANUAL grading, not filled by any script. context_grade (BENCHMARK.md section 2): 0 no evidence, 1 evidence but a condition or source missing, 2 enough evidence and source in the final context ('context' in traces.json). citation_support: true/false per accepted citation (does that passage support the claim it is attached to?). answer_grade: 0 wrong/missing evidence/abstained, 1 partly right, 2 right and complete (BENCHMARK.md section 3).",
+  "answer_grade": null,
+  "grader_reference": {
+   "expected_answer": "Employment at will; approximately 85 percent of private-sector employees.",
+   "gold": [
+    {
+     "source_id": "bizethics",
+     "page": 182,
+     "evidence": "the key concept that makes drug testing possible is employment at will, which covers approximately 85 percent of the employees in the private sector"
+    }
+   ]
+  }
+ },
+ {
+  "query_id": "t09",
+  "question": "Between 1973 and 2013, how did growth in U.S. hourly compensation compare with growth in productivity?",
+  "status": "answered",
+  "abstain_reason": "ok",
+  "answerable": true,
+  "answer": "Between 1973 and 2013, U.S. hourly compensation rose only 9 percent, while productivity increased by 74 percent. This indicates that wages did not keep pace with productivity growth during this period, highlighting a significant disparity between the two metrics [para:bizethics:p0176:01].",
+  "model_text": "Between 1973 and 2013, U.S. hourly compensation rose only 9 percent, while productivity increased by 74 percent. This indicates that wages did not keep pace with productivity growth during this period, highlighting a significant disparity between the two metrics [para:bizethics:p0176:01].",
+  "citations": [
+   "para:bizethics:p0176:01"
+  ],
+  "attempted_citations": [
+   "para:bizethics:p0176:01"
+  ],
+  "attempted_citations_raw": [
+   "para:bizethics:p0176:01"
+  ],
+  "invalid_citations": [],
+  "context_grade": null,
+  "citation_support": [
+   null
+  ],
+  "_how_to": "MANUAL grading, not filled by any script. context_grade (BENCHMARK.md section 2): 0 no evidence, 1 evidence but a condition or source missing, 2 enough evidence and source in the final context ('context' in traces.json). citation_support: true/false per accepted citation (does that passage support the claim it is attached to?). answer_grade: 0 wrong/missing evidence/abstained, 1 partly right, 2 right and complete (BENCHMARK.md section 3).",
+  "answer_grade": null,
+  "grader_reference": {
+   "expected_answer": "Hourly compensation rose only 9 percent, whereas productivity rose 74 percent.",
+   "gold": [
+    {
+     "source_id": "bizethics",
+     "page": 176,
+     "evidence": "from 1973 to 2013, hourly compensation rose only 9 percent, whereas productivity rose 74 percent in the same period."
+    }
+   ]
+  }
+ },
+ {
+  "query_id": "t10",
+  "question": "Under the Equal Pay Act, on what grounds may an employer legally pay one sex more than the other?",
+  "status": "answered",
+  "abstain_reason": "ok",
+  "answerable": true,
+  "answer": "Under the Equal Pay Act, an employer may legally pay one sex more than the other based on four affirmative defenses: a system of seniority, a system of merit, a system that distinguishes payment based on the quality and quantity of production, or any other factor other than sex. The \"factor other than sex\" defense has been particularly debated, as critics argue it allows employers to create justifications for wage disparities [para:bizlaw:p0107:03].",
+  "model_text": "Under the Equal Pay Act, an employer may legally pay one sex more than the other based on four affirmative defenses: a system of seniority, a system of merit, a system that distinguishes payment based on the quality and quantity of production, or any other factor other than sex. The \"factor other than sex\" defense has been particularly debated, as critics argue it allows employers to create justifications for wage disparities [para:bizlaw:p0107:03].",
+  "citations": [
+   "para:bizlaw:p0107:03"
+  ],
+  "attempted_citations": [
+   "para:bizlaw:p0107:03"
+  ],
+  "attempted_citations_raw": [
+   "para:bizlaw:p0107:03"
+  ],
+  "invalid_citations": [],
+  "context_grade": null,
+  "citation_support": [
+   null
+  ],
+  "_how_to": "MANUAL grading, not filled by any script. context_grade (BENCHMARK.md section 2): 0 no evidence, 1 evidence but a condition or source missing, 2 enough evidence and source in the final context ('context' in traces.json). citation_support: true/false per accepted citation (does that passage support the claim it is attached to?). answer_grade: 0 wrong/missing evidence/abstained, 1 partly right, 2 right and complete (BENCHMARK.md section 3).",
+  "answer_grade": null,
+  "grader_reference": {
+   "expected_answer": "A seniority system, a merit system, a system based on quality or quantity of production (e.g., piece rates), or any other factor other than sex.",
+   "gold": [
+    {
+     "source_id": "bizlaw",
+     "page": 107,
+     "evidence": "An employer may legally pay employees of one sex more than another sex if wages are based on a system of seniority, a system of merit, a system that distinguishes payment on the basis of quality and quantity of production (e.g., certain piece rates), or if payment is differentiated on “any other factor other than sex.”"
+    }
+   ]
+  }
+ },
+ {
+  "query_id": "x03",
+  "question": "What is the maximum number of years a non-compete agreement can last and still be enforceable?",
+  "status": "abstain",
+  "abstain_reason": "mixed_marker",
+  "answerable": false,
+  "answer": "Not enough evidence in the retrieved passages to answer.",
+  "model_text": "Non-compete agreements are usually limited by time, but the maximum duration for enforceability is not specified in the retrieved passages. They mention that such agreements can be in effect for a certain number of months or years, but do not provide a specific maximum duration. Therefore, I cannot provide a definitive answer based on the available information. \n\nINSUFFICIENT_EVIDENCE: The passages do not specify the maximum number of years a non-compete agreement can last and still be enforceable.",
+  "citations": [],
+  "attempted_citations": [],
+  "attempted_citations_raw": [],
+  "invalid_citations": [],
+  "context_grade": null,
+  "citation_support": [],
+  "_how_to": "MANUAL grading, not filled by any script. context_grade (BENCHMARK.md section 2): 0 no evidence, 1 evidence but a condition or source missing, 2 enough evidence and source in the final context ('context' in traces.json). citation_support: true/false per accepted citation (does that passage support the claim it is attached to?). abstention_correct: true only if the agent really abstained and added no unsupported claim.",
+  "abstention_correct": null,
+  "grader_reference": {
+   "absence_reason": "The book states no legal maximum duration. PDF p.194 only says non-competes are 'usually limited by time and distance' with no figure. The only duration in the book is a decoy on PDF p.195 (chunk para:bizethics:p0195:01): the Jimmy John's agreement barred workers for 'two years' after leaving, and that company then withdrew it after an investigation, so it is not an enforceable maximum.",
+   "absence_check": [
+    "maximum\\s+(duration|period|length|term|time)[^.]{0,120}non-?\\s*compete",
+    "non-?\\s*compete[^.]{0,120}maximum\\s+(duration|period|length|term|time)",
+    "non-?\\s*compete[^.]{0,200}(enforceable|valid)[^.]{0,80}\\b(\\w+|\\d+)[- ]years?"
+   ],
+   "grader_note": "Answering 'two years' (Jimmy John's) is a failed abstention. Correct: say the book gives no maximum, only that non-competes are usually limited by time and distance (p.194)."
+  }
+ },
+ {
+  "query_id": "x04",
+  "question": "At what age does federal employment law require workers to retire?",
+  "status": "abstain",
+  "abstain_reason": "model_abstained",
+  "answerable": false,
+  "answer": "INSUFFICIENT_EVIDENCE: The passages do not provide information on a mandatory retirement age under federal employment law.",
+  "model_text": "INSUFFICIENT_EVIDENCE: The passages do not provide information on a mandatory retirement age under federal employment law.",
+  "citations": [],
+  "attempted_citations": [],
+  "attempted_citations_raw": [],
+  "invalid_citations": [],
+  "context_grade": null,
+  "citation_support": [],
+  "_how_to": "MANUAL grading, not filled by any script. context_grade (BENCHMARK.md section 2): 0 no evidence, 1 evidence but a condition or source missing, 2 enough evidence and source in the final context ('context' in traces.json). citation_support: true/false per accepted citation (does that passage support the claim it is attached to?). abstention_correct: true only if the agent really abstained and added no unsupported claim.",
+  "abstention_correct": null,
+  "grader_reference": {
+   "absence_reason": "PDF p.108 says the Act protects workers aged 40 or older from discriminatory employment decisions, which is not a retirement age. 'Mandatory retirement', 'retirement age' and 'retire at' occur nowhere in the three PDFs.",
+   "absence_check": [
+    "mandatory\\s+retirement",
+    "retirement\\s+age",
+    "retire\\s+at",
+    "required\\s+to\\s+retire"
+   ],
+   "grader_note": "Correct: say the book gives no retirement age; the Act is cited only for the 40-and-older protection. Claiming 'no law requires retirement' without support, or giving 40 as a retirement age, fails."
+  }
+ }
+]

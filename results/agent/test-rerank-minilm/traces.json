@@ -1,0 +1,1088 @@
+[
+ {
+  "events": [
+   {
+    "event": "model_call",
+    "prompt_tokens": 421,
+    "completion_tokens": 21,
+    "latency_s": 1.932,
+    "retries": 0,
+    "model": "gpt-4o-mini-2024-07-18",
+    "finish_reason": "tool_calls"
+   },
+   {
+    "event": "search",
+    "step": 1,
+    "tool": "search",
+    "query": "John Stuart Mill revise Bentham view of pleasure",
+    "filter": null,
+    "top_k": 5,
+    "retrieval_ms": 837.0,
+    "results": [
+     {
+      "rank": 1,
+      "id": "para:phil:p0287:01",
+      "score": 7.256117,
+      "page": 287,
+      "source_id": "phil"
+     },
+     {
+      "rank": 2,
+      "id": "para:phil:p0285:04",
+      "score": 3.717496,
+      "page": 285,
+      "source_id": "phil"
+     },
+     {
+      "rank": 3,
+      "id": "para:phil:p0321:03",
+      "score": 2.451108,
+      "page": 321,
+      "source_id": "phil"
+     },
+     {
+      "rank": 4,
+      "id": "para:phil:p0329:03",
+      "score": 2.386034,
+      "page": 329,
+      "source_id": "phil"
+     },
+     {
+      "rank": 5,
+      "id": "para:phil:p0286:00",
+      "score": 1.306682,
+      "page": 286,
+      "source_id": "phil"
+     }
+    ],
+    "new_ids": [
+     "para:phil:p0287:01",
+     "para:phil:p0285:04",
+     "para:phil:p0321:03",
+     "para:phil:p0329:03",
+     "para:phil:p0286:00"
+    ],
+    "repeated_ids": [],
+    "dropped_budget": [],
+    "context_ids": [
+     "para:phil:p0287:01",
+     "para:phil:p0285:04",
+     "para:phil:p0321:03",
+     "para:phil:p0329:03",
+     "para:phil:p0286:00"
+    ],
+    "context_chars": 4077,
+    "observation_chars": 4220
+   },
+   {
+    "event": "model_call",
+    "prompt_tokens": 1368,
+    "completion_tokens": 64,
+    "latency_s": 2.467,
+    "retries": 0,
+    "model": "gpt-4o-mini-2024-07-18",
+    "finish_reason": "stop"
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 1789,
+   "completion_tokens": 85,
+   "model_calls": 2,
+   "retries": 0,
+   "model_seconds": 4.399
+  },
+  "context": "[para:phil:p0287:01 | data/Introduction_to_Philosophy-WEB.pdf | page 287]\n9.2 Consequentialism > Higher and Lower Pleasures\nRaised to continue in the footsteps of Bentham and his father, John Stuart Mill had a nervous breakdown as a young man. Mill emerged from the crisis with new ideas about utilitarianism, including the realization that Bentham’s characterization of pleasure could be improved upon (Durham 1963). He realized that pleasures differ both quantitatively and qualitatively. Mill identified what he calls higher and lower pleasures to distinguish between different qualities of pleasure. With his revised and more nuanced account of pleasure, Mill set out to develop Bentham’s earlier formulation of utilitarianism. He refined the calculus and assigned a greater significance or preference to higher-quality pleasures (e.g., mental pleasures).\n\n[para:phil:p0285:04 | data/Introduction_to_Philosophy-WEB.pdf | page 285]\n9.2 Consequentialism > Jeremy Bentham and John Stuart Mill\nJeremy Bentham (1748–1832) was the first philosopher to articulate the principle of utility. James Mill (1773–1836), an economist, political philosopher, and historian, was Bentham’s friend and a follower of utilitarianism. James Mill naturally raised his son to be a utilitarian as well. John Stuart Mill (1806–1873) received a rigorous homeschooling under his father’s tutelage. Scholars in the fields of philosophy, political science, and economics continue to apply the insights of Bentham and Mill to this day.\n\n[para:phil:p0321:03 | data/Introduction_to_Philosophy-WEB.pdf | page 321]\n10.1 The Challenge of Bioethics > Utilitarianism and Liberal Views on Individual Rights\nUtilitarianism, the consequentialist approach first advanced by Jeremy Bentham, judges an action to be moral if it provides the greatest good to the greatest number. John Stuart Mill’s work On Liberty popularized and adapted this idea so that it could be implemented within representative governments. Mill recognized that the natural rights of various individuals in society will often come into conflict. To maximize individual freedom, Mill proposed the harm principle. It states that a person’s actions should only be limited if they harm another person. A person’s speech should therefore not be curtailed unless it harms another by, for example, directly inciting violence. The harm principle became the cornerstone of 19th-century liberalism. As a result, many people living in liberal societies today evaluate the morality of abortion by weighing the rights of the pregnant person against the rights of the living organism inside the womb.\n\n[para:phil:p0329:03 | data/Introduction_to_Philosophy-WEB.pdf | page 329]\n10.1 The Challenge of Bioethics > Normative Moral Frameworks Applied to Clinical Trials\nUtilitarians like Jeremy Bentham (1748–1832) and John Stuart Mill (1806–1873) proposed that the rightness of an action is determined by its consequences, by what it produces. They argued that we act morally when our actions produce the greatest happiness for the greatest number. In clinical trials, the utilitarian emphasis on consequences and, in particular, happiness provides a framework that may help us balance scientific/research goals and the interests of human research subjects. Mill argued that we should assess the morality of an action from the standpoint of an impartial, benevolent spectator. We are impartial when we consider everyone’s happiness, including our own, equally and don’t give preference to some individuals’ or some groups’ happiness or interests over others. We are benevolent when we strive to choose those actions that produce the most overall happiness and do not sacrifice the happiness of some for the happiness of others.\n\n[para:phil:p0286:00 | data/Introduction_to_Philosophy-WEB.pdf | page 286]\n9.2 Consequentialism > Jeremy Bentham and John Stuart Mill\nFIGURE 9.3 Portrait of Jeremy Bentham (1748–1832) by Henry William Pickersgill, 1838. (credit: \"Jeremy\nBentham. Line engraving by C. Fox, 1838, after H. W. Pickersgill.\" by C. Fox/Wellcome Collection)",
+  "context_ids": [
+   "para:phil:p0287:01",
+   "para:phil:p0285:04",
+   "para:phil:p0321:03",
+   "para:phil:p0329:03",
+   "para:phil:p0286:00"
+  ],
+  "context_chars": 4077,
+  "n_searches": 1,
+  "attempted_citations": [
+   "para:phil:p0287:01"
+  ],
+  "attempted_citations_raw": [
+   "para:phil:p0287:01"
+  ],
+  "invalid_citations": [],
+  "repaired_citations": [],
+  "model": "gpt-4o-mini-2024-07-18",
+  "status": "answered",
+  "answer": "John Stuart Mill revised Bentham's view of pleasure by recognizing that pleasures differ both quantitatively and qualitatively. He introduced the distinction between higher and lower pleasures, assigning greater significance to higher-quality pleasures, such as mental pleasures, in his refined account of utilitarianism [para:phil:p0287:01].",
+  "raw_answer": "John Stuart Mill revised Bentham's view of pleasure by recognizing that pleasures differ both quantitatively and qualitatively. He introduced the distinction between higher and lower pleasures, assigning greater significance to higher-quality pleasures, such as mental pleasures, in his refined account of utilitarianism [para:phil:p0287:01].",
+  "citations": [
+   "para:phil:p0287:01"
+  ],
+  "reason": "ok",
+  "elapsed_s": 5.237,
+  "query_id": "t06",
+  "split": "test",
+  "question": "How did John Stuart Mill revise Bentham's view of pleasure?",
+  "filter": null,
+  "cost_usd": 0.000319,
+  "error": null,
+  "answerable": true,
+  "evidence_in_context": true,
+  "evidence_chunk_ids_in_context": [
+   "para:phil:p0287:01"
+  ],
+  "evidence_retrieved_not_in_context": [],
+  "first_search_evidence_rank": 1,
+  "evidence_after_first_search": true
+ },
+ {
+  "events": [
+   {
+    "event": "model_call",
+    "prompt_tokens": 423,
+    "completion_tokens": 21,
+    "latency_s": 1.443,
+    "retries": 0,
+    "model": "gpt-4o-mini-2024-07-18",
+    "finish_reason": "tool_calls"
+   },
+   {
+    "event": "search",
+    "step": 1,
+    "tool": "search",
+    "query": "act utilitarianism basis for deciding right action",
+    "filter": null,
+    "top_k": 5,
+    "retrieval_ms": 848.1,
+    "results": [
+     {
+      "rank": 1,
+      "id": "para:phil:p0288:02",
+      "score": 5.407237,
+      "page": 288,
+      "source_id": "phil"
+     },
+     {
+      "rank": 2,
+      "id": "para:phil:p0288:03",
+      "score": 4.409036,
+      "page": 288,
+      "source_id": "phil"
+     },
+     {
+      "rank": 3,
+      "id": "para:phil:p0329:03",
+      "score": 4.087905,
+      "page": 329,
+      "source_id": "phil"
+     },
+     {
+      "rank": 4,
+      "id": "para:phil:p0289:00",
+      "score": 3.664367,
+      "page": 289,
+      "source_id": "phil"
+     },
+     {
+      "rank": 5,
+      "id": "para:phil:p0288:00",
+      "score": 3.612884,
+      "page": 288,
+      "source_id": "phil"
+     }
+    ],
+    "new_ids": [
+     "para:phil:p0288:02",
+     "para:phil:p0288:03",
+     "para:phil:p0329:03",
+     "para:phil:p0289:00",
+     "para:phil:p0288:00"
+    ],
+    "repeated_ids": [],
+    "dropped_budget": [],
+    "context_ids": [
+     "para:phil:p0288:02",
+     "para:phil:p0288:03",
+     "para:phil:p0329:03",
+     "para:phil:p0289:00",
+     "para:phil:p0288:00"
+    ],
+    "context_chars": 4449,
+    "observation_chars": 4594
+   },
+   {
+    "event": "model_call",
+    "prompt_tokens": 1408,
+    "completion_tokens": 88,
+    "latency_s": 2.779,
+    "retries": 0,
+    "model": "gpt-4o-mini-2024-07-18",
+    "finish_reason": "stop"
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 1831,
+   "completion_tokens": 109,
+   "model_calls": 2,
+   "retries": 0,
+   "model_seconds": 4.222
+  },
+  "context": "[para:phil:p0288:02 | data/Introduction_to_Philosophy-WEB.pdf | page 288]\n9.2 Consequentialism > Act vs. Rule Utilitarianism\nWithin this moral theory, there is a major division between act and rule utilitarianism. Act utilitarians argue that we should apply the greatest happiness principle on a case-by-case basis. Factors may vary from one situation to the next making it possible that different actions are morally right even in two seemingly similar situations. Act utilitarians believe morality requires us to maximize the good every time we act.\n\n[para:phil:p0288:03 | data/Introduction_to_Philosophy-WEB.pdf | page 288]\n9.2 Consequentialism > Act vs. Rule Utilitarianism\nSome have argued that act utilitarianism is problematic because it seems to justify doing actions that go well beyond ordinary moral standards. For instance, act utilitarianism could justify a vigilante killing a person, an action that is contrary to our normal sense of right conduct, if it saves lives and so maximizes happiness. However, if many people were to take the law into their own hands, the long-term consequence would be to undermine the security of all individuals within society. Consider also the case in which a jury or a judge were to find an innocent person guilty and sentence them to prison in order to avoid widespread riots. In this particular case, such an act would increase happiness but reduce the overall level of trust in the judicial system.\n\n[para:phil:p0329:03 | data/Introduction_to_Philosophy-WEB.pdf | page 329]\n10.1 The Challenge of Bioethics > Normative Moral Frameworks Applied to Clinical Trials\nUtilitarians like Jeremy Bentham (1748–1832) and John Stuart Mill (1806–1873) proposed that the rightness of an action is determined by its consequences, by what it produces. They argued that we act morally when our actions produce the greatest happiness for the greatest number. In clinical trials, the utilitarian emphasis on consequences and, in particular, happiness provides a framework that may help us balance scientific/research goals and the interests of human research subjects. Mill argued that we should assess the morality of an action from the standpoint of an impartial, benevolent spectator. We are impartial when we consider everyone’s happiness, including our own, equally and don’t give preference to some individuals’ or some groups’ happiness or interests over others. We are benevolent when we strive to choose those actions that produce the most overall happiness and do not sacrifice the happiness of some for the happiness of others.\n\n[para:phil:p0289:00 | data/Introduction_to_Philosophy-WEB.pdf | page 289]\n9.2 Consequentialism > Character and Intent in Utilitarianism\nwrong, nor is it right or wrong based on an agent’s character or intent. Only the scope of consequences should be considered when assessing the rightness of an action. An agent might intend to produce certain consequences when they act, but what they intend may not come about or their action might produce other unintended consequences. If an action produces consequences a person didn’t intend or foresee and so does harm, they are still morally at fault, even if at the time it seemed reasonable to assume those outcomes wouldn’t happen. For utilitarians, an agent’s intent and character are not morally relevant factors. In this, utilitarianism differs from the other normative ethical theories that will be considered in the remainder of this chapter.\n\n[para:phil:p0288:00 | data/Introduction_to_Philosophy-WEB.pdf | page 288]\n9.2 Consequentialism > The Greatest Happiness Principle\nTo apply the principle of utility in broad social and political contexts, Mill formulated the greatest happiness principle, which stipulates that those actions are right that produce the greatest happiness for the greatest number of people. When agents (individual decision makers) approach a decision, they review and evaluate their possible actions and should choose the action that will promote the most happiness for the most people. It is not simply the agent’s own happiness that matters, but the happiness of all individuals involved or affected by the consequences produced. The “happiness which forms the utilitarian standard of what is right in conduct is not the agent’s own happiness but that of all concerned” (Mill [1861] 2001, 17). Mill argued that the right action is the one that maximizes happiness or produces the most net happiness.",
+  "context_ids": [
+   "para:phil:p0288:02",
+   "para:phil:p0288:03",
+   "para:phil:p0329:03",
+   "para:phil:p0289:00",
+   "para:phil:p0288:00"
+  ],
+  "context_chars": 4449,
+  "n_searches": 1,
+  "attempted_citations": [
+   "para:phil:p0288:02",
+   "para:phil:p0288:00"
+  ],
+  "attempted_citations_raw": [
+   "para:phil:p0288:02",
+   "para:phil:p0288:00"
+  ],
+  "invalid_citations": [],
+  "repaired_citations": [],
+  "model": "gpt-4o-mini-2024-07-18",
+  "status": "answered",
+  "answer": "Act utilitarians decide whether an action is right based on its consequences, specifically by applying the greatest happiness principle on a case-by-case basis. They believe that the right action is the one that produces the greatest happiness for the greatest number of people, considering the happiness of all individuals affected by the action, not just the agent's own happiness [para:phil:p0288:02][para:phil:p0288:00].",
+  "raw_answer": "Act utilitarians decide whether an action is right based on its consequences, specifically by applying the greatest happiness principle on a case-by-case basis. They believe that the right action is the one that produces the greatest happiness for the greatest number of people, considering the happiness of all individuals affected by the action, not just the agent's own happiness [para:phil:p0288:02][para:phil:p0288:00].",
+  "citations": [
+   "para:phil:p0288:02",
+   "para:phil:p0288:00"
+  ],
+  "reason": "ok",
+  "elapsed_s": 5.071,
+  "query_id": "t07",
+  "split": "test",
+  "question": "On what basis do act utilitarians decide whether an action is right?",
+  "filter": null,
+  "cost_usd": 0.00034,
+  "error": null,
+  "answerable": true,
+  "evidence_in_context": true,
+  "evidence_chunk_ids_in_context": [
+   "para:phil:p0288:02"
+  ],
+  "evidence_retrieved_not_in_context": [],
+  "first_search_evidence_rank": 1,
+  "evidence_after_first_search": true
+ },
+ {
+  "events": [
+   {
+    "event": "model_call",
+    "prompt_tokens": 430,
+    "completion_tokens": 21,
+    "latency_s": 2.875,
+    "retries": 0,
+    "model": "gpt-4o-mini-2024-07-18",
+    "finish_reason": "tool_calls"
+   },
+   {
+    "event": "search",
+    "step": 1,
+    "tool": "search",
+    "query": "employment doctrine workplace drug testing coverage private-sector employees",
+    "filter": null,
+    "top_k": 5,
+    "retrieval_ms": 746.9,
+    "results": [
+     {
+      "rank": 1,
+      "id": "para:bizethics:p0182:02",
+      "score": 5.296352,
+      "page": 182,
+      "source_id": "bizethics"
+     },
+     {
+      "rank": 2,
+      "id": "para:bizethics:p0182:00",
+      "score": 2.42843,
+      "page": 182,
+      "source_id": "bizethics"
+     },
+     {
+      "rank": 3,
+      "id": "para:bizethics:p0182:01",
+      "score": 0.842476,
+      "page": 182,
+      "source_id": "bizethics"
+     },
+     {
+      "rank": 4,
+      "id": "para:bizethics:p0181:05",
+      "score": -0.120039,
+      "page": 181,
+      "source_id": "bizethics"
+     },
+     {
+      "rank": 5,
+      "id": "para:bizethics:p0182:03",
+      "score": -0.739564,
+      "page": 182,
+      "source_id": "bizethics"
+     }
+    ],
+    "new_ids": [
+     "para:bizethics:p0182:02",
+     "para:bizethics:p0182:00",
+     "para:bizethics:p0182:01",
+     "para:bizethics:p0181:05",
+     "para:bizethics:p0182:03"
+    ],
+    "repeated_ids": [],
+    "dropped_budget": [],
+    "context_ids": [
+     "para:bizethics:p0182:02",
+     "para:bizethics:p0182:00",
+     "para:bizethics:p0182:01",
+     "para:bizethics:p0181:05",
+     "para:bizethics:p0182:03"
+    ],
+    "context_chars": 4124,
+    "observation_chars": 4295
+   },
+   {
+    "event": "model_call",
+    "prompt_tokens": 1332,
+    "completion_tokens": 65,
+    "latency_s": 2.25,
+    "retries": 0,
+    "model": "gpt-4o-mini-2024-07-18",
+    "finish_reason": "stop"
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 1762,
+   "completion_tokens": 86,
+   "model_calls": 2,
+   "retries": 0,
+   "model_seconds": 5.125
+  },
+  "context": "[para:bizethics:p0182:02 | data/business-ethics_-_WEB.pdf | page 182]\nDrug Testing in the Workplace\nThus, the key concept that makes drug testing possible is employment at will, which covers approximately 85 percent of the employees in the private sector (unionized workers and top executives have contracts and thus are not at will, nor are government employees who have due process rights). The only legal limitation is that, in some states, the drug testing procedure must be fair, accurate, and designed to minimize errors and false-positive results.\n\n[para:bizethics:p0182:00 | data/business-ethics_-_WEB.pdf | page 182]\nDrug Testing in the Workplace\nspecific procedure that must be followed. However, for the most part, drug testing is not mandatory and depends on whether the employer wants to do it. Multiple states do regulate drug testing, but to varying degrees, and there is no common standard to be followed.\nTesting of job applicants is the most common form of drug testing. State laws typically allow it, but the employer must follow state rules, if they exist, about providing notice and following standard procedures intended to prevent inaccurate samples. Testing current employees is much less common, primarily due to cost; however, companies that do use drug testing include some in the pharmaceutical and financial services industries. Some states put legal constraints on drug testing of private-sector employees. For example, in a few states. the job must include the possibility of property damage or injury to others, or the employer must believe the employee is using drugs.\n\n[para:bizethics:p0182:01 | data/business-ethics_-_WEB.pdf | page 182]\nDrug Testing in the Workplace\nChallenging a drug test is difficult because tests are considered highly accurate. An applicant or employee can refuse to take the test, but that often means not being hired or losing the job, assuming the worker is an employee at will. The concept of employment at will affirms that either the employee or the employer may dissolve an employment arrangement at will (i.e., without cause and at any time unless an employment contract is in effect that stipulates differently). Most workers are considered employees at will because neither the employer nor employee is obligated to the other; the worker can quit or be fired at any time for any reason because there is no contractual obligation. In some states, the employee risks not only job loss but also the denial of unemployment benefits if fired for refusing to take a drug test.\n\n[para:bizethics:p0181:05 | data/business-ethics_-_WEB.pdf | page 181]\nDrug Testing in the Workplace\nKey issues that arise about a drug testing or monitoring program begin with whether an employer wants or needs to do it. Is it required by law for a particular job, under state or local regulations? Is it for pre-employment clearance? Does the employer need employees’ permission? Does a failed test require mandatory termination? With the exception of employers in industries regulated by the federal government, such as airlines, trucking companies, rail lines, and national security-related firms, federal law is not controlling on the issue of drug testing in the workplace; it is largely a state issue. At the federal level, the Department of Transportation does mandate drug testing for workers such as airline crews and railway conductors and has a\n\n[para:bizethics:p0182:03 | data/business-ethics_-_WEB.pdf | page 182]\nDrug Testing in the Workplace\nThe drug testing process, however, raises some difficult privacy issues. Employers want and are allowed to protect against specimen tampering by taking such steps as requiring subjects to wear a hospital gown. Some employers use test monitors who check the temperature of the urine and/or listen as a urine sample is collected. According to the Cornell University Law School Legal Information Institute, some state courts (e.g., Georgia, Louisiana, Hawaii) have found it an unreasonable invasion of privacy for the monitor to watch an employee in the restroom; however, in other states (e.g., Texas, Nevada), this is allowed.53",
+  "context_ids": [
+   "para:bizethics:p0182:02",
+   "para:bizethics:p0182:00",
+   "para:bizethics:p0182:01",
+   "para:bizethics:p0181:05",
+   "para:bizethics:p0182:03"
+  ],
+  "context_chars": 4124,
+  "n_searches": 1,
+  "attempted_citations": [
+   "para:bizethics:p0182:02"
+  ],
+  "attempted_citations_raw": [
+   "para:bizethics:p0182:02"
+  ],
+  "invalid_citations": [],
+  "repaired_citations": [],
+  "model": "gpt-4o-mini-2024-07-18",
+  "status": "answered",
+  "answer": "The employment doctrine that makes workplace drug testing legally possible is \"employment at will,\" which covers approximately 85 percent of private-sector employees. This doctrine allows either the employee or employer to terminate the employment arrangement at any time without cause, unless a contract stipulates otherwise [para:bizethics:p0182:02].",
+  "raw_answer": "The employment doctrine that makes workplace drug testing legally possible is \"employment at will,\" which covers approximately 85 percent of private-sector employees. This doctrine allows either the employee or employer to terminate the employment arrangement at any time without cause, unless a contract stipulates otherwise [para:bizethics:p0182:02].",
+  "citations": [
+   "para:bizethics:p0182:02"
+  ],
+  "reason": "ok",
+  "elapsed_s": 5.872,
+  "query_id": "t08",
+  "split": "test",
+  "question": "Which employment doctrine makes workplace drug testing legally possible, and roughly what share of private-sector employees does it cover?",
+  "filter": null,
+  "cost_usd": 0.000316,
+  "error": null,
+  "answerable": true,
+  "evidence_in_context": true,
+  "evidence_chunk_ids_in_context": [
+   "para:bizethics:p0182:02"
+  ],
+  "evidence_retrieved_not_in_context": [],
+  "first_search_evidence_rank": 1,
+  "evidence_after_first_search": true
+ },
+ {
+  "events": [
+   {
+    "event": "model_call",
+    "prompt_tokens": 432,
+    "completion_tokens": 26,
+    "latency_s": 1.262,
+    "retries": 0,
+    "model": "gpt-4o-mini-2024-07-18",
+    "finish_reason": "tool_calls"
+   },
+   {
+    "event": "search",
+    "step": 1,
+    "tool": "search",
+    "query": "U.S. hourly compensation growth productivity comparison 1973 2013",
+    "filter": null,
+    "top_k": 5,
+    "retrieval_ms": 788.4,
+    "results": [
+     {
+      "rank": 1,
+      "id": "para:bizethics:p0176:01",
+      "score": 6.55092,
+      "page": 176,
+      "source_id": "bizethics"
+     },
+     {
+      "rank": 2,
+      "id": "para:bizethics:p0176:00",
+      "score": 4.070241,
+      "page": 176,
+      "source_id": "bizethics"
+     },
+     {
+      "rank": 3,
+      "id": "para:bizethics:p0177:00",
+      "score": 0.903671,
+      "page": 177,
+      "source_id": "bizethics"
+     },
+     {
+      "rank": 4,
+      "id": "para:bizethics:p0175:02",
+      "score": 0.134607,
+      "page": 175,
+      "source_id": "bizethics"
+     },
+     {
+      "rank": 5,
+      "id": "para:bizethics:p0177:01",
+      "score": -1.29156,
+      "page": 177,
+      "source_id": "bizethics"
+     }
+    ],
+    "new_ids": [
+     "para:bizethics:p0176:01",
+     "para:bizethics:p0176:00",
+     "para:bizethics:p0177:00",
+     "para:bizethics:p0175:02",
+     "para:bizethics:p0177:01"
+    ],
+    "repeated_ids": [],
+    "dropped_budget": [],
+    "context_ids": [
+     "para:bizethics:p0176:01",
+     "para:bizethics:p0176:00",
+     "para:bizethics:p0177:00",
+     "para:bizethics:p0175:02",
+     "para:bizethics:p0177:01"
+    ],
+    "context_chars": 4159,
+    "observation_chars": 4319
+   },
+   {
+    "event": "model_call",
+    "prompt_tokens": 1440,
+    "completion_tokens": 64,
+    "latency_s": 3.266,
+    "retries": 0,
+    "model": "gpt-4o-mini-2024-07-18",
+    "finish_reason": "stop"
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 1872,
+   "completion_tokens": 90,
+   "model_calls": 2,
+   "retries": 0,
+   "model_seconds": 4.528
+  },
+  "context": "[para:bizethics:p0176:01 | data/business-ethics_-_WEB.pdf | page 176]\nPay and Productivity in the United States > Country Productivity (output/hours worked)\nFigure 6.12 In the last four decades, wages in the United States have not kept up with productivity. According to the Economic Policy Institute, from 1948 to 1973, hourly compensation rose 91 percent, which closely follows productivity gains of 97 percent. However, from 1973 to 2013, hourly compensation rose only 9 percent, whereas productivity rose 74 percent in the same period. (attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license)\n\n[para:bizethics:p0176:00 | data/business-ethics_-_WEB.pdf | page 176]\nPay and Productivity in the United States > Country Productivity (output/hours worked)\nAustralia 102.20\nCanada 109.45\nGermany 105.90\nJapan 103.90\nMexico 105.10\nSouth Korea 97.60\nUnited Kingdom 100.80\nUnited States 108.87\nTable 6.3 This table compares 2015 productivity among several industrialized nations. U.S. productivity ranks high on the list.46\nDuring the same period as the productivity gains discussed in the preceding paragraph, 1973 to 2016, wages for U.S. workers increased only 12 percent. In other words, productivity has grown six times more than pay. Taken together, these facts mean that American workers, union members or not, should not shoulder the blame for competitive challenges faced by U.S. companies. Instead, they are a relative bargain for most companies. Figure 6.12 compares productivity and pay and demonstrates the growing disparity between the two, based on data collected by the Economic Policy Institute.\n\n[para:bizethics:p0177:00 | data/business-ethics_-_WEB.pdf | page 177]\nPay and Productivity in the United States > Country Productivity (output/hours worked)\nIs Management Compensation Fair?\nWe gain yet another perspective on labor by looking at management compensation relative to that of employees. Between 1978 and 2014, inflation-adjusted CEO pay increased by almost 1,000 percent in the United States, while worker pay rose 11 percent.47 A popular way to compare the fairness of a company’s compensation system with that in other countries is the widely reported pay ratio, which measures how many times greater CEO pay is than the wages for the average employee.\n\n[para:bizethics:p0175:02 | data/business-ethics_-_WEB.pdf | page 175]\nPay and Productivity in the United States\nSome managers, politicians, and even members of the general public believe unions are a big part of the reason that U.S. companies have difficulty competing in the global economy. The conservative think tank Heritage Foundation conducted a study that concluded unions may be responsible, in part, for a slower work process and reduced productivity.44 However, multiple other studies indicate that U.S. productivity is up.45\nProductivity in the United States increased 74 percent in the period 1973 to 2016, according to the OECD. In global productivity rankings, most studies indicate the United States ranks quite high, among the top five or six countries in the world and number two on the list compiled by the OECD (Table 6.3).\n\n[para:bizethics:p0177:01 | data/business-ethics_-_WEB.pdf | page 177]\nPay and Productivity in the United States > Country Productivity (output/hours worked)\nThe average multiplier effect in the United States is in the range of three hundred. This means that CEO pay is, on average, three hundred times as high as the pay of the average worker in the same company. In the United Kingdom, the multiplier is twenty-two; in France, it is fifteen; and in Germany, it is twelve.48 The 1965 U.S. ratio was only twenty to one, which raises the question, why and how did CEO pay rise so dramatically high in the United States compared with the rest of the world? Are CEOs in the United States that much better than CEOs in Germany or Japan? Do American companies perform that much better? Is this ratio fair to investors and employees? A large part of executive compensation is in the form of stock options, which frequently are included in the calculation of an executive’s salary and benefits, rather than direct salary.",
+  "context_ids": [
+   "para:bizethics:p0176:01",
+   "para:bizethics:p0176:00",
+   "para:bizethics:p0177:00",
+   "para:bizethics:p0175:02",
+   "para:bizethics:p0177:01"
+  ],
+  "context_chars": 4159,
+  "n_searches": 1,
+  "attempted_citations": [
+   "para:bizethics:p0176:01"
+  ],
+  "attempted_citations_raw": [
+   "para:bizethics:p0176:01"
+  ],
+  "invalid_citations": [],
+  "repaired_citations": [],
+  "model": "gpt-4o-mini-2024-07-18",
+  "status": "answered",
+  "answer": "Between 1973 and 2013, U.S. hourly compensation rose only 9 percent, while productivity increased by 74 percent. This indicates that wages did not keep pace with productivity growth during this period, highlighting a significant disparity between the two metrics [para:bizethics:p0176:01].",
+  "raw_answer": "Between 1973 and 2013, U.S. hourly compensation rose only 9 percent, while productivity increased by 74 percent. This indicates that wages did not keep pace with productivity growth during this period, highlighting a significant disparity between the two metrics [para:bizethics:p0176:01].",
+  "citations": [
+   "para:bizethics:p0176:01"
+  ],
+  "reason": "ok",
+  "elapsed_s": 5.316,
+  "query_id": "t09",
+  "split": "test",
+  "question": "Between 1973 and 2013, how did growth in U.S. hourly compensation compare with growth in productivity?",
+  "filter": null,
+  "cost_usd": 0.000335,
+  "error": null,
+  "answerable": true,
+  "evidence_in_context": true,
+  "evidence_chunk_ids_in_context": [
+   "para:bizethics:p0176:01"
+  ],
+  "evidence_retrieved_not_in_context": [],
+  "first_search_evidence_rank": 1,
+  "evidence_after_first_search": true
+ },
+ {
+  "events": [
+   {
+    "event": "model_call",
+    "prompt_tokens": 429,
+    "completion_tokens": 24,
+    "latency_s": 1.408,
+    "retries": 0,
+    "model": "gpt-4o-mini-2024-07-18",
+    "finish_reason": "tool_calls"
+   },
+   {
+    "event": "search",
+    "step": 1,
+    "tool": "search",
+    "query": "Equal Pay Act grounds for paying one sex more than the other",
+    "filter": null,
+    "top_k": 5,
+    "retrieval_ms": 923.4,
+    "results": [
+     {
+      "rank": 1,
+      "id": "para:bizlaw:p0107:03",
+      "score": 8.783188,
+      "page": 107,
+      "source_id": "bizlaw"
+     },
+     {
+      "rank": 2,
+      "id": "para:bizlaw:p0107:02",
+      "score": 7.927649,
+      "page": 107,
+      "source_id": "bizlaw"
+     },
+     {
+      "rank": 3,
+      "id": "para:bizethics:p0169:00",
+      "score": 1.131267,
+      "page": 169,
+      "source_id": "bizethics"
+     },
+     {
+      "rank": 4,
+      "id": "para:bizethics:p0169:01",
+      "score": 1.112309,
+      "page": 169,
+      "source_id": "bizethics"
+     },
+     {
+      "rank": 5,
+      "id": "para:bizethics:p0168:04",
+      "score": 0.732605,
+      "page": 168,
+      "source_id": "bizethics"
+     }
+    ],
+    "new_ids": [
+     "para:bizlaw:p0107:03",
+     "para:bizlaw:p0107:02",
+     "para:bizethics:p0169:00",
+     "para:bizethics:p0169:01",
+     "para:bizethics:p0168:04"
+    ],
+    "repeated_ids": [],
+    "dropped_budget": [],
+    "context_ids": [
+     "para:bizlaw:p0107:03",
+     "para:bizlaw:p0107:02",
+     "para:bizethics:p0169:00",
+     "para:bizethics:p0169:01",
+     "para:bizethics:p0168:04"
+    ],
+    "context_chars": 4556,
+    "observation_chars": 4711
+   },
+   {
+    "event": "model_call",
+    "prompt_tokens": 1500,
+    "completion_tokens": 94,
+    "latency_s": 2.495,
+    "retries": 0,
+    "model": "gpt-4o-mini-2024-07-18",
+    "finish_reason": "stop"
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 1929,
+   "completion_tokens": 118,
+   "model_calls": 2,
+   "retries": 0,
+   "model_seconds": 3.903
+  },
+  "context": "[para:bizlaw:p0107:03 | data/Business_Law_I_Essentials_2e_-_WEB.pdf | page 107]\nThe Equal Pay Act\nAn employer that is accused of discrimination under the EPA can present one of four affirmative defenses. An employer may legally pay employees of one sex more than another sex if wages are based on a system of seniority, a system of merit, a system that distinguishes payment on the basis of quality and quantity of production (e.g., certain piece rates), or if payment is differentiated on “any other factor other than sex.” Of these four defenses, the “factor other than sex” defense has been invoked most frequently and has been the subject of intense debate and controversy. Critics have argued that this defense enables employers to fabricate other reasons for the wage gap.\n\n[para:bizlaw:p0107:02 | data/Business_Law_I_Essentials_2e_-_WEB.pdf | page 107]\nThe Equal Pay Act\nThe Equal Pay Act (EPA) is a United States federal law that seeks to equalize the salaries and wages paid to employed women with the levels paid to men for work of an equal nature and quantity. The Act amended the Fair Labor Standard Act of 1938 and was a key element of President F. Kennedy’s New Frontier program. Under the terms of the EPA, women and men performing jobs that demand “equal skill, effort, and responsibility, and which are performed under similar working conditions” must be paid the same. The Act protects the rights of both sexes. An individual who seeks to establish a case under the Act must demonstrate that:\n1. An employer pays one sex more than another 2. Both sexes perform an equal amount of work that demands equal levels of skill, effort and responsibility 3. Working conditions for both sexes are equivalent\n\n[para:bizethics:p0169:00 | data/business-ethics_-_WEB.pdf | page 169]\nUnfair Wages: The Gender Pay Gap\naggregate data; thus, they include women and men with the same job, or similar jobs, or jobs considered to fall in the same general category, but the data do not compare the salary of a secretary to that of a CEO, which would be an unrealistic comparison.\nEqual pay under the law means equal pay for the “same” job, but not for the “equivalent” job. Those companies wishing to avoid strict compliance with the law may use several devices to justify unequal pay, including using slightly different job titles, slightly different lists of job duties, and other techniques that lead to different pay for different employees doing essentially the same job. Women have taken employers to court for decades, only to find their lawsuits unsuccessful because proving individual compensation discrimination is very difficult, especially given that multiple factors can come into play in compensation decisions. Sometimes class-action lawsuits have been more successful, but even then plaintiffs often lose.\n\n[para:bizethics:p0169:01 | data/business-ethics_-_WEB.pdf | page 169]\nUnfair Wages: The Gender Pay Gap\nCan anything be done to achieve equal pay? One step would be to pass a new law strengthening the rules on equal pay, but two recent attempts to pass the Paycheck Fairness Act (S.84, H.R.377) and the Fair Pay Act (S.168, H.R.438) narrowly failed.28 These or similar bills, if ever enacted into law, would significantly reduce wage discrimination against those who work in similar job categories by establishing equal pay for “equivalent” work, rather than the current law which uses the term “same” job. The idea of pay equivalency is closely related to comparable worth, a concept that has been put into action on a limited basis over the years, but never on a large scale. Comparable worth holds that workers should be paid on the basis of the worth of their job to the organization. Equivalent work and comparable worth can be important next steps in the path to equal pay, but they are challenging to implement because they require rethinking the entire basis for pay decisions.\nLINK TO LEARNING\n\n[para:bizethics:p0168:04 | data/business-ethics_-_WEB.pdf | page 168]\nUnfair Wages: The Gender Pay Gap\nDoesn’t the law require men and women to be paid the same? The answer is yes and no. Compensation discrimination has been illegal for more than fifty years under a U.S. law called the Equal Pay Act, passed in 1963. But the problem persists. Women earned about 60 percent of what men earned in 1960, and that value had risen to only 80 percent by 2016. Given these historic rates, women are not projected to reach pay equity until at least 2059, with projections based on recent trends predicting dates as late as 2119.27 These are",
+  "context_ids": [
+   "para:bizlaw:p0107:03",
+   "para:bizlaw:p0107:02",
+   "para:bizethics:p0169:00",
+   "para:bizethics:p0169:01",
+   "para:bizethics:p0168:04"
+  ],
+  "context_chars": 4556,
+  "n_searches": 1,
+  "attempted_citations": [
+   "para:bizlaw:p0107:03"
+  ],
+  "attempted_citations_raw": [
+   "para:bizlaw:p0107:03"
+  ],
+  "invalid_citations": [],
+  "repaired_citations": [],
+  "model": "gpt-4o-mini-2024-07-18",
+  "status": "answered",
+  "answer": "Under the Equal Pay Act, an employer may legally pay one sex more than the other based on four affirmative defenses: a system of seniority, a system of merit, a system that distinguishes payment based on the quality and quantity of production, or any other factor other than sex. The \"factor other than sex\" defense has been particularly debated, as critics argue it allows employers to create justifications for wage disparities [para:bizlaw:p0107:03].",
+  "raw_answer": "Under the Equal Pay Act, an employer may legally pay one sex more than the other based on four affirmative defenses: a system of seniority, a system of merit, a system that distinguishes payment based on the quality and quantity of production, or any other factor other than sex. The \"factor other than sex\" defense has been particularly debated, as critics argue it allows employers to create justifications for wage disparities [para:bizlaw:p0107:03].",
+  "citations": [
+   "para:bizlaw:p0107:03"
+  ],
+  "reason": "ok",
+  "elapsed_s": 4.826,
+  "query_id": "t10",
+  "split": "test",
+  "question": "Under the Equal Pay Act, on what grounds may an employer legally pay one sex more than the other?",
+  "filter": null,
+  "cost_usd": 0.00036,
+  "error": null,
+  "answerable": true,
+  "evidence_in_context": true,
+  "evidence_chunk_ids_in_context": [
+   "para:bizlaw:p0107:03"
+  ],
+  "evidence_retrieved_not_in_context": [],
+  "first_search_evidence_rank": 1,
+  "evidence_after_first_search": true
+ },
+ {
+  "events": [
+   {
+    "event": "model_call",
+    "prompt_tokens": 428,
+    "completion_tokens": 20,
+    "latency_s": 1.084,
+    "retries": 0,
+    "model": "gpt-4o-mini-2024-07-18",
+    "finish_reason": "tool_calls"
+   },
+   {
+    "event": "search",
+    "step": 1,
+    "tool": "search",
+    "query": "maximum duration non-compete agreement enforceable",
+    "filter": null,
+    "top_k": 5,
+    "retrieval_ms": 811.0,
+    "results": [
+     {
+      "rank": 1,
+      "id": "para:bizethics:p0194:02",
+      "score": 3.346391,
+      "page": 194,
+      "source_id": "bizethics"
+     },
+     {
+      "rank": 2,
+      "id": "para:bizethics:p0194:03",
+      "score": 1.107768,
+      "page": 194,
+      "source_id": "bizethics"
+     },
+     {
+      "rank": 3,
+      "id": "para:bizethics:p0195:01",
+      "score": 1.015884,
+      "page": 195,
+      "source_id": "bizethics"
+     },
+     {
+      "rank": 4,
+      "id": "para:bizethics:p0195:00",
+      "score": -1.622766,
+      "page": 195,
+      "source_id": "bizethics"
+     },
+     {
+      "rank": 5,
+      "id": "para:bizethics:p0195:03",
+      "score": -4.472817,
+      "page": 195,
+      "source_id": "bizethics"
+     }
+    ],
+    "new_ids": [
+     "para:bizethics:p0194:02",
+     "para:bizethics:p0194:03",
+     "para:bizethics:p0195:01",
+     "para:bizethics:p0195:00",
+     "para:bizethics:p0195:03"
+    ],
+    "repeated_ids": [],
+    "dropped_budget": [],
+    "context_ids": [
+     "para:bizethics:p0194:02",
+     "para:bizethics:p0194:03",
+     "para:bizethics:p0195:01",
+     "para:bizethics:p0195:00",
+     "para:bizethics:p0195:03"
+    ],
+    "context_chars": 4029,
+    "observation_chars": 4174
+   },
+   {
+    "event": "model_call",
+    "prompt_tokens": 1336,
+    "completion_tokens": 99,
+    "latency_s": 3.473,
+    "retries": 0,
+    "model": "gpt-4o-mini-2024-07-18",
+    "finish_reason": "stop"
+   },
+   {
+    "event": "mixed_marker"
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 1764,
+   "completion_tokens": 119,
+   "model_calls": 2,
+   "retries": 0,
+   "model_seconds": 4.557
+  },
+  "context": "[para:bizethics:p0194:02 | data/business-ethics_-_WEB.pdf | page 194]\nConfidentiality\nU.S. companies have long used non-compete agreements as a way to provide another layer of confidentiality, ensuring that employees with access to sensitive information will not compete with the company during or for some period after their employment there. The stated purpose of such agreements is to protect the company’s intellectual property, which is the manifestation of original ideas protected by legal means such as patent, copyright, or trademark. To be enforceable, non-compete agreements are usually limited by time and distance (i.e., they are in effect for a certain number of months or years and within a certain radius of the employer’s operations). However, some companies have begun requiring these agreements even from mid- and lower-level workers in an attempt to prevent them from changing jobs, including those who have no access to any confidential intellectual property.\n\n[para:bizethics:p0194:03 | data/business-ethics_-_WEB.pdf | page 194]\nConfidentiality\nAbout 20 percent of the U.S. private-sector workforce, and about one in six people in jobs earning less than $40,000 a year, are now covered by non-compete agreements.11 The increased use of such agreements has left many employees feeling trapped by their limited mobility. Recently non-competes have been challenged by the Federal Trade Commission. While enforcement of the FTCs rule was struck down by a court, non-compete agreement could continue be challenged in the future.\nLINK TO LEARNING\nA template for a typical non-compete agreement (https://openstax.org/l/53noncompete) can be found at PandaDoc.\nAn ethical question arises regarding whether this practice is in the best interests of society and its workers, and some states are responding. California enacted a law in 2017 saying that most non-compete agreements are void, holding that although an employee may owe the employer a responsibility not to compete while\n\n[para:bizethics:p0195:01 | data/business-ethics_-_WEB.pdf | page 195]\nConfidentiality\nAfter an investigation by then–New York attorney general Eric Schneiderman, fast-food franchisor Jimmy John’s announced in 2016 that it would not enforce non-compete agreements signed by low-wage employees that prohibited them from working at other sandwich shops, and it agreed to stop using the agreements in the future. Jimmy John’s non-compete agreement had prohibited all workers, regardless of position, from working during their employment and for two years after at any other business that sold “submarine, hero-type, deli-style, pita, and/or wrapped or rolled sandwiches” in a geographic area within two miles of any Jimmy John’s shop anywhere in the United States.13\n\n[para:bizethics:p0195:00 | data/business-ethics_-_WEB.pdf | page 195]\nConfidentiality\nemployed, that duty ceases upon termination of employment.12 In other words, an employee does not “belong” to a company forever. In California, therefore, a non-compete arrangement that limits employment after leaving the employer is now unenforceable. Does this law reflect the approach that most states will now take? A California company may still legally prohibit its employees from moonlighting during the term of their employment, particularly for a competitor.\nCASES FROM THE REAL WORLD\nNon-Compete Agreements\n\n[para:bizethics:p0195:03 | data/business-ethics_-_WEB.pdf | page 195]\nConfidentiality > Critical Thinking\n• Other than being punitive, what purpose do non-compete agreements serve when low-level employees are required to sign them?\n• Suppose an executive chef or vice president of marketing or operations at Jimmy John’s or any large sandwich franchise leaves the firm with knowledge of trade secrets and competitive strategies. Should he or she be compelled to wait a negotiated period of time before working for a competitor? Why or why not?\n• What is fair to all parties when high-level managers possess unique, sensitive information about their former employer?",
+  "context_ids": [
+   "para:bizethics:p0194:02",
+   "para:bizethics:p0194:03",
+   "para:bizethics:p0195:01",
+   "para:bizethics:p0195:00",
+   "para:bizethics:p0195:03"
+  ],
+  "context_chars": 4029,
+  "n_searches": 1,
+  "attempted_citations": [],
+  "attempted_citations_raw": [],
+  "invalid_citations": [],
+  "repaired_citations": [],
+  "model": "gpt-4o-mini-2024-07-18",
+  "status": "abstain",
+  "answer": "Not enough evidence in the retrieved passages to answer.",
+  "raw_answer": "Non-compete agreements are usually limited by time, but the maximum duration for enforceability is not specified in the retrieved passages. They mention that such agreements can be in effect for a certain number of months or years, but do not provide a specific maximum duration. Therefore, I cannot provide a definitive answer based on the available information. \n\nINSUFFICIENT_EVIDENCE: The passages do not specify the maximum number of years a non-compete agreement can last and still be enforceable.",
+  "citations": [],
+  "reason": "mixed_marker",
+  "elapsed_s": 5.368,
+  "query_id": "x03",
+  "split": "test",
+  "question": "What is the maximum number of years a non-compete agreement can last and still be enforceable?",
+  "filter": null,
+  "cost_usd": 0.000336,
+  "error": null,
+  "answerable": false
+ },
+ {
+  "events": [
+   {
+    "event": "model_call",
+    "prompt_tokens": 420,
+    "completion_tokens": 18,
+    "latency_s": 1.17,
+    "retries": 0,
+    "model": "gpt-4o-mini-2024-07-18",
+    "finish_reason": "tool_calls"
+   },
+   {
+    "event": "search",
+    "step": 1,
+    "tool": "search",
+    "query": "federal employment law retirement age",
+    "filter": null,
+    "top_k": 5,
+    "retrieval_ms": 716.1,
+    "results": [
+     {
+      "rank": 1,
+      "id": "para:bizlaw:p0108:01",
+      "score": -0.493424,
+      "page": 108,
+      "source_id": "bizlaw"
+     },
+     {
+      "rank": 2,
+      "id": "para:bizethics:p0163:01",
+      "score": -4.685369,
+      "page": 163,
+      "source_id": "bizethics"
+     },
+     {
+      "rank": 3,
+      "id": "para:bizlaw:p0099:04",
+      "score": -4.753191,
+      "page": 99,
+      "source_id": "bizlaw"
+     },
+     {
+      "rank": 4,
+      "id": "para:bizlaw:p0104:02",
+      "score": -5.70508,
+      "page": 104,
+      "source_id": "bizlaw"
+     },
+     {
+      "rank": 5,
+      "id": "para:bizlaw:p0100:04",
+      "score": -5.95228,
+      "page": 100,
+      "source_id": "bizlaw"
+     }
+    ],
+    "new_ids": [
+     "para:bizlaw:p0108:01",
+     "para:bizethics:p0163:01",
+     "para:bizlaw:p0099:04",
+     "para:bizlaw:p0104:02",
+     "para:bizlaw:p0100:04"
+    ],
+    "repeated_ids": [],
+    "dropped_budget": [],
+    "context_ids": [
+     "para:bizlaw:p0108:01",
+     "para:bizethics:p0163:01",
+     "para:bizlaw:p0099:04",
+     "para:bizlaw:p0104:02",
+     "para:bizlaw:p0100:04"
+    ],
+    "context_chars": 3496,
+    "observation_chars": 3628
+   },
+   {
+    "event": "model_call",
+    "prompt_tokens": 1264,
+    "completion_tokens": 17,
+    "latency_s": 1.36,
+    "retries": 0,
+    "model": "gpt-4o-mini-2024-07-18",
+    "finish_reason": "tool_calls"
+   },
+   {
+    "event": "search",
+    "step": 2,
+    "tool": "search",
+    "query": "mandatory retirement age federal law",
+    "filter": null,
+    "top_k": 5,
+    "retrieval_ms": 682.5,
+    "results": [
+     {
+      "rank": 1,
+      "id": "para:bizlaw:p0108:01",
+      "score": -6.265394,
+      "page": 108,
+      "source_id": "bizlaw"
+     },
+     {
+      "rank": 2,
+      "id": "para:bizlaw:p0099:04",
+      "score": -6.408952,
+      "page": 99,
+      "source_id": "bizlaw"
+     },
+     {
+      "rank": 3,
+      "id": "para:bizlaw:p0100:04",
+      "score": -9.314283,
+      "page": 100,
+      "source_id": "bizlaw"
+     },
+     {
+      "rank": 4,
+      "id": "para:bizlaw:p0104:02",
+      "score": -9.413255,
+      "page": 104,
+      "source_id": "bizlaw"
+     },
+     {
+      "rank": 5,
+      "id": "para:bizlaw:p0107:02",
+      "score": -9.448128,
+      "page": 107,
+      "source_id": "bizlaw"
+     }
+    ],
+    "new_ids": [
+     "para:bizlaw:p0107:02"
+    ],
+    "repeated_ids": [
+     "para:bizlaw:p0108:01",
+     "para:bizlaw:p0099:04",
+     "para:bizlaw:p0100:04",
+     "para:bizlaw:p0104:02"
+    ],
+    "dropped_budget": [],
+    "context_ids": [
+     "para:bizlaw:p0108:01",
+     "para:bizethics:p0163:01",
+     "para:bizlaw:p0099:04",
+     "para:bizlaw:p0104:02",
+     "para:bizlaw:p0100:04",
+     "para:bizlaw:p0107:02"
+    ],
+    "context_chars": 4434,
+    "observation_chars": 1210
+   },
+   {
+    "event": "model_call",
+    "prompt_tokens": 1578,
+    "completion_tokens": 18,
+    "latency_s": 1.34,
+    "retries": 0,
+    "model": "gpt-4o-mini-2024-07-18",
+    "finish_reason": "tool_calls"
+   },
+   {
+    "event": "search",
+    "step": 3,
+    "tool": "search",
+    "query": "retirement age federal employment law",
+    "filter": null,
+    "top_k": 5,
+    "retrieval_ms": 699.1,
+    "results": [
+     {
+      "rank": 1,
+      "id": "para:bizlaw:p0108:01",
+      "score": -0.251236,
+      "page": 108,
+      "source_id": "bizlaw"
+     },
+     {
+      "rank": 2,
+      "id": "para:bizlaw:p0100:04",
+      "score": -4.135314,
+      "page": 100,
+      "source_id": "bizlaw"
+     },
+     {
+      "rank": 3,
+      "id": "para:bizlaw:p0099:04",
+      "score": -4.504457,
+      "page": 99,
+      "source_id": "bizlaw"
+     },
+     {
+      "rank": 4,
+      "id": "para:bizethics:p0163:01",
+      "score": -4.718502,
+      "page": 163,
+      "source_id": "bizethics"
+     },
+     {
+      "rank": 5,
+      "id": "para:bizlaw:p0104:02",
+      "score": -4.923733,
+      "page": 104,
+      "source_id": "bizlaw"
+     }
+    ],
+    "new_ids": [],
+    "repeated_ids": [
+     "para:bizlaw:p0108:01",
+     "para:bizlaw:p0100:04",
+     "para:bizlaw:p0099:04",
+     "para:bizethics:p0163:01",
+     "para:bizlaw:p0104:02"
+    ],
+    "dropped_budget": [],
+    "context_ids": [
+     "para:bizlaw:p0108:01",
+     "para:bizethics:p0163:01",
+     "para:bizlaw:p0099:04",
+     "para:bizlaw:p0104:02",
+     "para:bizlaw:p0100:04",
+     "para:bizlaw:p0107:02"
+    ],
+    "context_chars": 4434,
+    "observation_chars": 222
+   },
+   {
+    "event": "model_call",
+    "prompt_tokens": 1652,
+    "completion_tokens": 24,
+    "latency_s": 1.235,
+    "retries": 0,
+    "model": "gpt-4o-mini-2024-07-18",
+    "finish_reason": "stop"
+   },
+   {
+    "event": "model_abstain"
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 4914,
+   "completion_tokens": 77,
+   "model_calls": 4,
+   "retries": 0,
+   "model_seconds": 5.105
+  },
+  "context": "[para:bizlaw:p0108:01 | data/Business_Law_I_Essentials_2e_-_WEB.pdf | page 108]\nAge Discrimination Act\nPassed in 1967, this Act prohibits employers from making discriminatory employment decisions against people age 40 or older. This Act applies to all employers with 20 or more employees.\n\n[para:bizethics:p0163:01 | data/business-ethics_-_WEB.pdf | page 163]\nA Satisfied Workforce\nAge and generation also play a role in the types of perks that employees value. Workers aged eighteen to thirty-five rank career advancement opportunities (32%) and work-life balance (33%) as most important to them at work. However, 42 percent of workers older than thirty-five say work-life balance is the most important feature. This is likely because Generation X (born in the years 1965–1980) place a high value on opportunities for work-life balance, although, like Baby Boomers (born in the years 1946–1964), they also value salary and a solid retirement plan. On the other hand, Millennials (born in the years 1981–1997) appreciate flexibility: having a choice of benefits, paid time off, the ability to telecommute, flexible hours, and opportunities for professional development.18\n\n[para:bizlaw:p0099:04 | data/Business_Law_I_Essentials_2e_-_WEB.pdf | page 99]\nFair Labor Standards Act\nThe Fair Labor Standards Act (FLSA) sets out provisions that delineate fair labor and unfair labor. There are three main categories covered in the Act:\n1. Child labor 2. Minimum wage provisions 3. Overtime pay requirements\nThe FLSA prohibits oppressive child labor as well as the shipping of goods produced by firms that make use of oppressive labor. The FLSA sets the minimum age for non-agricultural work as 14. However, there are some exceptions. People under the age of 14 who are classed as minors may deliver newspapers, perform babysitting or chores around the home, and can work in businesses owned by their families, as long as the work is not deemed to be hazardous. In addition, minors may perform in television, radio, movie, or theatrical productions. Once an employee becomes 18, child labor regulations no longer apply.\n\n[para:bizlaw:p0104:02 | data/Business_Law_I_Essentials_2e_-_WEB.pdf | page 104]\nLaws Governing Equal Opportunity in Employment\nEmployees are protected in the workplace by a number of laws enacted at both the federal and state levels. Federal laws are usually considered to be the minimum level of protection, and state laws can provide employees with more, but not less, protection. In this section, the major laws pertaining to equal opportunity are discussed.\n\n[para:bizlaw:p0100:04 | data/Business_Law_I_Essentials_2e_-_WEB.pdf | page 100]\nEnding Employment > Regulation Description\nConsolidated Omnibus Budget Reconciliation Act (COBRA)\nMandates that employees who are terminated must be provided with the opportunity to continue to participate in group health insurance, so long as they agree to pay the group rate premium. The employer is required to notify employees of their COBRA rights.\nEmployee Retirement Income\nSecurity Act (ERISA)\nThis Act covers any pension plan offered by employers to their workers, and is designed to prevent abuses and fraudulent use of those plans. Under the terms of ERISA, employers are required to keep certain records pertaining to the plans, and to report on those records at regular intervals. The Act also provides for vesting, which occurs when an employee has a nonforfeitable right to receive pension benefits.\nUnemployment compensation\n\n[para:bizlaw:p0107:02 | data/Business_Law_I_Essentials_2e_-_WEB.pdf | page 107]\nThe Equal Pay Act\nThe Equal Pay Act (EPA) is a United States federal law that seeks to equalize the salaries and wages paid to employed women with the levels paid to men for work of an equal nature and quantity. The Act amended the Fair Labor Standard Act of 1938 and was a key element of President F. Kennedy’s New Frontier program. Under the terms of the EPA, women and men performing jobs that demand “equal skill, effort, and responsibility, and which are performed under similar working conditions” must be paid the same. The Act protects the rights of both sexes. An individual who seeks to establish a case under the Act must demonstrate that:\n1. An employer pays one sex more than another 2. Both sexes perform an equal amount of work that demands equal levels of skill, effort and responsibility 3. Working conditions for both sexes are equivalent",
+  "context_ids": [
+   "para:bizlaw:p0108:01",
+   "para:bizethics:p0163:01",
+   "para:bizlaw:p0099:04",
+   "para:bizlaw:p0104:02",
+   "para:bizlaw:p0100:04",
+   "para:bizlaw:p0107:02"
+  ],
+  "context_chars": 4434,
+  "n_searches": 3,
+  "attempted_citations": [],
+  "attempted_citations_raw": [],
+  "invalid_citations": [],
+  "repaired_citations": [],
+  "model": "gpt-4o-mini-2024-07-18",
+  "status": "abstain",
+  "answer": "INSUFFICIENT_EVIDENCE: The passages do not provide information on a mandatory retirement age under federal employment law.",
+  "raw_answer": "INSUFFICIENT_EVIDENCE: The passages do not provide information on a mandatory retirement age under federal employment law.",
+  "citations": [],
+  "reason": "model_abstained",
+  "elapsed_s": 7.203,
+  "query_id": "x04",
+  "split": "test",
+  "question": "At what age does federal employment law require workers to retire?",
+  "filter": null,
+  "cost_usd": 0.000783,
+  "error": null,
+  "answerable": false
+ }
+]

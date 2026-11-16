@@ -1,0 +1,44 @@
+[
+ {
+  "id": "t06",
+  "split": "test",
+  "answerable": true,
+  "question": "How did John Stuart Mill revise Bentham's view of pleasure?"
+ },
+ {
+  "id": "t07",
+  "split": "test",
+  "answerable": true,
+  "question": "On what basis do act utilitarians decide whether an action is right?"
+ },
+ {
+  "id": "t08",
+  "split": "test",
+  "answerable": true,
+  "question": "Which employment doctrine makes workplace drug testing legally possible, and roughly what share of private-sector employees does it cover?"
+ },
+ {
+  "id": "t09",
+  "split": "test",
+  "answerable": true,
+  "question": "Between 1973 and 2013, how did growth in U.S. hourly compensation compare with growth in productivity?"
+ },
+ {
+  "id": "t10",
+  "split": "test",
+  "answerable": true,
+  "question": "Under the Equal Pay Act, on what grounds may an employer legally pay one sex more than the other?"
+ },
+ {
+  "id": "x03",
+  "split": "test",
+  "answerable": false,
+  "question": "What is the maximum number of years a non-compete agreement can last and still be enforceable?"
+ },
+ {
+  "id": "x04",
+  "split": "test",
+  "answerable": false,
+  "question": "At what age does federal employment law require workers to retire?"
+ }
+]

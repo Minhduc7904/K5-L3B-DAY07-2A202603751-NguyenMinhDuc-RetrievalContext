@@ -1,0 +1,180 @@
+{
+ "d01": {
+  "context_grade_reason": "p0291:03 has the Kant quote 'in your own person as well as in the person of any other, always ... as an end, never merely as a means'; p0329:05 repeats the end/means rule.",
+  "answer_grade_reason": "Ends in themselves, never merely as means, others and ourselves; correct and complete when both cited chunks are read together.",
+  "citation_reasons": [
+   "p0329:05 supports 'treat all persons as ends, never as means only', but NOT 'including ourselves' nor 'rational beings capable of making decisions based on reason' (those are in p0291:03) -> false under strict rule.",
+   "p0291:03 supports 'respect inherent value, not reduce others or ourselves to mere means'."
+  ],
+  "invalid_or_attempted_ids_note": "none: attempted == accepted, invalid list empty"
+ },
+ "d02": {
+  "context_grade_reason": "p0326:03 has the Singer involuntary-euthanasia definition.",
+  "answer_grade_reason": "Involuntary euthanasia with the correct definition; both parts.",
+  "citation_reasons": [
+   "p0326:03 supports."
+  ],
+  "invalid_or_attempted_ids_note": "none: attempted == accepted, invalid list empty"
+ },
+ "d03": {
+  "context_grade_reason": "p0328:01: participant autonomy protected by informed consent.",
+  "answer_grade_reason": "Autonomy/self-determination and informed consent explained; complete.",
+  "citation_reasons": [
+   "p0328:01 supports."
+  ],
+  "invalid_or_attempted_ids_note": "none: attempted == accepted, invalid list empty"
+ },
+ "d04": {
+  "context_grade_reason": "p0337:02: Naess; all living things valuable in own right.",
+  "answer_grade_reason": "Both parts; extra intrinsic value/respect in chunk.",
+  "citation_reasons": [
+   "p0337:02 supports."
+  ],
+  "invalid_or_attempted_ids_note": "none: attempted == accepted, invalid list empty"
+ },
+ "d05": {
+  "context_grade_reason": "p0158:01 has 'protection against any employer sanctions ... complaining to OSHA'; p0211:06 (anti-retaliation) is also in context.",
+  "answer_grade_reason": "No employer sanctions for complaining to OSHA; anonymous report and inspection details are in p0158:01.",
+  "citation_reasons": [
+   "p0158:01 supports every clause."
+  ],
+  "invalid_or_attempted_ids_note": "none: attempted == accepted, invalid list empty"
+ },
+ "d06": {
+  "context_grade_reason": "p0159:04: supervisor first time, coworker usually second time with notice.",
+  "answer_grade_reason": "Both conditions correct.",
+  "citation_reasons": [
+   "p0159:04 supports."
+  ],
+  "invalid_or_attempted_ids_note": "none: attempted == accepted, invalid list empty"
+ },
+ "d07": {
+  "context_grade_reason": "p0211:05: internal reporting channels first, disclose to management.",
+  "answer_grade_reason": "Correct; extra clause in chunk.",
+  "citation_reasons": [
+   "p0211:05 supports."
+  ],
+  "invalid_or_attempted_ids_note": "none: attempted == accepted, invalid list empty"
+ },
+ "d08": {
+  "context_grade_reason": "p0195:00 states California non-compete unenforceable.",
+  "answer_grade_reason": "Core answer correct, but adds 'This law reflects the approach that most states are now taking'; the chunk only asks 'Does this law reflect the approach that most states will now take?' (unanswered). Unsupported extra claim that changes meaning -> capped at 1.",
+  "citation_reasons": [
+   "p0195:00 supports the California rule but NOT the 'most states are now taking' claim -> false under strict rule."
+  ],
+  "invalid_or_attempted_ids_note": "none: attempted == accepted, invalid list empty"
+ },
+ "d09": {
+  "context_grade_reason": "p0081:01: reliance damages; expectation not usually available.",
+  "answer_grade_reason": "Both parts.",
+  "citation_reasons": [
+   "p0081:01 supports."
+  ],
+  "invalid_or_attempted_ids_note": "none: attempted == accepted, invalid list empty"
+ },
+ "d10": {
+  "context_grade_reason": "p0082:00 has capacity, honor-or-void, necessities and age-18 rule.",
+  "answer_grade_reason": "All three parts present; 'in most states' replaced by 'generally' and not repeated for the exceptions (minor hedge loss, judged acceptable).",
+  "citation_reasons": [
+   "p0082:00 supports all."
+  ],
+  "invalid_or_attempted_ids_note": "none: attempted == accepted, invalid list empty"
+ },
+ "d11": {
+  "context_grade_reason": "p0100:01: 12 weeks, 12 months, 50+ employees.",
+  "answer_grade_reason": "All parts; extras in chunk.",
+  "citation_reasons": [
+   "p0100:01 supports."
+  ],
+  "invalid_or_attempted_ids_note": "none: attempted == accepted, invalid list empty"
+ },
+ "d12": {
+  "context_grade_reason": "p0098:01: self-employed and state/local government workers in most states.",
+  "answer_grade_reason": "Both groups with hedge.",
+  "citation_reasons": [
+   "p0098:01 supports."
+  ],
+  "invalid_or_attempted_ids_note": "none: attempted == accepted, invalid list empty"
+ },
+ "d13": {
+  "context_grade_reason": "p0104:03: 15+ employees, 20 consecutive weeks.",
+  "answer_grade_reason": "Both numbers; Title VII 1964 in chunk heading.",
+  "citation_reasons": [
+   "p0104:03 supports."
+  ],
+  "invalid_or_attempted_ids_note": "none: attempted == accepted, invalid list empty"
+ },
+ "d14": {
+  "context_grade_reason": "p0099:01: intentional injury exception.",
+  "answer_grade_reason": "Correct.",
+  "citation_reasons": [
+   "p0099:01 supports."
+  ],
+  "invalid_or_attempted_ids_note": "none: attempted == accepted, invalid list empty"
+ },
+ "d15": {
+  "context_grade_reason": "p0209:03: 2012 NLRB and federal court decisions.",
+  "answer_grade_reason": "Matches expected; extras in chunk.",
+  "citation_reasons": [
+   "p0209:03 supports."
+  ],
+  "invalid_or_attempted_ids_note": "none: attempted == accepted, invalid list empty"
+ },
+ "d16": {
+  "context_grade_reason": "p0179:02: business purpose and consent exceptions.",
+  "answer_grade_reason": "Both exceptions defined.",
+  "citation_reasons": [
+   "p0179:02 supports."
+  ],
+  "invalid_or_attempted_ids_note": "none: attempted == accepted, invalid list empty"
+ },
+ "d17": {
+  "context_grade_reason": "p0074:02: comparative negligence, 30/70 example.",
+  "answer_grade_reason": "Correct with example.",
+  "citation_reasons": [
+   "p0074:02 supports."
+  ],
+  "invalid_or_attempted_ids_note": "none: attempted == accepted, invalid list empty"
+ },
+ "d18": {
+  "context_grade_reason": "p0102:00: WARN, more than 100 employees, at least 60 days.",
+  "answer_grade_reason": "Both numbers present. 'Act of 1988' is stated in the cited timeline bullet (other textbook says 1989, see d21); not penalised.",
+  "citation_reasons": [
+   "p0102:00 supports, including '1988. The WARN Act'."
+  ],
+  "invalid_or_attempted_ids_note": "none: attempted == accepted, invalid list empty"
+ },
+ "d19": {
+  "context_grade_reason": "p0299:02: good/bad upbringing sentences.",
+  "answer_grade_reason": "Both parts.",
+  "citation_reasons": [
+   "p0299:02 supports."
+  ],
+  "invalid_or_attempted_ids_note": "none: attempted == accepted, invalid list empty"
+ },
+ "d20": {
+  "context_grade_reason": "p0332:01: permissible for therapy, impermissible for enhancement.",
+  "answer_grade_reason": "Therapy/enhancement part complete and supported. Capped at 1: added sentence that germ-line modifications 'raise concerns about their impact on future generations' is not stated in the cited p0331:06 (it describes somatic vs germ-line and is truncated at 'have the potential'); the concern appears only in uncited p0332:00.",
+  "citation_reasons": [
+   "p0332:01 supports.",
+   "p0331:06 defines somatic vs germ-line (inheritable) but states no concern about future generations -> false under strict rule."
+  ],
+  "invalid_or_attempted_ids_note": "none: attempted == accepted, invalid list empty"
+ },
+ "d21": {
+  "context_grade_reason": "p0157:01: WARN Act of 1989.",
+  "answer_grade_reason": "1989 as expected.",
+  "citation_reasons": [
+   "p0157:01 supports."
+  ],
+  "invalid_or_attempted_ids_note": "none: attempted == accepted, invalid list empty"
+ },
+ "x01": {
+  "abstention_reason": "Status abstain; answer says passages do not specify the number of years; no number or citation. Book has no limitation period.",
+  "invalid_or_attempted_ids_note": "none: no citations attempted"
+ },
+ "x02": {
+  "abstention_reason": "Status abstain; answer says passages give no specific ethical objections to human reproductive cloning; did not substitute genetic-modification objections from p.331-332 in its context.",
+  "invalid_or_attempted_ids_note": "none: no citations attempted"
+ }
+}

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "x01",
+    "split": "dev",
+    "question": "Under the statute of limitations, how many years does a plaintiff have to file a negligence lawsuit?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "related_topic": "bizlaw ch.6 The Tort System (negligence, PDF pp. 67-75)",
+    "absence_reason": "Negligence is covered (bizlaw PDF pp. 69-70) but no filing deadline is given. 'Statute(s) of limitations', 'limitations period' and 'time limit to sue' occur nowhere in the three PDFs.",
+    "absence_check": ["statutes?\\s+of\\s+limitations?", "limitations?\\s+period", "time\\s+limit\\s+(to|for)\\s+(sue|fil)", "deadline\\s+(to|for)\\s+(sue|fil)"],
+    "grader_note": "Any specific number of years is an unsupported claim (fail). Correct: say the book does not give a filing deadline."
+  },
+  {
+    "id": "x02",
+    "split": "dev",
+    "question": "What ethical objections to human reproductive cloning does the philosophy textbook discuss?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "related_topic": "phil ch.10 Applied Ethics (genetics and bioethics, PDF pp. 319-344)",
+    "absence_reason": "The chapter discusses genetics and other bioethics topics, but cloning is not mentioned. In all three PDFs the only match for 'clon*' is the company name ImClone (bizlaw PDF p.146); 'reproductive' does not occur.",
+    "absence_check": ["clon(e|es|ing|ed)\\b", "reproductive"],
+    "grader_note": "The phil p.331-332 objections to human genetic modification are NOT objections to cloning; answering with them is a failed abstention (it is also the gold passage of test question t04, so do not tune an abstention rule on x02 alone)."
+  },
+  {
+    "id": "x03",
+    "split": "test",
+    "question": "What is the maximum number of years a non-compete agreement can last and still be enforceable?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "related_topic": "bizethics ch.7 What Employees Owe Employers (non-compete agreements, PDF pp. 194-195)",
+    "absence_reason": "The book states no legal maximum duration. PDF p.194 only says non-competes are 'usually limited by time and distance' with no figure. The only duration in the book is a decoy on PDF p.195 (chunk para:bizethics:p0195:01): the Jimmy John's agreement barred workers for 'two years' after leaving, and that company then withdrew it after an investigation, so it is not an enforceable maximum.",
+    "absence_check": ["maximum\\s+(duration|period|length|term|time)[^.]{0,120}non-?\\s*compete", "non-?\\s*compete[^.]{0,120}maximum\\s+(duration|period|length|term|time)", "non-?\\s*compete[^.]{0,200}(enforceable|valid)[^.]{0,80}\\b(\\w+|\\d+)[- ]years?"],
+    "decoy_check": [{"pattern": "non-?\\s*compete.{0,250}?\\b(one|two|three|four|five|six|\\d+)[- ]years?", "expected_chunks": ["para:bizethics:p0195:01"]}],
+    "grader_note": "Answering 'two years' (Jimmy John's) is a failed abstention. Correct: say the book gives no maximum, only that non-competes are usually limited by time and distance (p.194)."
+  },
+  {
+    "id": "x04",
+    "split": "test",
+    "question": "At what age does federal employment law require workers to retire?",
+    "answerable": false,
+    "expected_behavior": "search_and_abstain",
+    "related_topic": "bizlaw ch.9 Employment and Labor Law (Age Discrimination Act, PDF p. 108)",
+    "absence_reason": "PDF p.108 says the Act protects workers aged 40 or older from discriminatory employment decisions, which is not a retirement age. 'Mandatory retirement', 'retirement age' and 'retire at' occur nowhere in the three PDFs.",
+    "absence_check": ["mandatory\\s+retirement", "retirement\\s+age", "retire\\s+at", "required\\s+to\\s+retire"],
+    "grader_note": "Correct: say the book gives no retirement age; the Act is cited only for the 40-and-older protection. Claiming 'no law requires retirement' without support, or giving 40 as a retirement age, fails."
+  }
+]

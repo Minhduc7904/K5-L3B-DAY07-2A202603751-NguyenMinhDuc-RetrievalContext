@@ -1,0 +1,12 @@
+{
+ "graded_by": "Nguyen Minh Duc (student, manual review)",
+ "graded_on": "2026-11-16",
+ "run_folder": "dev-dense-base",
+ "method": "dense",
+ "student_confirmed": false,
+ "student_confirmation_note": "Set to true only after the student has read the labels and spot-checked them",
+ "uncertain": [
+  "d20"
+ ],
+ "rubric": "BENCHMARK.md section 2-3, strict"
+}

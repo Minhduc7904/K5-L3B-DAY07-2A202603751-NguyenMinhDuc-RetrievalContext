@@ -1,0 +1,3381 @@
+[
+ {
+  "events": [
+   {
+    "event": "model_call",
+    "prompt_tokens": 541,
+    "completion_tokens": 23,
+    "latency_s": 1.37,
+    "retries": 0,
+    "model": "gpt-4o-mini-2024-07-18",
+    "finish_reason": "tool_calls"
+   },
+   {
+    "event": "search",
+    "step": 1,
+    "tool": "search",
+    "query": "Kant second main test moral rule treat other people ourselves",
+    "filter": null,
+    "top_k": 5,
+    "retrieval_ms": 870.1,
+    "results": [
+     {
+      "rank": 1,
+      "id": "para:phil:p0329:05",
+      "score": 3.641523,
+      "page": 329,
+      "source_id": "phil"
+     },
+     {
+      "rank": 2,
+      "id": "para:phil:p0291:03",
+      "score": 1.503163,
+      "page": 291,
+      "source_id": "phil"
+     },
+     {
+      "rank": 3,
+      "id": "para:phil:p0291:04",
+      "score": 0.512961,
+      "page": 291,
+      "source_id": "phil"
+     },
+     {
+      "rank": 4,
+      "id": "para:phil:p0290:01",
+      "score": -0.685143,
+      "page": 290,
+      "source_id": "phil"
+     },
+     {
+      "rank": 5,
+      "id": "para:phil:p0292:01",
+      "score": -1.409097,
+      "page": 292,
+      "source_id": "phil"
+     }
+    ],
+    "new_ids": [
+     "para:phil:p0329:05",
+     "para:phil:p0291:03",
+     "para:phil:p0291:04",
+     "para:phil:p0290:01",
+     "para:phil:p0292:01"
+    ],
+    "repeated_ids": [],
+    "dropped_budget": [],
+    "context_ids": [
+     "para:phil:p0329:05",
+     "para:phil:p0291:03",
+     "para:phil:p0291:04",
+     "para:phil:p0290:01",
+     "para:phil:p0292:01"
+    ],
+    "context_chars": 4173,
+    "observation_chars": 4329
+   },
+   {
+    "event": "model_call",
+    "prompt_tokens": 1546,
+    "completion_tokens": 119,
+    "latency_s": 2.742,
+    "retries": 0,
+    "model": "gpt-4o-mini-2024-07-18",
+    "finish_reason": "stop"
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 2087,
+   "completion_tokens": 142,
+   "model_calls": 2,
+   "retries": 0,
+   "model_seconds": 4.112
+  },
+  "context": "[para:phil:p0329:05 | data/Introduction_to_Philosophy-WEB.pdf | page 329]\n10.1 The Challenge of Bioethics > Normative Moral Frameworks Applied to Clinical Trials\nA deontologist like Kant would examine the relevant rules and norms that apply to clinical trials. For Kant, an important rule that must be considered when using human research subjects is the imperative to always treat all persons as ends in themselves, never as means only. In other words, Kant believed that all people have inherent worth and value that is not dependent simply on usefulness for some end or goal. Kant’s ethics\n\n[para:phil:p0291:03 | data/Introduction_to_Philosophy-WEB.pdf | page 291]\n9.3 Deontology > The Humanity Formulation\nThe humanity formulation focuses on how we ought to treat rational beings, whether oneself or others. Kant thought that every person possesses the same inherent value and worth because we are all rational beings. Kant writes, “So act that you use humanity, in your own person as well as in the person of any other, always at the same time as an end, never merely as a means” (Kant 1997a, 4:429). The humanity formulation therefore asks us to consider whether our actions treat others and ourselves as ends, as entities valuable in themselves, or whether we seek to reduce rational beings to the status of a mere means, as valuable only in that they help us achieve our goal. When we lie to someone, we fail to treat them as a person. We have obstructed their ability to act as a human, as a rational being that has the ability to rise up above impulses and make decisions based on reason.\n\n[para:phil:p0291:04 | data/Introduction_to_Philosophy-WEB.pdf | page 291]\n9.3 Deontology > The Humanity Formulation\nBy telling a lie, we have failed to provide the basic information another human needs to make a rational decision. To do so, is always wrong, for it overlooks the inherent value we all possess as rational beings who possess a will and who are capable of acting as free, rational agents.\nNote that Kant is not saying that we cannot rely on other humans to help us achieve a goal. Kant uses the term “never merely as a means” and so indicates that so long as we treat others as humans, and do not impair their ability to act as rational agents, we can derive benefit from others. Humans must cooperate, but in doing so, should treat each other as ends-in-themselves, as rational beings.\n\n[para:phil:p0290:01 | data/Introduction_to_Philosophy-WEB.pdf | page 290]\n9.3 Deontology > Moral Laws\nKant believed that moral laws, or maxims, could be discovered a priori. No matter what religion we follow or culture we grew up in, we can use our reason to figure out what is right and what is wrong. We use our reason alone to arrive at the moral rules by which we should abide.\nIn Groundwork of the Metaphysics of Morals ([1785] 1997, 4:415–416), Kant set out to explore these moral laws by first examining common-sense morality—that is, ideas that most people share about morality, such as do not steal or do not murder. The will, Kant noted, always presents its rules in the form of commands, which he called imperatives. He divided these imperatives into two categories: hypothetical and categorical.\n\n[para:phil:p0292:01 | data/Introduction_to_Philosophy-WEB.pdf | page 292]\n9.3 Deontology > Competing Duties\nPluralists point out that most people do not treat moral obligations as equally weighty or pressing. Doing so would make it difficult, if not impossible, to determine our moral duty in situations where two or more competing moral obligations are applicable. Let’s say you are approached by a woman carrying a gun who asks you what direction your neighbor ran off in. You know in what direction he was headed. Do you follow Kantian moral law not to tell a lie? What if she intends to use her gun on your neighbor? Do you potentially risk your neighbor’s life? This example and others suggest that we must consider factors beyond the (relevant) moral rule or weigh more than one rule when we determine our duty in a specific situation. For example, the rule “don’t lie” might compete with the rule “don’t take actions that will get innocent people killed.”",
+  "context_ids": [
+   "para:phil:p0329:05",
+   "para:phil:p0291:03",
+   "para:phil:p0291:04",
+   "para:phil:p0290:01",
+   "para:phil:p0292:01"
+  ],
+  "context_chars": 4173,
+  "n_searches": 1,
+  "attempted_citations": [
+   "para:phil:p0329:05",
+   "para:phil:p0291:03",
+   "para:phil:p0291:04"
+  ],
+  "invalid_citations": [],
+  "repaired_citations": [],
+  "model": "gpt-4o-mini-2024-07-18",
+  "status": "answered",
+  "answer": "In Kant's second main test of a moral rule, we must treat all persons as ends in themselves and never merely as means to an end, recognizing their inherent worth and value ([para:phil:p0329:05]). This applies to how we treat both ourselves and others, as Kant emphasizes that every rational being possesses the same inherent value ([para:phil:p0291:03]). Therefore, our actions should always respect this intrinsic value, ensuring that we do not reduce anyone, including ourselves, to a mere means for achieving our goals ([para:phil:p0291:04]).",
+  "raw_answer": "In Kant's second main test of a moral rule, we must treat all persons as ends in themselves and never merely as means to an end, recognizing their inherent worth and value ([para:phil:p0329:05]). This applies to how we treat both ourselves and others, as Kant emphasizes that every rational being possesses the same inherent value ([para:phil:p0291:03]). Therefore, our actions should always respect this intrinsic value, ensuring that we do not reduce anyone, including ourselves, to a mere means for achieving our goals ([para:phil:p0291:04]).",
+  "citations": [
+   "para:phil:p0329:05",
+   "para:phil:p0291:03",
+   "para:phil:p0291:04"
+  ],
+  "reason": "ok",
+  "elapsed_s": 4.982,
+  "query_id": "d01",
+  "split": "dev",
+  "question": "In Kant's second main test of a moral rule, how must we treat other people, and ourselves?",
+  "filter": null,
+  "cost_usd": 0.000398,
+  "error": null,
+  "answerable": true,
+  "evidence_in_context": true,
+  "evidence_chunk_ids_in_context": [
+   "para:phil:p0291:03"
+  ],
+  "evidence_retrieved_not_in_context": [],
+  "first_search_evidence_rank": 2,
+  "evidence_after_first_search": true
+ },
+ {
+  "events": [
+   {
+    "event": "model_call",
+    "prompt_tokens": 541,
+    "completion_tokens": 18,
+    "latency_s": 1.152,
+    "retries": 0,
+    "model": "gpt-4o-mini-2024-07-18",
+    "finish_reason": "tool_calls"
+   },
+   {
+    "event": "search",
+    "step": 1,
+    "tool": "search",
+    "query": "Peter Singer euthanasia reject definition",
+    "filter": null,
+    "top_k": 5,
+    "retrieval_ms": 1037.1,
+    "results": [
+     {
+      "rank": 1,
+      "id": "para:phil:p0326:03",
+      "score": 3.955253,
+      "page": 326,
+      "source_id": "phil"
+     },
+     {
+      "rank": 2,
+      "id": "para:phil:p0325:03",
+      "score": -3.876866,
+      "page": 325,
+      "source_id": "phil"
+     },
+     {
+      "rank": 3,
+      "id": "para:phil:p0326:01",
+      "score": -5.341322,
+      "page": 326,
+      "source_id": "phil"
+     },
+     {
+      "rank": 4,
+      "id": "para:phil:p0326:04",
+      "score": -5.445837,
+      "page": 326,
+      "source_id": "phil"
+     },
+     {
+      "rank": 5,
+      "id": "para:phil:p0326:00",
+      "score": -5.768797,
+      "page": 326,
+      "source_id": "phil"
+     }
+    ],
+    "new_ids": [
+     "para:phil:p0326:03",
+     "para:phil:p0325:03",
+     "para:phil:p0326:01",
+     "para:phil:p0326:04",
+     "para:phil:p0326:00"
+    ],
+    "repeated_ids": [],
+    "dropped_budget": [],
+    "context_ids": [
+     "para:phil:p0326:03",
+     "para:phil:p0325:03",
+     "para:phil:p0326:01",
+     "para:phil:p0326:04",
+     "para:phil:p0326:00"
+    ],
+    "context_chars": 4343,
+    "observation_chars": 4479
+   },
+   {
+    "event": "model_call",
+    "prompt_tokens": 1529,
+    "completion_tokens": 42,
+    "latency_s": 1.827,
+    "retries": 0,
+    "model": "gpt-4o-mini-2024-07-18",
+    "finish_reason": "stop"
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 2070,
+   "completion_tokens": 60,
+   "model_calls": 2,
+   "retries": 0,
+   "model_seconds": 2.979
+  },
+  "context": "[para:phil:p0326:03 | data/Introduction_to_Philosophy-WEB.pdf | page 326]\n10.1 The Challenge of Bioethics > Utilitarian Views of Euthanasia\nAustralian moral philosopher Peter Singer (b. 1946), arguing from the utilitarian point of view, supports euthanasia in most of its forms. In Singer’s view, whether euthanasia is morally permissible depends in part on whether a person’s life is still worth living, whether they still have quality of life. Singer holds that it is moral to help someone avoid the unnecessary pain of a prolonged death and immoral to withhold assistance when a person has voluntarily and consciously waived their right to life. The only form of euthanasia Signer opposes is involuntary euthanasia. Euthanasia is involuntary when the decision to euthanize is made without patient input and against their interests.\n\n[para:phil:p0325:03 | data/Introduction_to_Philosophy-WEB.pdf | page 325]\n10.1 The Challenge of Bioethics > Euthanasia\nEuthanasia translated from Greek simply means “good death.” Euthanasia can be either passive or active. In passive euthanasia, treatment is withheld or withdrawn with the expectation that a patient will die sooner than they would with continued medical intervention. In active euthanasia, a patient’s life is terminated using medical interventions (e.g., administering a lethal dose of medication). In addition, euthanasia can be voluntary, when it is at the patient’s request, or nonvoluntary, when a patient is incapable of voluntarily expressing their wishes (e.g., a patient in a persistent vegetative state) and the decision must be made by someone else acting in their best interests.\n\n[para:phil:p0326:01 | data/Introduction_to_Philosophy-WEB.pdf | page 326]\n10.1 The Challenge of Bioethics > Euthanasia\nPhysician-assisted suicide (PAS) refers to a practice in which a physician provides the means (i.e., a prescription for a lethal dose of medication) and/or information to assist a patient in ending their own life. The American Medical Association has denounced physician-assisted suicide as unethical and is aligned with some significant court cases in its position (AMA 2016). Though a controversial practice, the passage of “death with dignity” laws has legalized the practice of physician-assisted suicide in California, Colorado, the District of Columbia, Hawaii, Maine, New Jersey, New Mexico, Oregon, and Washington (Death with Dignity 2021). Physician-assisted suicide is distinguished from euthanasia because the patient terminates their own life, whereas euthanasia involves the active or passive termination of the patient’s life by a physician.\n\n[para:phil:p0326:04 | data/Introduction_to_Philosophy-WEB.pdf | page 326]\n10.1 The Challenge of Bioethics > Other Philosophical Views on Euthanasia\nAmerican ethicist James Rachels (1941–2003) famously challenged the conventional view that active euthanasia is morally wrong whereas passive euthanasia is (at least sometimes) morally permissible. Rachels pointed out that in both active and passive euthanasia the intent is the same, to end suffering, and the result is the same, the termination of the patient’s life. The difference, however, is that active euthanasia causes the immediate cessation of patient suffering, whereas passive euthanasia may result in prolonged suffering for the patient because death is not immediate. Passive euthanasia results in greater suffering than active euthanasia. Therefore, Rachels argued not only that active euthanasia is permissible in all cases where passive euthanasia is permissible but that active euthanasia is preferrable because it brings an immediate end to patient suffering.\n\n[para:phil:p0326:00 | data/Introduction_to_Philosophy-WEB.pdf | page 326]\n10.1 The Challenge of Bioethics > Euthanasia\nDNR, or “do not resuscitate,” order, in which a person provides written instructions ahead of time, in the form of a “living will,” not to restart the heart if it stops and/or not to put the person on a respirator if they cannot breathe on their own. Nonvoluntary passive euthanasia is the same withholding of treatment but without consent of the patient. This form of euthanasia can occur when a person has not made a living will, another form of advanced directive, and is not conscious or competent to make the decision about whether to extend care on their own behalf.",
+  "context_ids": [
+   "para:phil:p0326:03",
+   "para:phil:p0325:03",
+   "para:phil:p0326:01",
+   "para:phil:p0326:04",
+   "para:phil:p0326:00"
+  ],
+  "context_chars": 4343,
+  "n_searches": 1,
+  "attempted_citations": [
+   "para:phil:p0326:03"
+  ],
+  "invalid_citations": [],
+  "repaired_citations": [],
+  "model": "gpt-4o-mini-2024-07-18",
+  "status": "answered",
+  "answer": "Peter Singer rejects involuntary euthanasia, which is defined as euthanasia where the decision to euthanize is made without the patient's input and against their interests [para:phil:p0326:03].",
+  "raw_answer": "Peter Singer rejects involuntary euthanasia, which is defined as euthanasia where the decision to euthanize is made without the patient's input and against their interests [para:phil:p0326:03].",
+  "citations": [
+   "para:phil:p0326:03"
+  ],
+  "reason": "ok",
+  "elapsed_s": 4.016,
+  "query_id": "d02",
+  "split": "dev",
+  "question": "Which kind of euthanasia does the utilitarian philosopher Peter Singer still reject, and how is it defined?",
+  "filter": null,
+  "cost_usd": 0.000347,
+  "error": null,
+  "answerable": true,
+  "evidence_in_context": true,
+  "evidence_chunk_ids_in_context": [
+   "para:phil:p0326:03"
+  ],
+  "evidence_retrieved_not_in_context": [],
+  "first_search_evidence_rank": 1,
+  "evidence_after_first_search": true
+ },
+ {
+  "events": [
+   {
+    "event": "model_call",
+    "prompt_tokens": 537,
+    "completion_tokens": 19,
+    "latency_s": 1.203,
+    "retries": 0,
+    "model": "gpt-4o-mini-2024-07-18",
+    "finish_reason": "tool_calls"
+   },
+   {
+    "event": "search",
+    "step": 1,
+    "tool": "search",
+    "query": "informed consent ethical principle clinical trial",
+    "filter": null,
+    "top_k": 5,
+    "retrieval_ms": 818.5,
+    "results": [
+     {
+      "rank": 1,
+      "id": "para:phil:p0328:01",
+      "score": 7.786076,
+      "page": 328,
+      "source_id": "phil"
+     },
+     {
+      "rank": 2,
+      "id": "para:phil:p0327:02",
+      "score": 3.084553,
+      "page": 327,
+      "source_id": "phil"
+     },
+     {
+      "rank": 3,
+      "id": "para:phil:p0330:00",
+      "score": 2.815205,
+      "page": 330,
+      "source_id": "phil"
+     },
+     {
+      "rank": 4,
+      "id": "para:phil:p0328:05",
+      "score": 0.919524,
+      "page": 328,
+      "source_id": "phil"
+     },
+     {
+      "rank": 5,
+      "id": "para:phil:p0319:00",
+      "score": 0.480548,
+      "page": 319,
+      "source_id": "phil"
+     }
+    ],
+    "new_ids": [
+     "para:phil:p0328:01",
+     "para:phil:p0327:02",
+     "para:phil:p0330:00",
+     "para:phil:p0328:05",
+     "para:phil:p0319:00"
+    ],
+    "repeated_ids": [],
+    "dropped_budget": [],
+    "context_ids": [
+     "para:phil:p0328:01",
+     "para:phil:p0327:02",
+     "para:phil:p0330:00",
+     "para:phil:p0328:05",
+     "para:phil:p0319:00"
+    ],
+    "context_chars": 4369,
+    "observation_chars": 4513
+   },
+   {
+    "event": "model_call",
+    "prompt_tokens": 1471,
+    "completion_tokens": 72,
+    "latency_s": 2.137,
+    "retries": 0,
+    "model": "gpt-4o-mini-2024-07-18",
+    "finish_reason": "stop"
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 2008,
+   "completion_tokens": 91,
+   "model_calls": 2,
+   "retries": 0,
+   "model_seconds": 3.34
+  },
+  "context": "[para:phil:p0328:01 | data/Introduction_to_Philosophy-WEB.pdf | page 328]\n10.1 The Challenge of Bioethics > Four Guiding Principles\nTrials involving human subjects have historically been a source of difficult ethical issues. There are four main ethical principles that can guide our thinking whenever faced with ethical issues in physician and patient or researcher and participant relationships, namely the principles of autonomy, beneficence, nonmaleficence, and justice.\nPrinciple of autonomy: The principle of autonomy states that in clinical settings, patients have a right to exercise agency or self-determination when it comes to making decisions about their own health care. In clinical trials, participant autonomy is protected when potential participants are entered in a trial only after giving their informed consent. Informed consent means an individual is provided all the relevant information about a trial to make their own decision about whether to participate. Participant autonomy and informed consent protect participants from exploitation.\n\n[para:phil:p0327:02 | data/Introduction_to_Philosophy-WEB.pdf | page 327]\n10.1 The Challenge of Bioethics > Clinical Trials\nThey have raised issues related to, for example, informed consent, access to medical resources, and whether the ends of using human subjects justify the means. Identifying and debating these ethical issues can promote, where applicable, changes to the way trials are conducted to address areas of concern.\nFIGURE 10.4 Ongoing clinical trials nationwide as of November 14, 2021. (source: National Library of Medicine;\nattribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license)\n\n[para:phil:p0330:00 | data/Introduction_to_Philosophy-WEB.pdf | page 330]\n10.1 The Challenge of Bioethics > Normative Moral Frameworks Applied to Clinical Trials\nemphasizes the rights of human subjects and makes clear that potential research subjects must make an informed, free decision whether to participate in a clinical trial. Additionally, human beings’ rights cannot be ignored or denied because some other end (e.g., the goals of science, profits, or even greater human interests) is deemed more valuable. A Kantian approach would affirm the rights, choice, and autonomy of trial participants.\nCare ethics takes a character-centered approach, but it makes the values of caring central in our moral deliberation and decision-making. Care ethics uses the caring relationship as the ethical paradigm and thus highlights the importance of subjective and concrete factors when evaluating the rightness of certain actions and choices. In clinical trials, care ethics reminds us to value all humans and consider the importance of virtues like compassion and empathy when interacting with and treating patients.\nCONNECTIONS\n\n[para:phil:p0328:05 | data/Introduction_to_Philosophy-WEB.pdf | page 328]\n10.1 The Challenge of Bioethics > Four Guiding Principles\nIn the arena of human experimentation, modern safeguards and guidelines were created in response to historical cases of exploitation and abuse. The Nuremburg Code, for example, represents the first attempt to establish guidelines for clinical trials created in response to the abuses and horrors perpetrated by Nazi physicians during World War II. The creation of institutional review boards (IRBs) was another method to mitigate ethical issues posed by clinical trials. IRBs comprised of experts in science, medicine, and the law are tasked with reviewing and vetting parameters of trials to protect participants and identify potential issues. Clinical trial guidelines and IRBs aim to promote that all trials with human subjects adhere to the four ethical principles above and protect participant privacy and confidentiality.\n\n[para:phil:p0319:00 | data/Introduction_to_Philosophy-WEB.pdf | page 319]\nFIGURE 10.1 Bioethics is an area of applied ethics that explores the many potential ethical dilemmas that can arise in medicine and related areas. Bioethics addresses questions like: “What is informed consent?” “When, if ever, can a physician assist a patient in ending their own life?” “Under what conditions is it morally permissible to conduct research using human test subjects?” (credit: modification of “Operating Room” by John Crawford/National Cancer Institute/National Institutes of Health/Wikimedia, Public Domain)",
+  "context_ids": [
+   "para:phil:p0328:01",
+   "para:phil:p0327:02",
+   "para:phil:p0330:00",
+   "para:phil:p0328:05",
+   "para:phil:p0319:00"
+  ],
+  "context_chars": 4369,
+  "n_searches": 1,
+  "attempted_citations": [
+   "para:phil:p0328:01"
+  ],
+  "invalid_citations": [],
+  "repaired_citations": [],
+  "model": "gpt-4o-mini-2024-07-18",
+  "status": "answered",
+  "answer": "Informed consent protects the ethical principle of autonomy for participants in clinical trials. This principle states that patients have the right to exercise agency or self-determination in making decisions about their own health care, which is upheld when individuals are provided with all relevant information to make an informed decision about participation in a trial [para:phil:p0328:01].",
+  "raw_answer": "Informed consent protects the ethical principle of autonomy for participants in clinical trials. This principle states that patients have the right to exercise agency or self-determination in making decisions about their own health care, which is upheld when individuals are provided with all relevant information to make an informed decision about participation in a trial [para:phil:p0328:01].",
+  "citations": [
+   "para:phil:p0328:01"
+  ],
+  "reason": "ok",
+  "elapsed_s": 4.159,
+  "query_id": "d03",
+  "split": "dev",
+  "question": "Which ethical principle does informed consent protect for people who take part in a clinical trial?",
+  "filter": null,
+  "cost_usd": 0.000356,
+  "error": null,
+  "answerable": true,
+  "evidence_in_context": true,
+  "evidence_chunk_ids_in_context": [
+   "para:phil:p0328:01"
+  ],
+  "evidence_retrieved_not_in_context": [],
+  "first_search_evidence_rank": 1,
+  "evidence_after_first_search": true
+ },
+ {
+  "events": [
+   {
+    "event": "model_call",
+    "prompt_tokens": 537,
+    "completion_tokens": 20,
+    "latency_s": 1.015,
+    "retries": 0,
+    "model": "gpt-4o-mini-2024-07-18",
+    "finish_reason": "tool_calls"
+   },
+   {
+    "event": "search",
+    "step": 1,
+    "tool": "search",
+    "query": "deep ecology term introduced assumptions about living things",
+    "filter": null,
+    "top_k": 5,
+    "retrieval_ms": 886.8,
+    "results": [
+     {
+      "rank": 1,
+      "id": "para:phil:p0337:02",
+      "score": 6.40275,
+      "page": 337,
+      "source_id": "phil"
+     },
+     {
+      "rank": 2,
+      "id": "para:phil:p0337:03",
+      "score": 3.673146,
+      "page": 337,
+      "source_id": "phil"
+     },
+     {
+      "rank": 3,
+      "id": "para:phil:p0337:04",
+      "score": -2.511388,
+      "page": 337,
+      "source_id": "phil"
+     },
+     {
+      "rank": 4,
+      "id": "para:phil:p0323:03",
+      "score": -6.53249,
+      "page": 323,
+      "source_id": "phil"
+     },
+     {
+      "rank": 5,
+      "id": "para:phil:p0304:04",
+      "score": -8.009612,
+      "page": 304,
+      "source_id": "phil"
+     }
+    ],
+    "new_ids": [
+     "para:phil:p0337:02",
+     "para:phil:p0337:03",
+     "para:phil:p0337:04",
+     "para:phil:p0323:03",
+     "para:phil:p0304:04"
+    ],
+    "repeated_ids": [],
+    "dropped_budget": [],
+    "context_ids": [
+     "para:phil:p0337:02",
+     "para:phil:p0337:03",
+     "para:phil:p0337:04",
+     "para:phil:p0323:03",
+     "para:phil:p0304:04"
+    ],
+    "context_chars": 4146,
+    "observation_chars": 4301
+   },
+   {
+    "event": "model_call",
+    "prompt_tokens": 1510,
+    "completion_tokens": 70,
+    "latency_s": 1.803,
+    "retries": 0,
+    "model": "gpt-4o-mini-2024-07-18",
+    "finish_reason": "stop"
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 2047,
+   "completion_tokens": 90,
+   "model_calls": 2,
+   "retries": 0,
+   "model_seconds": 2.818
+  },
+  "context": "[para:phil:p0337:02 | data/Introduction_to_Philosophy-WEB.pdf | page 337]\n10.2 Environmental Ethics > Deep Ecology and the Intrinsic Value of Nature\nIn stark contrast to the anthropocentricism that has long dominated Western thinking about the environment, deep ecology, a term first coined by Norwegian philosopher Arne Naess (1912–2009), assumes that all living things are valuable in their own right (Naess 1973). If all life has intrinsic value, then all life is deserving of respect. Deep ecology thus advocates a practice of restraint when it comes to the environment and to nonhuman life.\n\n[para:phil:p0337:03 | data/Introduction_to_Philosophy-WEB.pdf | page 337]\n10.2 Environmental Ethics > Deep Ecology and the Intrinsic Value of Nature\nDeep ecology argues that we need to fundamentally change how we think about ourselves and our relationship to nature. This approach proposes that it is wrong to view ourselves as individual, separate entities. Instead, all of nature, including human beings, should be understood in terms of their relationships with everything else. This interrelatedness implies a responsibility to act in ways that respect the intrinsic value of all living things and promote life in the broadest sense. For deep ecologists, a first step in this approach is to become sensitive to and aware of the deep relationships that exist between everything in nature. Aware that we are more than this body and this mind, that we are members of a larger whole, we recognize that we have an obligation to promote and care for the natural world. Naess thought of deep ecology as a movement promoting a radical new worldview that contrasted sharply with the traditional view that valued nature only as a means to human ends.\n\n[para:phil:p0337:04 | data/Introduction_to_Philosophy-WEB.pdf | page 337]\n10.2 Environmental Ethics > Deep Ecology and the Intrinsic Value of Nature\nCritics of deep ecology sometimes note that it is a position of privilege taken by people in developed nations and that less industrialized countries may not be in a position to respect the environment in the same way when their own survival is at risk. Environmental initiatives may be challenging for smaller, less industrialized countries to pursue. In these nations, the call to environmentalism may ring hollow to those who face a daily struggle for food or clean water.\n\n[para:phil:p0323:03 | data/Introduction_to_Philosophy-WEB.pdf | page 323]\n10.1 The Challenge of Bioethics > Ensoulment in the Jewish, Christian, and Muslim Traditions\nTo seek the nature of the soul, we must premise that the soul is defined as the first principle of life of those things which live: for we call living things “animate,” [*i.e., having a soul] and those things which have no life, “inanimate.” Now life is shown principally by two actions, knowledge and movement. The philosophers of old, not being able to rise above their imagination, supposed that the principle of these actions was something corporeal: for they asserted that only bodies were real things; and that what is not corporeal is nothing: hence they maintained that the soul is something corporeal. This opinion can be proved to be false in many ways; but we shall make use of only one proof, based on universal and certain principles, which shows clearly that the soul is not a body.\n\n[para:phil:p0304:04 | data/Introduction_to_Philosophy-WEB.pdf | page 304]\n9.5 Daoism > Receptivity and “Softness”\nIf its deep mystery we would sound; But if desire always within us be, Its outer fringe is all that we shall see.\n4. Under these two aspects, it is really the same; but as development takes place, it receives the different names.\nTogether we call them the Mystery. Where the Mystery is the deepest is the gate of all that is subtle and wonderful.\nChapter 4\n1. The Tao is (like) the emptiness of a vessel; and in our employment of it we must be on our guard against all fulness. How deep and unfathomable it is, as if it were the Honoured Ancestor of all things!\n2. We should blunt our sharp points, and unravel the complications of things; we should attemper our brightness,\nREAD LIKE A PHILOSOPHER",
+  "context_ids": [
+   "para:phil:p0337:02",
+   "para:phil:p0337:03",
+   "para:phil:p0337:04",
+   "para:phil:p0323:03",
+   "para:phil:p0304:04"
+  ],
+  "context_chars": 4146,
+  "n_searches": 1,
+  "attempted_citations": [
+   "para:phil:p0337:02"
+  ],
+  "invalid_citations": [],
+  "repaired_citations": [],
+  "model": "gpt-4o-mini-2024-07-18",
+  "status": "answered",
+  "answer": "The term \"deep ecology\" was first coined by Norwegian philosopher Arne Naess (1912–2009) [para:phil:p0337:02]. This view assumes that all living things are valuable in their own right, meaning that all life has intrinsic value and is deserving of respect [para:phil:p0337:02].",
+  "raw_answer": "The term \"deep ecology\" was first coined by Norwegian philosopher Arne Naess (1912–2009) [para:phil:p0337:02]. This view assumes that all living things are valuable in their own right, meaning that all life has intrinsic value and is deserving of respect [para:phil:p0337:02].",
+  "citations": [
+   "para:phil:p0337:02"
+  ],
+  "reason": "ok",
+  "elapsed_s": 3.705,
+  "query_id": "d04",
+  "split": "dev",
+  "question": "Who introduced the term deep ecology, and what does this view assume about living things?",
+  "filter": null,
+  "cost_usd": 0.000361,
+  "error": null,
+  "answerable": true,
+  "evidence_in_context": true,
+  "evidence_chunk_ids_in_context": [
+   "para:phil:p0337:02"
+  ],
+  "evidence_retrieved_not_in_context": [],
+  "first_search_evidence_rank": 1,
+  "evidence_after_first_search": true
+ },
+ {
+  "events": [
+   {
+    "event": "model_call",
+    "prompt_tokens": 539,
+    "completion_tokens": 20,
+    "latency_s": 1.043,
+    "retries": 0,
+    "model": "gpt-4o-mini-2024-07-18",
+    "finish_reason": "tool_calls"
+   },
+   {
+    "event": "search",
+    "step": 1,
+    "tool": "search",
+    "query": "worker protection employer punishment workplace safety agency hazards",
+    "filter": {
+     "document_id": "bizethics"
+    },
+    "top_k": 5,
+    "retrieval_ms": 817.4,
+    "results": [
+     {
+      "rank": 1,
+      "id": "para:bizethics:p0158:01",
+      "score": 5.357924,
+      "page": 158,
+      "source_id": "bizethics"
+     },
+     {
+      "rank": 2,
+      "id": "para:bizethics:p0157:04",
+      "score": 4.296666,
+      "page": 157,
+      "source_id": "bizethics"
+     },
+     {
+      "rank": 3,
+      "id": "para:bizethics:p0159:01",
+      "score": 3.67805,
+      "page": 159,
+      "source_id": "bizethics"
+     },
+     {
+      "rank": 4,
+      "id": "para:bizethics:p0158:02",
+      "score": 2.66107,
+      "page": 158,
+      "source_id": "bizethics"
+     },
+     {
+      "rank": 5,
+      "id": "para:bizethics:p0159:00",
+      "score": 2.533521,
+      "page": 159,
+      "source_id": "bizethics"
+     }
+    ],
+    "new_ids": [
+     "para:bizethics:p0158:01",
+     "para:bizethics:p0157:04",
+     "para:bizethics:p0159:01",
+     "para:bizethics:p0158:02",
+     "para:bizethics:p0159:00"
+    ],
+    "repeated_ids": [],
+    "dropped_budget": [],
+    "context_ids": [
+     "para:bizethics:p0158:01",
+     "para:bizethics:p0157:04",
+     "para:bizethics:p0159:01",
+     "para:bizethics:p0158:02",
+     "para:bizethics:p0159:00"
+    ],
+    "context_chars": 4590,
+    "observation_chars": 4759
+   },
+   {
+    "event": "model_call",
+    "prompt_tokens": 1555,
+    "completion_tokens": 84,
+    "latency_s": 2.073,
+    "retries": 0,
+    "model": "gpt-4o-mini-2024-07-18",
+    "finish_reason": "stop"
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 2094,
+   "completion_tokens": 104,
+   "model_calls": 2,
+   "retries": 0,
+   "model_seconds": 3.116
+  },
+  "context": "[para:bizethics:p0158:01 | data/business-ethics_-_WEB.pdf | page 158]\nWorkplace Safety under the Occupational Safety and Health Act\nOSHA and related regulations give employees several important rights, including the right to make a confidential complaint with OSHA that might result in an inspection of the workplace, to obtain information about the hazards of the workplace and ways to avoid harm, to obtain and review documentation of work-related illnesses and injuries at the job site, to obtain copies of tests done to measure workplace hazards, and protection against any employer sanctions as a consequence of complaining to OSHA about workplace conditions or hazards.6 A worker who believes his or her OSHA rights are being violated can make an anonymous report. OSHA will then establish whether there are reasonable grounds for believing a violation exists. If so, OSHA will conduct an inspection of the workplace and report any findings to the employer and employee, or their representatives, including any steps needed to correct safety and health issues.\n\n[para:bizethics:p0157:04 | data/business-ethics_-_WEB.pdf | page 157]\nWorkplace Safety under the Occupational Safety and Health Act\nThe primary federal law ensuring physical safety on the job is the Occupational Safety and Health Act (OSHA), which was passed in 1970.5 The goal of the law is to ensure that employers provide a workplace environment free of risk to employees’ safety and health, such as mechanical or electrical dangers, toxic chemicals, severe heat or cold, unsanitary conditions, and dangerous equipment. OSHA also refers to the Occupational Safety and Health Administration, which operates as a division of the Department of Labor and oversees enforcement of the law. This act created the National Institute for Occupational Safety and Health (NIOSH), which serves as the research institute for OSHA and enunciates appropriate standards for safety and health on the job.\nEmployer obligations under OSHA include the duty to provide a safe workplace free of serious hazards, to identify and eliminate health and safety hazards (Figure 6.3), to inform employees of hazards present on the\n\n[para:bizethics:p0159:01 | data/business-ethics_-_WEB.pdf | page 159]\nWorkplace Safety under the Occupational Safety and Health Act\nThere can also be significant civil liability exposure and public relations damage, as well as worker compensation payments and adverse media coverage, making an unsafe workplace a very expensive risk on multiple levels.\nLINK TO LEARNING\nRead this OSHA Fact Sheet about fines and penalties (https://openstax.org/l/53OSHA) to learn more.\n\n[para:bizethics:p0158:02 | data/business-ethics_-_WEB.pdf | page 158]\nWorkplace Safety under the Occupational Safety and Health Act\nOSHA has the authority to levy significant fines against companies that commit serious violations. The largest imposed to date were against BP, the oil company responsible for the largest oil spill in U.S. history, discussed in the feature box on BP Deepwater Horizon Oil Spill and Government Regulation. OSHA took into account that seventeen workers died on BP’s rig, Deepwater Horizon, as a result of the initial explosion and fire in April 2010. Consequently, rig-worker safety was upgraded by statute. Total OSHA penalties issued to BP from 2005 to 2009 exceed $102 million.7\nOther large fines issued over the last thirty years include $2.8 million against Union Carbide for violations related to an explosion and fire at its plant in Seadrift, Texas, in March 1991; $8.2 million levied against\n\n[para:bizethics:p0159:00 | data/business-ethics_-_WEB.pdf | page 159]\nWorkplace Safety under the Occupational Safety and Health Act\nSamsung Guam in the wake of numerous worksite accidents at Guam’s International Airport in 1995; and $8.7 million against Imperial Sugar in connection with an explosion at the company’s plant in Port Wentworth, Georgia, in February 2008.8 More recently, OSHA fined the producers of The Walking Dead $12,675 (the maximum allowable for a single citation) in the wake of the death of a stuntman working on an episode of the television show in Georgia in July 2017.9 These fines demonstrate that the agency is serious about trying to protect the environment and workers. However, for some, the question remains whether it is more profitable for a business to gamble on cutting corners on safety and pay the fine if caught than to spend the money ahead of time to make workplaces completely safe. OSHA fines do not really tell the whole story of the penalties for workplace safety issues.",
+  "context_ids": [
+   "para:bizethics:p0158:01",
+   "para:bizethics:p0157:04",
+   "para:bizethics:p0159:01",
+   "para:bizethics:p0158:02",
+   "para:bizethics:p0159:00"
+  ],
+  "context_chars": 4590,
+  "n_searches": 1,
+  "attempted_citations": [
+   "para:bizethics:p0158:01"
+  ],
+  "invalid_citations": [],
+  "repaired_citations": [],
+  "model": "gpt-4o-mini-2024-07-18",
+  "status": "answered",
+  "answer": "Workers have protection against employer sanctions when they complain to OSHA about workplace conditions or hazards. Specifically, OSHA regulations grant employees the right to make confidential complaints without fear of punishment from their employers [para:bizethics:p0158:01]. If a worker believes their OSHA rights are being violated, they can report this anonymously, prompting OSHA to investigate the complaint [para:bizethics:p0158:01].",
+  "raw_answer": "Workers have protection against employer sanctions when they complain to OSHA about workplace conditions or hazards. Specifically, OSHA regulations grant employees the right to make confidential complaints without fear of punishment from their employers [para:bizethics:p0158:01]. If a worker believes their OSHA rights are being violated, they can report this anonymously, prompting OSHA to investigate the complaint [para:bizethics:p0158:01].",
+  "citations": [
+   "para:bizethics:p0158:01"
+  ],
+  "reason": "ok",
+  "elapsed_s": 3.933,
+  "query_id": "d05",
+  "split": "dev",
+  "question": "What protection do workers have against employer punishment if they complain to the workplace safety agency about hazards?",
+  "filter": {
+   "document_id": "bizethics"
+  },
+  "cost_usd": 0.000376,
+  "error": null,
+  "answerable": true,
+  "evidence_in_context": true,
+  "evidence_chunk_ids_in_context": [
+   "para:bizethics:p0158:01"
+  ],
+  "evidence_retrieved_not_in_context": [],
+  "first_search_evidence_rank": 1,
+  "evidence_after_first_search": true
+ },
+ {
+  "events": [
+   {
+    "event": "model_call",
+    "prompt_tokens": 541,
+    "completion_tokens": 18,
+    "latency_s": 1.109,
+    "retries": 0,
+    "model": "gpt-4o-mini-2024-07-18",
+    "finish_reason": "tool_calls"
+   },
+   {
+    "event": "search",
+    "step": 1,
+    "tool": "search",
+    "query": "coworker harassment company liability",
+    "filter": {
+     "document_id": "bizethics",
+     "chapter": 6
+    },
+    "top_k": 5,
+    "retrieval_ms": 852.8,
+    "results": [
+     {
+      "rank": 1,
+      "id": "para:bizethics:p0159:04",
+      "score": 5.221755,
+      "page": 159,
+      "source_id": "bizethics"
+     },
+     {
+      "rank": 2,
+      "id": "para:bizethics:p0159:05",
+      "score": 0.485905,
+      "page": 159,
+      "source_id": "bizethics"
+     },
+     {
+      "rank": 3,
+      "id": "para:bizethics:p0160:02",
+      "score": -1.24215,
+      "page": 160,
+      "source_id": "bizethics"
+     },
+     {
+      "rank": 4,
+      "id": "para:bizethics:p0160:00",
+      "score": -2.880137,
+      "page": 160,
+      "source_id": "bizethics"
+     },
+     {
+      "rank": 5,
+      "id": "para:bizethics:p0159:02",
+      "score": -4.443739,
+      "page": 159,
+      "source_id": "bizethics"
+     }
+    ],
+    "new_ids": [
+     "para:bizethics:p0159:04",
+     "para:bizethics:p0159:05",
+     "para:bizethics:p0160:02",
+     "para:bizethics:p0160:00",
+     "para:bizethics:p0159:02"
+    ],
+    "repeated_ids": [],
+    "dropped_budget": [],
+    "context_ids": [
+     "para:bizethics:p0159:04",
+     "para:bizethics:p0159:05",
+     "para:bizethics:p0160:02",
+     "para:bizethics:p0160:00",
+     "para:bizethics:p0159:02"
+    ],
+    "context_chars": 4562,
+    "observation_chars": 4713
+   },
+   {
+    "event": "model_call",
+    "prompt_tokens": 1558,
+    "completion_tokens": 38,
+    "latency_s": 1.324,
+    "retries": 0,
+    "model": "gpt-4o-mini-2024-07-18",
+    "finish_reason": "stop"
+   },
+   {
+    "event": "citation_repair",
+    "repairs": [
+     {
+      "from": "bizethics:p0159:04",
+      "to": "para:bizethics:p0159:04"
+     }
+    ]
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 2099,
+   "completion_tokens": 56,
+   "model_calls": 2,
+   "retries": 0,
+   "model_seconds": 2.433
+  },
+  "context": "[para:bizethics:p0159:04 | data/business-ethics_-_WEB.pdf | page 159]\nA Workplace Free of Harassment\nThe harasser can be the victim’s supervisor (which creates company liability the first time it happens) or a peer coworker (which usually creates liability after the second time it happens, assuming the company had notice of the first occurrence). It can even be someone who is not an employee, such as a client or customer, and the law applies to men and women. Thus, the victim and the harasser both can be either a woman or a man, and offenses include both opposite-sex and same-sex harassment.\n\n[para:bizethics:p0159:05 | data/business-ethics_-_WEB.pdf | page 159]\nA Workplace Free of Harassment\nAlthough the law does not prohibit mild teasing, offhand comments, or isolated incidents that are not serious, harassment does become illegal when, according to the law, it is so frequent “that it creates a hostile or offensive work environment or when it is so severe that it results in an adverse employment decision (such as the victim being fired or demoted).”12 It is management’s responsibility to prevent harassment through education, training, and enforcement of a policy against it, and failure to do so will result in legal liability for the company.\nTwo relatively recent examples of workplace environments that descended into the worst excesses of sexist and other inappropriate behavior occurred at American Apparel and Uber. In both cases, principal leaders were mostly men who engaged in ruthless, no-holds-barred management practices that benefitted only those subordinates who most resembled the leaders themselves. Such environments may thrive for a while, but the\n\n[para:bizethics:p0160:02 | data/business-ethics_-_WEB.pdf | page 160]\nA Workplace Free of Harassment\nThe workplace harassment problem has continued for many decades despite the EEOC’s enforcement efforts; it remains to be seen whether new public scrutiny will prompt a permanent change in the workplace. The Ford Motor Company serves as a relevant example. Decades after Ford tried to address sexual harassment at two Chicago-area assembly plants, the abuse at the plants evidently continues. According to legal action filed with the EEOC in the early 1990s, conditions for women working at some Ford auto assembly plants were hostile. Female employees alleged they were groped, that men pressed against them and simulated sex acts, and that men even masturbated in front of them. They further asserted that men would routinely make crude comments about the figures of female coworkers, and graffiti depictions of penises were everywhere—carved into tables, spray painted onto floors, and scribbled on walls.\n\n[para:bizethics:p0160:00 | data/business-ethics_-_WEB.pdf | page 160]\nA Workplace Free of Harassment\nlong-term consequences can include criminal violations that produce hefty fines and imprisonment, bankruptcy, and radical upheaval in corporate management. At American Apparel and at Uber, these events resulted in the dismissal of each company’s CEO, Dov Charney (who also was the founder of the company) and Travis Kalanick (who was one of the corporation’s founders), respectively.13\nIn 2017 and 2018, a renewed focus on sexual harassment in the workplace and other inappropriate sexual behaviors brought a stream of accusations against high-profile men in politics, entertainment, sports, and business. They included entertainment industry mogul Harvey Weinstein; Pixar’s John Lasseter; on-air personalities Matt Lauer and Charlie Rose; politicians such as Roy Moore, John Conyers, and Al Franken; and Uber’s Kalanick, to name just a few (Figure 6.4).\n\n[para:bizethics:p0159:02 | data/business-ethics_-_WEB.pdf | page 159]\nA Workplace Free of Harassment\nEmployers have an ethical and a legal duty to provide a workplace free of harassment of all types. This includes harassment based on sex, race, religion, national origin, and any other protected status, including disability. Employees should not be expected to work in an atmosphere where they feel harassed, prejudiced against, or disadvantaged. The two complaints most frequently filed with the Equal Employment Opportunity Commission (EEOC), which strives to eliminate racial, gender, and religious discrimination in the workplace, are sexual harassment and racial harassment. Together, these categories made up two-thirds of all cases filed during 2017. More than thirty thousand complaints of sexual, gender, racial, or creedal harassment are filed each year, illustrating the frequency of the problem.10",
+  "context_ids": [
+   "para:bizethics:p0159:04",
+   "para:bizethics:p0159:05",
+   "para:bizethics:p0160:02",
+   "para:bizethics:p0160:00",
+   "para:bizethics:p0159:02"
+  ],
+  "context_chars": 4562,
+  "n_searches": 1,
+  "attempted_citations": [
+   "para:bizethics:p0159:04"
+  ],
+  "invalid_citations": [],
+  "repaired_citations": [
+   {
+    "from": "bizethics:p0159:04",
+    "to": "para:bizethics:p0159:04"
+   }
+  ],
+  "model": "gpt-4o-mini-2024-07-18",
+  "status": "answered",
+  "answer": "A company becomes liable for harassment by a coworker after the second occurrence of such harassment, provided the company had notice of the first incident [para:bizethics:p0159:04].",
+  "raw_answer": "A company becomes liable for harassment by a coworker after the second occurrence of such harassment, provided the company had notice of the first incident [bizethics:p0159:04].",
+  "citations": [
+   "para:bizethics:p0159:04"
+  ],
+  "reason": "ok",
+  "elapsed_s": 3.286,
+  "query_id": "d06",
+  "split": "dev",
+  "question": "When a coworker rather than a supervisor harasses someone, at what point does the company become liable?",
+  "filter": {
+   "document_id": "bizethics",
+   "chapter": 6
+  },
+  "cost_usd": 0.000348,
+  "error": null,
+  "answerable": true,
+  "evidence_in_context": true,
+  "evidence_chunk_ids_in_context": [
+   "para:bizethics:p0159:04"
+  ],
+  "evidence_retrieved_not_in_context": [],
+  "first_search_evidence_rank": 1,
+  "evidence_after_first_search": true
+ },
+ {
+  "events": [
+   {
+    "event": "model_call",
+    "prompt_tokens": 542,
+    "completion_tokens": 20,
+    "latency_s": 1.0,
+    "retries": 0,
+    "model": "gpt-4o-mini-2024-07-18",
+    "finish_reason": "tool_calls"
+   },
+   {
+    "event": "search",
+    "step": 1,
+    "tool": "search",
+    "query": "employee suspected wrongdoing employer government agency first step",
+    "filter": null,
+    "top_k": 5,
+    "retrieval_ms": 737.8,
+    "results": [
+     {
+      "rank": 1,
+      "id": "para:bizethics:p0211:05",
+      "score": 3.842441,
+      "page": 211,
+      "source_id": "bizethics"
+     },
+     {
+      "rank": 2,
+      "id": "para:bizethics:p0214:00",
+      "score": -2.941128,
+      "page": 214,
+      "source_id": "bizethics"
+     },
+     {
+      "rank": 3,
+      "id": "para:bizethics:p0158:01",
+      "score": -5.068829,
+      "page": 158,
+      "source_id": "bizethics"
+     },
+     {
+      "rank": 4,
+      "id": "para:bizethics:p0181:01",
+      "score": -5.541421,
+      "page": 181,
+      "source_id": "bizethics"
+     },
+     {
+      "rank": 5,
+      "id": "para:bizethics:p0211:04",
+      "score": -5.549474,
+      "page": 211,
+      "source_id": "bizethics"
+     }
+    ],
+    "new_ids": [
+     "para:bizethics:p0211:05",
+     "para:bizethics:p0214:00",
+     "para:bizethics:p0158:01",
+     "para:bizethics:p0181:01",
+     "para:bizethics:p0211:04"
+    ],
+    "repeated_ids": [],
+    "dropped_budget": [],
+    "context_ids": [
+     "para:bizethics:p0211:05",
+     "para:bizethics:p0214:00",
+     "para:bizethics:p0158:01",
+     "para:bizethics:p0181:01",
+     "para:bizethics:p0211:04"
+    ],
+    "context_chars": 4611,
+    "observation_chars": 4773
+   },
+   {
+    "event": "model_call",
+    "prompt_tokens": 1527,
+    "completion_tokens": 60,
+    "latency_s": 2.013,
+    "retries": 0,
+    "model": "gpt-4o-mini-2024-07-18",
+    "finish_reason": "stop"
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 2069,
+   "completion_tokens": 80,
+   "model_calls": 2,
+   "retries": 0,
+   "model_seconds": 3.013
+  },
+  "context": "[para:bizethics:p0211:05 | data/business-ethics_-_WEB.pdf | page 211]\nWhistleblowing: Risks and Rewards\nThe employee should usually try internal reporting channels first, to disclose the problem to management before going public. Sometimes workers mistakenly identify something as wrongdoing that was not wrongdoing after all. Internal reporting gives management a chance to start an investigation and attempt to rectify the situation. The employee who goes to the government should also have some kind of hard evidence that wrongful actions have occurred; the violation should be serious, and blowing the whistle should have some likelihood of stopping the wrongful act.\n\n[para:bizethics:p0214:00 | data/business-ethics_-_WEB.pdf | page 214]\nWhistleblowing: Risks and Rewards > Critical Thinking\nWatch this video about one of the most famous whistleblowers, Sherron Watkins, former vice president of Enron (https://openstax.org/l/53Watkins) to learn more.\nSometimes employees, including managers, face an ethical dilemma that they seek to address from within rather than becoming a whistleblower. The risk is that they may be ignored or that their speaking up will be held against them. However, companies should want and expect employees to step forward and report wrongdoing to their superiors, and they should support that decision, not punish it. Sallie Krawcheck, a financial industry executive, was not a whistleblower in either the classical or the legal sense. She went to her boss with her discovery of wrongdoing at work, which means she had no legal protection under whistleblower statutes. Read her story in the following box.\nCASES FROM THE REAL WORLD\nSallie Krawcheck and Merrill Lynch\n\n[para:bizethics:p0158:01 | data/business-ethics_-_WEB.pdf | page 158]\nWorkplace Safety under the Occupational Safety and Health Act\nOSHA and related regulations give employees several important rights, including the right to make a confidential complaint with OSHA that might result in an inspection of the workplace, to obtain information about the hazards of the workplace and ways to avoid harm, to obtain and review documentation of work-related illnesses and injuries at the job site, to obtain copies of tests done to measure workplace hazards, and protection against any employer sanctions as a consequence of complaining to OSHA about workplace conditions or hazards.6 A worker who believes his or her OSHA rights are being violated can make an anonymous report. OSHA will then establish whether there are reasonable grounds for believing a violation exists. If so, OSHA will conduct an inspection of the workplace and report any findings to the employer and employee, or their representatives, including any steps needed to correct safety and health issues.\n\n[para:bizethics:p0181:01 | data/business-ethics_-_WEB.pdf | page 181]\nLegal and Ethical Aspects of Electronic Monitoring\nIn the private sector, where employees are not working for the government and the constitutional prohibition on unreasonable searches and seizures has very little applicability, if any, employers have even more latitude in terms of employee monitoring than in a government setting. The Ontario v. Quon case in all likelihood would never even make it to court if the employer were a private-sector company, because the issue of whether getting the text message was a reasonable search and seizure under the Fourth Amendment does not apply in a nongovernment employment setting. The Constitution acts to limit government intrusions but does not generally restrict private companies in this type of situation. However, ethical considerations may encourage private-sector employers to treat their workers respectfully, even if not required by law.\nWHAT WOULD YOU DO?\nSecurity versus Privacy\n\n[para:bizethics:p0211:04 | data/business-ethics_-_WEB.pdf | page 211]\nWhistleblowing: Risks and Rewards\nBlowing the whistle on your employer is thus a big decision with significant ramifications. However, most employees do not want to cover up unethical or illegal conduct, nor should they. When should employees decide to blow the whistle on their boss or company? Ethicists say it should be done with an appropriate motive—to get the company to comply with the law or to protect potential victims—and not to get revenge on a boss at whom you are angry. Of course, even if an employee has a personal revenge motive, if the company actively is breaking the law, it is still important that the wrongdoing be reported. In any case, knowing when and how to blow the whistle is a challenge for an employee wanting to do the right thing.",
+  "context_ids": [
+   "para:bizethics:p0211:05",
+   "para:bizethics:p0214:00",
+   "para:bizethics:p0158:01",
+   "para:bizethics:p0181:01",
+   "para:bizethics:p0211:04"
+  ],
+  "context_chars": 4611,
+  "n_searches": 1,
+  "attempted_citations": [
+   "para:bizethics:p0211:05"
+  ],
+  "invalid_citations": [],
+  "repaired_citations": [],
+  "model": "gpt-4o-mini-2024-07-18",
+  "status": "answered",
+  "answer": "An employee should usually try internal reporting channels first to disclose the problem to management before going public with suspected wrongdoing by the employer [para:bizethics:p0211:05]. This allows management the opportunity to investigate and rectify the situation [para:bizethics:p0211:05].",
+  "raw_answer": "An employee should usually try internal reporting channels first to disclose the problem to management before going public with suspected wrongdoing by the employer [para:bizethics:p0211:05]. This allows management the opportunity to investigate and rectify the situation [para:bizethics:p0211:05].",
+  "citations": [
+   "para:bizethics:p0211:05"
+  ],
+  "reason": "ok",
+  "elapsed_s": 3.751,
+  "query_id": "d07",
+  "split": "dev",
+  "question": "Before an employee takes suspected wrongdoing by the employer to a government agency, which step should they usually try first?",
+  "filter": null,
+  "cost_usd": 0.000358,
+  "error": null,
+  "answerable": true,
+  "evidence_in_context": true,
+  "evidence_chunk_ids_in_context": [
+   "para:bizethics:p0211:05"
+  ],
+  "evidence_retrieved_not_in_context": [],
+  "first_search_evidence_rank": 1,
+  "evidence_after_first_search": true
+ },
+ {
+  "events": [
+   {
+    "event": "model_call",
+    "prompt_tokens": 540,
+    "completion_tokens": 21,
+    "latency_s": 1.157,
+    "retries": 0,
+    "model": "gpt-4o-mini-2024-07-18",
+    "finish_reason": "tool_calls"
+   },
+   {
+    "event": "search",
+    "step": 1,
+    "tool": "search",
+    "query": "California employer enforce agreement stop former employee working elsewhere",
+    "filter": null,
+    "top_k": 5,
+    "retrieval_ms": 761.2,
+    "results": [
+     {
+      "rank": 1,
+      "id": "para:bizethics:p0195:00",
+      "score": 2.171486,
+      "page": 195,
+      "source_id": "bizethics"
+     },
+     {
+      "rank": 2,
+      "id": "para:bizethics:p0195:02",
+      "score": 0.981409,
+      "page": 195,
+      "source_id": "bizethics"
+     },
+     {
+      "rank": 3,
+      "id": "para:bizethics:p0195:01",
+      "score": 0.259552,
+      "page": 195,
+      "source_id": "bizethics"
+     },
+     {
+      "rank": 4,
+      "id": "para:bizethics:p0194:03",
+      "score": -0.042905,
+      "page": 194,
+      "source_id": "bizethics"
+     },
+     {
+      "rank": 5,
+      "id": "para:bizethics:p0195:04",
+      "score": -4.219616,
+      "page": 195,
+      "source_id": "bizethics"
+     }
+    ],
+    "new_ids": [
+     "para:bizethics:p0195:00",
+     "para:bizethics:p0195:02",
+     "para:bizethics:p0195:01",
+     "para:bizethics:p0194:03",
+     "para:bizethics:p0195:04"
+    ],
+    "repeated_ids": [],
+    "dropped_budget": [],
+    "context_ids": [
+     "para:bizethics:p0195:00",
+     "para:bizethics:p0195:02",
+     "para:bizethics:p0195:01",
+     "para:bizethics:p0194:03",
+     "para:bizethics:p0195:04"
+    ],
+    "context_chars": 3907,
+    "observation_chars": 4078
+   },
+   {
+    "event": "model_call",
+    "prompt_tokens": 1438,
+    "completion_tokens": 69,
+    "latency_s": 1.817,
+    "retries": 0,
+    "model": "gpt-4o-mini-2024-07-18",
+    "finish_reason": "stop"
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 1978,
+   "completion_tokens": 90,
+   "model_calls": 2,
+   "retries": 0,
+   "model_seconds": 2.974
+  },
+  "context": "[para:bizethics:p0195:00 | data/business-ethics_-_WEB.pdf | page 195]\nConfidentiality\nemployed, that duty ceases upon termination of employment.12 In other words, an employee does not “belong” to a company forever. In California, therefore, a non-compete arrangement that limits employment after leaving the employer is now unenforceable. Does this law reflect the approach that most states will now take? A California company may still legally prohibit its employees from moonlighting during the term of their employment, particularly for a competitor.\nCASES FROM THE REAL WORLD\nNon-Compete Agreements\n\n[para:bizethics:p0195:02 | data/business-ethics_-_WEB.pdf | page 195]\nConfidentiality\nSchneiderman said of the agreements, “They limit mobility and opportunity for vulnerable workers and bully them into staying with the threat of being sued.” Illinois Attorney General Lisa Madigan had also initiated action, filing a lawsuit that asked the court to strike down such clauses. “Preventing employees from seeking employment with a competitor is unfair to Illinois workers and bad for Illinois businesses,” Madigan said. “By locking low-wage workers into their jobs and prohibiting them from seeking better paying jobs elsewhere, the companies have no reason to increase their wages or benefits.”14\nJimmy John’s has more than 2,500 franchises in forty-six states, so its agreement meant it would be difficult for a former worker to get a job in a sandwich shop in almost any big city in the United States.\n\n[para:bizethics:p0195:01 | data/business-ethics_-_WEB.pdf | page 195]\nConfidentiality\nAfter an investigation by then–New York attorney general Eric Schneiderman, fast-food franchisor Jimmy John’s announced in 2016 that it would not enforce non-compete agreements signed by low-wage employees that prohibited them from working at other sandwich shops, and it agreed to stop using the agreements in the future. Jimmy John’s non-compete agreement had prohibited all workers, regardless of position, from working during their employment and for two years after at any other business that sold “submarine, hero-type, deli-style, pita, and/or wrapped or rolled sandwiches” in a geographic area within two miles of any Jimmy John’s shop anywhere in the United States.13\n\n[para:bizethics:p0194:03 | data/business-ethics_-_WEB.pdf | page 194]\nConfidentiality\nAbout 20 percent of the U.S. private-sector workforce, and about one in six people in jobs earning less than $40,000 a year, are now covered by non-compete agreements.11 The increased use of such agreements has left many employees feeling trapped by their limited mobility. Recently non-competes have been challenged by the Federal Trade Commission. While enforcement of the FTCs rule was struck down by a court, non-compete agreement could continue be challenged in the future.\nLINK TO LEARNING\nA template for a typical non-compete agreement (https://openstax.org/l/53noncompete) can be found at PandaDoc.\nAn ethical question arises regarding whether this practice is in the best interests of society and its workers, and some states are responding. California enacted a law in 2017 saying that most non-compete agreements are void, holding that although an employee may owe the employer a responsibility not to compete while\n\n[para:bizethics:p0195:04 | data/business-ethics_-_WEB.pdf | page 195]\nConfidentiality > Critical Thinking\nEmployers may also insert a nonsolicitation clause, which protects a business from an employee who leaves for another job and then attempts to lure customers or former colleagues into following. Though these clauses have limitations, they can be effective tools to protect an employer’s interest in retaining its employees and customers. However, they are particularly difficult for employees to comply with in relatively closed markets. Sample language for all the clauses we have discussed is found in Figure 7.4.",
+  "context_ids": [
+   "para:bizethics:p0195:00",
+   "para:bizethics:p0195:02",
+   "para:bizethics:p0195:01",
+   "para:bizethics:p0194:03",
+   "para:bizethics:p0195:04"
+  ],
+  "context_chars": 3907,
+  "n_searches": 1,
+  "attempted_citations": [
+   "para:bizethics:p0195:00",
+   "para:bizethics:p0195:04"
+  ],
+  "invalid_citations": [],
+  "repaired_citations": [],
+  "model": "gpt-4o-mini-2024-07-18",
+  "status": "answered",
+  "answer": "In California, a non-compete arrangement that limits employment after leaving the employer is unenforceable [para:bizethics:p0195:00]. California enacted a law in 2017 stating that most non-compete agreements are void, reflecting a broader trend against such agreements [para:bizethics:p0195:04].",
+  "raw_answer": "In California, a non-compete arrangement that limits employment after leaving the employer is unenforceable [para:bizethics:p0195:00]. California enacted a law in 2017 stating that most non-compete agreements are void, reflecting a broader trend against such agreements [para:bizethics:p0195:04].",
+  "citations": [
+   "para:bizethics:p0195:00",
+   "para:bizethics:p0195:04"
+  ],
+  "reason": "ok",
+  "elapsed_s": 3.735,
+  "query_id": "d08",
+  "split": "dev",
+  "question": "In California, can an employer enforce an agreement that stops a former employee from working elsewhere after leaving?",
+  "filter": null,
+  "cost_usd": 0.000351,
+  "error": null,
+  "answerable": true,
+  "evidence_in_context": true,
+  "evidence_chunk_ids_in_context": [
+   "para:bizethics:p0195:00"
+  ],
+  "evidence_retrieved_not_in_context": [],
+  "first_search_evidence_rank": 1,
+  "evidence_after_first_search": true
+ },
+ {
+  "events": [
+   {
+    "event": "model_call",
+    "prompt_tokens": 545,
+    "completion_tokens": 19,
+    "latency_s": 0.991,
+    "retries": 0,
+    "model": "gpt-4o-mini-2024-07-18",
+    "finish_reason": "tool_calls"
+   },
+   {
+    "event": "search",
+    "step": 1,
+    "tool": "search",
+    "query": "damages broken promise lack of consideration",
+    "filter": null,
+    "top_k": 5,
+    "retrieval_ms": 940.4,
+    "results": [
+     {
+      "rank": 1,
+      "id": "para:bizlaw:p0081:03",
+      "score": 4.502797,
+      "page": 81,
+      "source_id": "bizlaw"
+     },
+     {
+      "rank": 2,
+      "id": "para:bizlaw:p0081:01",
+      "score": 4.327869,
+      "page": 81,
+      "source_id": "bizlaw"
+     },
+     {
+      "rank": 3,
+      "id": "para:bizlaw:p0081:00",
+      "score": 1.875133,
+      "page": 81,
+      "source_id": "bizlaw"
+     },
+     {
+      "rank": 4,
+      "id": "para:bizlaw:p0080:03",
+      "score": -2.194912,
+      "page": 80,
+      "source_id": "bizlaw"
+     },
+     {
+      "rank": 5,
+      "id": "para:bizlaw:p0083:05",
+      "score": -5.156735,
+      "page": 83,
+      "source_id": "bizlaw"
+     }
+    ],
+    "new_ids": [
+     "para:bizlaw:p0081:03",
+     "para:bizlaw:p0081:01",
+     "para:bizlaw:p0081:00",
+     "para:bizlaw:p0080:03",
+     "para:bizlaw:p0083:05"
+    ],
+    "repeated_ids": [],
+    "dropped_budget": [],
+    "context_ids": [
+     "para:bizlaw:p0081:03",
+     "para:bizlaw:p0081:01",
+     "para:bizlaw:p0081:00",
+     "para:bizlaw:p0080:03",
+     "para:bizlaw:p0083:05"
+    ],
+    "context_chars": 4060,
+    "observation_chars": 4199
+   },
+   {
+    "event": "model_call",
+    "prompt_tokens": 1504,
+    "completion_tokens": 84,
+    "latency_s": 2.242,
+    "retries": 0,
+    "model": "gpt-4o-mini-2024-07-18",
+    "finish_reason": "stop"
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 2049,
+   "completion_tokens": 103,
+   "model_calls": 2,
+   "retries": 0,
+   "model_seconds": 3.233
+  },
+  "context": "[para:bizlaw:p0081:03 | data/Business_Law_I_Essentials_2e_-_WEB.pdf | page 81]\nConsideration and Promissory Estoppel > Promissory Estoppel\nIf Bob brings a promissory estoppel suit, he will likely be entitled to all of the costs that he incurred while anticipating the start of the promised role (i.e., penalty for the broken lease, moving costs, difference in the rental costs, cost of breaking the new lease, if necessary, etc.) Following reimbursement of his costs, Bob will be returned to the same position he was in prior to the broken promise. However, the company will not likely be required to reopen the role for him or give him the job, as originally anticipated. Also, he will not likely be awarded any damages for the job that he turned down with We are the Best, LLC, as expectation damages are not usually available.\nThe doctrines of consideration and promissory estoppel are essential to an understanding of how contracts are formed and enforced in the United States.\n\n[para:bizlaw:p0081:01 | data/Business_Law_I_Essentials_2e_-_WEB.pdf | page 81]\nConsideration and Promissory Estoppel > Promissory Estoppel\nIf it is found that these elements are satisfied and that the doctrine of estoppel is applicable, then the court will issue the appropriate damages in the form of reliance damages to restore the aggrieved party to the position they were in prior to the broken promise. Expectation damages are not usually available if promissory estoppel is being claimed.\nAn example of how this principle would apply is:\n\n[para:bizlaw:p0081:00 | data/Business_Law_I_Essentials_2e_-_WEB.pdf | page 81]\nConsideration and Promissory Estoppel > Promissory Estoppel\nThe promissory estoppel doctrine is an exception to the requirement of consideration for contracts. Promissory estoppel is triggered when one party acts on the other party’s promise. In cases where it is triggered, there is harm or severe injustice to the party who acted because they relied on the other party’s broken promise.\nThe doctrine of promissory estoppel allows aggrieved parties to pursue justice or fairness for the performance of a contract in court, or other equitable remedies, even in the absence of any consideration. Its legal application may vary from state to state, but the basic elements include:\n• A legal relationship existed between the parties.\n• A promise was made.\n• There was reliance on the promise that caused one party to act before any real consideration was exchanged.\n• A substantial and measurable detriment occurred as a result of the failure to perform on the contract.\n• An unconscionable result, or gross injustice, resulted from the broken promise.\n\n[para:bizlaw:p0080:03 | data/Business_Law_I_Essentials_2e_-_WEB.pdf | page 80]\nConsideration and Promissory Estoppel > Consideration\nIn most cases, consideration need not be pecuniary (monetary). Most contracts are enforceable only if each party gets consideration from the agreement. Consideration can be money, property, a promise, or some right. For instance, when a music company sells studio equipment, the promised equipment is the consideration for the buyer. The seller’s consideration is the money the buyer promises to pay for the equipment.\n\n[para:bizlaw:p0083:05 | data/Business_Law_I_Essentials_2e_-_WEB.pdf | page 83]\nMaterial vs. Minor Breach\nThere are times, however, that despite the breaching party’s failure to perform some of the contract, the other party still receives a majority of the goods or services specified in the contract. In this case, the breach will be considered minor. For example, the breaching party may be late on delivering goods or services promised under a contract that does not specify a firm delivery date and that doesn’t state that time is of the essence. In this case, a reasonably short delay would likely only be considered a minor breach of the contract. Consequently, the non-breaching party would still be required to perform as pursuant to the contract. However, damages may be available to them if they suffered some harm as a result of the delay.",
+  "context_ids": [
+   "para:bizlaw:p0081:03",
+   "para:bizlaw:p0081:01",
+   "para:bizlaw:p0081:00",
+   "para:bizlaw:p0080:03",
+   "para:bizlaw:p0083:05"
+  ],
+  "context_chars": 4060,
+  "n_searches": 1,
+  "attempted_citations": [
+   "para:bizlaw:p0081:03",
+   "para:bizlaw:p0081:01"
+  ],
+  "invalid_citations": [],
+  "repaired_citations": [],
+  "model": "gpt-4o-mini-2024-07-18",
+  "status": "answered",
+  "answer": "When someone relies on a broken promise that lacks consideration, they are typically awarded reliance damages to restore them to the position they were in prior to the broken promise, covering costs incurred while anticipating the promised role, such as moving costs and penalties for breaking a lease [para:bizlaw:p0081:03]. However, expectation damages are usually unavailable in such cases [para:bizlaw:p0081:01].",
+  "raw_answer": "When someone relies on a broken promise that lacks consideration, they are typically awarded reliance damages to restore them to the position they were in prior to the broken promise, covering costs incurred while anticipating the promised role, such as moving costs and penalties for breaking a lease [para:bizlaw:p0081:03]. However, expectation damages are usually unavailable in such cases [para:bizlaw:p0081:01].",
+  "citations": [
+   "para:bizlaw:p0081:03",
+   "para:bizlaw:p0081:01"
+  ],
+  "reason": "ok",
+  "elapsed_s": 4.174,
+  "query_id": "d09",
+  "split": "dev",
+  "question": "What kind of damages are normally awarded when someone relied on a broken promise that lacked consideration, and which kind is usually unavailable?",
+  "filter": null,
+  "cost_usd": 0.000369,
+  "error": null,
+  "answerable": true,
+  "evidence_in_context": true,
+  "evidence_chunk_ids_in_context": [
+   "para:bizlaw:p0081:01"
+  ],
+  "evidence_retrieved_not_in_context": [],
+  "first_search_evidence_rank": 2,
+  "evidence_after_first_search": true
+ },
+ {
+  "events": [
+   {
+    "event": "model_call",
+    "prompt_tokens": 540,
+    "completion_tokens": 18,
+    "latency_s": 1.16,
+    "retries": 0,
+    "model": "gpt-4o-mini-2024-07-18",
+    "finish_reason": "tool_calls"
+   },
+   {
+    "event": "search",
+    "step": 1,
+    "tool": "search",
+    "query": "contracts minors under 18 cancel",
+    "filter": null,
+    "top_k": 5,
+    "retrieval_ms": 870.7,
+    "results": [
+     {
+      "rank": 1,
+      "id": "para:bizlaw:p0082:00",
+      "score": 6.625871,
+      "page": 82,
+      "source_id": "bizlaw"
+     },
+     {
+      "rank": 2,
+      "id": "para:bizlaw:p0080:01",
+      "score": -2.322257,
+      "page": 80,
+      "source_id": "bizlaw"
+     },
+     {
+      "rank": 3,
+      "id": "para:bizlaw:p0081:04",
+      "score": -3.021606,
+      "page": 81,
+      "source_id": "bizlaw"
+     },
+     {
+      "rank": 4,
+      "id": "para:bizlaw:p0083:05",
+      "score": -4.115671,
+      "page": 83,
+      "source_id": "bizlaw"
+     },
+     {
+      "rank": 5,
+      "id": "para:bizlaw:p0099:04",
+      "score": -4.121415,
+      "page": 99,
+      "source_id": "bizlaw"
+     }
+    ],
+    "new_ids": [
+     "para:bizlaw:p0082:00",
+     "para:bizlaw:p0080:01",
+     "para:bizlaw:p0081:04",
+     "para:bizlaw:p0083:05",
+     "para:bizlaw:p0099:04"
+    ],
+    "repeated_ids": [],
+    "dropped_budget": [],
+    "context_ids": [
+     "para:bizlaw:p0082:00",
+     "para:bizlaw:p0080:01",
+     "para:bizlaw:p0081:04",
+     "para:bizlaw:p0083:05",
+     "para:bizlaw:p0099:04"
+    ],
+    "context_chars": 4088,
+    "observation_chars": 4215
+   },
+   {
+    "event": "model_call",
+    "prompt_tokens": 1515,
+    "completion_tokens": 81,
+    "latency_s": 2.035,
+    "retries": 0,
+    "model": "gpt-4o-mini-2024-07-18",
+    "finish_reason": "stop"
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 2055,
+   "completion_tokens": 99,
+   "model_calls": 2,
+   "retries": 0,
+   "model_seconds": 3.195
+  },
+  "context": "[para:bizlaw:p0082:00 | data/Business_Law_I_Essentials_2e_-_WEB.pdf | page 82]\nMinors Have No Capacity to Contract\nIn most states, minors under the age of 18 lack the capacity to make a contract and may therefore either honor an agreement or void the contract. However, there are a few exceptions to this rule. In most states, a contract for necessities (i.e. food and clothing) may not be voided. Also, in most states, the contract can no longer be voided when the minor turns 18.\nMary, 16, an athlete, signs a long-term endorsement deal with a well-known brand and is compensated for several years. At age 20, she decides she wants to take a better endorsement deal, so she tries to void the agreement on the grounds that it was made when she was a minor and that she lacked capacity at that time. Mary will not likely succeed in having her agreement voided, as she has passed the period of incapacity.\n\n[para:bizlaw:p0080:01 | data/Business_Law_I_Essentials_2e_-_WEB.pdf | page 80]\n7\nCapacity to contract is the next element required for a valid agreement. The law presumes that anyone entering a contract has the legal capacity to do so. Minors are generally excused from contractual responsibility, as are mentally incompetent and drugged or drunk individuals.\nFinally, legality is the last element considered. Parties entering into contracts that involve illegal conduct may not expect judicial relief to have that contract enforced. This theory has also been applied to conduct that would be considered in opposition to public policy.\n\n[para:bizlaw:p0081:04 | data/Business_Law_I_Essentials_2e_-_WEB.pdf | page 81]\n7.2 Capacity and Legality\nFor a contract to be legally binding, the parties entering into the contract must have the capacity to do so. As a legal matter, there are certain classes of people who are presumed to have no capacity to contract. These include legal minors, the mentally ill, and those who are intoxicated. If people meeting these criteria enter into a contract, the agreement is considered voidable. If a contract is voidable, then the person who lacked capacity has the choice to either end the contract or continue with it as agreed upon. This design is meant to protect the party lacking capacity.\nFollowing are some examples of the application of these rules.\n\n[para:bizlaw:p0083:05 | data/Business_Law_I_Essentials_2e_-_WEB.pdf | page 83]\nMaterial vs. Minor Breach\nThere are times, however, that despite the breaching party’s failure to perform some of the contract, the other party still receives a majority of the goods or services specified in the contract. In this case, the breach will be considered minor. For example, the breaching party may be late on delivering goods or services promised under a contract that does not specify a firm delivery date and that doesn’t state that time is of the essence. In this case, a reasonably short delay would likely only be considered a minor breach of the contract. Consequently, the non-breaching party would still be required to perform as pursuant to the contract. However, damages may be available to them if they suffered some harm as a result of the delay.\n\n[para:bizlaw:p0099:04 | data/Business_Law_I_Essentials_2e_-_WEB.pdf | page 99]\nFair Labor Standards Act\nThe Fair Labor Standards Act (FLSA) sets out provisions that delineate fair labor and unfair labor. There are three main categories covered in the Act:\n1. Child labor 2. Minimum wage provisions 3. Overtime pay requirements\nThe FLSA prohibits oppressive child labor as well as the shipping of goods produced by firms that make use of oppressive labor. The FLSA sets the minimum age for non-agricultural work as 14. However, there are some exceptions. People under the age of 14 who are classed as minors may deliver newspapers, perform babysitting or chores around the home, and can work in businesses owned by their families, as long as the work is not deemed to be hazardous. In addition, minors may perform in television, radio, movie, or theatrical productions. Once an employee becomes 18, child labor regulations no longer apply.",
+  "context_ids": [
+   "para:bizlaw:p0082:00",
+   "para:bizlaw:p0080:01",
+   "para:bizlaw:p0081:04",
+   "para:bizlaw:p0083:05",
+   "para:bizlaw:p0099:04"
+  ],
+  "context_chars": 4088,
+  "n_searches": 1,
+  "attempted_citations": [
+   "para:bizlaw:p0082:00"
+  ],
+  "invalid_citations": [],
+  "repaired_citations": [],
+  "model": "gpt-4o-mini-2024-07-18",
+  "status": "answered",
+  "answer": "In most states, individuals under the age of 18 lack the capacity to make a contract and can void such contracts, except for contracts for necessities like food and clothing, which cannot be voided [para:bizlaw:p0082:00]. Additionally, once a minor turns 18, they can no longer void contracts made during their minority [para:bizlaw:p0082:00].",
+  "raw_answer": "In most states, individuals under the age of 18 lack the capacity to make a contract and can void such contracts, except for contracts for necessities like food and clothing, which cannot be voided [para:bizlaw:p0082:00]. Additionally, once a minor turns 18, they can no longer void contracts made during their minority [para:bizlaw:p0082:00].",
+  "citations": [
+   "para:bizlaw:p0082:00"
+  ],
+  "reason": "ok",
+  "elapsed_s": 4.066,
+  "query_id": "d10",
+  "split": "dev",
+  "question": "Can someone under 18 who signed a contract cancel it, and are there contracts they cannot cancel?",
+  "filter": null,
+  "cost_usd": 0.000368,
+  "error": null,
+  "answerable": true,
+  "evidence_in_context": true,
+  "evidence_chunk_ids_in_context": [
+   "para:bizlaw:p0082:00"
+  ],
+  "evidence_retrieved_not_in_context": [],
+  "first_search_evidence_rank": 1,
+  "evidence_after_first_search": true
+ },
+ {
+  "events": [
+   {
+    "event": "model_call",
+    "prompt_tokens": 542,
+    "completion_tokens": 22,
+    "latency_s": 1.583,
+    "retries": 0,
+    "model": "gpt-4o-mini-2024-07-18",
+    "finish_reason": "tool_calls"
+   },
+   {
+    "event": "search",
+    "step": 1,
+    "tool": "search",
+    "query": "unpaid leave family medical emergencies eligible workers employers covered",
+    "filter": null,
+    "top_k": 5,
+    "retrieval_ms": 718.6,
+    "results": [
+     {
+      "rank": 1,
+      "id": "para:bizlaw:p0100:01",
+      "score": 8.551073,
+      "page": 100,
+      "source_id": "bizlaw"
+     },
+     {
+      "rank": 2,
+      "id": "para:bizlaw:p0100:02",
+      "score": -1.089061,
+      "page": 100,
+      "source_id": "bizlaw"
+     },
+     {
+      "rank": 3,
+      "id": "para:bizethics:p0164:00",
+      "score": -4.460399,
+      "page": 164,
+      "source_id": "bizethics"
+     },
+     {
+      "rank": 4,
+      "id": "para:bizlaw:p0098:01",
+      "score": -4.917547,
+      "page": 98,
+      "source_id": "bizlaw"
+     },
+     {
+      "rank": 5,
+      "id": "para:bizlaw:p0099:00",
+      "score": -5.889087,
+      "page": 99,
+      "source_id": "bizlaw"
+     }
+    ],
+    "new_ids": [
+     "para:bizlaw:p0100:01",
+     "para:bizlaw:p0100:02",
+     "para:bizethics:p0164:00",
+     "para:bizlaw:p0098:01",
+     "para:bizlaw:p0099:00"
+    ],
+    "repeated_ids": [],
+    "dropped_budget": [],
+    "context_ids": [
+     "para:bizlaw:p0100:01",
+     "para:bizlaw:p0100:02",
+     "para:bizethics:p0164:00",
+     "para:bizlaw:p0098:01",
+     "para:bizlaw:p0099:00"
+    ],
+    "context_chars": 4222,
+    "observation_chars": 4391
+   },
+   {
+    "event": "model_call",
+    "prompt_tokens": 1491,
+    "completion_tokens": 71,
+    "latency_s": 2.012,
+    "retries": 0,
+    "model": "gpt-4o-mini-2024-07-18",
+    "finish_reason": "stop"
+   },
+   {
+    "event": "citation_repair",
+    "repairs": [
+     {
+      "from": "bizlaw:p0100:01",
+      "to": "para:bizlaw:p0100:01"
+     }
+    ]
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 2033,
+   "completion_tokens": 93,
+   "model_calls": 2,
+   "retries": 0,
+   "model_seconds": 3.595
+  },
+  "context": "[para:bizlaw:p0100:01 | data/Business_Law_I_Essentials_2e_-_WEB.pdf | page 100]\nFamily and Medical Leave Act\nThe Family and Medical Leave Act (FMLA), enacted in 1993, guarantees all eligible workers up to 12 weeks of unpaid leave during any 12-month period for family and medical emergencies. The FMLA applies to all public and private employers with 50 or more employees, covers employees who have worked for the employer for at least one year, and applies to employees who have worked at least 25 hours a week for each of 12 months prior to the leave. The events that qualify workers for leave are:\n• The birth of a child\n• The adoption of a child\n• The placement of a foster child in the employee’s care\n• The care of a seriously ill spouse, parent, or child\n• Any serious health condition that prevents the worker from being able to perform any of the essential functions of the job\n\n[para:bizlaw:p0100:02 | data/Business_Law_I_Essentials_2e_-_WEB.pdf | page 100]\nFamily and Medical Leave Act\nOnce the employee returns to work, he or she must be restored to the same or equivalent position. Social Security benefits also provide benefits to certain employees and their dependents. The types of benefits that fall under Social Security regulations include disability benefits, Medicare benefits, survivors’ benefits, and retirement benefits.\n\n[para:bizethics:p0164:00 | data/business-ethics_-_WEB.pdf | page 164]\nA Satisfied Workforce\nways to improve the health, well-being, and morale of its “Googlers.” The company is famous for offering unusual perks, like bicycles and electric cars to get staff around its sprawling California campus. Additional benefits are generous paid parental leave for new parents, on-site childcare centers at one location, paid leaves of absence to pursue further education with tuition covered, and on-site physicians, nurses, and health care. Other perks are gaming centers, organic gardens, eco-friendly furnishings, a pets-at-work policy, meditation and mindfulness training, and travel insurance and emergency assistance on personal and work-related travel. On the death of a Google employee, his or her spouse or domestic partner is compensated with a check for 50 percent of the employee’s salary each year for a decade. In addition, all a deceased employee’s stock options vest immediately for the surviving spouse or domestic partner.\n\n[para:bizlaw:p0098:01 | data/Business_Law_I_Essentials_2e_-_WEB.pdf | page 98]\nHealth and Safety\nWorkers have the right to be safe at work, and companies have responsibilities to employees in the event that they are harmed while undertaking work on behalf of the employer. The Occupational Safety and Health Act, passed in 1970, is the main legislative action that governs health and safety in the workplace. The Act established the Occupational Safety and Health Administration (OSHA), which is a federal agency whose role is to “assure safe and healthy working conditions for working men and women by setting and enforcing standards and by providing training, outreach, education and assistance.” Private employers and federal government agencies are all covered under OSHA protection, although the self-employed and workers at state and local governments in most states are not covered. OSHA has adopted thousands of regulations to enforce the Occupational Safety and Health Act. It imposes a number of record-keeping and reporting requirements on private employers.\n\n[para:bizlaw:p0099:00 | data/Business_Law_I_Essentials_2e_-_WEB.pdf | page 99]\nHealth and Safety > Description Example\nagainst compensation claims. Workers’ compensation insurance covers a range of different injuries, including physical injuries, mental illnesses that can be shown to be employment-related, and stress.\nUnder the terms of the Acts, a Workers’ Compensation Agency is established at the state level to provide judicial and administrative services to help in the resolution of claims for compensation. In the event of a claim, a three-step process is put into place:\n1. The worker files a claim with the agency. 2. The agency establishes the legitimacy of the claim. 3. If the injury is determined to be legitimate, compensation benefits are paid accordingly.",
+  "context_ids": [
+   "para:bizlaw:p0100:01",
+   "para:bizlaw:p0100:02",
+   "para:bizethics:p0164:00",
+   "para:bizlaw:p0098:01",
+   "para:bizlaw:p0099:00"
+  ],
+  "context_chars": 4222,
+  "n_searches": 1,
+  "attempted_citations": [
+   "para:bizlaw:p0100:01"
+  ],
+  "invalid_citations": [],
+  "repaired_citations": [
+   {
+    "from": "bizlaw:p0100:01",
+    "to": "para:bizlaw:p0100:01"
+   }
+  ],
+  "model": "gpt-4o-mini-2024-07-18",
+  "status": "answered",
+  "answer": "Eligible workers may take up to 12 weeks of unpaid leave during any 12-month period for family and medical emergencies under the Family and Medical Leave Act (FMLA) [para:bizlaw:p0100:01]. The FMLA applies to all public and private employers with 50 or more employees [para:bizlaw:p0100:01].",
+  "raw_answer": "Eligible workers may take up to 12 weeks of unpaid leave during any 12-month period for family and medical emergencies under the Family and Medical Leave Act (FMLA) [bizlaw:p0100:01]. The FMLA applies to all public and private employers with 50 or more employees [bizlaw:p0100:01].",
+  "citations": [
+   "para:bizlaw:p0100:01"
+  ],
+  "reason": "ok",
+  "elapsed_s": 4.314,
+  "query_id": "d11",
+  "split": "dev",
+  "question": "How much unpaid leave may eligible workers take for family or medical emergencies, and which employers does that law cover?",
+  "filter": null,
+  "cost_usd": 0.000361,
+  "error": null,
+  "answerable": true,
+  "evidence_in_context": true,
+  "evidence_chunk_ids_in_context": [
+   "para:bizlaw:p0100:01"
+  ],
+  "evidence_retrieved_not_in_context": [],
+  "first_search_evidence_rank": 1,
+  "evidence_after_first_search": true
+ },
+ {
+  "events": [
+   {
+    "event": "model_call",
+    "prompt_tokens": 532,
+    "completion_tokens": 19,
+    "latency_s": 1.082,
+    "retries": 0,
+    "model": "gpt-4o-mini-2024-07-18",
+    "finish_reason": "tool_calls"
+   },
+   {
+    "event": "search",
+    "step": 1,
+    "tool": "search",
+    "query": "workers outside federal workplace safety law protection",
+    "filter": null,
+    "top_k": 5,
+    "retrieval_ms": 697.6,
+    "results": [
+     {
+      "rank": 1,
+      "id": "para:bizethics:p0157:04",
+      "score": 6.181727,
+      "page": 157,
+      "source_id": "bizethics"
+     },
+     {
+      "rank": 2,
+      "id": "para:bizlaw:p0098:01",
+      "score": 4.418928,
+      "page": 98,
+      "source_id": "bizlaw"
+     },
+     {
+      "rank": 3,
+      "id": "para:bizethics:p0158:01",
+      "score": 3.712586,
+      "page": 158,
+      "source_id": "bizethics"
+     },
+     {
+      "rank": 4,
+      "id": "para:bizethics:p0158:00",
+      "score": 3.205516,
+      "page": 158,
+      "source_id": "bizethics"
+     },
+     {
+      "rank": 5,
+      "id": "para:bizlaw:p0104:02",
+      "score": 2.973,
+      "page": 104,
+      "source_id": "bizlaw"
+     }
+    ],
+    "new_ids": [
+     "para:bizethics:p0157:04",
+     "para:bizlaw:p0098:01",
+     "para:bizethics:p0158:01",
+     "para:bizethics:p0158:00",
+     "para:bizlaw:p0104:02"
+    ],
+    "repeated_ids": [],
+    "dropped_budget": [],
+    "context_ids": [
+     "para:bizethics:p0157:04",
+     "para:bizlaw:p0098:01",
+     "para:bizethics:p0158:01",
+     "para:bizethics:p0158:00",
+     "para:bizlaw:p0104:02"
+    ],
+    "context_chars": 4716,
+    "observation_chars": 4866
+   },
+   {
+    "event": "model_call",
+    "prompt_tokens": 1551,
+    "completion_tokens": 35,
+    "latency_s": 1.403,
+    "retries": 0,
+    "model": "gpt-4o-mini-2024-07-18",
+    "finish_reason": "stop"
+   },
+   {
+    "event": "citation_repair",
+    "repairs": [
+     {
+      "from": "bizlaw:p0098:01",
+      "to": "para:bizlaw:p0098:01"
+     }
+    ]
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 2083,
+   "completion_tokens": 54,
+   "model_calls": 2,
+   "retries": 0,
+   "model_seconds": 2.485
+  },
+  "context": "[para:bizethics:p0157:04 | data/business-ethics_-_WEB.pdf | page 157]\nWorkplace Safety under the Occupational Safety and Health Act\nThe primary federal law ensuring physical safety on the job is the Occupational Safety and Health Act (OSHA), which was passed in 1970.5 The goal of the law is to ensure that employers provide a workplace environment free of risk to employees’ safety and health, such as mechanical or electrical dangers, toxic chemicals, severe heat or cold, unsanitary conditions, and dangerous equipment. OSHA also refers to the Occupational Safety and Health Administration, which operates as a division of the Department of Labor and oversees enforcement of the law. This act created the National Institute for Occupational Safety and Health (NIOSH), which serves as the research institute for OSHA and enunciates appropriate standards for safety and health on the job.\nEmployer obligations under OSHA include the duty to provide a safe workplace free of serious hazards, to identify and eliminate health and safety hazards (Figure 6.3), to inform employees of hazards present on the\n\n[para:bizlaw:p0098:01 | data/Business_Law_I_Essentials_2e_-_WEB.pdf | page 98]\nHealth and Safety\nWorkers have the right to be safe at work, and companies have responsibilities to employees in the event that they are harmed while undertaking work on behalf of the employer. The Occupational Safety and Health Act, passed in 1970, is the main legislative action that governs health and safety in the workplace. The Act established the Occupational Safety and Health Administration (OSHA), which is a federal agency whose role is to “assure safe and healthy working conditions for working men and women by setting and enforcing standards and by providing training, outreach, education and assistance.” Private employers and federal government agencies are all covered under OSHA protection, although the self-employed and workers at state and local governments in most states are not covered. OSHA has adopted thousands of regulations to enforce the Occupational Safety and Health Act. It imposes a number of record-keeping and reporting requirements on private employers.\n\n[para:bizethics:p0158:01 | data/business-ethics_-_WEB.pdf | page 158]\nWorkplace Safety under the Occupational Safety and Health Act\nOSHA and related regulations give employees several important rights, including the right to make a confidential complaint with OSHA that might result in an inspection of the workplace, to obtain information about the hazards of the workplace and ways to avoid harm, to obtain and review documentation of work-related illnesses and injuries at the job site, to obtain copies of tests done to measure workplace hazards, and protection against any employer sanctions as a consequence of complaining to OSHA about workplace conditions or hazards.6 A worker who believes his or her OSHA rights are being violated can make an anonymous report. OSHA will then establish whether there are reasonable grounds for believing a violation exists. If so, OSHA will conduct an inspection of the workplace and report any findings to the employer and employee, or their representatives, including any steps needed to correct safety and health issues.\n\n[para:bizethics:p0158:00 | data/business-ethics_-_WEB.pdf | page 158]\nWorkplace Safety under the Occupational Safety and Health Act\njob and institute training protocols sufficient to address them, to extend to employees protective gear and appropriate safeguards at no cost to them, and to publicly post and maintain records of worker injuries and OSHA citations.\nFigure 6.3 Harry McShane, who celebrated his sixteenth birthday a month or so before this photo was taken by social reformer and photographer Lewis Wickes Hine, lost his left arm as a result of a workplace injury in May 1908 in Cincinnati, Ohio. McShane had already been working in the factory for more than two years. Before federal safety regulations (such as OSHA and FLSA), catastrophic injuries on the job were common, as was the presence of children in the workforce. McShane received no compensation for his injuries. (credit: modification of “Lewis Wickes Hines - Harry McShane 1908” by “Fordmadoxfraud”/Wikimedia Commons, Public Domain)\n\n[para:bizlaw:p0104:02 | data/Business_Law_I_Essentials_2e_-_WEB.pdf | page 104]\nLaws Governing Equal Opportunity in Employment\nEmployees are protected in the workplace by a number of laws enacted at both the federal and state levels. Federal laws are usually considered to be the minimum level of protection, and state laws can provide employees with more, but not less, protection. In this section, the major laws pertaining to equal opportunity are discussed.",
+  "context_ids": [
+   "para:bizethics:p0157:04",
+   "para:bizlaw:p0098:01",
+   "para:bizethics:p0158:01",
+   "para:bizethics:p0158:00",
+   "para:bizlaw:p0104:02"
+  ],
+  "context_chars": 4716,
+  "n_searches": 1,
+  "attempted_citations": [
+   "para:bizlaw:p0098:01"
+  ],
+  "invalid_citations": [],
+  "repaired_citations": [
+   {
+    "from": "bizlaw:p0098:01",
+    "to": "para:bizlaw:p0098:01"
+   }
+  ],
+  "model": "gpt-4o-mini-2024-07-18",
+  "status": "answered",
+  "answer": "Workers who fall outside the federal workplace safety law's protection include the self-employed and workers at state and local governments in most states [para:bizlaw:p0098:01].",
+  "raw_answer": "Workers who fall outside the federal workplace safety law's protection include the self-employed and workers at state and local governments in most states [bizlaw:p0098:01].",
+  "citations": [
+   "para:bizlaw:p0098:01"
+  ],
+  "reason": "ok",
+  "elapsed_s": 3.183,
+  "query_id": "d12",
+  "split": "dev",
+  "question": "Which workers fall outside the federal workplace safety law's protection?",
+  "filter": null,
+  "cost_usd": 0.000345,
+  "error": null,
+  "answerable": true,
+  "evidence_in_context": true,
+  "evidence_chunk_ids_in_context": [
+   "para:bizlaw:p0098:01"
+  ],
+  "evidence_retrieved_not_in_context": [],
+  "first_search_evidence_rank": 2,
+  "evidence_after_first_search": true
+ },
+ {
+  "events": [
+   {
+    "event": "model_call",
+    "prompt_tokens": 551,
+    "completion_tokens": 19,
+    "latency_s": 0.981,
+    "retries": 0,
+    "model": "gpt-4o-mini-2024-07-18",
+    "finish_reason": "tool_calls"
+   },
+   {
+    "event": "search",
+    "step": 1,
+    "tool": "search",
+    "query": "federal law workplace discrimination employees required",
+    "filter": {
+     "document_id": "bizlaw"
+    },
+    "top_k": 5,
+    "retrieval_ms": 849.8,
+    "results": [
+     {
+      "rank": 1,
+      "id": "para:bizlaw:p0104:02",
+      "score": 4.91573,
+      "page": 104,
+      "source_id": "bizlaw"
+     },
+     {
+      "rank": 2,
+      "id": "para:bizlaw:p0106:00",
+      "score": 3.197998,
+      "page": 106,
+      "source_id": "bizlaw"
+     },
+     {
+      "rank": 3,
+      "id": "para:bizlaw:p0104:03",
+      "score": 3.089456,
+      "page": 104,
+      "source_id": "bizlaw"
+     },
+     {
+      "rank": 4,
+      "id": "para:bizlaw:p0108:01",
+      "score": 1.782485,
+      "page": 108,
+      "source_id": "bizlaw"
+     },
+     {
+      "rank": 5,
+      "id": "para:bizlaw:p0102:01",
+      "score": 1.419642,
+      "page": 102,
+      "source_id": "bizlaw"
+     }
+    ],
+    "new_ids": [
+     "para:bizlaw:p0104:02",
+     "para:bizlaw:p0106:00",
+     "para:bizlaw:p0104:03",
+     "para:bizlaw:p0108:01",
+     "para:bizlaw:p0102:01"
+    ],
+    "repeated_ids": [],
+    "dropped_budget": [],
+    "context_ids": [
+     "para:bizlaw:p0104:02",
+     "para:bizlaw:p0106:00",
+     "para:bizlaw:p0104:03",
+     "para:bizlaw:p0108:01",
+     "para:bizlaw:p0102:01"
+    ],
+    "context_chars": 3311,
+    "observation_chars": 3463
+   },
+   {
+    "event": "model_call",
+    "prompt_tokens": 1358,
+    "completion_tokens": 67,
+    "latency_s": 1.813,
+    "retries": 0,
+    "model": "gpt-4o-mini-2024-07-18",
+    "finish_reason": "stop"
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 1909,
+   "completion_tokens": 86,
+   "model_calls": 2,
+   "retries": 0,
+   "model_seconds": 2.794
+  },
+  "context": "[para:bizlaw:p0104:02 | data/Business_Law_I_Essentials_2e_-_WEB.pdf | page 104]\nLaws Governing Equal Opportunity in Employment\nEmployees are protected in the workplace by a number of laws enacted at both the federal and state levels. Federal laws are usually considered to be the minimum level of protection, and state laws can provide employees with more, but not less, protection. In this section, the major laws pertaining to equal opportunity are discussed.\n\n[para:bizlaw:p0106:00 | data/Business_Law_I_Essentials_2e_-_WEB.pdf | page 106]\nCivil Rights Act of 1964 – Title VII (Amended By the Civil Rights Act of 1991)\nFigure 9.4 Employees are protected against discrimination by employers by a number of laws enacted at both the federal and state level. (Credit: Wokandapix/ pixabay/ License: CC0)\n\n[para:bizlaw:p0104:03 | data/Business_Law_I_Essentials_2e_-_WEB.pdf | page 104]\nCivil Rights Act of 1964 – Title VII (Amended By the Civil Rights Act of 1991)\nThe Civil Rights Act provides broad provisions pertaining to citizens’ civil rights. Title VII of the Civil Rights Act deals with discrimination in employment. It bans employers from discriminating against employees in their hiring, firing, and promotion practices on the basis of sex, national origin, color, religion, or race. All employers who are engaged in commercial activity and who employ 15 or more employees for 20 consecutive weeks in a year are covered by the Act. The Act also sets out the two main ways in which discrimination can be proven: disparate treatment and disparate impact.\nDisparate treatment means that the employee believes that he or she has been discriminated against on the basis of one of the protected classes set out in the CRA. Proving that the employer engaged in disparate treatment is a three-step process:\n1. The employee (plaintiff) is required to demonstrate a prima facie (accepted as correct unless proven otherwise) case of discrimination.\n\n[para:bizlaw:p0108:01 | data/Business_Law_I_Essentials_2e_-_WEB.pdf | page 108]\nAge Discrimination Act\nPassed in 1967, this Act prohibits employers from making discriminatory employment decisions against people age 40 or older. This Act applies to all employers with 20 or more employees.\n\n[para:bizlaw:p0102:01 | data/Business_Law_I_Essentials_2e_-_WEB.pdf | page 102]\nTimeline of Developments in Labor Law > Description\n1 Protects employees from unfair coercion by unions that could lead to discrimination against employees.\n2\nStates that employers cannot refuse to hire prospective workers because they refuse to join a union. This amendment also grants the employer the right to sign an agreement with a union that requires the employee to join the union before the employee’s 30th day of employment.\n3 Unions must bargain in good faith with employers.\n4 Prevents unions from engaging in secondary boycotts.\n5\nPrevents unions from taking advantage of either employers or members. For example, unions cannot charge members excessive membership dues or cause employers to pay for work that has not been performed.\n6\nGrants employers the right to free speech. Expressed opinions about labor issues do not constitute unfair labor practices, as long as the employer does not threaten to withhold benefits from, or engage in, retribution against the worker.\nTable 9.3",
+  "context_ids": [
+   "para:bizlaw:p0104:02",
+   "para:bizlaw:p0106:00",
+   "para:bizlaw:p0104:03",
+   "para:bizlaw:p0108:01",
+   "para:bizlaw:p0102:01"
+  ],
+  "context_chars": 3311,
+  "n_searches": 1,
+  "attempted_citations": [
+   "para:bizlaw:p0104:03"
+  ],
+  "invalid_citations": [],
+  "repaired_citations": [],
+  "model": "gpt-4o-mini-2024-07-18",
+  "status": "answered",
+  "answer": "A business must have 15 or more employees for the main federal law against workplace discrimination, specifically Title VII of the Civil Rights Act of 1964, to apply to it. This requirement also specifies that the business must employ these individuals for 20 consecutive weeks in a year [para:bizlaw:p0104:03].",
+  "raw_answer": "A business must have 15 or more employees for the main federal law against workplace discrimination, specifically Title VII of the Civil Rights Act of 1964, to apply to it. This requirement also specifies that the business must employ these individuals for 20 consecutive weeks in a year [para:bizlaw:p0104:03].",
+  "citations": [
+   "para:bizlaw:p0104:03"
+  ],
+  "reason": "ok",
+  "elapsed_s": 3.644,
+  "query_id": "d13",
+  "split": "dev",
+  "question": "How many employees must a business have before the main federal law against workplace discrimination based on race, sex, religion, color or national origin applies to it?",
+  "filter": {
+   "document_id": "bizlaw"
+  },
+  "cost_usd": 0.000338,
+  "error": null,
+  "answerable": true,
+  "evidence_in_context": true,
+  "evidence_chunk_ids_in_context": [
+   "para:bizlaw:p0104:03"
+  ],
+  "evidence_retrieved_not_in_context": [],
+  "first_search_evidence_rank": 3,
+  "evidence_after_first_search": true
+ },
+ {
+  "events": [
+   {
+    "event": "model_call",
+    "prompt_tokens": 543,
+    "completion_tokens": 23,
+    "latency_s": 1.083,
+    "retries": 0,
+    "model": "gpt-4o-mini-2024-07-18",
+    "finish_reason": "tool_calls"
+   },
+   {
+    "event": "search",
+    "step": 1,
+    "tool": "search",
+    "query": "injured employee workplace-injury compensation sue employer court situation",
+    "filter": null,
+    "top_k": 5,
+    "retrieval_ms": 776.7,
+    "results": [
+     {
+      "rank": 1,
+      "id": "para:bizlaw:p0099:01",
+      "score": 4.530523,
+      "page": 99,
+      "source_id": "bizlaw"
+     },
+     {
+      "rank": 2,
+      "id": "para:bizlaw:p0099:00",
+      "score": 1.681865,
+      "page": 99,
+      "source_id": "bizlaw"
+     },
+     {
+      "rank": 3,
+      "id": "para:bizlaw:p0099:02",
+      "score": -0.101149,
+      "page": 99,
+      "source_id": "bizlaw"
+     },
+     {
+      "rank": 4,
+      "id": "para:bizethics:p0158:00",
+      "score": -1.34168,
+      "page": 158,
+      "source_id": "bizethics"
+     },
+     {
+      "rank": 5,
+      "id": "para:bizlaw:p0105:00",
+      "score": -2.15344,
+      "page": 105,
+      "source_id": "bizlaw"
+     }
+    ],
+    "new_ids": [
+     "para:bizlaw:p0099:01",
+     "para:bizlaw:p0099:00",
+     "para:bizlaw:p0099:02",
+     "para:bizethics:p0158:00",
+     "para:bizlaw:p0105:00"
+    ],
+    "repeated_ids": [],
+    "dropped_budget": [],
+    "context_ids": [
+     "para:bizlaw:p0099:01",
+     "para:bizlaw:p0099:00",
+     "para:bizlaw:p0099:02",
+     "para:bizethics:p0158:00",
+     "para:bizlaw:p0105:00"
+    ],
+    "context_chars": 4247,
+    "observation_chars": 4417
+   },
+   {
+    "event": "model_call",
+    "prompt_tokens": 1562,
+    "completion_tokens": 63,
+    "latency_s": 1.811,
+    "retries": 0,
+    "model": "gpt-4o-mini-2024-07-18",
+    "finish_reason": "stop"
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 2105,
+   "completion_tokens": 86,
+   "model_calls": 2,
+   "retries": 0,
+   "model_seconds": 2.894
+  },
+  "context": "[para:bizlaw:p0099:01 | data/Business_Law_I_Essentials_2e_-_WEB.pdf | page 99]\nHealth and Safety > Description Example\nIt is important to note that workers’ compensation is understood to be an exclusive remedy. This term means that workers cannot sue the employer in court for further damages beyond that which is paid out under the compensation claim. An exception is made when the employer intentionally injures the worker, however. Furthermore, workers have the right to sue any third party involved in the cause of the injury to recover additional damages.\n\n[para:bizlaw:p0099:00 | data/Business_Law_I_Essentials_2e_-_WEB.pdf | page 99]\nHealth and Safety > Description Example\nagainst compensation claims. Workers’ compensation insurance covers a range of different injuries, including physical injuries, mental illnesses that can be shown to be employment-related, and stress.\nUnder the terms of the Acts, a Workers’ Compensation Agency is established at the state level to provide judicial and administrative services to help in the resolution of claims for compensation. In the event of a claim, a three-step process is put into place:\n1. The worker files a claim with the agency. 2. The agency establishes the legitimacy of the claim. 3. If the injury is determined to be legitimate, compensation benefits are paid accordingly.\n\n[para:bizlaw:p0099:02 | data/Business_Law_I_Essentials_2e_-_WEB.pdf | page 99]\nHealth and Safety > Case Insight\nIn the case Chad A. Kelley v. Marsha P. Ryan, Administrator, Ohio Bureau of Workers’ Compensation, and Coca-Cola Enterprises, Chad A. Kelley attended a team-building event held by his employer, Coca-Cola, to celebrate the launch of a new product. All employees attending the event were required to canoe down a river, which Kelley, with colleagues, achieved without incident. Employees waiting on the river bank began to splash one another, and according to witnesses, Kelley said that it would take more than some splashing to get him wet. Consequently, several colleagues tried to throw Kelley into the water, which led him to sustain neck injuries. The Ohio Bureau of Workers’ Compensation denied Kelley’s claim for benefits, however, arguing that Kelley had instigated “horseplay” that removed the incident from the scope and course of employment. In 2009, an appellate court ruled that this conclusion was incorrect and that the employer was, in fact, responsible.\n\n[para:bizethics:p0158:00 | data/business-ethics_-_WEB.pdf | page 158]\nWorkplace Safety under the Occupational Safety and Health Act\njob and institute training protocols sufficient to address them, to extend to employees protective gear and appropriate safeguards at no cost to them, and to publicly post and maintain records of worker injuries and OSHA citations.\nFigure 6.3 Harry McShane, who celebrated his sixteenth birthday a month or so before this photo was taken by social reformer and photographer Lewis Wickes Hine, lost his left arm as a result of a workplace injury in May 1908 in Cincinnati, Ohio. McShane had already been working in the factory for more than two years. Before federal safety regulations (such as OSHA and FLSA), catastrophic injuries on the job were common, as was the presence of children in the workforce. McShane received no compensation for his injuries. (credit: modification of “Lewis Wickes Hines - Harry McShane 1908” by “Fordmadoxfraud”/Wikimedia Commons, Public Domain)\n\n[para:bizlaw:p0105:00 | data/Business_Law_I_Essentials_2e_-_WEB.pdf | page 105]\nCivil Rights Act of 1964 – Title VII (Amended By the Civil Rights Act of 1991)\n3. The employee must demonstrate that the reason given by the employer is a mere pretext.\nA trier of fact, usually a jury, will use the evidence presented to determine whether discrimination did in fact occur. If the jury finds for the employee-plaintiff, damages can be awarded, such as what occurred in the landmark Ann Hopkins case, described in the opening box. If the jury finds for the employer-defendant, no damages are assessed.\nDamages Permissible Under Title VII of the CRA\nUp to two years of back pay\nCompensatory damages\nPunitive damages\nRemedial seniority\nCosts (e.g., attorney fees and court costs)\nCourt orders (e.g., reinstatement)\nTable 9.4",
+  "context_ids": [
+   "para:bizlaw:p0099:01",
+   "para:bizlaw:p0099:00",
+   "para:bizlaw:p0099:02",
+   "para:bizethics:p0158:00",
+   "para:bizlaw:p0105:00"
+  ],
+  "context_chars": 4247,
+  "n_searches": 1,
+  "attempted_citations": [
+   "para:bizlaw:p0099:01"
+  ],
+  "invalid_citations": [],
+  "repaired_citations": [],
+  "model": "gpt-4o-mini-2024-07-18",
+  "status": "answered",
+  "answer": "An injured employee can still take the employer to court if the employer intentionally injures the worker, as this is an exception to the exclusive remedy rule of workers' compensation, which generally prohibits suing the employer for further damages beyond what is covered by the compensation claim [para:bizlaw:p0099:01].",
+  "raw_answer": "An injured employee can still take the employer to court if the employer intentionally injures the worker, as this is an exception to the exclusive remedy rule of workers' compensation, which generally prohibits suing the employer for further damages beyond what is covered by the compensation claim [para:bizlaw:p0099:01].",
+  "citations": [
+   "para:bizlaw:p0099:01"
+  ],
+  "reason": "ok",
+  "elapsed_s": 3.671,
+  "query_id": "d14",
+  "split": "dev",
+  "question": "Even after an injured employee receives workplace-injury compensation, in what situation can they still take the employer to court?",
+  "filter": null,
+  "cost_usd": 0.000367,
+  "error": null,
+  "answerable": true,
+  "evidence_in_context": true,
+  "evidence_chunk_ids_in_context": [
+   "para:bizlaw:p0099:01"
+  ],
+  "evidence_retrieved_not_in_context": [],
+  "first_search_evidence_rank": 1,
+  "evidence_after_first_search": true
+ },
+ {
+  "events": [
+   {
+    "event": "model_call",
+    "prompt_tokens": 540,
+    "completion_tokens": 23,
+    "latency_s": 1.045,
+    "retries": 0,
+    "model": "gpt-4o-mini-2024-07-18",
+    "finish_reason": "tool_calls"
+   },
+   {
+    "event": "search",
+    "step": 1,
+    "tool": "search",
+    "query": "2012 policies forbidding employees discussing salaries unenforceable",
+    "filter": null,
+    "top_k": 5,
+    "retrieval_ms": 739.8,
+    "results": [
+     {
+      "rank": 1,
+      "id": "para:bizethics:p0209:03",
+      "score": 6.546566,
+      "page": 209,
+      "source_id": "bizethics"
+     },
+     {
+      "rank": 2,
+      "id": "para:bizethics:p0209:04",
+      "score": 4.318279,
+      "page": 209,
+      "source_id": "bizethics"
+     },
+     {
+      "rank": 3,
+      "id": "para:bizethics:p0209:02",
+      "score": 3.880362,
+      "page": 209,
+      "source_id": "bizethics"
+     },
+     {
+      "rank": 4,
+      "id": "para:bizethics:p0195:00",
+      "score": -0.00501,
+      "page": 195,
+      "source_id": "bizethics"
+     },
+     {
+      "rank": 5,
+      "id": "para:bizethics:p0210:02",
+      "score": -1.828867,
+      "page": 210,
+      "source_id": "bizethics"
+     }
+    ],
+    "new_ids": [
+     "para:bizethics:p0209:03",
+     "para:bizethics:p0209:04",
+     "para:bizethics:p0209:02",
+     "para:bizethics:p0195:00",
+     "para:bizethics:p0210:02"
+    ],
+    "repeated_ids": [],
+    "dropped_budget": [],
+    "context_ids": [
+     "para:bizethics:p0209:03",
+     "para:bizethics:p0209:04",
+     "para:bizethics:p0209:02",
+     "para:bizethics:p0195:00",
+     "para:bizethics:p0210:02"
+    ],
+    "context_chars": 3849,
+    "observation_chars": 4012
+   },
+   {
+    "event": "model_call",
+    "prompt_tokens": 1423,
+    "completion_tokens": 93,
+    "latency_s": 2.139,
+    "retries": 0,
+    "model": "gpt-4o-mini-2024-07-18",
+    "finish_reason": "stop"
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 1963,
+   "completion_tokens": 116,
+   "model_calls": 2,
+   "retries": 0,
+   "model_seconds": 3.184
+  },
+  "context": "[para:bizethics:p0209:03 | data/business-ethics_-_WEB.pdf | page 209]\nLimiting Pay Secrecy\nRecently, the situation has begun to change. Ten states have enacted new laws banning employers from imposing pay secrecy rules: California, Colorado, Illinois, Louisiana, Maine, Michigan, Minnesota, New Hampshire, New Jersey, and Vermont.32 The real game changer came in 2012, when multiple decisions by the National Labor Relations Board (NLRB) and various federal courts made it clear that most pay secrecy policies are unenforceable and violate federal labor law (National Labor Relations Act, 29 U.S.C. § 157-158).33 Generally speaking, labor law lends employees the right to engage in collective activities, including that of discussing with each other the specifics of their individual employment arrangements, which includes how much they are paid. Moreover, the applicable sections of the 1935 National Labor Relations Act (NLRA) apply to union and non-union employees, so there is no exception made for companies whose employees are non-unionized, meaning the law protects all workers.\n\n[para:bizethics:p0209:04 | data/business-ethics_-_WEB.pdf | page 209]\nLimiting Pay Secrecy\nIn 2014, President Barack Obama issued an executive order banning companies that engaged in federal contracting from prohibiting such salary discussions.34\nOpening up the discussion of pay acknowledges the growing desire of employees to be well informed and to have the freedom to question or criticize their company. If employees cannot talk about something at work because they think it will make their boss angry, where do they go instead? Social media can be a likely answer. Protections generally extend to salary discussions on Facebook or Twitter or Instagram; Section 7 of the NRLA protects two or more employees who act together or discuss improving their terms and conditions of employment in person or online, just as it does in other settings.\n\n[para:bizethics:p0209:02 | data/business-ethics_-_WEB.pdf | page 209]\nLimiting Pay Secrecy\nFor decades, most U.S. companies enforced pay secrecy, a policy that prohibits employees from disclosing or discussing salaries among themselves. The reason was obvious: Companies did not want to be scrutinized for their salary decisions. They knew that if workers were aware of what each was paid, they would question the inequities that pay secrecy kept hidden from them.\n\n[para:bizethics:p0195:00 | data/business-ethics_-_WEB.pdf | page 195]\nConfidentiality\nemployed, that duty ceases upon termination of employment.12 In other words, an employee does not “belong” to a company forever. In California, therefore, a non-compete arrangement that limits employment after leaving the employer is now unenforceable. Does this law reflect the approach that most states will now take? A California company may still legally prohibit its employees from moonlighting during the term of their employment, particularly for a competitor.\nCASES FROM THE REAL WORLD\nNon-Compete Agreements\n\n[para:bizethics:p0210:02 | data/business-ethics_-_WEB.pdf | page 210]\nSpeaking Out on Social Media\nAt some point, all of us may get angry with our companies or supervisors, but we still have a duty to keep our disputes in-house and not make public any situations we are attempting to resolve internally. Employers typically are prohibited from discussing human resource matters relating to any specific employees. Employees, too, should keep complaints confidential unless and until crimes are charged or civil suits are filed.\nCASES FROM THE REAL WORLD\nAdrian Duane and IXL Learning\nAdrian Duane had worked for IXL, a Silicon Valley educational technology company,35 for about a year when he got into a dispute with his supervisor over Duane’s ability to work flexible hours after he returned from medical leave following transgender surgery.",
+  "context_ids": [
+   "para:bizethics:p0209:03",
+   "para:bizethics:p0209:04",
+   "para:bizethics:p0209:02",
+   "para:bizethics:p0195:00",
+   "para:bizethics:p0210:02"
+  ],
+  "context_chars": 3849,
+  "n_searches": 1,
+  "attempted_citations": [
+   "para:bizethics:p0209:03"
+  ],
+  "invalid_citations": [],
+  "repaired_citations": [],
+  "model": "gpt-4o-mini-2024-07-18",
+  "status": "answered",
+  "answer": "In 2012, multiple decisions by the National Labor Relations Board (NLRB) and various federal courts clarified that most pay secrecy policies are unenforceable and violate federal labor law, specifically the National Labor Relations Act (NLRA) [para:bizethics:p0209:03]. This legal shift established that employees have the right to engage in collective activities, including discussing their individual pay [para:bizethics:p0209:03].",
+  "raw_answer": "In 2012, multiple decisions by the National Labor Relations Board (NLRB) and various federal courts clarified that most pay secrecy policies are unenforceable and violate federal labor law, specifically the National Labor Relations Act (NLRA) [para:bizethics:p0209:03]. This legal shift established that employees have the right to engage in collective activities, including discussing their individual pay [para:bizethics:p0209:03].",
+  "citations": [
+   "para:bizethics:p0209:03"
+  ],
+  "reason": "ok",
+  "elapsed_s": 3.924,
+  "query_id": "d15",
+  "split": "dev",
+  "question": "What development in 2012 made most policies forbidding employees from discussing their salaries unenforceable?",
+  "filter": null,
+  "cost_usd": 0.000364,
+  "error": null,
+  "answerable": true,
+  "evidence_in_context": true,
+  "evidence_chunk_ids_in_context": [
+   "para:bizethics:p0209:03"
+  ],
+  "evidence_retrieved_not_in_context": [],
+  "first_search_evidence_rank": 1,
+  "evidence_after_first_search": true
+ },
+ {
+  "events": [
+   {
+    "event": "model_call",
+    "prompt_tokens": 538,
+    "completion_tokens": 19,
+    "latency_s": 1.161,
+    "retries": 0,
+    "model": "gpt-4o-mini-2024-07-18",
+    "finish_reason": "tool_calls"
+   },
+   {
+    "event": "search",
+    "step": 1,
+    "tool": "search",
+    "query": "exceptions weaken federal law monitoring employees communications",
+    "filter": null,
+    "top_k": 5,
+    "retrieval_ms": 707.3,
+    "results": [
+     {
+      "rank": 1,
+      "id": "para:bizethics:p0179:02",
+      "score": 6.82336,
+      "page": 179,
+      "source_id": "bizethics"
+     },
+     {
+      "rank": 2,
+      "id": "para:bizethics:p0180:01",
+      "score": 0.041116,
+      "page": 180,
+      "source_id": "bizethics"
+     },
+     {
+      "rank": 3,
+      "id": "para:bizethics:p0179:01",
+      "score": -0.041722,
+      "page": 179,
+      "source_id": "bizethics"
+     },
+     {
+      "rank": 4,
+      "id": "para:bizethics:p0180:00",
+      "score": -0.12392,
+      "page": 180,
+      "source_id": "bizethics"
+     },
+     {
+      "rank": 5,
+      "id": "para:bizethics:p0179:05",
+      "score": -0.802335,
+      "page": 179,
+      "source_id": "bizethics"
+     }
+    ],
+    "new_ids": [
+     "para:bizethics:p0179:02",
+     "para:bizethics:p0180:01",
+     "para:bizethics:p0179:01",
+     "para:bizethics:p0180:00",
+     "para:bizethics:p0179:05"
+    ],
+    "repeated_ids": [],
+    "dropped_budget": [],
+    "context_ids": [
+     "para:bizethics:p0179:02",
+     "para:bizethics:p0180:01",
+     "para:bizethics:p0179:01",
+     "para:bizethics:p0180:00",
+     "para:bizethics:p0179:05"
+    ],
+    "context_chars": 3919,
+    "observation_chars": 4079
+   },
+   {
+    "event": "model_call",
+    "prompt_tokens": 1330,
+    "completion_tokens": 80,
+    "latency_s": 2.389,
+    "retries": 0,
+    "model": "gpt-4o-mini-2024-07-18",
+    "finish_reason": "stop"
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 1868,
+   "completion_tokens": 99,
+   "model_calls": 2,
+   "retries": 0,
+   "model_seconds": 3.55
+  },
+  "context": "[para:bizethics:p0179:02 | data/business-ethics_-_WEB.pdf | page 179]\nLegal and Ethical Aspects of Electronic Monitoring\nAlthough the ECPA may appear to prohibit an employer from monitoring its employees’ oral, wire, and electronic communications, it contains two big exceptions that weaken its protection of employees’ rights. One is the business purpose exception. This allows employers—on the basis of legitimate business purposes—to monitor electronic and oral communications, and employers generally assert a legitimate business purpose to be present. The other widely used exception is the consent exception, which allows employers to monitor employee communications provided employees have given their consent. According to the Society for Human Resource Management, the ECPA definition of electronic communication applies to the electronic transmission of communications but not to their electronic storage. Therefore, courts have distinguished between monitoring electronic communications such as e-mail during transmission and viewing e-mails in storage.\n\n[para:bizethics:p0180:01 | data/business-ethics_-_WEB.pdf | page 180]\nLegal and Ethical Aspects of Electronic Monitoring\nEmployees can bring common law privacy claims to challenge employer monitoring. (Common laws are those based on prior court decisions rather than on legislatively enacted statutes.) To prevail on a common law claim of invasion of privacy, which is a tort, the employee must demonstrate a right to privacy with respect to the information being monitored. Several state constitutions, such as those in Louisiana, Florida, South Carolina, and California, expressly provide citizens a right to privacy, which may protect employees with respect to monitoring of their personal electronic information and personal communication in the workplace.\n\n[para:bizethics:p0179:01 | data/business-ethics_-_WEB.pdf | page 179]\nLegal and Ethical Aspects of Electronic Monitoring\nThe laws and regulations governing electronic monitoring are somewhat indirect and inconsistent. Very few specific federal statutes directly regulate private employers when it comes to broad workplace privacy issues. However, monitoring is subject to various state rules under both statutory and common law, and sometimes federal and state constitutional provisions as well. The two primary areas of the law related to workplace monitoring are a federal statute called the Electronic Communications Privacy Act of 1986 (ECPA) and various state common law protections against invasion of privacy.50\n\n[para:bizethics:p0180:00 | data/business-ethics_-_WEB.pdf | page 180]\nLegal and Ethical Aspects of Electronic Monitoring\nAlthough the ECPA and National Labor Relations Act are both federal laws, individual states are free to pass laws that impose greater limitations, and several states have done so. Some require employers to provide employees advance written notice that specifies the types or methods of monitoring to which they will be subjected. Examples of state laws creating some degree of protection for workers include laws in California and Pennsylvania that require consent of both parties before any conversation can be monitored or recorded.\n\n[para:bizethics:p0179:05 | data/business-ethics_-_WEB.pdf | page 179]\nLegal and Ethical Aspects of Electronic Monitoring\nHowever, an important distinction is based on the issue of consent. The consent provision in the ECPA is not limited to business communications only; therefore, a company might be able to assert the right to monitor personal electronic communications if it can show employee consent (although this is very likely to worry employees, as discussed in the next section). Another consideration is whose e-mail server is being used. The ECPA and some state laws generally make it illegal for employers to intercept private e-mail by using an employee’s personal log-on/user ID/password information.",
+  "context_ids": [
+   "para:bizethics:p0179:02",
+   "para:bizethics:p0180:01",
+   "para:bizethics:p0179:01",
+   "para:bizethics:p0180:00",
+   "para:bizethics:p0179:05"
+  ],
+  "context_chars": 3919,
+  "n_searches": 1,
+  "attempted_citations": [
+   "para:bizethics:p0179:02"
+  ],
+  "invalid_citations": [],
+  "repaired_citations": [],
+  "model": "gpt-4o-mini-2024-07-18",
+  "status": "answered",
+  "answer": "The two exceptions that weaken the federal law, specifically the Electronic Communications Privacy Act (ECPA), which appears to bar employers from monitoring employees' communications, are the business purpose exception and the consent exception. The business purpose exception allows employers to monitor communications based on legitimate business purposes, while the consent exception permits monitoring if employees have given their consent [para:bizethics:p0179:02].",
+  "raw_answer": "The two exceptions that weaken the federal law, specifically the Electronic Communications Privacy Act (ECPA), which appears to bar employers from monitoring employees' communications, are the business purpose exception and the consent exception. The business purpose exception allows employers to monitor communications based on legitimate business purposes, while the consent exception permits monitoring if employees have given their consent [para:bizethics:p0179:02].",
+  "citations": [
+   "para:bizethics:p0179:02"
+  ],
+  "reason": "ok",
+  "elapsed_s": 4.257,
+  "query_id": "d16",
+  "split": "dev",
+  "question": "Which two exceptions weaken the federal law that appears to bar employers from monitoring employees' communications?",
+  "filter": null,
+  "cost_usd": 0.00034,
+  "error": null,
+  "answerable": true,
+  "evidence_in_context": true,
+  "evidence_chunk_ids_in_context": [
+   "para:bizethics:p0179:02"
+  ],
+  "evidence_retrieved_not_in_context": [],
+  "first_search_evidence_rank": 1,
+  "evidence_after_first_search": true
+ },
+ {
+  "events": [
+   {
+    "event": "model_call",
+    "prompt_tokens": 547,
+    "completion_tokens": 22,
+    "latency_s": 1.36,
+    "retries": 0,
+    "model": "gpt-4o-mini-2024-07-18",
+    "finish_reason": "tool_calls"
+   },
+   {
+    "event": "search",
+    "step": 1,
+    "tool": "search",
+    "query": "injured by defective product partly responsible damages recovery determination",
+    "filter": null,
+    "top_k": 5,
+    "retrieval_ms": 788.4,
+    "results": [
+     {
+      "rank": 1,
+      "id": "para:bizlaw:p0074:00",
+      "score": 1.194878,
+      "page": 74,
+      "source_id": "bizlaw"
+     },
+     {
+      "rank": 2,
+      "id": "para:bizlaw:p0073:01",
+      "score": 0.088092,
+      "page": 73,
+      "source_id": "bizlaw"
+     },
+     {
+      "rank": 3,
+      "id": "para:bizlaw:p0071:01",
+      "score": -2.669881,
+      "page": 71,
+      "source_id": "bizlaw"
+     },
+     {
+      "rank": 4,
+      "id": "para:bizlaw:p0074:02",
+      "score": -3.105228,
+      "page": 74,
+      "source_id": "bizlaw"
+     },
+     {
+      "rank": 5,
+      "id": "para:bizlaw:p0074:03",
+      "score": -4.079899,
+      "page": 74,
+      "source_id": "bizlaw"
+     }
+    ],
+    "new_ids": [
+     "para:bizlaw:p0074:00",
+     "para:bizlaw:p0073:01",
+     "para:bizlaw:p0071:01",
+     "para:bizlaw:p0074:02",
+     "para:bizlaw:p0074:03"
+    ],
+    "repeated_ids": [],
+    "dropped_budget": [],
+    "context_ids": [
+     "para:bizlaw:p0074:00",
+     "para:bizlaw:p0073:01",
+     "para:bizlaw:p0071:01",
+     "para:bizlaw:p0074:02",
+     "para:bizlaw:p0074:03"
+    ],
+    "context_chars": 3703,
+    "observation_chars": 3876
+   },
+   {
+    "event": "model_call",
+    "prompt_tokens": 1450,
+    "completion_tokens": 100,
+    "latency_s": 2.284,
+    "retries": 0,
+    "model": "gpt-4o-mini-2024-07-18",
+    "finish_reason": "stop"
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 1997,
+   "completion_tokens": 122,
+   "model_calls": 2,
+   "retries": 0,
+   "model_seconds": 3.644
+  },
+  "context": "[para:bizlaw:p0074:00 | data/Business_Law_I_Essentials_2e_-_WEB.pdf | page 74]\nDefenses\nThere are defenses to product liability claims. In some cases, the plaintiff’s own behaviors contribute to his or her injuries, based on his or her own negligence. This situation is known as contributory negligence. Contributory negligence, when determined by the court, prevents any recovery of damages by the plaintiff (Baime, 2018). So, if the court finds contributory negligence, the plaintiff is unable to recover any damages for the injury. Two forms of contributory negligence are assumption of risk and misuse.\n\n[para:bizlaw:p0073:01 | data/Business_Law_I_Essentials_2e_-_WEB.pdf | page 73]\nProduct Liability\nNegligence can occur when products are created because defects can harm consumers. Think about the potential harm that would occur if brake manufacturers were negligent. This negligence would cause brakes to have flaws, which would prevent them from doing their job of stopping cars. If a car does not stop, people will likely be injured. The manufacturing defect would result in a product liability lawsuit, based on legal responsibility for the harmful consequences proximately caused by the product defect (Baime, 2018). Since the courts would not be able to see the negligence occurring, the courts would base their decision on res ipsa loquitor and the fact that the brakes would not normally fail under normal use by the driver.\nFigure 6.6 If brakes do not work like they are supposed to, it could be the result of a manufacturing defect that would result in product liability. (Credit: Valtercirillo/ pixabay/ License: CC0)\n\n[para:bizlaw:p0071:01 | data/Business_Law_I_Essentials_2e_-_WEB.pdf | page 71]\n6.2 Product and Strict Liability\nDetermination of fault and damages for intentional torts and negligence are based on the reasonable standard of care. Another form of torts looks at liability without fault, or strict liability. Strict liability determines liability, or harm, based on reasons other than fault (CCBC Legal Studies, n.d.). The mistakes leading to harm can be completely unintentional, and in some cases, unavoidable. Yet, damage is done, and a civil suit arises.\n\n[para:bizlaw:p0074:02 | data/Business_Law_I_Essentials_2e_-_WEB.pdf | page 74]\nDefenses\nFigure 6.7 Using a chainsaw with bare feet could be dangerous and add to the risk of use without a guard. If the plaintiff suffered harm because his bare foot could not hold the wood down properly, he could be responsible for comparative negligence. (Credit: edman_eu/ pixabay/ License: CC0)\nPlaintiffs might also be responsible for comparative negligence. With comparative negligence, the plaintiff’s own actions in the use of the product contributed to the harm caused by the product, but the plaintiff might still receive damages (CCBC Legal Studies, n.d.). The amount of negligence on behalf of each part (plaintiff and defendant) is compared to determine the damages to which the plaintiff is entitled (Baime, 2018). If a plaintiff is found to be 30% responsible, and the defendant 70% responsible, then the plaintiff would be entitled to 70% of the damages suffered.\n\n[para:bizlaw:p0074:03 | data/Business_Law_I_Essentials_2e_-_WEB.pdf | page 74]\nConclusion\nIn some cases, a plaintiff suffers harm, but fault is not easily determined, or fault is not the issue. A defendant can exercise reasonable care while the nature of the activity lends itself to risk of harm. Products could have obvious or hidden defects that cause harm to another. When defects occur, the plaintiff has the ability to file a civil suit against the entity that is responsible for the harm-causing defect. The plaintiff might also share some",
+  "context_ids": [
+   "para:bizlaw:p0074:00",
+   "para:bizlaw:p0073:01",
+   "para:bizlaw:p0071:01",
+   "para:bizlaw:p0074:02",
+   "para:bizlaw:p0074:03"
+  ],
+  "context_chars": 3703,
+  "n_searches": 1,
+  "attempted_citations": [
+   "para:bizlaw:p0074:02"
+  ],
+  "invalid_citations": [],
+  "repaired_citations": [],
+  "model": "gpt-4o-mini-2024-07-18",
+  "status": "answered",
+  "answer": "If a person injured by a defective product is found partly responsible, the amount they can recover is determined through comparative negligence. This means the plaintiff's own actions that contributed to the harm are compared with the defendant's actions to establish the percentage of fault for each party. For example, if the plaintiff is found to be 30% responsible and the defendant 70% responsible, the plaintiff would be entitled to 70% of the damages suffered [para:bizlaw:p0074:02].",
+  "raw_answer": "If a person injured by a defective product is found partly responsible, the amount they can recover is determined through comparative negligence. This means the plaintiff's own actions that contributed to the harm are compared with the defendant's actions to establish the percentage of fault for each party. For example, if the plaintiff is found to be 30% responsible and the defendant 70% responsible, the plaintiff would be entitled to 70% of the damages suffered [para:bizlaw:p0074:02].",
+  "citations": [
+   "para:bizlaw:p0074:02"
+  ],
+  "reason": "ok",
+  "elapsed_s": 4.433,
+  "query_id": "d17",
+  "split": "dev",
+  "question": "If a person injured by a defective product is found partly responsible but may still collect damages, how is the amount they can recover determined?",
+  "filter": null,
+  "cost_usd": 0.000373,
+  "error": null,
+  "answerable": true,
+  "evidence_in_context": true,
+  "evidence_chunk_ids_in_context": [
+   "para:bizlaw:p0074:02"
+  ],
+  "evidence_retrieved_not_in_context": [],
+  "first_search_evidence_rank": 4,
+  "evidence_after_first_search": true
+ },
+ {
+  "events": [
+   {
+    "event": "model_call",
+    "prompt_tokens": 544,
+    "completion_tokens": 22,
+    "latency_s": 1.311,
+    "retries": 0,
+    "model": "gpt-4o-mini-2024-07-18",
+    "finish_reason": "tool_calls"
+   },
+   {
+    "event": "search",
+    "step": 1,
+    "tool": "search",
+    "query": "advance notice employers closing plant laying off workers size requirement",
+    "filter": {
+     "document_id": "bizlaw"
+    },
+    "top_k": 5,
+    "retrieval_ms": 896.8,
+    "results": [
+     {
+      "rank": 1,
+      "id": "para:bizlaw:p0102:00",
+      "score": 0.582096,
+      "page": 102,
+      "source_id": "bizlaw"
+     },
+     {
+      "rank": 2,
+      "id": "para:bizlaw:p0098:02",
+      "score": -8.050554,
+      "page": 98,
+      "source_id": "bizlaw"
+     },
+     {
+      "rank": 3,
+      "id": "para:bizlaw:p0103:02",
+      "score": -10.269267,
+      "page": 103,
+      "source_id": "bizlaw"
+     },
+     {
+      "rank": 4,
+      "id": "para:bizlaw:p0100:04",
+      "score": -10.473688,
+      "page": 100,
+      "source_id": "bizlaw"
+     },
+     {
+      "rank": 5,
+      "id": "para:bizlaw:p0102:01",
+      "score": -10.82403,
+      "page": 102,
+      "source_id": "bizlaw"
+     }
+    ],
+    "new_ids": [
+     "para:bizlaw:p0102:00",
+     "para:bizlaw:p0098:02",
+     "para:bizlaw:p0103:02",
+     "para:bizlaw:p0100:04",
+     "para:bizlaw:p0102:01"
+    ],
+    "repeated_ids": [],
+    "dropped_budget": [],
+    "context_ids": [
+     "para:bizlaw:p0102:00",
+     "para:bizlaw:p0098:02",
+     "para:bizlaw:p0103:02",
+     "para:bizlaw:p0100:04",
+     "para:bizlaw:p0102:01"
+    ],
+    "context_chars": 3795,
+    "observation_chars": 3966
+   },
+   {
+    "event": "model_call",
+    "prompt_tokens": 1426,
+    "completion_tokens": 49,
+    "latency_s": 1.576,
+    "retries": 0,
+    "model": "gpt-4o-mini-2024-07-18",
+    "finish_reason": "stop"
+   },
+   {
+    "event": "citation_repair",
+    "repairs": [
+     {
+      "from": "bizlaw:p0102:00",
+      "to": "para:bizlaw:p0102:00"
+     }
+    ]
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 1970,
+   "completion_tokens": 71,
+   "model_calls": 2,
+   "retries": 0,
+   "model_seconds": 2.887
+  },
+  "context": "[para:bizlaw:p0102:00 | data/Business_Law_I_Essentials_2e_-_WEB.pdf | page 102]\nTimeline of Developments in Labor Law\nfor six unfair practices by labor unions (see box below).\n• 1959. The Labor Management Reporting and Disclosure Act, or Landrum-Griffin Act, was passed, which regulates the internal affairs of trade unions, as well as their officials’ relationships with employers. All union members are granted equal rights to vote for candidates, take part in membership meetings, and nominate candidates for office.\n• 1988. The Worker Adjustment and Retraining Notification (WARN) Act requires that employers with more than 100 employees give workers at least 60 days notice before engaging in layoffs or plant closings.\n\n[para:bizlaw:p0098:02 | data/Business_Law_I_Essentials_2e_-_WEB.pdf | page 98]\nHealth and Safety\nIn addition, employers are required to inform employees of their health and safety rights by posting appropriate notices in the workplace.\n\n[para:bizlaw:p0103:02 | data/Business_Law_I_Essentials_2e_-_WEB.pdf | page 103]\nOrganizing a Union\nIn order to try to bolster their power, elected unions often attempt to install a union security agreement. This agreement pertains to the extent to which the union can demand that employees join the union, and whether the employer will be required to collect fees and dues on behalf of the union. A closed shop is a workplace where union membership is a requirement for employment. A union shop is a place of employment where the employee is required to join the union within a specified number of days after being hired. An agency shop is a workplace that does not require the employee to join the union, but where agency fees to the union must be paid. Union security agreements are the outcome of collective bargaining agreements.\n\n[para:bizlaw:p0100:04 | data/Business_Law_I_Essentials_2e_-_WEB.pdf | page 100]\nEnding Employment > Regulation Description\nConsolidated Omnibus Budget Reconciliation Act (COBRA)\nMandates that employees who are terminated must be provided with the opportunity to continue to participate in group health insurance, so long as they agree to pay the group rate premium. The employer is required to notify employees of their COBRA rights.\nEmployee Retirement Income\nSecurity Act (ERISA)\nThis Act covers any pension plan offered by employers to their workers, and is designed to prevent abuses and fraudulent use of those plans. Under the terms of ERISA, employers are required to keep certain records pertaining to the plans, and to report on those records at regular intervals. The Act also provides for vesting, which occurs when an employee has a nonforfeitable right to receive pension benefits.\nUnemployment compensation\n\n[para:bizlaw:p0102:01 | data/Business_Law_I_Essentials_2e_-_WEB.pdf | page 102]\nTimeline of Developments in Labor Law > Description\n1 Protects employees from unfair coercion by unions that could lead to discrimination against employees.\n2\nStates that employers cannot refuse to hire prospective workers because they refuse to join a union. This amendment also grants the employer the right to sign an agreement with a union that requires the employee to join the union before the employee’s 30th day of employment.\n3 Unions must bargain in good faith with employers.\n4 Prevents unions from engaging in secondary boycotts.\n5\nPrevents unions from taking advantage of either employers or members. For example, unions cannot charge members excessive membership dues or cause employers to pay for work that has not been performed.\n6\nGrants employers the right to free speech. Expressed opinions about labor issues do not constitute unfair labor practices, as long as the employer does not threaten to withhold benefits from, or engage in, retribution against the worker.\nTable 9.3",
+  "context_ids": [
+   "para:bizlaw:p0102:00",
+   "para:bizlaw:p0098:02",
+   "para:bizlaw:p0103:02",
+   "para:bizlaw:p0100:04",
+   "para:bizlaw:p0102:01"
+  ],
+  "context_chars": 3795,
+  "n_searches": 1,
+  "attempted_citations": [
+   "para:bizlaw:p0102:00"
+  ],
+  "invalid_citations": [],
+  "repaired_citations": [
+   {
+    "from": "bizlaw:p0102:00",
+    "to": "para:bizlaw:p0102:00"
+   }
+  ],
+  "model": "gpt-4o-mini-2024-07-18",
+  "status": "answered",
+  "answer": "Employers with more than 100 employees must provide at least 60 days' notice before engaging in layoffs or plant closings, according to the Worker Adjustment and Retraining Notification (WARN) Act [para:bizlaw:p0102:00].",
+  "raw_answer": "Employers with more than 100 employees must provide at least 60 days' notice before engaging in layoffs or plant closings, according to the Worker Adjustment and Retraining Notification (WARN) Act [bizlaw:p0102:00].",
+  "citations": [
+   "para:bizlaw:p0102:00"
+  ],
+  "reason": "ok",
+  "elapsed_s": 3.784,
+  "query_id": "d18",
+  "split": "dev",
+  "question": "How much advance notice must employers give before closing a plant or laying off workers, and how large must the employer be?",
+  "filter": {
+   "document_id": "bizlaw"
+  },
+  "cost_usd": 0.000338,
+  "error": null,
+  "answerable": true,
+  "evidence_in_context": true,
+  "evidence_chunk_ids_in_context": [
+   "para:bizlaw:p0102:00"
+  ],
+  "evidence_retrieved_not_in_context": [],
+  "first_search_evidence_rank": 1,
+  "evidence_after_first_search": true
+ },
+ {
+  "events": [
+   {
+    "event": "model_call",
+    "prompt_tokens": 545,
+    "completion_tokens": 20,
+    "latency_s": 1.199,
+    "retries": 0,
+    "model": "gpt-4o-mini-2024-07-18",
+    "finish_reason": "tool_calls"
+   },
+   {
+    "event": "search",
+    "step": 1,
+    "tool": "search",
+    "query": "virtue ethics character upbringing ideal middle state",
+    "filter": null,
+    "top_k": 5,
+    "retrieval_ms": 857.3,
+    "results": [
+     {
+      "rank": 1,
+      "id": "para:phil:p0299:02",
+      "score": 1.752671,
+      "page": 299,
+      "source_id": "phil"
+     },
+     {
+      "rank": 2,
+      "id": "para:phil:p0298:05",
+      "score": 1.163625,
+      "page": 298,
+      "source_id": "phil"
+     },
+     {
+      "rank": 3,
+      "id": "para:phil:p0298:06",
+      "score": -0.65172,
+      "page": 298,
+      "source_id": "phil"
+     },
+     {
+      "rank": 4,
+      "id": "para:phil:p0294:00",
+      "score": -2.101534,
+      "page": 294,
+      "source_id": "phil"
+     },
+     {
+      "rank": 5,
+      "id": "para:phil:p0300:00",
+      "score": -2.210639,
+      "page": 300,
+      "source_id": "phil"
+     }
+    ],
+    "new_ids": [
+     "para:phil:p0299:02",
+     "para:phil:p0298:05",
+     "para:phil:p0298:06",
+     "para:phil:p0294:00",
+     "para:phil:p0300:00"
+    ],
+    "repeated_ids": [],
+    "dropped_budget": [],
+    "context_ids": [
+     "para:phil:p0299:02",
+     "para:phil:p0298:05",
+     "para:phil:p0298:06",
+     "para:phil:p0294:00",
+     "para:phil:p0300:00"
+    ],
+    "context_chars": 4136,
+    "observation_chars": 4284
+   },
+   {
+    "event": "model_call",
+    "prompt_tokens": 1534,
+    "completion_tokens": 99,
+    "latency_s": 2.538,
+    "retries": 0,
+    "model": "gpt-4o-mini-2024-07-18",
+    "finish_reason": "stop"
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 2079,
+   "completion_tokens": 119,
+   "model_calls": 2,
+   "retries": 0,
+   "model_seconds": 3.737
+  },
+  "context": "[para:phil:p0299:02 | data/Introduction_to_Philosophy-WEB.pdf | page 299]\n9.4 Virtue Ethics > The Role of Habit\nHabit and repetition develop dispositions. In Nicomachean Ethics, for example, Aristotle reminds us of the importance of upbringing. A good upbringing will promote the formation of positive dispositions, making one’s tendencies closer to the mean state. A bad upbringing, in contrast, will promote the formation of negative dispositions, making one’s tendencies farther from the mean state (Aristotle [350 BCE] 1998, 1095b5).\nArtistotle on Virtue\nRead this passage from from Book II of Aristotle's Nicomachean Ethics (https://openstax.org/r/nicomachaen-2), considering what Aristotle means when he states that moral virtues come about as a result of habit. How should individuals make use of the two types of virtue to become virtuous?\n\n[para:phil:p0298:05 | data/Introduction_to_Philosophy-WEB.pdf | page 298]\n9.4 Virtue Ethics > Deliberation, Practical Wisdom, and Character\nTo exercise or possess virtue is to demonstrate excellent character. For ancient Greek and Roman philosophers, the pursuit of intentional, directed self-development to cultivate virtues is the pursuit of excellence. Someone with a virtuous character is consistent, firm, self-controlled, and well-off. Aristotle characterized the virtuous character state as the mean between two vice states, deficiency and excess. He thought each person naturally tends toward one of the extreme (or vice) states. We cultivate virtue when we bring our character into alignment with the “mean or intermediate state with regard to” feelings and actions, and in doing so we become “well off in relation to our feelings and actions” (Homiak 2019).\n\n[para:phil:p0298:06 | data/Introduction_to_Philosophy-WEB.pdf | page 298]\n9.4 Virtue Ethics > Deliberation, Practical Wisdom, and Character\nBeing virtuous requires more than simply developing a habit or character trait. An individual must voluntarily choose the right action, the virtuous state; know why they chose it; and do so from a consistent, firm character. To voluntarily choose virtue requires reflection, self-awareness, and deliberation. Virtuous actions, Aristotle claims, should “accord with the correct reason” (Aristotle [350 BCE] 1998, 1103b30). The virtuous person\n\n[para:phil:p0294:00 | data/Introduction_to_Philosophy-WEB.pdf | page 294]\n9.4 Virtue Ethics > LEARNING OBJECTIVES\nBy the end of this section, you will be able to:\n• Identify the central principles of virtue ethics.\n• Distinguish the major features of Confucianism.\n• Evaluate Aristotle’s moral theory.\nVirtue ethics takes a character-centered approach to morality. Whereas Mohists and utilitarians look to consequences to determine the rightness of an action and deontologists maintain that a right action is the one that conforms to moral rules and norms, virtue ethicists argue that right action flows from good character traits or dispositions. We become a good person, then, through the cultivation of character, self-reflection, and self-perfection.\n\n[para:phil:p0300:00 | data/Introduction_to_Philosophy-WEB.pdf | page 300]\n9.4 Virtue Ethics > The Role of Habit\nthe corresponding statement is true of builders and of all the rest; men will be good or bad builders as a result of building well or badly. For if this were not so, there would have been no need of a teacher, but all men would have been born good or bad at their craft. This, then, is the case with the virtues also; by doing the acts that we do in our transactions with other men we become just or unjust, and by doing the acts that we do in the presence of danger, and being habituated to feel fear or confidence, we become brave or cowardly. The same is true of appetites and feelings of anger; some men become temperate and good-tempered, others self-indulgent and irascible, by behaving in one way or the other in the appropriate circumstances. Thus, in one word, states of character arise out of like activities. This is why the activities we exhibit must be of a certain kind; it is because the states of character correspond to the differences between these.",
+  "context_ids": [
+   "para:phil:p0299:02",
+   "para:phil:p0298:05",
+   "para:phil:p0298:06",
+   "para:phil:p0294:00",
+   "para:phil:p0300:00"
+  ],
+  "context_chars": 4136,
+  "n_searches": 1,
+  "attempted_citations": [
+   "para:phil:p0299:02",
+   "para:phil:p0298:05"
+  ],
+  "invalid_citations": [],
+  "repaired_citations": [],
+  "model": "gpt-4o-mini-2024-07-18",
+  "status": "answered",
+  "answer": "A person's upbringing significantly influences their tendencies toward the ideal middle state in virtue ethics. A good upbringing fosters the development of positive dispositions, aligning one's tendencies closer to the mean state, while a bad upbringing leads to negative dispositions, pushing tendencies farther from the mean state [para:phil:p0299:02]. Aristotle emphasizes that moral virtues arise from habit, suggesting that individuals become virtuous through consistent actions that align with the mean between deficiency and excess [para:phil:p0298:05].",
+  "raw_answer": "A person's upbringing significantly influences their tendencies toward the ideal middle state in virtue ethics. A good upbringing fosters the development of positive dispositions, aligning one's tendencies closer to the mean state, while a bad upbringing leads to negative dispositions, pushing tendencies farther from the mean state [para:phil:p0299:02]. Aristotle emphasizes that moral virtues arise from habit, suggesting that individuals become virtuous through consistent actions that align with the mean between deficiency and excess [para:phil:p0298:05].",
+  "citations": [
+   "para:phil:p0299:02",
+   "para:phil:p0298:05"
+  ],
+  "reason": "ok",
+  "elapsed_s": 4.595,
+  "query_id": "d19",
+  "split": "dev",
+  "question": "In the virtue-ethics account of character, how does a person's upbringing shape their tendencies relative to the ideal middle state?",
+  "filter": null,
+  "cost_usd": 0.000383,
+  "error": null,
+  "answerable": true,
+  "evidence_in_context": true,
+  "evidence_chunk_ids_in_context": [
+   "para:phil:p0299:02"
+  ],
+  "evidence_retrieved_not_in_context": [],
+  "first_search_evidence_rank": 1,
+  "evidence_after_first_search": true
+ },
+ {
+  "events": [
+   {
+    "event": "model_call",
+    "prompt_tokens": 544,
+    "completion_tokens": 22,
+    "latency_s": 1.171,
+    "retries": 0,
+    "model": "gpt-4o-mini-2024-07-18",
+    "finish_reason": "tool_calls"
+   },
+   {
+    "event": "search",
+    "step": 1,
+    "tool": "search",
+    "query": "altering human genes morally acceptable unacceptable circumstances ethicists",
+    "filter": null,
+    "top_k": 5,
+    "retrieval_ms": 848.9,
+    "results": [
+     {
+      "rank": 1,
+      "id": "para:phil:p0332:01",
+      "score": 2.964695,
+      "page": 332,
+      "source_id": "phil"
+     },
+     {
+      "rank": 2,
+      "id": "para:phil:p0332:00",
+      "score": -0.052226,
+      "page": 332,
+      "source_id": "phil"
+     },
+     {
+      "rank": 3,
+      "id": "para:phil:p0332:06",
+      "score": -0.697012,
+      "page": 332,
+      "source_id": "phil"
+     },
+     {
+      "rank": 4,
+      "id": "para:phil:p0331:02",
+      "score": -0.789517,
+      "page": 331,
+      "source_id": "phil"
+     },
+     {
+      "rank": 5,
+      "id": "para:phil:p0331:06",
+      "score": -1.620738,
+      "page": 331,
+      "source_id": "phil"
+     }
+    ],
+    "new_ids": [
+     "para:phil:p0332:01",
+     "para:phil:p0332:00",
+     "para:phil:p0332:06",
+     "para:phil:p0331:02",
+     "para:phil:p0331:06"
+    ],
+    "repeated_ids": [],
+    "dropped_budget": [],
+    "context_ids": [
+     "para:phil:p0332:01",
+     "para:phil:p0332:00",
+     "para:phil:p0332:06",
+     "para:phil:p0331:02",
+     "para:phil:p0331:06"
+    ],
+    "context_chars": 3609,
+    "observation_chars": 3780
+   },
+   {
+    "event": "model_call",
+    "prompt_tokens": 1328,
+    "completion_tokens": 134,
+    "latency_s": 3.176,
+    "retries": 0,
+    "model": "gpt-4o-mini-2024-07-18",
+    "finish_reason": "stop"
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 1872,
+   "completion_tokens": 156,
+   "model_calls": 2,
+   "retries": 0,
+   "model_seconds": 4.347
+  },
+  "context": "[para:phil:p0332:01 | data/Introduction_to_Philosophy-WEB.pdf | page 332]\n10.1 The Challenge of Bioethics > Gene Editing and Biodiversity\nSome ethicists also argue that the distinction between therapy and enhancement is morally relevant when considering genetic modification. A gene editing therapy (or negative genetic modification) is an intervention that is pursued to “restore normal function,” whereas a gene editing enhancement (or positive genetic modification) is an intervention that is pursued to enhance or increase normal capacities and functioning (Gannett 2008). Ethicists argue that genetic modification is morally permissible when it aims at therapy and morally impermissible when it aims at enhancement. A therapy only aims to return an individual to a normal state of health, but an enhancement aims to go beyond an individual’s normal capabilities. In cases of enhancement, however, interventions are pursued because patients possess a desire to go beyond their current capacities. The latter run a greater risk of having unknown and long-term effects on the gene pool and genetic diversity.\n\n[para:phil:p0332:00 | data/Introduction_to_Philosophy-WEB.pdf | page 332]\n10.1 The Challenge of Bioethics > Gene Editing and Biodiversity\nto become part of the larger human gene pool. Ethicists have identified numerous ethical issues and concerns related to inheritable genetic modification. For example, it is unclear what long-term effects would result from gene modification, future generations cannot consent to genetic modification, and germ-line interventions may have a negative effect on biodiversity.\n\n[para:phil:p0332:06 | data/Introduction_to_Philosophy-WEB.pdf | page 332]\n10.1 The Challenge of Bioethics > Patenting of Genetic Material\nAn ethical position on gene patenting depends on what factors and outcomes are considered to be morally relevant. Ethicists debate whether gene patents are generally beneficial or not, whether they produce more good or harm. They explore how they impact scientific progress and development, question whether they create conflicts of interest that harm patients or contribute to higher medical costs, and debate what makes\n\n[para:phil:p0331:02 | data/Introduction_to_Philosophy-WEB.pdf | page 331]\n10.1 The Challenge of Bioethics > A Utilitarian Approach to Genetic Engineering\nWhether a utilitarian would find the practice of genetic engineering morally permissible when applied to humans would depend, as it so often does, on how it is used. Utilitarians would likely find human augmentation through gene editing a morally worthwhile endeavor if it improved overall human welfare and happiness. For instance, utilitarians would support the use of genetic modification to eliminate disease and disability. If it turns out to be an extremely costly intervention, however, utilitarians might not support it on the grounds that only the very wealthy would be able to access it.\n\n[para:phil:p0331:06 | data/Introduction_to_Philosophy-WEB.pdf | page 331]\n10.1 The Challenge of Bioethics > Gene Editing and Biodiversity\nSome ethicists argue that we should distinguish between somatic cell interventions and germ-line interventions when discussing the morality of human genetic modification. In somatic cell interventions, genetic changes cannot be inherited or passed to a patient’s offspring. In germ-line interventions (inheritable genetic modification), however, genetic changes can be passed down to future generations (Gannett 2008). Any genetic modifications that result from germ-line interventions are inheritable and therefore have the potential",
+  "context_ids": [
+   "para:phil:p0332:01",
+   "para:phil:p0332:00",
+   "para:phil:p0332:06",
+   "para:phil:p0331:02",
+   "para:phil:p0331:06"
+  ],
+  "context_chars": 3609,
+  "n_searches": 1,
+  "attempted_citations": [
+   "para:phil:p0332:01",
+   "para:phil:p0331:02"
+  ],
+  "invalid_citations": [],
+  "repaired_citations": [],
+  "model": "gpt-4o-mini-2024-07-18",
+  "status": "answered",
+  "answer": "Some ethicists regard altering human genes as morally acceptable when it is aimed at therapy, which seeks to restore normal function, while they consider it morally unacceptable when it aims at enhancement, which seeks to go beyond normal capabilities [para:phil:p0332:01]. They argue that enhancement interventions pose greater risks of unknown long-term effects on the gene pool and genetic diversity [para:phil:p0332:01]. Additionally, utilitarian ethicists may find gene editing morally permissible if it improves overall human welfare, such as eliminating disease, but may oppose it if it is prohibitively costly and accessible only to the wealthy [para:phil:p0331:02].",
+  "raw_answer": "Some ethicists regard altering human genes as morally acceptable when it is aimed at therapy, which seeks to restore normal function, while they consider it morally unacceptable when it aims at enhancement, which seeks to go beyond normal capabilities [para:phil:p0332:01]. They argue that enhancement interventions pose greater risks of unknown long-term effects on the gene pool and genetic diversity [para:phil:p0332:01]. Additionally, utilitarian ethicists may find gene editing morally permissible if it improves overall human welfare, such as eliminating disease, but may oppose it if it is prohibitively costly and accessible only to the wealthy [para:phil:p0331:02].",
+  "citations": [
+   "para:phil:p0332:01",
+   "para:phil:p0331:02"
+  ],
+  "reason": "ok",
+  "elapsed_s": 5.196,
+  "query_id": "d20",
+  "split": "dev",
+  "question": "Under what circumstances do some ethicists regard altering human genes as morally acceptable, and when do they regard it as unacceptable?",
+  "filter": null,
+  "cost_usd": 0.000374,
+  "error": null,
+  "answerable": true,
+  "evidence_in_context": true,
+  "evidence_chunk_ids_in_context": [
+   "para:phil:p0332:01"
+  ],
+  "evidence_retrieved_not_in_context": [],
+  "first_search_evidence_rank": 1,
+  "evidence_after_first_search": true
+ },
+ {
+  "events": [
+   {
+    "event": "model_call",
+    "prompt_tokens": 545,
+    "completion_tokens": 25,
+    "latency_s": 1.488,
+    "retries": 0,
+    "model": "gpt-4o-mini-2024-07-18",
+    "finish_reason": "tool_calls"
+   },
+   {
+    "event": "search",
+    "step": 1,
+    "tool": "search",
+    "query": "federal statute employers warn workers large-scale layoffs facility shutdowns year",
+    "filter": {
+     "document_id": "bizethics"
+    },
+    "top_k": 5,
+    "retrieval_ms": 840.8,
+    "results": [
+     {
+      "rank": 1,
+      "id": "para:bizethics:p0157:01",
+      "score": 1.633795,
+      "page": 157,
+      "source_id": "bizethics"
+     },
+     {
+      "rank": 2,
+      "id": "para:bizethics:p0157:02",
+      "score": -3.744936,
+      "page": 157,
+      "source_id": "bizethics"
+     },
+     {
+      "rank": 3,
+      "id": "para:bizethics:p0211:06",
+      "score": -5.273002,
+      "page": 211,
+      "source_id": "bizethics"
+     },
+     {
+      "rank": 4,
+      "id": "para:bizethics:p0157:04",
+      "score": -5.756478,
+      "page": 157,
+      "source_id": "bizethics"
+     },
+     {
+      "rank": 5,
+      "id": "para:bizethics:p0158:02",
+      "score": -5.859944,
+      "page": 158,
+      "source_id": "bizethics"
+     }
+    ],
+    "new_ids": [
+     "para:bizethics:p0157:01",
+     "para:bizethics:p0157:02",
+     "para:bizethics:p0211:06",
+     "para:bizethics:p0157:04",
+     "para:bizethics:p0158:02"
+    ],
+    "repeated_ids": [],
+    "dropped_budget": [],
+    "context_ids": [
+     "para:bizethics:p0157:01",
+     "para:bizethics:p0157:02",
+     "para:bizethics:p0211:06",
+     "para:bizethics:p0157:04",
+     "para:bizethics:p0158:02"
+    ],
+    "context_chars": 4303,
+    "observation_chars": 4485
+   },
+   {
+    "event": "model_call",
+    "prompt_tokens": 1524,
+    "completion_tokens": 52,
+    "latency_s": 1.865,
+    "retries": 0,
+    "model": "gpt-4o-mini-2024-07-18",
+    "finish_reason": "stop"
+   },
+   {
+    "event": "answer"
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 2069,
+   "completion_tokens": 77,
+   "model_calls": 2,
+   "retries": 0,
+   "model_seconds": 3.353
+  },
+  "context": "[para:bizethics:p0157:01 | data/business-ethics_-_WEB.pdf | page 157]\nEthical Decision-Making and Leadership in the Workplace\nHistorically, however, a significant number of companies and managers failed to demonstrate ethical leadership in downsizing, eventually leading Congress to take action. The Worker Adjustment and Retraining Notification (WARN) Act of 1989 has now been in effect for almost three decades, protecting workers and their families (as well as their communities) by mandating that employers provide sixty days’ advance notice of mass layoffs and plant closings (Figure 6.2). This law was enacted precisely because companies were not behaving ethically.\nFigure 6.2 The WARN law mandates advance notice of mass layoffs to workers so that they can adequately prepare for such an event. (attribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license)\n\n[para:bizethics:p0157:02 | data/business-ethics_-_WEB.pdf | page 157]\nEthical Decision-Making and Leadership in the Workplace\nA report by the Cornell University Institute of Labor Relations indicated that, prior to passage of WARN, only 20 percent of displaced workers received written advance notice, and those who did received very short notice, usually a few days. Only 7 percent had two months’ notice of their impending displacement.4 Employers typically preferred to get as many days of work as possible from their workforces before a mass layoff or closing, figuring that workers might reduce productivity or look for other jobs sooner if the company were transparent and open about its situation. In other words, when companies put their own interests and needs ahead of the workforce, we can hardly call that ethical leadership.\n\n[para:bizethics:p0211:06 | data/business-ethics_-_WEB.pdf | page 211]\nWhistleblowing: Risks and Rewards\nUnder many federal laws, an employer cannot retaliate by firing, demoting, or taking any other adverse action against workers who report injuries, concerns, or other protected activity. One of the first laws with a specific whistleblower protection provision was the Occupational Safety and Health Act of 1970. Since passage of that law, Congress has expanded whistleblower authority to protect workers who report violations of more than\n\n[para:bizethics:p0157:04 | data/business-ethics_-_WEB.pdf | page 157]\nWorkplace Safety under the Occupational Safety and Health Act\nThe primary federal law ensuring physical safety on the job is the Occupational Safety and Health Act (OSHA), which was passed in 1970.5 The goal of the law is to ensure that employers provide a workplace environment free of risk to employees’ safety and health, such as mechanical or electrical dangers, toxic chemicals, severe heat or cold, unsanitary conditions, and dangerous equipment. OSHA also refers to the Occupational Safety and Health Administration, which operates as a division of the Department of Labor and oversees enforcement of the law. This act created the National Institute for Occupational Safety and Health (NIOSH), which serves as the research institute for OSHA and enunciates appropriate standards for safety and health on the job.\nEmployer obligations under OSHA include the duty to provide a safe workplace free of serious hazards, to identify and eliminate health and safety hazards (Figure 6.3), to inform employees of hazards present on the\n\n[para:bizethics:p0158:02 | data/business-ethics_-_WEB.pdf | page 158]\nWorkplace Safety under the Occupational Safety and Health Act\nOSHA has the authority to levy significant fines against companies that commit serious violations. The largest imposed to date were against BP, the oil company responsible for the largest oil spill in U.S. history, discussed in the feature box on BP Deepwater Horizon Oil Spill and Government Regulation. OSHA took into account that seventeen workers died on BP’s rig, Deepwater Horizon, as a result of the initial explosion and fire in April 2010. Consequently, rig-worker safety was upgraded by statute. Total OSHA penalties issued to BP from 2005 to 2009 exceed $102 million.7\nOther large fines issued over the last thirty years include $2.8 million against Union Carbide for violations related to an explosion and fire at its plant in Seadrift, Texas, in March 1991; $8.2 million levied against",
+  "context_ids": [
+   "para:bizethics:p0157:01",
+   "para:bizethics:p0157:02",
+   "para:bizethics:p0211:06",
+   "para:bizethics:p0157:04",
+   "para:bizethics:p0158:02"
+  ],
+  "context_chars": 4303,
+  "n_searches": 1,
+  "attempted_citations": [
+   "para:bizethics:p0157:01"
+  ],
+  "invalid_citations": [],
+  "repaired_citations": [],
+  "model": "gpt-4o-mini-2024-07-18",
+  "status": "answered",
+  "answer": "The federal statute that obliges employers to warn workers beforehand about large-scale layoffs and facility shutdowns is the Worker Adjustment and Retraining Notification (WARN) Act, which was enacted in 1989 [para:bizethics:p0157:01].",
+  "raw_answer": "The federal statute that obliges employers to warn workers beforehand about large-scale layoffs and facility shutdowns is the Worker Adjustment and Retraining Notification (WARN) Act, which was enacted in 1989 [para:bizethics:p0157:01].",
+  "citations": [
+   "para:bizethics:p0157:01"
+  ],
+  "reason": "ok",
+  "elapsed_s": 4.194,
+  "query_id": "d21",
+  "split": "dev",
+  "question": "Which year is given for the federal statute that obliges employers to warn workers beforehand about large-scale layoffs and facility shutdowns?",
+  "filter": {
+   "document_id": "bizethics"
+  },
+  "cost_usd": 0.000357,
+  "error": null,
+  "answerable": true,
+  "evidence_in_context": true,
+  "evidence_chunk_ids_in_context": [
+   "para:bizethics:p0157:01"
+  ],
+  "evidence_retrieved_not_in_context": [],
+  "first_search_evidence_rank": 1,
+  "evidence_after_first_search": true
+ },
+ {
+  "events": [
+   {
+    "event": "model_call",
+    "prompt_tokens": 539,
+    "completion_tokens": 19,
+    "latency_s": 0.963,
+    "retries": 0,
+    "model": "gpt-4o-mini-2024-07-18",
+    "finish_reason": "tool_calls"
+   },
+   {
+    "event": "search",
+    "step": 1,
+    "tool": "search",
+    "query": "statute of limitations negligence lawsuit years",
+    "filter": null,
+    "top_k": 5,
+    "retrieval_ms": 791.2,
+    "results": [
+     {
+      "rank": 1,
+      "id": "para:bizlaw:p0069:04",
+      "score": -3.523393,
+      "page": 69,
+      "source_id": "bizlaw"
+     },
+     {
+      "rank": 2,
+      "id": "para:bizlaw:p0073:01",
+      "score": -4.643687,
+      "page": 73,
+      "source_id": "bizlaw"
+     },
+     {
+      "rank": 3,
+      "id": "para:bizlaw:p0067:03",
+      "score": -5.308756,
+      "page": 67,
+      "source_id": "bizlaw"
+     },
+     {
+      "rank": 4,
+      "id": "para:bizlaw:p0074:00",
+      "score": -5.765771,
+      "page": 74,
+      "source_id": "bizlaw"
+     },
+     {
+      "rank": 5,
+      "id": "para:bizlaw:p0070:01",
+      "score": -5.936041,
+      "page": 70,
+      "source_id": "bizlaw"
+     }
+    ],
+    "new_ids": [
+     "para:bizlaw:p0069:04",
+     "para:bizlaw:p0073:01",
+     "para:bizlaw:p0067:03",
+     "para:bizlaw:p0074:00",
+     "para:bizlaw:p0070:01"
+    ],
+    "repeated_ids": [],
+    "dropped_budget": [],
+    "context_ids": [
+     "para:bizlaw:p0069:04",
+     "para:bizlaw:p0073:01",
+     "para:bizlaw:p0067:03",
+     "para:bizlaw:p0074:00",
+     "para:bizlaw:p0070:01"
+    ],
+    "context_chars": 4226,
+    "observation_chars": 4368
+   },
+   {
+    "event": "model_call",
+    "prompt_tokens": 1580,
+    "completion_tokens": 20,
+    "latency_s": 1.051,
+    "retries": 0,
+    "model": "gpt-4o-mini-2024-07-18",
+    "finish_reason": "tool_calls"
+   },
+   {
+    "event": "search",
+    "step": 2,
+    "tool": "search",
+    "query": "statute of limitations negligence lawsuit time limit",
+    "filter": null,
+    "top_k": 5,
+    "retrieval_ms": 760.6,
+    "results": [
+     {
+      "rank": 1,
+      "id": "para:bizlaw:p0069:04",
+      "score": -5.449255,
+      "page": 69,
+      "source_id": "bizlaw"
+     },
+     {
+      "rank": 2,
+      "id": "para:bizlaw:p0073:01",
+      "score": -6.519788,
+      "page": 73,
+      "source_id": "bizlaw"
+     },
+     {
+      "rank": 3,
+      "id": "para:bizlaw:p0067:03",
+      "score": -6.990038,
+      "page": 67,
+      "source_id": "bizlaw"
+     },
+     {
+      "rank": 4,
+      "id": "para:bizlaw:p0070:01",
+      "score": -7.180668,
+      "page": 70,
+      "source_id": "bizlaw"
+     },
+     {
+      "rank": 5,
+      "id": "para:bizlaw:p0074:00",
+      "score": -7.400426,
+      "page": 74,
+      "source_id": "bizlaw"
+     }
+    ],
+    "new_ids": [],
+    "repeated_ids": [
+     "para:bizlaw:p0069:04",
+     "para:bizlaw:p0073:01",
+     "para:bizlaw:p0067:03",
+     "para:bizlaw:p0070:01",
+     "para:bizlaw:p0074:00"
+    ],
+    "dropped_budget": [],
+    "context_ids": [
+     "para:bizlaw:p0069:04",
+     "para:bizlaw:p0073:01",
+     "para:bizlaw:p0067:03",
+     "para:bizlaw:p0074:00",
+     "para:bizlaw:p0070:01"
+    ],
+    "context_chars": 4226,
+    "observation_chars": 195
+   },
+   {
+    "event": "model_call",
+    "prompt_tokens": 1648,
+    "completion_tokens": 32,
+    "latency_s": 1.467,
+    "retries": 0,
+    "model": "gpt-4o-mini-2024-07-18",
+    "finish_reason": "stop"
+   },
+   {
+    "event": "model_abstain"
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 3767,
+   "completion_tokens": 71,
+   "model_calls": 3,
+   "retries": 0,
+   "model_seconds": 3.481
+  },
+  "context": "[para:bizlaw:p0069:04 | data/Business_Law_I_Essentials_2e_-_WEB.pdf | page 69]\nNegligence\nNegligence is another type of tort that has two meanings. It is the name of a cause of action in a tort, and it is a form of conduct that does not meet the reasonable standard of care (Kionka, 2013). The cause of action is the reason for the damage, and the standard of care is based on the care that a reasonable person would need in a given situation. Negligence is decided by determining the duty of the defendant, whether or not the defendant committed a breach of that duty, the cause of the injury, and the injury itself.\nFor an action to be deemed negligent, there must be a legal duty of care, or responsibility to act, based on the reasonable standard in a situation (Baime, 2018). An individual can be considered negligent if he agreed to watch a child, but did not do so, and then harm came to the child. An individual would not be considered negligent if he did not know that he was supposed to watch the child, or did not agree to watch the child.\n\n[para:bizlaw:p0073:01 | data/Business_Law_I_Essentials_2e_-_WEB.pdf | page 73]\nProduct Liability\nNegligence can occur when products are created because defects can harm consumers. Think about the potential harm that would occur if brake manufacturers were negligent. This negligence would cause brakes to have flaws, which would prevent them from doing their job of stopping cars. If a car does not stop, people will likely be injured. The manufacturing defect would result in a product liability lawsuit, based on legal responsibility for the harmful consequences proximately caused by the product defect (Baime, 2018). Since the courts would not be able to see the negligence occurring, the courts would base their decision on res ipsa loquitor and the fact that the brakes would not normally fail under normal use by the driver.\nFigure 6.6 If brakes do not work like they are supposed to, it could be the result of a manufacturing defect that would result in product liability. (Credit: Valtercirillo/ pixabay/ License: CC0)\n\n[para:bizlaw:p0067:03 | data/Business_Law_I_Essentials_2e_-_WEB.pdf | page 67]\n6.1 Intentional Torts and Negligence\nCivil suits arise from damages suffered by one or more persons or entities at the hands of another person or entity. The damage can happen in a variety of circumstances, and may be intentional or unintentional. Unlike criminal cases, civil suits seek to provide some form of remedy for the loss suffered by an injured party. Civil suits are decided by judges and juries based on the specific situation, especially when violation of statutes, or laws, is not in question.\n\n[para:bizlaw:p0074:00 | data/Business_Law_I_Essentials_2e_-_WEB.pdf | page 74]\nDefenses\nThere are defenses to product liability claims. In some cases, the plaintiff’s own behaviors contribute to his or her injuries, based on his or her own negligence. This situation is known as contributory negligence. Contributory negligence, when determined by the court, prevents any recovery of damages by the plaintiff (Baime, 2018). So, if the court finds contributory negligence, the plaintiff is unable to recover any damages for the injury. Two forms of contributory negligence are assumption of risk and misuse.\n\n[para:bizlaw:p0070:01 | data/Business_Law_I_Essentials_2e_-_WEB.pdf | page 70]\nNegligence\nIn some cases, the duty of care is based on a special relationship, which is a relationship based on an implied duty of care. This implied duty of care often comes about as a duty to aid, or a duty to protect another, e.g., a nurse caring for patients in a hospital, or a lifeguard being responsible for swimmers in the guarded area (Baime, 2018). A passerby does not have a duty to aid, but if the individual tries to help, then he or she is responsible for acting responsibly.\nThe elements of a negligence cause of action are (Kionka, 2013):\n• A duty by the defendant to either act or refrain from acting\n• A breach of that duty, based on a failure to conform to the standard of care by the defendant\n• A causal connection between the defendant’s action or inaction, and the injury to the plaintiff\n• Measurable harm that can be remedied in monetary damages",
+  "context_ids": [
+   "para:bizlaw:p0069:04",
+   "para:bizlaw:p0073:01",
+   "para:bizlaw:p0067:03",
+   "para:bizlaw:p0074:00",
+   "para:bizlaw:p0070:01"
+  ],
+  "context_chars": 4226,
+  "n_searches": 2,
+  "attempted_citations": [],
+  "invalid_citations": [],
+  "repaired_citations": [],
+  "model": "gpt-4o-mini-2024-07-18",
+  "status": "abstain",
+  "answer": "INSUFFICIENT_EVIDENCE: The passages do not specify the number of years a plaintiff has to file a negligence lawsuit under the statute of limitations.",
+  "raw_answer": "INSUFFICIENT_EVIDENCE: The passages do not specify the number of years a plaintiff has to file a negligence lawsuit under the statute of limitations.",
+  "citations": [],
+  "reason": "model_abstained",
+  "elapsed_s": 5.032,
+  "query_id": "x01",
+  "split": "dev",
+  "question": "Under the statute of limitations, how many years does a plaintiff have to file a negligence lawsuit?",
+  "filter": null,
+  "cost_usd": 0.000608,
+  "error": null,
+  "answerable": false
+ },
+ {
+  "events": [
+   {
+    "event": "model_call",
+    "prompt_tokens": 533,
+    "completion_tokens": 18,
+    "latency_s": 1.101,
+    "retries": 0,
+    "model": "gpt-4o-mini-2024-07-18",
+    "finish_reason": "tool_calls"
+   },
+   {
+    "event": "search",
+    "step": 1,
+    "tool": "search",
+    "query": "ethical objections to human reproductive cloning",
+    "filter": null,
+    "top_k": 5,
+    "retrieval_ms": 790.4,
+    "results": [
+     {
+      "rank": 1,
+      "id": "para:phil:p0332:00",
+      "score": -5.049145,
+      "page": 332,
+      "source_id": "phil"
+     },
+     {
+      "rank": 2,
+      "id": "para:phil:p0331:04",
+      "score": -5.576242,
+      "page": 331,
+      "source_id": "phil"
+     },
+     {
+      "rank": 3,
+      "id": "para:phil:p0331:01",
+      "score": -5.673579,
+      "page": 331,
+      "source_id": "phil"
+     },
+     {
+      "rank": 4,
+      "id": "para:phil:p0328:01",
+      "score": -6.615819,
+      "page": 328,
+      "source_id": "phil"
+     },
+     {
+      "rank": 5,
+      "id": "para:phil:p0325:01",
+      "score": -6.805243,
+      "page": 325,
+      "source_id": "phil"
+     }
+    ],
+    "new_ids": [
+     "para:phil:p0332:00",
+     "para:phil:p0331:04",
+     "para:phil:p0331:01",
+     "para:phil:p0328:01",
+     "para:phil:p0325:01"
+    ],
+    "repeated_ids": [],
+    "dropped_budget": [],
+    "context_ids": [
+     "para:phil:p0332:00",
+     "para:phil:p0331:04",
+     "para:phil:p0331:01",
+     "para:phil:p0328:01",
+     "para:phil:p0325:01"
+    ],
+    "context_chars": 4364,
+    "observation_chars": 4507
+   },
+   {
+    "event": "model_call",
+    "prompt_tokens": 1433,
+    "completion_tokens": 17,
+    "latency_s": 1.128,
+    "retries": 0,
+    "model": "gpt-4o-mini-2024-07-18",
+    "finish_reason": "tool_calls"
+   },
+   {
+    "event": "search",
+    "step": 2,
+    "tool": "search",
+    "query": "human reproductive cloning ethical concerns",
+    "filter": null,
+    "top_k": 5,
+    "retrieval_ms": 813.2,
+    "results": [
+     {
+      "rank": 1,
+      "id": "para:phil:p0331:01",
+      "score": -1.246593,
+      "page": 331,
+      "source_id": "phil"
+     },
+     {
+      "rank": 2,
+      "id": "para:phil:p0332:00",
+      "score": -1.345206,
+      "page": 332,
+      "source_id": "phil"
+     },
+     {
+      "rank": 3,
+      "id": "para:phil:p0330:03",
+      "score": -3.773636,
+      "page": 330,
+      "source_id": "phil"
+     },
+     {
+      "rank": 4,
+      "id": "para:phil:p0327:02",
+      "score": -4.163022,
+      "page": 327,
+      "source_id": "phil"
+     },
+     {
+      "rank": 5,
+      "id": "para:phil:p0331:04",
+      "score": -4.83445,
+      "page": 331,
+      "source_id": "phil"
+     }
+    ],
+    "new_ids": [
+     "para:phil:p0330:03",
+     "para:phil:p0327:02"
+    ],
+    "repeated_ids": [
+     "para:phil:p0331:01",
+     "para:phil:p0332:00",
+     "para:phil:p0331:04"
+    ],
+    "dropped_budget": [],
+    "context_ids": [
+     "para:phil:p0332:00",
+     "para:phil:p0331:04",
+     "para:phil:p0331:01",
+     "para:phil:p0328:01",
+     "para:phil:p0325:01",
+     "para:phil:p0330:03",
+     "para:phil:p0327:02"
+    ],
+    "context_chars": 6116,
+    "observation_chars": 2003
+   },
+   {
+    "event": "model_call",
+    "prompt_tokens": 1908,
+    "completion_tokens": 16,
+    "latency_s": 1.091,
+    "retries": 0,
+    "model": "gpt-4o-mini-2024-07-18",
+    "finish_reason": "tool_calls"
+   },
+   {
+    "event": "search",
+    "step": 3,
+    "tool": "search",
+    "query": "ethical issues human cloning",
+    "filter": null,
+    "top_k": 5,
+    "retrieval_ms": 951.3,
+    "results": [
+     {
+      "rank": 1,
+      "id": "para:phil:p0332:00",
+      "score": 1.04848,
+      "page": 332,
+      "source_id": "phil"
+     },
+     {
+      "rank": 2,
+      "id": "para:phil:p0328:01",
+      "score": 0.306086,
+      "page": 328,
+      "source_id": "phil"
+     },
+     {
+      "rank": 3,
+      "id": "para:phil:p0328:05",
+      "score": -0.492681,
+      "page": 328,
+      "source_id": "phil"
+     },
+     {
+      "rank": 4,
+      "id": "para:phil:p0327:02",
+      "score": -0.499411,
+      "page": 327,
+      "source_id": "phil"
+     },
+     {
+      "rank": 5,
+      "id": "para:phil:p0331:01",
+      "score": -2.404469,
+      "page": 331,
+      "source_id": "phil"
+     }
+    ],
+    "new_ids": [
+     "para:phil:p0328:05"
+    ],
+    "repeated_ids": [
+     "para:phil:p0332:00",
+     "para:phil:p0328:01",
+     "para:phil:p0327:02",
+     "para:phil:p0331:01"
+    ],
+    "dropped_budget": [],
+    "context_ids": [
+     "para:phil:p0332:00",
+     "para:phil:p0331:04",
+     "para:phil:p0331:01",
+     "para:phil:p0328:01",
+     "para:phil:p0325:01",
+     "para:phil:p0330:03",
+     "para:phil:p0327:02",
+     "para:phil:p0328:05"
+    ],
+    "context_chars": 7077,
+    "observation_chars": 1259
+   },
+   {
+    "event": "model_call",
+    "prompt_tokens": 2201,
+    "completion_tokens": 21,
+    "latency_s": 1.313,
+    "retries": 0,
+    "model": "gpt-4o-mini-2024-07-18",
+    "finish_reason": "stop"
+   },
+   {
+    "event": "model_abstain"
+   }
+  ],
+  "usage": {
+   "prompt_tokens": 6075,
+   "completion_tokens": 72,
+   "model_calls": 4,
+   "retries": 0,
+   "model_seconds": 4.633
+  },
+  "context": "[para:phil:p0332:00 | data/Introduction_to_Philosophy-WEB.pdf | page 332]\n10.1 The Challenge of Bioethics > Gene Editing and Biodiversity\nto become part of the larger human gene pool. Ethicists have identified numerous ethical issues and concerns related to inheritable genetic modification. For example, it is unclear what long-term effects would result from gene modification, future generations cannot consent to genetic modification, and germ-line interventions may have a negative effect on biodiversity.\n\n[para:phil:p0331:04 | data/Introduction_to_Philosophy-WEB.pdf | page 331]\n10.1 The Challenge of Bioethics > A Utilitarian Approach to Genetic Engineering\nUtilitarians argue that conduct is morally right if it promotes the greatest happiness for the greatest number. Human augmentation through genetic engineering has the potential to increase quality of life by curing or preventing illness and eliminating certain forms of disability, but it could also negatively impact society by, for example, widening the inequality gap, benefiting only a very small percentage of the population, and laying the groundwork for new forms of discrimination. Whether utilitarians support the use of gene editing technologies on humans depends on how such technologies are used and whether their use promotes the greatest good for the greatest number. There are numerous ethical quagmires ahead in the arena of gene editing, but at the same time, this technology holds the promise of eradicating the most terrible of human diseases and thus eliminating unnecessary suffering and improving quality of life.\n\n[para:phil:p0331:01 | data/Introduction_to_Philosophy-WEB.pdf | page 331]\n10.1 The Challenge of Bioethics > Human Augmentation and Genetic Modification\nThe characteristics of an organism can be deliberately modified and altered through genetic engineering. Genetic modification has been practiced in agriculture to intentionally alter the characteristics of certain crops (e.g., rice and corn) so that plants, for example, produce higher yields, are more robust, and have increased nutritional properties. Human augmentation through genetic engineering raises numerous ethical concerns. If genetic information is altered to promote certain traits, then how we define “positive” and “negative” genetic traits could have far-reaching consequences. Positive genetic traits will naturally be ones that are promoted and reinforced, whereas negative genetic traits will be reduced and eliminated. In the future, if human genetic modification becomes widely practiced, it is possible that a focus on “positive” genetic traits will decrease human genetic diversity, making us less adaptable and more vulnerable.\n\n[para:phil:p0328:01 | data/Introduction_to_Philosophy-WEB.pdf | page 328]\n10.1 The Challenge of Bioethics > Four Guiding Principles\nTrials involving human subjects have historically been a source of difficult ethical issues. There are four main ethical principles that can guide our thinking whenever faced with ethical issues in physician and patient or researcher and participant relationships, namely the principles of autonomy, beneficence, nonmaleficence, and justice.\nPrinciple of autonomy: The principle of autonomy states that in clinical settings, patients have a right to exercise agency or self-determination when it comes to making decisions about their own health care. In clinical trials, participant autonomy is protected when potential participants are entered in a trial only after giving their informed consent. Informed consent means an individual is provided all the relevant information about a trial to make their own decision about whether to participate. Participant autonomy and informed consent protect participants from exploitation.\n\n[para:phil:p0325:01 | data/Introduction_to_Philosophy-WEB.pdf | page 325]\n10.1 The Challenge of Bioethics > The Sanctity of Human Life\nOne of the most pervasive moral arguments against abortion is based on the idea of the sanctity of human life. Those who oppose abortion on religious grounds often equate abortion with murder. Broader concerns warn that if a society abandons the sanctity of human life, then it becomes easier to justify other types of killing (Singer 1993). Within the United States, it was just a decade or so after abortion was legalized that the debate on euthanasia arose.\n\n[para:phil:p0330:03 | data/Introduction_to_Philosophy-WEB.pdf | page 330]\n10.1 The Challenge of Bioethics > Human Augmentation and Genetic Modification\nThere are many potential biomedical interventions (e.g., pharmacological) that can be used to improve or enhance capabilities in certain areas, and it can often be difficult to clearly define why some raise moral concerns and others do not. Many people, for instance, ingest caffeine on a regular basis. Caffeine is a mild stimulant that may enhance capabilities, but caffeine use is accepted and generally does not raise moral concerns. In contrast, using Adderall, a pharmaceutical amphetamine salt, not as prescribed for medical and health reasons but to enhance energy levels and memory is the sort of intervention that is often viewed as ethically problematic.\nFIGURE 10.5 Elon Musk stands next to a machine for inserting a Neuralink implant in the human brain. This implant is designed to make it possible for people to operate devices like smartphones and computers using their minds. (credit: “Elon Musk and the Neuralink Future” by Steve Jurvetson/Flickr, CC BY 2.0)\n\n[para:phil:p0327:02 | data/Introduction_to_Philosophy-WEB.pdf | page 327]\n10.1 The Challenge of Bioethics > Clinical Trials\nThey have raised issues related to, for example, informed consent, access to medical resources, and whether the ends of using human subjects justify the means. Identifying and debating these ethical issues can promote, where applicable, changes to the way trials are conducted to address areas of concern.\nFIGURE 10.4 Ongoing clinical trials nationwide as of November 14, 2021. (source: National Library of Medicine;\nattribution: Copyright Rice University, OpenStax, under CC BY NC-SA 4.0 license)\n\n[para:phil:p0328:05 | data/Introduction_to_Philosophy-WEB.pdf | page 328]\n10.1 The Challenge of Bioethics > Four Guiding Principles\nIn the arena of human experimentation, modern safeguards and guidelines were created in response to historical cases of exploitation and abuse. The Nuremburg Code, for example, represents the first attempt to establish guidelines for clinical trials created in response to the abuses and horrors perpetrated by Nazi physicians during World War II. The creation of institutional review boards (IRBs) was another method to mitigate ethical issues posed by clinical trials. IRBs comprised of experts in science, medicine, and the law are tasked with reviewing and vetting parameters of trials to protect participants and identify potential issues. Clinical trial guidelines and IRBs aim to promote that all trials with human subjects adhere to the four ethical principles above and protect participant privacy and confidentiality.",
+  "context_ids": [
+   "para:phil:p0332:00",
+   "para:phil:p0331:04",
+   "para:phil:p0331:01",
+   "para:phil:p0328:01",
+   "para:phil:p0325:01",
+   "para:phil:p0330:03",
+   "para:phil:p0327:02",
+   "para:phil:p0328:05"
+  ],
+  "context_chars": 7077,
+  "n_searches": 3,
+  "attempted_citations": [],
+  "invalid_citations": [],
+  "repaired_citations": [],
+  "model": "gpt-4o-mini-2024-07-18",
+  "status": "abstain",
+  "answer": "INSUFFICIENT_EVIDENCE: The passages do not provide specific ethical objections to human reproductive cloning.",
+  "raw_answer": "INSUFFICIENT_EVIDENCE: The passages do not provide specific ethical objections to human reproductive cloning.",
+  "citations": [],
+  "reason": "model_abstained",
+  "elapsed_s": 7.189,
+  "query_id": "x02",
+  "split": "dev",
+  "question": "What ethical objections to human reproductive cloning does the philosophy textbook discuss?",
+  "filter": null,
+  "cost_usd": 0.000954,
+  "error": null,
+  "answerable": false
+ }
+]

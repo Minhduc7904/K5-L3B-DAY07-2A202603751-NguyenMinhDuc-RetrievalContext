@@ -1,0 +1,9 @@
+# Packages imported by the code of this repo (src/, tests/), pinned to the versions installed when the reported runs were made
+# (Python 3.12.6, Windows 11). Install with: python -m pip install -r requirements.txt
+openai==3.46.0                  # src/agent.py, src/run_agent_eval.py (OpenAI chat completions with function calling)
+psycopg[binary]==3.3.8          # src/retrieval.py, src/export_day6.py (Day 6 pgvector store); installed psycopg-binary 3.3.8
+python-dotenv==1.2.4            # src/agent.py, src/retrieval.py, src/export_day6.py (.env)
+sentence-transformers==6.2.0    # src/retrieval.py (SentenceTransformer bge-base-en-v1.5 query embeddings, CrossEncoder rerank)
+PyMuPDF==1.24.10                # src/verify_absent.py only (import fitz): whole-PDF check of the absent questions
+httpx==0.28.1                   # tests/test_agent_mock.py only (also a dependency of openai)
+# torch==2.15.0                 # not imported directly: pulled in by sentence-transformers; the CPU build was used and is recorded in every summary.json

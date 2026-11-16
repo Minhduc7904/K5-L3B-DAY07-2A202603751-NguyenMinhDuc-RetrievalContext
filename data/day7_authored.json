@@ -1,0 +1,72 @@
+[
+  {
+    "id": "t06",
+    "split": "test",
+    "type": "paraphrase",
+    "question": "How did John Stuart Mill revise Bentham's view of pleasure?",
+    "expected_answer": "He realized that pleasures differ in quality as well as quantity, distinguishing higher and lower pleasures.",
+    "gold_source_id": "phil",
+    "gold_page": 287,
+    "gold_chapter": 9,
+    "evidence_quote": "He realized that pleasures differ both quantitatively and qualitatively.",
+    "filter": null,
+    "alt_valid": [],
+    "notes": "Day 7 authored (2026-11-16) before any Day 7 run. Evidence unique in the corpus (checked). Related but weaker: phil p285 only introduces Bentham/Mill."
+  },
+  {
+    "id": "t07",
+    "split": "test",
+    "type": "direct",
+    "question": "On what basis do act utilitarians decide whether an action is right?",
+    "expected_answer": "They apply the greatest happiness principle case by case, to each situation.",
+    "gold_source_id": "phil",
+    "gold_page": 288,
+    "gold_chapter": 9,
+    "evidence_quote": "Act utilitarians argue that we should apply the greatest happiness principle on a case-by-case basis.",
+    "filter": null,
+    "alt_valid": [],
+    "notes": "Day 7 authored. Evidence unique in the corpus. Contrast with rule utilitarianism (same page range) is a mild distractor."
+  },
+  {
+    "id": "t08",
+    "split": "test",
+    "type": "paraphrase",
+    "question": "Which employment doctrine makes workplace drug testing legally possible, and roughly what share of private-sector employees does it cover?",
+    "expected_answer": "Employment at will; approximately 85 percent of private-sector employees.",
+    "gold_source_id": "bizethics",
+    "gold_page": 182,
+    "gold_chapter": 6,
+    "evidence_quote": "the key concept that makes drug testing possible is employment at will, which covers approximately 85 percent of the employees in the private sector",
+    "filter": null,
+    "alt_valid": [],
+    "notes": "Day 7 authored. Evidence unique in the corpus."
+  },
+  {
+    "id": "t09",
+    "split": "test",
+    "type": "direct",
+    "question": "Between 1973 and 2013, how did growth in U.S. hourly compensation compare with growth in productivity?",
+    "expected_answer": "Hourly compensation rose only 9 percent, whereas productivity rose 74 percent.",
+    "gold_source_id": "bizethics",
+    "gold_page": 176,
+    "gold_chapter": 6,
+    "evidence_quote": "from 1973 to 2013, hourly compensation rose only 9 percent, whereas productivity rose 74 percent in the same period.",
+    "filter": null,
+    "alt_valid": [],
+    "notes": "Day 7 authored. Deliberate near-duplicate decoys (NOT valid): bizethics p175 chunk 02 and p176 chunk 00 give 1973-2016 figures (productivity +74 percent, wages +12 percent); p171 gives the post-2000 figures (+22 percent / +2 percent). The question names 1973-2013, so only the Figure 6.12 caption answers it."
+  },
+  {
+    "id": "t10",
+    "split": "test",
+    "type": "paraphrase",
+    "question": "Under the Equal Pay Act, on what grounds may an employer legally pay one sex more than the other?",
+    "expected_answer": "A seniority system, a merit system, a system based on quality or quantity of production (e.g., piece rates), or any other factor other than sex.",
+    "gold_source_id": "bizlaw",
+    "gold_page": 107,
+    "gold_chapter": 9,
+    "evidence_quote": "An employer may legally pay employees of one sex more than another sex if wages are based on a system of seniority, a system of merit, a system that distinguishes payment on the basis of quality and quantity of production (e.g., certain piece rates), or if payment is differentiated on \"any other factor other than sex.\"",
+    "filter": null,
+    "alt_valid": [],
+    "notes": "Day 7 authored. Evidence unique in the corpus. Multi-item answer: grade 2 only if all four defenses are given. bizethics p169 mentions equal pay legislation but not these defenses."
+  }
+]

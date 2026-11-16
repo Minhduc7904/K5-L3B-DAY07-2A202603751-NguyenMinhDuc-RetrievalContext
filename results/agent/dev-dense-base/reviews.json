@@ -1,0 +1,228 @@
+[
+ {
+  "query_id": "d01",
+  "question": "In Kant's second main test of a moral rule, how must we treat other people, and ourselves?",
+  "status": "answered",
+  "context_grade": 2,
+  "answer_grade": 2,
+  "citation_support": [
+   true
+  ]
+ },
+ {
+  "query_id": "d02",
+  "question": "Which kind of euthanasia does the utilitarian philosopher Peter Singer still reject, and how is it defined?",
+  "status": "answered",
+  "context_grade": 2,
+  "answer_grade": 2,
+  "citation_support": [
+   true
+  ]
+ },
+ {
+  "query_id": "d03",
+  "question": "Which ethical principle does informed consent protect for people who take part in a clinical trial?",
+  "status": "answered",
+  "context_grade": 2,
+  "answer_grade": 2,
+  "citation_support": [
+   true
+  ]
+ },
+ {
+  "query_id": "d04",
+  "question": "Who introduced the term deep ecology, and what does this view assume about living things?",
+  "status": "answered",
+  "context_grade": 2,
+  "answer_grade": 2,
+  "citation_support": [
+   true
+  ]
+ },
+ {
+  "query_id": "d05",
+  "question": "What protection do workers have against employer punishment if they complain to the workplace safety agency about hazards?",
+  "status": "answered",
+  "context_grade": 2,
+  "answer_grade": 2,
+  "citation_support": [
+   true,
+   true
+  ]
+ },
+ {
+  "query_id": "d06",
+  "question": "When a coworker rather than a supervisor harasses someone, at what point does the company become liable?",
+  "status": "answered",
+  "context_grade": 2,
+  "answer_grade": 2,
+  "citation_support": [
+   true
+  ]
+ },
+ {
+  "query_id": "d07",
+  "question": "Before an employee takes suspected wrongdoing by the employer to a government agency, which step should they usually try first?",
+  "status": "answered",
+  "context_grade": 2,
+  "answer_grade": 2,
+  "citation_support": [
+   true
+  ]
+ },
+ {
+  "query_id": "d08",
+  "question": "In California, can an employer enforce an agreement that stops a former employee from working elsewhere after leaving?",
+  "status": "answered",
+  "context_grade": 2,
+  "answer_grade": 2,
+  "citation_support": [
+   true
+  ]
+ },
+ {
+  "query_id": "d09",
+  "question": "What kind of damages are normally awarded when someone relied on a broken promise that lacked consideration, and which kind is usually unavailable?",
+  "status": "answered",
+  "context_grade": 2,
+  "answer_grade": 2,
+  "citation_support": [
+   true
+  ]
+ },
+ {
+  "query_id": "d10",
+  "question": "Can someone under 18 who signed a contract cancel it, and are there contracts they cannot cancel?",
+  "status": "answered",
+  "context_grade": 2,
+  "answer_grade": 2,
+  "citation_support": [
+   true
+  ]
+ },
+ {
+  "query_id": "d11",
+  "question": "How much unpaid leave may eligible workers take for family or medical emergencies, and which employers does that law cover?",
+  "status": "answered",
+  "context_grade": 2,
+  "answer_grade": 2,
+  "citation_support": [
+   true
+  ]
+ },
+ {
+  "query_id": "d12",
+  "question": "Which workers fall outside the federal workplace safety law's protection?",
+  "status": "answered",
+  "context_grade": 2,
+  "answer_grade": 2,
+  "citation_support": [
+   true
+  ]
+ },
+ {
+  "query_id": "d13",
+  "question": "How many employees must a business have before the main federal law against workplace discrimination based on race, sex, religion, color or national origin applies to it?",
+  "status": "answered",
+  "context_grade": 2,
+  "answer_grade": 2,
+  "citation_support": [
+   true
+  ]
+ },
+ {
+  "query_id": "d14",
+  "question": "Even after an injured employee receives workplace-injury compensation, in what situation can they still take the employer to court?",
+  "status": "answered",
+  "context_grade": 2,
+  "answer_grade": 2,
+  "citation_support": [
+   true
+  ]
+ },
+ {
+  "query_id": "d15",
+  "question": "What development in 2012 made most policies forbidding employees from discussing their salaries unenforceable?",
+  "status": "answered",
+  "context_grade": 2,
+  "answer_grade": 2,
+  "citation_support": [
+   true
+  ]
+ },
+ {
+  "query_id": "d16",
+  "question": "Which two exceptions weaken the federal law that appears to bar employers from monitoring employees' communications?",
+  "status": "answered",
+  "context_grade": 2,
+  "answer_grade": 2,
+  "citation_support": [
+   true
+  ]
+ },
+ {
+  "query_id": "d17",
+  "question": "If a person injured by a defective product is found partly responsible but may still collect damages, how is the amount they can recover determined?",
+  "status": "answered",
+  "context_grade": 2,
+  "answer_grade": 2,
+  "citation_support": [
+   true
+  ]
+ },
+ {
+  "query_id": "d18",
+  "question": "How much advance notice must employers give before closing a plant or laying off workers, and how large must the employer be?",
+  "status": "answered",
+  "context_grade": 2,
+  "answer_grade": 2,
+  "citation_support": [
+   true
+  ]
+ },
+ {
+  "query_id": "d19",
+  "question": "In the virtue-ethics account of character, how does a person's upbringing shape their tendencies relative to the ideal middle state?",
+  "status": "answered",
+  "context_grade": 2,
+  "answer_grade": 2,
+  "citation_support": [
+   true
+  ]
+ },
+ {
+  "query_id": "d20",
+  "question": "Under what circumstances do some ethicists regard altering human genes as morally acceptable, and when do they regard it as unacceptable?",
+  "status": "answered",
+  "context_grade": 2,
+  "answer_grade": 1,
+  "citation_support": [
+   true,
+   false
+  ]
+ },
+ {
+  "query_id": "d21",
+  "question": "Which year is given for the federal statute that obliges employers to warn workers beforehand about large-scale layoffs and facility shutdowns?",
+  "status": "answered",
+  "context_grade": 2,
+  "answer_grade": 2,
+  "citation_support": [
+   true
+  ]
+ },
+ {
+  "query_id": "x01",
+  "question": "Under the statute of limitations, how many years does a plaintiff have to file a negligence lawsuit?",
+  "status": "abstain",
+  "abstention_correct": true,
+  "citation_support": []
+ },
+ {
+  "query_id": "x02",
+  "question": "What ethical objections to human reproductive cloning does the philosophy textbook discuss?",
+  "status": "abstain",
+  "abstention_correct": true,
+  "citation_support": []
+ }
+]

@@ -1,0 +1,450 @@
+[
+  {
+    "id": "d01",
+    "split": "dev",
+    "question": "In Kant's second main test of a moral rule, how must we treat other people, and ourselves?",
+    "expected_answer": "Always as an end in themselves and never merely as a means.",
+    "gold": [
+      {
+        "source_id": "phil",
+        "page": 291,
+        "evidence": "So act that you use humanity, in your own person as well as in the person of any other, always at the same time as an end, never merely as a means",
+        "evidence_original": "So act that you use humanity, in your own person as well as in the person of any other, always at the same time as an end, never merely as a means"
+      }
+    ],
+    "type": "paraphrase",
+    "notes": "Kant, humanity formulation; query does not name it. Partial (not accepted) alternative: phil p329 says 'treat all persons as ends in themselves, never as means only' but not 'ourselves'/second formulation."
+  },
+  {
+    "id": "d02",
+    "split": "dev",
+    "question": "Which kind of euthanasia does the utilitarian philosopher Peter Singer still reject, and how is it defined?",
+    "expected_answer": "Involuntary euthanasia: the decision to euthanize is made without patient input and against the patient's interests.",
+    "gold": [
+      {
+        "source_id": "phil",
+        "page": 326,
+        "evidence": "The only form of euthanasia Signer opposes is involuntary euthanasia. Euthanasia is involuntary when the decision to euthanize is made without patient input and against their interests.",
+        "evidence_original": "The only form of euthanasia Signer opposes is involuntary euthanasia. Euthanasia is involuntary when the decision to euthanize is made without patient input and against their interests."
+      }
+    ],
+    "type": "direct",
+    "notes": "The book spells the name 'Signer' (typo); quote kept verbatim."
+  },
+  {
+    "id": "d03",
+    "split": "dev",
+    "question": "Which ethical principle does informed consent protect for people who take part in a clinical trial?",
+    "expected_answer": "Participant autonomy (self-determination).",
+    "gold": [
+      {
+        "source_id": "phil",
+        "page": 328,
+        "evidence": "In clinical trials, participant autonomy is protected when potential participants are entered in a trial only after giving their informed consent.",
+        "evidence_original": "In clinical trials, participant autonomy is protected when potential participants are entered in a trial only after giving their informed consent."
+      }
+    ],
+    "type": "paraphrase",
+    "notes": ""
+  },
+  {
+    "id": "d04",
+    "split": "dev",
+    "question": "Who introduced the term deep ecology, and what does this view assume about living things?",
+    "expected_answer": "Arne Naess; that all living things are valuable in their own right.",
+    "gold": [
+      {
+        "source_id": "phil",
+        "page": 337,
+        "evidence": "deep ecology, a term first coined by Norwegian philosopher Arne Naess (1912–2009), assumes that all living things are valuable in their own right",
+        "evidence_original": "deep ecology, a term first coined by Norwegian philosopher Arne Naess (1912–2009), assumes that all living things are valuable in their own right"
+      }
+    ],
+    "type": "direct",
+    "notes": ""
+  },
+  {
+    "id": "d05",
+    "split": "dev",
+    "question": "What protection do workers have against employer punishment if they complain to the workplace safety agency about hazards?",
+    "expected_answer": "Protection against any employer sanctions as a consequence of complaining to OSHA about workplace conditions or hazards.",
+    "gold": [
+      {
+        "source_id": "bizethics",
+        "page": 158,
+        "evidence": "to obtain copies of tests done to measure workplace hazards, and protection against any employer sanctions as a consequence of complaining to OSHA about workplace conditions or hazards.",
+        "evidence_original": "to obtain copies of tests done to measure workplace hazards, and protection against any employer sanctions as a consequence of complaining to OSHA about workplace conditions or hazards."
+      },
+      {
+        "source_id": "bizethics",
+        "page": 211,
+        "evidence": "Under many federal laws, an employer cannot retaliate by firing, demoting, or taking any other adverse action against workers who report injuries, concerns, or other protected activity. One of the first laws with a specific whistleblower protection provision was the Occupational Safety and Health Act of 1970.",
+        "evidence_original": "Under many federal laws, an employer cannot retaliate by firing, demoting, or taking any other adverse action against workers who report injuries, concerns, or other protected activity. One of the first laws with a specific whistleblower protection provision was the Occupational Safety and Health Act of 1970."
+      }
+    ],
+    "filter": {
+      "document_id": "bizethics"
+    },
+    "type": "paraphrase",
+    "notes": "Filter = user works inside the Business Ethics textbook (assumed input). Out-of-scope decoys: bizlaw p98 (OSHA overview, no anti-retaliation), phil p340 (OSHA history), phil p341 (confidential complaints, no sanctions clause). p211 is an in-scope, fully valid alternative (whistleblower protection)."
+  },
+  {
+    "id": "d06",
+    "split": "dev",
+    "question": "When a coworker rather than a supervisor harasses someone, at what point does the company become liable?",
+    "expected_answer": "Usually after the second occurrence, assuming the company had notice of the first; with a supervisor, liability arises the first time.",
+    "gold": [
+      {
+        "source_id": "bizethics",
+        "page": 159,
+        "evidence": "The harasser can be the victim’s supervisor (which creates company liability the first time it happens) or a peer coworker (which usually creates liability after the second time it happens, assuming the company had notice of the first occurrence).",
+        "evidence_original": "The harasser can be the victim's supervisor (which creates company liability the first time it happens) or a peer coworker (which usually creates liability after the second time it happens, assuming the company had notice of the first occurrence)."
+      }
+    ],
+    "filter": {
+      "document_id": "bizethics",
+      "chapter": 6
+    },
+    "type": "conditional",
+    "notes": "Filter = user works in Business Ethics chapter 6 (assumed input; chapter numbers collide across books so document_id is always included). Out-of-scope lexical decoys: bizethics p204 (ch7: 'The harasser can be a supervisor, coworker, ...', no liability rule), bizlaw p106 (sexual harassment under Title VII)."
+  },
+  {
+    "id": "d07",
+    "split": "dev",
+    "question": "Before an employee takes suspected wrongdoing by the employer to a government agency, which step should they usually try first?",
+    "expected_answer": "Internal reporting channels: disclose the problem to management before going public.",
+    "gold": [
+      {
+        "source_id": "bizethics",
+        "page": 211,
+        "evidence": "The employee should usually try internal reporting channels first, to disclose the problem to management before going public.",
+        "evidence_original": "The employee should usually try internal reporting channels first, to disclose the problem to management before going public."
+      }
+    ],
+    "type": "direct",
+    "notes": ""
+  },
+  {
+    "id": "d08",
+    "split": "dev",
+    "question": "In California, can an employer enforce an agreement that stops a former employee from working elsewhere after leaving?",
+    "expected_answer": "No. A non-compete arrangement that limits employment after leaving the employer is unenforceable in California.",
+    "gold": [
+      {
+        "source_id": "bizethics",
+        "page": 195,
+        "evidence": "In California, therefore, a non-compete arrangement that limits employment after leaving the employer is now unenforceable.",
+        "evidence_original": "In California, therefore, a non-compete arrangement that limits employment after leaving the employer is now unenforceable."
+      }
+    ],
+    "type": "conditional",
+    "notes": "Sentence sits at the very top of p195 and continues an argument from p194, whose last lines say 'California enacted a law in 2017 saying that most non-compete agreements are void'. p194 is only a PARTIAL alternative (says 'most ... void', not 'unenforceable') and is not accepted as a hit; deliberate page-boundary stress test."
+  },
+  {
+    "id": "d09",
+    "split": "dev",
+    "question": "What kind of damages are normally awarded when someone relied on a broken promise that lacked consideration, and which kind is usually unavailable?",
+    "expected_answer": "Reliance damages (restoring the party to the position before the promise); expectation damages are not usually available.",
+    "gold": [
+      {
+        "source_id": "bizlaw",
+        "page": 81,
+        "evidence": "then the court will issue the appropriate damages in the form of reliance damages to restore the aggrieved party to the position they were in prior to the broken promise. Expectation damages are not usually available if promissory estoppel is being claimed.",
+        "evidence_original": "then the court will issue the appropriate damages in the form of reliance damages to restore the aggrieved party to the position they were in prior to the broken promise. Expectation damages are not usually available if promissory estoppel is being claimed."
+      }
+    ],
+    "type": "conditional",
+    "notes": "Decoy: bizlaw p84 (restitution 'restores ... to the position')."
+  },
+  {
+    "id": "d10",
+    "split": "dev",
+    "question": "Can someone under 18 who signed a contract cancel it, and are there contracts they cannot cancel?",
+    "expected_answer": "Generally a minor may honor or void the contract, but in most states not a contract for necessities (food, clothing), and it can no longer be voided once the minor turns 18.",
+    "gold": [
+      {
+        "source_id": "bizlaw",
+        "page": 82,
+        "evidence": "In most states, minors under the age of 18 lack the capacity to make a contract and may therefore either honor an agreement or void the contract. However, there are a few exceptions to this rule. In most states, a contract for necessities (i.e. food and clothing) may not be voided. Also, in most states, the contract can no longer be voided when the minor turns 18.",
+        "evidence_original": "In most states, minors under the age of 18 lack the capacity to make a contract and may therefore either honor an agreement or void the contract. However, there are a few exceptions to this rule. In most states, a contract for necessities (i.e. food and clothing) may not be voided. Also, in most states, the contract can no longer be voided when the minor turns 18."
+      }
+    ],
+    "type": "conditional",
+    "notes": "Sentence at the top of p82 (section heading just above)."
+  },
+  {
+    "id": "d11",
+    "split": "dev",
+    "question": "How much unpaid leave may eligible workers take for family or medical emergencies, and which employers does that law cover?",
+    "expected_answer": "Up to 12 weeks in any 12-month period; public and private employers with 50 or more employees.",
+    "gold": [
+      {
+        "source_id": "bizlaw",
+        "page": 100,
+        "evidence": "The Family and Medical Leave Act (FMLA), enacted in 1993, guarantees all eligible workers up to 12 weeks of unpaid leave during any 12-month period for family and medical emergencies. The FMLA applies to all public and private employers with 50 or more employees,",
+        "evidence_original": "The Family and Medical Leave Act (FMLA), enacted in 1993, guarantees all eligible workers up to 12 weeks of unpaid leave during any 12-month period for family and medical emergencies. The FMLA applies to all public and private employers with 50 or more employees,"
+      }
+    ],
+    "type": "direct",
+    "notes": "Easy lexically (high overlap); kept as an easy anchor."
+  },
+  {
+    "id": "d12",
+    "split": "dev",
+    "question": "Which workers fall outside the federal workplace safety law's protection?",
+    "expected_answer": "The self-employed and (in most states) workers of state and local governments are not covered.",
+    "gold": [
+      {
+        "source_id": "bizlaw",
+        "page": 98,
+        "evidence": "Private employers and federal government agencies are all covered under OSHA protection, although the self-employed and workers at state and local governments in most states are not covered.",
+        "evidence_original": "Private employers and federal government agencies are all covered under OSHA protection, although the self-employed and workers at state and local governments in most states are not covered."
+      }
+    ],
+    "type": "conditional",
+    "notes": "Topic overlaps d05 (OSHA) but a different book/page; deliberately unfiltered."
+  },
+  {
+    "id": "d13",
+    "split": "dev",
+    "question": "How many employees must a business have before the main federal law against workplace discrimination based on race, sex, religion, color or national origin applies to it?",
+    "expected_answer": "It applies to employers engaged in commercial activity with 15 or more employees for 20 consecutive weeks in a year.",
+    "gold": [
+      {
+        "source_id": "bizlaw",
+        "page": 104,
+        "evidence": "It bans employers from discriminating against employees in their hiring, firing, and promotion practices on the basis of sex, national origin, color, religion, or race. All employers who are engaged in commercial activity and who employ 15 or more employees for 20 consecutive weeks in a year are covered by the Act.",
+        "evidence_original": "It bans employers from discriminating against employees in their hiring, firing, and promotion practices on the basis of sex, national origin, color, religion, or race. All employers who are engaged in commercial activity and who employ 15 or more employees for 20 consecutive weeks in a year are covered by the Act."
+      }
+    ],
+    "filter": {
+      "document_id": "bizlaw"
+    },
+    "type": "paraphrase",
+    "notes": "Filter = user works inside the Business Law textbook (assumed input). In-scope near-miss decoy: bizlaw p108 (Age Discrimination Act, 20 employees, a different statute and protected class). Out-of-scope decoys: bizethics p159 (Title VII/EEOC, no size threshold)."
+  },
+  {
+    "id": "d14",
+    "split": "dev",
+    "question": "Even after an injured employee receives workplace-injury compensation, in what situation can they still take the employer to court?",
+    "expected_answer": "When the employer intentionally injured the worker (compensation is otherwise an exclusive remedy).",
+    "gold": [
+      {
+        "source_id": "bizlaw",
+        "page": 99,
+        "evidence": "It is important to note that workers’ compensation is understood to be an exclusive remedy. This term means that workers cannot sue the employer in court for further damages beyond that which is paid out under the compensation claim. An exception is made when the employer intentionally injures the worker, however.",
+        "evidence_original": "It is important to note that workers' compensation is understood to be an exclusive remedy. This term means that workers cannot sue the employer in court for further damages beyond that which is paid out under the compensation claim. An exception is made when the employer intentionally injures the worker, however."
+      }
+    ],
+    "type": "conditional",
+    "notes": ""
+  },
+  {
+    "id": "d15",
+    "split": "dev",
+    "question": "What development in 2012 made most policies forbidding employees from discussing their salaries unenforceable?",
+    "expected_answer": "Multiple decisions by the NLRB and federal courts found most pay secrecy policies violate federal labor law.",
+    "gold": [
+      {
+        "source_id": "bizethics",
+        "page": 209,
+        "evidence": "The real game changer came in 2012, when multiple decisions by the National Labor Relations Board (NLRB) and various federal courts made it clear that most pay secrecy policies are unenforceable and violate federal labor law",
+        "evidence_original": "The real game changer came in 2012, when multiple decisions by the National Labor Relations Board (NLRB) and various federal courts made it clear that most pay secrecy policies are unenforceable and violate federal labor law"
+      }
+    ],
+    "type": "direct",
+    "notes": "Easy lexically; gives the year 2012 in the query."
+  },
+  {
+    "id": "d16",
+    "split": "dev",
+    "question": "Which two exceptions weaken the federal law that appears to bar employers from monitoring employees' communications?",
+    "expected_answer": "The business purpose exception and the consent exception (ECPA).",
+    "gold": [
+      {
+        "source_id": "bizethics",
+        "page": 179,
+        "evidence": "it contains two big exceptions that weaken its protection of employees’ rights. One is the business purpose exception. This allows employers—on the basis of legitimate business purposes—to monitor electronic and oral communications, and employers generally assert a legitimate business purpose to be present. The other widely used exception is the consent exception, which allows employers to monitor employee communications provided employees have given their consent.",
+        "evidence_original": "it contains two big exceptions that weaken its protection of employees' rights. One is the business purpose exception. This allows employers—on the basis of legitimate business purposes—to monitor electronic and oral communications, and employers generally assert a legitimate business purpose to be present. The other widely used exception is the consent exception, which allows employers to monitor employee communications provided employees have given their consent."
+      }
+    ],
+    "type": "direct",
+    "notes": "Long evidence (~470 chars) - stresses small fixed-size chunks (a 500-char window almost cannot contain it)."
+  },
+  {
+    "id": "d17",
+    "split": "dev",
+    "question": "If a person injured by a defective product is found partly responsible but may still collect damages, how is the amount they can recover determined?",
+    "expected_answer": "Under comparative negligence each side's share of negligence is compared and the plaintiff recovers the defendant's share (e.g., 70% of damages if the defendant is 70% responsible).",
+    "gold": [
+      {
+        "source_id": "bizlaw",
+        "page": 74,
+        "evidence": "The amount of negligence on behalf of each part (plaintiff and defendant) is compared to determine the damages to which the plaintiff is entitled (Baime, 2018). If a plaintiff is found to be 30% responsible, and the defendant 70% responsible, then the plaintiff would be entitled to 70% of the damages suffered.",
+        "evidence_original": "The amount of negligence on behalf of each part (plaintiff and defendant) is compared to determine the damages to which the plaintiff is entitled (Baime, 2018). If a plaintiff is found to be 30% responsible, and the defendant 70% responsible, then the plaintiff would be entitled to 70% of the damages suffered."
+      }
+    ],
+    "type": "paraphrase",
+    "notes": "Semantic paraphrase (low-to-moderate lexical overlap). Same page also holds the contradicting contributory-negligence rule (no recovery) - an intended same-page decoy; the query says the plaintiff 'may still collect damages'. Source typo 'each part'.",
+    "day6_id": "t01",
+    "day6_split": "test"
+  },
+  {
+    "id": "d18",
+    "split": "dev",
+    "question": "How much advance notice must employers give before closing a plant or laying off workers, and how large must the employer be?",
+    "expected_answer": "At least 60 days notice, for employers with more than 100 employees (WARN Act).",
+    "gold": [
+      {
+        "source_id": "bizlaw",
+        "page": 102,
+        "evidence": "The Worker Adjustment and Retraining Notification (WARN) Act requires that employers with more than 100 employees give workers at least 60 days notice before engaging in layoffs or plant closings.",
+        "evidence_original": "The Worker Adjustment and Retraining Notification (WARN) Act requires that employers with more than 100 employees give workers at least 60 days notice before engaging in layoffs or plant closings."
+      }
+    ],
+    "filter": {
+      "document_id": "bizlaw"
+    },
+    "type": "direct",
+    "notes": "Filter = user works inside the Business Law textbook (assumed input). Out-of-scope decoy: bizethics p157 discusses 60 days notice (and says 1989) but never states the 100-employee threshold. The WARN bullet starts ~16% into p102 (after the 1959 bullet) and is followed by a garbled table fragment ('Amendments of the Taft-Hartley Act ...') that will contaminate paragraph chunks. Mirror pair with t05.",
+    "day6_id": "t02",
+    "day6_split": "test"
+  },
+  {
+    "id": "d19",
+    "split": "dev",
+    "question": "In the virtue-ethics account of character, how does a person's upbringing shape their tendencies relative to the ideal middle state?",
+    "expected_answer": "A good upbringing forms positive dispositions that lie closer to the mean state; a bad upbringing forms negative dispositions farther from it.",
+    "gold": [
+      {
+        "source_id": "phil",
+        "page": 299,
+        "evidence": "A good upbringing will promote the formation of positive dispositions, making one’s tendencies closer to the mean state. A bad upbringing, in contrast, will promote the formation of negative dispositions, making one’s tendencies farther from the mean state",
+        "evidence_original": "A good upbringing will promote the formation of positive dispositions, making one's tendencies closer to the mean state. A bad upbringing, in contrast, will promote the formation of negative dispositions, making one's tendencies farther from the mean state"
+      }
+    ],
+    "type": "paraphrase",
+    "notes": "",
+    "day6_id": "t03",
+    "day6_split": "test"
+  },
+  {
+    "id": "d20",
+    "split": "dev",
+    "question": "Under what circumstances do some ethicists regard altering human genes as morally acceptable, and when do they regard it as unacceptable?",
+    "expected_answer": "Permissible when aimed at therapy (restoring a normal state of health); impermissible when aimed at enhancement, which goes beyond normal capabilities.",
+    "gold": [
+      {
+        "source_id": "phil",
+        "page": 332,
+        "evidence": "Ethicists argue that genetic modification is morally permissible when it aims at therapy and morally impermissible when it aims at enhancement. A therapy only aims to return an individual to a normal state of health, but an enhancement aims to go beyond an individual’s normal capabilities.",
+        "evidence_original": "Ethicists argue that genetic modification is morally permissible when it aims at therapy and morally impermissible when it aims at enhancement. A therapy only aims to return an individual to a normal state of health, but an enhancement aims to go beyond an individual's normal capabilities."
+      }
+    ],
+    "type": "conditional",
+    "notes": "",
+    "day6_id": "t04",
+    "day6_split": "test"
+  },
+  {
+    "id": "d21",
+    "split": "dev",
+    "question": "Which year is given for the federal statute that obliges employers to warn workers beforehand about large-scale layoffs and facility shutdowns?",
+    "expected_answer": "1989 (per this textbook).",
+    "gold": [
+      {
+        "source_id": "bizethics",
+        "page": 157,
+        "evidence": "The Worker Adjustment and Retraining Notification (WARN) Act of 1989 has now been in effect for almost three decades, protecting workers and their families (as well as their communities) by mandating that employers provide sixty days’ advance notice of mass layoffs and plant closings",
+        "evidence_original": "The Worker Adjustment and Retraining Notification (WARN) Act of 1989 has now been in effect for almost three decades, protecting workers and their families (as well as their communities) by mandating that employers provide sixty days' advance notice of mass layoffs and plant closings"
+      }
+    ],
+    "filter": {
+      "document_id": "bizethics"
+    },
+    "type": "direct",
+    "notes": "Filter = user works inside the Business Ethics textbook (assumed input). The two books disagree: bizlaw p102 lists the WARN Act under '1988'. Without the filter the query is scope-ambiguous (1988 vs 1989), so an A/B miss here is scope ambiguity, not a retrieval failure. Mirror pair with t02 (same topic, other book); both are in TEST so dev analysis cannot leak either answer.",
+    "day6_id": "t05",
+    "day6_split": "test"
+  },
+  {
+    "id": "t06",
+    "split": "test",
+    "question": "How did John Stuart Mill revise Bentham's view of pleasure?",
+    "expected_answer": "He realized that pleasures differ in quality as well as quantity, distinguishing higher and lower pleasures.",
+    "gold": [
+      {
+        "source_id": "phil",
+        "page": 287,
+        "evidence": "He realized that pleasures differ both quantitatively and qualitatively.",
+        "evidence_original": "He realized that pleasures differ both quantitatively and qualitatively."
+      }
+    ],
+    "type": "paraphrase",
+    "notes": "Day 7 authored (2026-11-16) before any Day 7 run. Evidence unique in the corpus (checked). Related but weaker: phil p285 only introduces Bentham/Mill."
+  },
+  {
+    "id": "t07",
+    "split": "test",
+    "question": "On what basis do act utilitarians decide whether an action is right?",
+    "expected_answer": "They apply the greatest happiness principle case by case, to each situation.",
+    "gold": [
+      {
+        "source_id": "phil",
+        "page": 288,
+        "evidence": "Act utilitarians argue that we should apply the greatest happiness principle on a case-by-case basis.",
+        "evidence_original": "Act utilitarians argue that we should apply the greatest happiness principle on a case-by-case basis."
+      }
+    ],
+    "type": "direct",
+    "notes": "Day 7 authored. Evidence unique in the corpus. Contrast with rule utilitarianism (same page range) is a mild distractor."
+  },
+  {
+    "id": "t08",
+    "split": "test",
+    "question": "Which employment doctrine makes workplace drug testing legally possible, and roughly what share of private-sector employees does it cover?",
+    "expected_answer": "Employment at will; approximately 85 percent of private-sector employees.",
+    "gold": [
+      {
+        "source_id": "bizethics",
+        "page": 182,
+        "evidence": "the key concept that makes drug testing possible is employment at will, which covers approximately 85 percent of the employees in the private sector",
+        "evidence_original": "the key concept that makes drug testing possible is employment at will, which covers approximately 85 percent of the employees in the private sector"
+      }
+    ],
+    "type": "paraphrase",
+    "notes": "Day 7 authored. Evidence unique in the corpus."
+  },
+  {
+    "id": "t09",
+    "split": "test",
+    "question": "Between 1973 and 2013, how did growth in U.S. hourly compensation compare with growth in productivity?",
+    "expected_answer": "Hourly compensation rose only 9 percent, whereas productivity rose 74 percent.",
+    "gold": [
+      {
+        "source_id": "bizethics",
+        "page": 176,
+        "evidence": "from 1973 to 2013, hourly compensation rose only 9 percent, whereas productivity rose 74 percent in the same period.",
+        "evidence_original": "from 1973 to 2013, hourly compensation rose only 9 percent, whereas productivity rose 74 percent in the same period."
+      }
+    ],
+    "type": "direct",
+    "notes": "Day 7 authored. Deliberate near-duplicate decoys (NOT valid): bizethics p175 chunk 02 and p176 chunk 00 give 1973-2016 figures (productivity +74 percent, wages +12 percent); p171 gives the post-2000 figures (+22 percent / +2 percent). The question names 1973-2013, so only the Figure 6.12 caption answers it."
+  },
+  {
+    "id": "t10",
+    "split": "test",
+    "question": "Under the Equal Pay Act, on what grounds may an employer legally pay one sex more than the other?",
+    "expected_answer": "A seniority system, a merit system, a system based on quality or quantity of production (e.g., piece rates), or any other factor other than sex.",
+    "gold": [
+      {
+        "source_id": "bizlaw",
+        "page": 107,
+        "evidence": "An employer may legally pay employees of one sex more than another sex if wages are based on a system of seniority, a system of merit, a system that distinguishes payment on the basis of quality and quantity of production (e.g., certain piece rates), or if payment is differentiated on “any other factor other than sex.”",
+        "evidence_original": "An employer may legally pay employees of one sex more than another sex if wages are based on a system of seniority, a system of merit, a system that distinguishes payment on the basis of quality and quantity of production (e.g., certain piece rates), or if payment is differentiated on \"any other factor other than sex.\""
+      }
+    ],
+    "type": "paraphrase",
+    "notes": "Day 7 authored. Evidence unique in the corpus. Multi-item answer: grade 2 only if all four defenses are given. bizethics p169 mentions equal pay legislation but not these defenses."
+  }
+]
